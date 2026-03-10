@@ -1,0 +1,2810 @@
+{
+  "id": "PLR0j6NckpKjzJ-jdpmEX4g0DCjCuw1SkC",
+  "title": "[applyDiff_Into_limits] OnAnotherWorld [diff_P3]",
+  "description": "[ AFTER Derivatives ]\nwatch the P.1 & P.2 Playlists before this one\n\n[But start Integrals P.1 Simultanously]\n\nNote:- It's Not 'really necessary' to watch the last 5 videos in the playlist but they can be fun, (only if you are not in a rush :wink:)\n\nNote2:- & You are highly encouraged to Do all of your book limit stuff, when you are watching the last video. okay?\n\n0. INSPIRATION:- 'There's a Whole Lot more to Discover about limits.... that the small amount that we do know e.g. Trynna apply First Principles on weird stuffs :shrugg'\n\nThis is Sequential\n1. Limits\n2. Hyperbola\n3. Asymptotes [Intro]\n4. Rational Functions [polynomial]\n5. Approaching Asymptotes\n6. Graphing Rationals\n6.1 SIA or SFAIR\n7. Extremities a.k.a Infinity\n8. Approaching Infinity\n9. Limits + Approaching\n10. Vertical Asymptotes\n11. Horizontal Asymptotes\n12. Oblique Asymptotes\n13. Long Division [Polynomials]\n14. Continuity\n15. Limits & Calculus\n\n16. Differentiability\n17. Piecemeal Function\n18. Convergence of sin(x)\n19. Proving Derivative of Trig Functions\n20. You should go in Backwards for proving this one. First see proof, then come to convergence\n\n21. Bernoulli's Rule (Bought by L'Hopital)\n22. Logarithm Tricks\n23. Where not apply Bernoulli's (L'Hopitals)\n24. First Principles\n25. knowing Bernoulli's makes you feel like not weak or cornered down",
+  "numVideos": 92,
+  "isEditable": true,
+  "canReorder": true,
+  "channel": {
+    "name": "REYNEP",
+    "id": "UCou4JeP0pBJlBkRCH5Vln1Q",
+    "url": "/@reynep"
+  },
+  "privacy": {
+    "value": 1,
+    "type": "public",
+    "icon": "PRIVACY_PUBLIC"
+  },
+  "videos": [
+    {
+      "id": "flGUyDD_NWw",
+      "setVideoId": "DFE2A34310B6B169",
+      "titleLong": "Where does the Product Rule come from? (1 of 2: Delta Notation) 7 minutes, 56 seconds",
+      "time": 476,
+      "timeShort": "7:56",
+      "timeLong": "7 minutes, 56 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/flGUyDD_NWw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBnYy5fYd4P69Fb1ho_Eogwn1Gohg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/flGUyDD_NWw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDaBu6u7fJh_yhvkyb-K20kiO59uw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/flGUyDD_NWw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeW-QmxtUmxN2qViOfRaCgStxz3Q",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/flGUyDD_NWw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCeZAMd9ripEuPBHjttB5lFnDMOQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "9kkA6OJ0f-E",
+      "setVideoId": "13F23DC418DD5404",
+      "titleLong": "Where does the Product Rule come from? (2 of 2: Derivation) 9 minutes, 38 seconds",
+      "time": 578,
+      "timeShort": "9:38",
+      "timeLong": "9 minutes, 38 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/9kkA6OJ0f-E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA9SKMPereNyBhTlf5BEDIpVozZ1Q",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9kkA6OJ0f-E/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAxwQxwrHL7ggmkcUuP5xDE9KD9hA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9kkA6OJ0f-E/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuZ9b-CI1EjlqHLn69LAlPehKUew",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9kkA6OJ0f-E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtJBcgGFsAmX8w1wGrcCBpnQHeEg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "OkkBQR9hlA8",
+      "setVideoId": "761947CE7D647E90",
+      "titleLong": "Differentiating Exponential Functions (First Principles) 5 minutes, 23 seconds",
+      "time": 323,
+      "timeShort": "5:23",
+      "timeLong": "5 minutes, 23 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/OkkBQR9hlA8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCLLDpFm0GU8pbmqJfbuN2cyWYrWg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/OkkBQR9hlA8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC4s2Jr9NVPghlCTEkeXa2O46jDEA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/OkkBQR9hlA8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCV2mmfkB5neO81mo7gPtNSSx2IbA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/OkkBQR9hlA8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCF5lev7lF113k4Va-Ws7-sE1QxBQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "9iR3FyWywac",
+      "setVideoId": "D4A29206F871F2D6",
+      "titleLong": "Differentiating Exponential Functions (Computer Aided) 7 minutes, 22 seconds",
+      "time": 442,
+      "timeShort": "7:22",
+      "timeLong": "7 minutes, 22 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/9iR3FyWywac/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCDqxHLod0vjCQK4UgF-bRownPomg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9iR3FyWywac/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDXdEDrx26WDVFSaSKQUh_TUYljHA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9iR3FyWywac/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAM3dTGqqZ4eGwwK7gkWha6UZQeg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9iR3FyWywac/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXe-efMXHiK6jmV91lRHpRhu5ECw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "qnr0YQJrzgw",
+      "setVideoId": "64FC554E4D453F33",
+      "titleLong": "Differentiating Exponential Functions: e 5 minutes, 7 seconds",
+      "time": 307,
+      "timeShort": "5:07",
+      "timeLong": "5 minutes, 7 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/qnr0YQJrzgw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBlzUxDlXhEMBPv9tEDttr2_5qHgA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/qnr0YQJrzgw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAE9lWyXRx8QTK2ZdE6Qkvk4Iu4Ow",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/qnr0YQJrzgw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbORm9qjgtjQXJ1eBlkMDv9qWV_g",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/qnr0YQJrzgw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB14cLbkIEt1EaIMwydcvWtkzWDoA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "9YNJJy5vYGo",
+      "setVideoId": "AD855F5966C838C4",
+      "titleLong": "Differentiating Logarithmic Functions 5 minutes",
+      "time": 300,
+      "timeShort": "5:00",
+      "timeLong": "5 minutes",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/9YNJJy5vYGo/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYShYMA8=&rs=AOn4CLAe68vly-QrjguxM2nlbCx5lqGL3Q",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9YNJJy5vYGo/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYShYMA8=&rs=AOn4CLABN5SlyHE9evqEjD9v94MCq8zhIQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9YNJJy5vYGo/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGEoWDAP&rs=AOn4CLDiWK8eZRc9IZL3i3J9xT2c-x05yA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9YNJJy5vYGo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGEoWDAP&rs=AOn4CLBexHQXKLURGKKJXnpobgOxmRzVHg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "IKIbX-3WrUk",
+      "setVideoId": "DFDCB647F4CEE97B",
+      "titleLong": "Differentiating Logarithmic Functions (Examples) 6 minutes, 9 seconds",
+      "time": 369,
+      "timeShort": "6:09",
+      "timeLong": "6 minutes, 9 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/IKIbX-3WrUk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB9FvYDC72ZQ8MMMYiIlvJbgO6HLQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/IKIbX-3WrUk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAooCvP7N5dWnsfm0iu1R3r-yHZ_Q",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/IKIbX-3WrUk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQ3p_sWFxIbDgBx0StGdvobsHUbA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/IKIbX-3WrUk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBV2vWF5pNKmRH6oedN_Q0CGubj1g",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "htTTj-MsECo",
+      "setVideoId": "984C584B086AA6D2",
+      "titleLong": "Limits & Continuity (1 of 3: Formal intro to limits) 9 minutes, 47 seconds",
+      "time": 587,
+      "timeShort": "9:47",
+      "timeLong": "9 minutes, 47 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/htTTj-MsECo/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgRigsMA8=&rs=AOn4CLCXvcYRoRa4vkLGlRSLZQk5p-B59w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/htTTj-MsECo/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgRigsMA8=&rs=AOn4CLAmURJJQhjDmuNCNPXbyuZbrNidsQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/htTTj-MsECo/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIEYoLDAP&rs=AOn4CLBv1TwuHfp6COhtXD5xDcyEfoT4Uw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/htTTj-MsECo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIEYoLDAP&rs=AOn4CLA8UAJUueqGzFgkCZYdcAzBOhGe0g",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "cm4_V5hopcE",
+      "setVideoId": "30892D90EC0C5586",
+      "titleLong": "Limits & Continuity (2 of 3: Limits that exists when functions don't) 7 minutes, 27 seconds",
+      "time": 447,
+      "timeShort": "7:27",
+      "timeLong": "7 minutes, 27 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/cm4_V5hopcE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBktLoQU7b1gskQPkig3CAcX5AegQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cm4_V5hopcE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCaQI5cuxpY4pEZAOoctWQpfPCkbA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cm4_V5hopcE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQYhuG7LetxS-kmSe6kwl2_UB9Cw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cm4_V5hopcE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzhu6OUZCYRkMLfnbekOl2-q__xw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "cUoQy4UDMcs",
+      "setVideoId": "4A07556FC5C9B361",
+      "titleLong": "Graphing Rational Functions (1 of 4: Understanding asymptotes) 12 minutes, 58 seconds",
+      "time": 778,
+      "timeShort": "12:58",
+      "timeLong": "12 minutes, 58 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/cUoQy4UDMcs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLClwdSZ8COIoxa5w8NW69I4x2kccg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cUoQy4UDMcs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCF5dX7WrmuiL1oJQqyVFbg_OEPUQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cUoQy4UDMcs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsqTDQQEEUDX_Pca_9hfhmActNOg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cUoQy4UDMcs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0wfihoeROkFtJ7_s3KDdcHG31yw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "EN9rWktLiWA",
+      "setVideoId": "AF2C899DC46931B2",
+      "titleLong": "Graphing Rational Functions (2 of 4: Basic example) 8 minutes, 9 seconds",
+      "time": 489,
+      "timeShort": "8:09",
+      "timeLong": "8 minutes, 9 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/EN9rWktLiWA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDM2KN1h-kmV05e3ciVdV46ivUtvA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/EN9rWktLiWA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCdUU1xoc3teD5L95E1aNMv2Iwubw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/EN9rWktLiWA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBftxqgrjOS-eveO-K79z37O48b_A",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/EN9rWktLiWA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5gGGrvjExepJJxgfLyAt7QnpERg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "alYwrZmCU5A",
+      "setVideoId": "5AFFA69918A4DAE8",
+      "titleLong": "Graphing Rational Functions (3 of 4: Harder example - identifying features) 8 minutes, 57 seconds",
+      "time": 537,
+      "timeShort": "8:57",
+      "timeLong": "8 minutes, 57 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/alYwrZmCU5A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB4mjysnuj5-VV4k_8QU8O82SxxFQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/alYwrZmCU5A/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC7LsLrySX7oNiSOMzgnIobMmW_PA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/alYwrZmCU5A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaXy6EkJRfXkIwy7XskusWV8zsxA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/alYwrZmCU5A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBktDYmGg_G92X4Jhr9TTKkZX72UQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "vPlMrtrAOG0",
+      "setVideoId": "DAA551CF700844C3",
+      "titleLong": "Introduction to Graphing Rational Functions (SFAIR) 7 minutes, 54 seconds",
+      "time": 474,
+      "timeShort": "7:54",
+      "timeLong": "7 minutes, 54 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/vPlMrtrAOG0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWyhPMA8=&rs=AOn4CLDHy_LCecCsClWdS_S0T170lp8uww",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/vPlMrtrAOG0/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWyhPMA8=&rs=AOn4CLDWcvkzRwtTLEU2gfuHZB1ZDGtE7w",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/vPlMrtrAOG0/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFsoTzAP&rs=AOn4CLB6efb4owLqgcodyV2BTzujirNhWA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/vPlMrtrAOG0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFsoTzAP&rs=AOn4CLBGdaJw0ezL6KNRK5FYRHN6pWfFyg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "5BdHFaEEHnI",
+      "setVideoId": "5A65CE115B87358D",
+      "titleLong": "How to Graph x+1/x (1 of 3: Identifying Initial Features) 8 minutes, 55 seconds",
+      "time": 535,
+      "timeShort": "8:55",
+      "timeLong": "8 minutes, 55 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/5BdHFaEEHnI/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVyhHMA8=&rs=AOn4CLATMNYksMOIo6U8Y255lYmmqrHu2w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5BdHFaEEHnI/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVyhHMA8=&rs=AOn4CLAwmJJYCaauWZawEZJyZ_vQ9RHxKQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5BdHFaEEHnI/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFcoRzAP&rs=AOn4CLDzq_ZT8woGVjj_HBBQS5KnK7fC0Q",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5BdHFaEEHnI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFcoRzAP&rs=AOn4CLApz7GYV2IoLJHoptDLtSLgGc5XjQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "uBW0mAdMt7g",
+      "setVideoId": "21D2A4324C732A32",
+      "titleLong": "How to Graph x+1/x (2 of 3: Understanding the Oblique Asymptote) 8 minutes, 42 seconds",
+      "time": 522,
+      "timeShort": "8:42",
+      "timeLong": "8 minutes, 42 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/uBW0mAdMt7g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBK2Ks_XcMFDrw70SYAJl-XTENTrg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/uBW0mAdMt7g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAv-DwMXeHPpK9Pw4xstAxK8TmXOw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/uBW0mAdMt7g/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoRBx570Dbrml_GxRZDXr6yFWiRg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/uBW0mAdMt7g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYw9ldit8914PFczSpHJIfsWhOVA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "ZEcrlRtEs4M",
+      "setVideoId": "9E8144A350F4408B",
+      "titleLong": "How to Graph x+1/x (3 of 3: Putting the Pieces Together) 6 minutes, 52 seconds",
+      "time": 412,
+      "timeShort": "6:52",
+      "timeLong": "6 minutes, 52 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/ZEcrlRtEs4M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCwlSp3nBykcRcXz7XPvxGVW55Bmg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZEcrlRtEs4M/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAnfSIctvBu72OrPZF-q9ksALPdxQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZEcrlRtEs4M/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLc32JjHFFR3btzK2NuJLz0Gcbig",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZEcrlRtEs4M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCakQ7yToKN2Tuo8epoxNsBS_qo4A",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "ncJOmJdyLII",
+      "setVideoId": "D458CC8D11735272",
+      "titleLong": "Graphing by Regions (1 of 3: How Positives & Negatives Interact) 5 minutes, 38 seconds",
+      "time": 338,
+      "timeShort": "5:38",
+      "timeLong": "5 minutes, 38 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/ncJOmJdyLII/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDNjd7SVgVyl0dJldzae4k7Rgtt9w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ncJOmJdyLII/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC0GAcIJ_9-GpHJ0WEO_AeyObo1JA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ncJOmJdyLII/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPx0zJswCL2iXYF86F9ljQzLSrvg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ncJOmJdyLII/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrONSBRtqGij3cbTft9TjXYcLVMw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "erdjGO19OjM",
+      "setVideoId": "3D0C8FC9C40694A3",
+      "titleLong": "Graphing Rational Functions (1 of 4: Products and their signs) 9 minutes, 7 seconds",
+      "time": 547,
+      "timeShort": "9:07",
+      "timeLong": "9 minutes, 7 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/erdjGO19OjM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDhgsqiMamwzeEEZ0SQwOxAmkKuNQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/erdjGO19OjM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDuc-q8cn1WcPAjU80wyE7juIUrRg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/erdjGO19OjM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_HUsnad-_LsxEEsn3ZL5FV5Th7Q",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/erdjGO19OjM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALGgdmtDYzsCYwGdIX2T6MmnZ2tQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "X6QDgb6yMZ4",
+      "setVideoId": "B0D629957746EECA",
+      "titleLong": "Graphing Rational Functions (2 of 4: Overall strategy) 7 minutes, 19 seconds",
+      "time": 439,
+      "timeShort": "7:19",
+      "timeLong": "7 minutes, 19 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/X6QDgb6yMZ4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCvWYAp4qHHNsGNcAD4a1mxFQtEhA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/X6QDgb6yMZ4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA6HksKS3bg-SCoJtWIMz_A5k0Zpw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/X6QDgb6yMZ4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACW7zdWrZfgDzrTAGQhAn_4v_7RA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/X6QDgb6yMZ4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsRxt6ge9QvIfdg4J1XVThns8vHw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "7HXbPYdMHVs",
+      "setVideoId": "C6C0EB62B8BB841F",
+      "titleLong": "Graphing a Rational Function Step-By-Step 8 minutes, 37 seconds",
+      "time": 517,
+      "timeShort": "8:37",
+      "timeLong": "8 minutes, 37 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/7HXbPYdMHVs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBqDHl9a-3AJUj64H_Tulkcr2hW5w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7HXbPYdMHVs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDQGoacF4sM0aIuUOCDdfQi9gPJ9w",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7HXbPYdMHVs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5nk5q3YAVkybjR8fnCMBtkf9BfQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7HXbPYdMHVs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXTSb6UcH8s1IsnemY5D3CLHyqqw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "e1BajeOCoPo",
+      "setVideoId": "1913C8AC5703C673",
+      "titleLong": "Oblique Asymptotes (1 of 3: Comparing with other asymptotes) 7 minutes, 6 seconds",
+      "time": 426,
+      "timeShort": "7:06",
+      "timeLong": "7 minutes, 6 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/e1BajeOCoPo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAKS6vdLP1IjX9dsVzhlsyoCultPg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/e1BajeOCoPo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC94wYKMBjrSNPa2XfTT4mnqTt7mg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/e1BajeOCoPo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_W95F_tke59jF-A0HlQ-AngpaDw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/e1BajeOCoPo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjiSOx9R_PEWk7u_iVNBa7T_b4lg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "M99_zZCtes4",
+      "setVideoId": "CED0831C52E9FFF7",
+      "titleLong": "Solving an Inequality with a Rational Function (1 of 2: Solving graphically) 10 minutes, 36 seconds",
+      "time": 636,
+      "timeShort": "10:36",
+      "timeLong": "10 minutes, 36 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/M99_zZCtes4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBpHWDyjBliTioC0TShg21Nz3oXJg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/M99_zZCtes4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBse9w5OxNZ4jMk-CtLSwQ9lTrdSw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/M99_zZCtes4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAmN6UdSY29VXQDT2L0Z4j9OWAbQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/M99_zZCtes4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgLdliYXO40mA110-lQj-I2GNP4Q",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "zKnUX6t8inw",
+      "setVideoId": "53683709AEEE7C11",
+      "titleLong": "Solving an Inequality with a Rational Function (2 of 2: Solving algebraically) 6 minutes, 13 seconds",
+      "time": 373,
+      "timeShort": "6:13",
+      "timeLong": "6 minutes, 13 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/zKnUX6t8inw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAvOo6RDp5ObrsZxwpGshMoAtdOMw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zKnUX6t8inw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCF_SR8iN_XHbvV18ontKYmd4QG4Q",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zKnUX6t8inw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEBH7qXKjWih7q-QmALneLGTDAhw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zKnUX6t8inw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAz0DVx17TV-_DXOdyihWXYuDYJJA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "dHkiqaX9mPA",
+      "setVideoId": "2B6EFA1B1F897EAC",
+      "titleLong": "Finding the equation of a normal at a given point 5 minutes, 10 seconds",
+      "time": 310,
+      "timeShort": "5:10",
+      "timeLong": "5 minutes, 10 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/dHkiqaX9mPA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDJFaLe2E1rQ4rFis516CMfnacqrg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/dHkiqaX9mPA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBi5SCadvavFfR0aESlCEJ7_Kkqug",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/dHkiqaX9mPA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkrGnowiyolh2t7wzctctR0g3ebQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/dHkiqaX9mPA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDq50RSRtCLAIQZTbTkt-6EUlUl7g",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "WFp0bPD3acI",
+      "setVideoId": "6128676B35F5529F",
+      "titleLong": "Graphing Rational Functions (3 of 4: Initial examples) 7 minutes, 55 seconds",
+      "time": 475,
+      "timeShort": "7:55",
+      "timeLong": "7 minutes, 55 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/WFp0bPD3acI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB-594Nv6pdWDCEG-xLEGLkR6Ywgw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WFp0bPD3acI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAWjUUWXiXlaRZ5MmdVTN93OCnGQw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WFp0bPD3acI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvqAycfG4Mb3228JxhSKJ3Y79--w",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WFp0bPD3acI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw0s9cj7f6VRdp3XvPElS9WTrM5g",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "2CuqqVRYifo",
+      "setVideoId": "9F3E08FCD6FABA75",
+      "titleLong": "Graphing Rational Functions (4 of 4: Harder examples) 2 minutes, 55 seconds",
+      "time": 175,
+      "timeShort": "2:55",
+      "timeLong": "2 minutes, 55 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/2CuqqVRYifo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD7cymlPFONXFgCeo9C1950xQNP9A",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/2CuqqVRYifo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBruQ8qHhvowUMalG8KKCU_OIznSg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/2CuqqVRYifo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhvYDfve6dOkdokxlSg9RnpU45mQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/2CuqqVRYifo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3BlZDFPKKwEcUIiOxveBtakzNCQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "c7ONWta-MBY",
+      "setVideoId": "208A2CA64C241A85",
+      "titleLong": "Graphing by Regions (2 of 3: Different Combinations of Identical Factors) 11 minutes, 41 seconds",
+      "time": 701,
+      "timeShort": "11:41",
+      "timeLong": "11 minutes, 41 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/c7ONWta-MBY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDTMADyonNdQeX9S6PhU9eiYQaH_A",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/c7ONWta-MBY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA_PLDWcDUw-pjdiGdO94GMZX8E7w",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/c7ONWta-MBY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdmf1A-BfH7kagNvgsFcuzQRhzEA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/c7ONWta-MBY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhXQD0PxCxlqJYIgADWgvG-8Xf1g",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "JVoZlz5RcnM",
+      "setVideoId": "F3D73C336952E57D",
+      "titleLong": "Graphing by Regions (3 of 3: One Last Example) 6 minutes, 2 seconds",
+      "time": 362,
+      "timeShort": "6:02",
+      "timeLong": "6 minutes, 2 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/JVoZlz5RcnM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBmIFeUBTUipDjIjzgYyxllZCD3pw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JVoZlz5RcnM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDYByTBA6nkHUDbxFQfy3axDOZ0GQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JVoZlz5RcnM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAO0SAE4TYaRsuT2z9CQeHoU2CW3g",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JVoZlz5RcnM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKwkWkQXGYRy_7V9-ZV_9b24vN-g",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "9OVRsk8bRKo",
+      "setVideoId": "3F342EBE842F2A34",
+      "titleLong": "Determining the Oblique Asymptote (Polynomial Division) 9 minutes, 57 seconds",
+      "time": 597,
+      "timeShort": "9:57",
+      "timeLong": "9 minutes, 57 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/9OVRsk8bRKo/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYChXMA8=&rs=AOn4CLDUeCmlEEvgBV4WVqxA1ScBa5d7WA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9OVRsk8bRKo/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYChXMA8=&rs=AOn4CLAWGYc_3O0KPLZs1OA2U7a4NvWDzg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9OVRsk8bRKo/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGAoVzAP&rs=AOn4CLAWPkRyG8OwkQ8Lt5pBmRAGPiwFxQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9OVRsk8bRKo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGAoVzAP&rs=AOn4CLDfCD8aGOLKQsoznj1T3D1w6c_byQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "0NqBdcdlr1g",
+      "setVideoId": "5E3ADF02B9C57FF6",
+      "titleLong": "Rational Functions (1 of 3) 14 minutes, 38 seconds",
+      "time": 878,
+      "timeShort": "14:38",
+      "timeLong": "14 minutes, 38 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/0NqBdcdlr1g/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWyhOMA8=&rs=AOn4CLAbjFPHDMfWHzJJEH1AcRPOw3_-Qw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/0NqBdcdlr1g/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWyhOMA8=&rs=AOn4CLAaEbOBU-8OlQn3x1OjpNKORDE06Q",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/0NqBdcdlr1g/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFsoTjAP&rs=AOn4CLD2pX9iwuCIhhDHEOSAkJbzY6qz9Q",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/0NqBdcdlr1g/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFsoTjAP&rs=AOn4CLAiUVKamOBJ2-eHAUW8enVB73rmfA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "yYZZvRq8r4Y",
+      "setVideoId": "D625AB40294D381D",
+      "titleLong": "Rational Functions (2 of 3) 6 minutes, 37 seconds",
+      "time": 397,
+      "timeShort": "6:37",
+      "timeLong": "6 minutes, 37 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/yYZZvRq8r4Y/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLA4pqgZsY95RNX3sOSmlJN2Jje-mw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/yYZZvRq8r4Y/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCCxz8Gyj0CjgWi7meAMIQQZ00F5w",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/yYZZvRq8r4Y/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLCod583mshxzndTk9AqhILOPWlBIg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/yYZZvRq8r4Y/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLB1hXjlntuO05G7N2gLIppXXS6pgA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "bO7PU-x7NG8",
+      "setVideoId": "8C5FAE6B164813C8",
+      "titleLong": "Rational Functions (3 of 3) 1 minute, 28 seconds",
+      "time": 88,
+      "timeShort": "1:28",
+      "timeLong": "1 minute, 28 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/bO7PU-x7NG8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWihLMA8=&rs=AOn4CLCBuAfb5ZpMYhiZcZhpLzSyj0_7vA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/bO7PU-x7NG8/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWihLMA8=&rs=AOn4CLCcWtuUSUtKRo3HfYCR5vEsn22DLQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/bO7PU-x7NG8/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFooSzAP&rs=AOn4CLC1Iz7thwZeumF1PHETrpVt5Wl6sw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/bO7PU-x7NG8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFooSzAP&rs=AOn4CLB1c7EhyMsoYd5cYNutvqc51vLKPQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "SG2vivpA69o",
+      "setVideoId": "556D98A58E9EFBEA",
+      "titleLong": "Multiplication & Division of Functions (1 of 4: Intercepts & asymptotes) 9 minutes, 49 seconds",
+      "time": 589,
+      "timeShort": "9:49",
+      "timeLong": "9 minutes, 49 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/SG2vivpA69o/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXyhVMA8=&rs=AOn4CLCMCbLfad62u2hFXF6ySbrqHkQgEg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SG2vivpA69o/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXyhVMA8=&rs=AOn4CLAkC5btBOxiZR6TYgkms0HG_WeGAg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SG2vivpA69o/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF8oVTAP&rs=AOn4CLAN5ScOZnfYFMvHXFLMjpclnj2n0Q",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SG2vivpA69o/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF8oVTAP&rs=AOn4CLDsN_7nyCBNPoDmcTKnXQAOVMvP_g",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "pwRJn2wmUFQ",
+      "setVideoId": "5396A0119349808E",
+      "titleLong": "Limits & Continuity (3 of 3: Applications to graphs) 10 minutes, 35 seconds",
+      "time": 635,
+      "timeShort": "10:35",
+      "timeLong": "10 minutes, 35 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/pwRJn2wmUFQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAaTmlDvVn6nkiffmQCJcpqLfb_gw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pwRJn2wmUFQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCOsqXETT-JGX6WN_O0P5xL8-69Wg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pwRJn2wmUFQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSswCmnRj2nWOmIpnfOyP3mbzhkg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pwRJn2wmUFQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADOx1T39AexOOkDxG2UVgocnleBQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "3DomUVAqhtU",
+      "setVideoId": "30D50B2E1F78CC1A",
+      "titleLong": "Why do I teach mathematics? (CESE Interview) 2 minutes, 51 seconds",
+      "time": 171,
+      "timeShort": "2:51",
+      "timeLong": "2 minutes, 51 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/3DomUVAqhtU/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gQSg2MA8=&rs=AOn4CLAnBWcR8BWec51Vt_ogczZERHIrdQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/3DomUVAqhtU/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gQSg2MA8=&rs=AOn4CLAeXdzECwq5byPa5sVZAee8IDJ0ug",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/3DomUVAqhtU/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IEEoNjAP&rs=AOn4CLDpgvswp5yg3xkOUBG7Z4e2yt8ELA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/3DomUVAqhtU/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IEEoNjAP&rs=AOn4CLAj7HAHDF7zo-P7rWFYzzuuaksu1Q",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Eddie Woo",
+        "id": "UCq0EGvLTyy-LLT1oUSO_0FQ",
+        "url": "/@misterwootube"
+      }
+    },
+    {
+      "id": "sEdffnsESJs",
+      "setVideoId": "74DB023C1A0DB0A7",
+      "titleLong": "Multiplication & Division of Functions (3 of 4: Example with oblique asymptote) 11 minutes, 35 seconds",
+      "time": 695,
+      "timeShort": "11:35",
+      "timeLong": "11 minutes, 35 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/sEdffnsESJs/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYihEMA8=&rs=AOn4CLA6pxrnnQm8OnELAAR_Yj5Y1FvYag",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/sEdffnsESJs/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYihEMA8=&rs=AOn4CLDwGyTbsS4efBcAW8MLyJPo532Pjw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/sEdffnsESJs/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGIoRDAP&rs=AOn4CLAhvGSxDqnaK4jeBRHZwdnTBylwPQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/sEdffnsESJs/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGIoRDAP&rs=AOn4CLC3hMm9xyGOZ1A-m6WG8q0EYf3T6A",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "aOnVirmMW8U",
+      "setVideoId": "C715F6D1FB204D0A",
+      "titleLong": "How to Graph 1/(x²+1) 6 minutes, 1 second",
+      "time": 361,
+      "timeShort": "6:01",
+      "timeLong": "6 minutes, 1 second",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/aOnVirmMW8U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCgQvC0vmfxTFyimMF9K63jnlbdAg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/aOnVirmMW8U/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD_vGwo1s9Vb8MdTDFCS6GRuni88Q",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/aOnVirmMW8U/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAB-xMfl7IJ9glxUSKX_nQYWdTRIA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/aOnVirmMW8U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBK7h3-rtTNd-IyXj6viEcU_UwzsA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "wCmXOkqCwck",
+      "setVideoId": "6C992A3B5EB60D08",
+      "titleLong": "Addition & Subtraction of Ordinates (3 of 4: x² + 1/x) 8 minutes, 58 seconds",
+      "time": 538,
+      "timeShort": "8:58",
+      "timeLong": "8 minutes, 58 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/wCmXOkqCwck/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYihQMA8=&rs=AOn4CLDHoS0eZok2YwXXvJ-x1WRz57d63w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wCmXOkqCwck/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYihQMA8=&rs=AOn4CLCUDMBEhv90Rn1SAsfPXE7ylfhkbw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wCmXOkqCwck/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGIoUDAP&rs=AOn4CLDgqHBLlsXYwE9MXZBIEN-Dq4M_NA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wCmXOkqCwck/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGIoUDAP&rs=AOn4CLDXsySjIGbUK8LtxgAYWc2BMrNpFg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "VeTK2rzhz5k",
+      "setVideoId": "9750BB53E158A2E4",
+      "titleLong": "How to Graph (x³+1)/x 14 minutes, 2 seconds",
+      "time": 842,
+      "timeShort": "14:02",
+      "timeLong": "14 minutes, 2 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/VeTK2rzhz5k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCrR9F4AilQvyDUwIqiAKtcCFOErQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VeTK2rzhz5k/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCRO3VDHmabzbijCHDMJ0UprcA-Q",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VeTK2rzhz5k/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxfHlKfo3l3Tu3Ch5jlwzwc_Wvtg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VeTK2rzhz5k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDu6cTOmQtn-i41RTWzSRnPqycOQA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "eq9kRZL7Ma0",
+      "setVideoId": "7125420930B2133F",
+      "titleLong": "Graphing When You Can't Factorise (1 of 4: General Shape) 7 minutes, 52 seconds",
+      "time": 472,
+      "timeShort": "7:52",
+      "timeLong": "7 minutes, 52 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/eq9kRZL7Ma0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAGfmNyf_dziDugEMTdUXqESA_eUQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/eq9kRZL7Ma0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDluGx7yDwhOvg1_TW5fnNI-m-GCw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/eq9kRZL7Ma0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCO8Jm-hCFlgCHJJI7JtohHYKlQ0w",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/eq9kRZL7Ma0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChljZsYICttnWu2g2PF7iWxm13wg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "FFV0pHJ3hhA",
+      "setVideoId": "59DD4764C5029292",
+      "titleLong": "Graphing When You Can't Factorise (2 of 4: Understanding the Discriminant) 6 minutes, 35 seconds",
+      "time": 395,
+      "timeShort": "6:35",
+      "timeLong": "6 minutes, 35 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/FFV0pHJ3hhA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDUfQEkTVyFIn-eUhkT8ECLLwnQjQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/FFV0pHJ3hhA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAKEY0YZAZLQUH19YjQqotwQtQmAw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/FFV0pHJ3hhA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCh3UUDtg-chRV-8sy9PJwdph-Qyg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/FFV0pHJ3hhA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuBXKR3Pj1zRPuefudAnmca9AYew",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "tB10jVE4glw",
+      "setVideoId": "0F8E3C11550E3CEA",
+      "titleLong": "Graphing When You Can't Factorise (3 of 4: Determining the Range) 5 minutes, 18 seconds",
+      "time": 318,
+      "timeShort": "5:18",
+      "timeLong": "5 minutes, 18 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/tB10jVE4glw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCb0eK1Po5KaCn0A0dLi1pb6N32Cw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/tB10jVE4glw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAffI37wLN9KoASbIYPqA_bMYmbpg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/tB10jVE4glw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVdgR65CAmWSjRkqWx73mqLXilEA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/tB10jVE4glw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-TBN0qE7vSt4EbZkTygv-ASjDiQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "6AabgQd52U8",
+      "setVideoId": "B56E93FC6D885ED1",
+      "titleLong": "Graphing When You Can't Factorise (4 of 4: Finding Turning Points Without Calculus) 8 minutes, 3 seconds",
+      "time": 483,
+      "timeShort": "8:03",
+      "timeLong": "8 minutes, 3 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/6AabgQd52U8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCxBC6lws77WTtdyaqapLgyqYNjLQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/6AabgQd52U8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLATeBjqTa-w4c9NoZwBBluvZG5Kvw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/6AabgQd52U8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVN-mqqtjxiqMA-fkilIqvh9Yv9A",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/6AabgQd52U8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASAvS7SMu4n1zQljahkXq6TDu2_w",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "Ldq2VRKvHVM",
+      "setVideoId": "F6007F4A1F95C0C2",
+      "titleLong": "Multiplication & Division of Functions (4 of 4: Graphing y = x*lnx) 7 minutes, 14 seconds",
+      "time": 434,
+      "timeShort": "7:14",
+      "timeLong": "7 minutes, 14 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Ldq2VRKvHVM/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYChWMA8=&rs=AOn4CLD5d6iOHUfrlu46tOqs_tTXiVXQJw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ldq2VRKvHVM/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYChWMA8=&rs=AOn4CLBOeNoVaJr97gfh67FR6JKxY2WwRA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ldq2VRKvHVM/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGAoVjAP&rs=AOn4CLB0oLac5UmWqeYRFn74je9qmoB7Mg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ldq2VRKvHVM/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGAoVjAP&rs=AOn4CLCEYb3Ck5Ex5bJHBj_whLMy8DBYrg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "AsIzAiCLy7I",
+      "setVideoId": "0A288FEEA4CD7840",
+      "titleLong": "Graphing Reciprocal Functions 9 minutes, 31 seconds",
+      "time": 571,
+      "timeShort": "9:31",
+      "timeLong": "9 minutes, 31 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/AsIzAiCLy7I/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBEuqVX6XBZu76uqWIp5ON0cDqnBQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/AsIzAiCLy7I/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBs1BnIuOlFhUqitE19lrmqPEGQBA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/AsIzAiCLy7I/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLC0c1KnvVkB4rQDk3EZMvMsJIJPKQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/AsIzAiCLy7I/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAqehdp5T-2kQnKxO45ci5RB8F6nQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "2HOGQ7x_j6s",
+      "setVideoId": "F485675C6DF9EF19",
+      "titleLong": "Oblique Asymptotes (2 of 3: Using calculus) 8 minutes, 45 seconds",
+      "time": 525,
+      "timeShort": "8:45",
+      "timeLong": "8 minutes, 45 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/2HOGQ7x_j6s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDUuxDonxDF4QY31u19e_XGNk0vag",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/2HOGQ7x_j6s/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD5NjkWxiKWG_KxT5lpXnQcXPv9Fw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/2HOGQ7x_j6s/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTsPpj_mIPAhmj8EgRdltUK2Bfmw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/2HOGQ7x_j6s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKNjRzYzM9g2PK3CdMKCJHB4tURQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "jkVuLI8gpps",
+      "setVideoId": "3C1A7DF73EDAB20D",
+      "titleLong": "Oblique Asymptotes (3 of 3: Investigating shapes) 11 minutes, 56 seconds",
+      "time": 716,
+      "timeShort": "11:56",
+      "timeLong": "11 minutes, 56 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/jkVuLI8gpps/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBGKUtqc1rfipavun1yEZHmJQYlRA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/jkVuLI8gpps/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB1nkbRTyMKsjYjWBEDl1GoxC8CZA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/jkVuLI8gpps/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZl_sPrulMswlQxSGcb2YOdCZfjw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/jkVuLI8gpps/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoQN_IiWD74Rs_AIEZi8UHYhtnqA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "WdDc_HktIlo",
+      "setVideoId": "2ABE5EB35C671E9E",
+      "titleLong": "Differentiating with Product & Chain Rule (example question) 6 minutes, 1 second",
+      "time": 361,
+      "timeShort": "6:01",
+      "timeLong": "6 minutes, 1 second",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/WdDc_HktIlo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAI8-SPeN9ss4yok2Is0x76fXErkg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WdDc_HktIlo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD6gVA4yAtbP-aigxhO4wAX-IhVSQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WdDc_HktIlo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXUvcHSTNxh6_PW1uPNgRAKw7nvg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WdDc_HktIlo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRHa2_8TtVGDpmxmtUVmgrAtmI_Q",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "W4y1ydC9IK0",
+      "setVideoId": "4C4C8E4AF05B17C5",
+      "titleLong": "What is continuity? 4 minutes, 32 seconds",
+      "time": 272,
+      "timeShort": "4:32",
+      "timeLong": "4 minutes, 32 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/W4y1ydC9IK0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDMLAxU1OXZm2ncoLJxWmhQxB7msw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/W4y1ydC9IK0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDunFEz7pFrgUG71AUDsZgp1EuCEg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/W4y1ydC9IK0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAR0nt9Umvy-0XqPfdg6JmIcCxoUw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/W4y1ydC9IK0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQ3H2f4XVa3EOqZ-LVpdJtnMOPOA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "BywWffdXTsM",
+      "setVideoId": "5D53F2ECF41B7755",
+      "titleLong": "Interesting Discontinuity Example 6 minutes, 49 seconds",
+      "time": 409,
+      "timeShort": "6:49",
+      "timeLong": "6 minutes, 49 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/BywWffdXTsM/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXShTMA8=&rs=AOn4CLConCL6u3TUdVGvcQ8kcPrvn05dhw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BywWffdXTsM/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXShTMA8=&rs=AOn4CLBrByD0IODsvhpSZNtd67CkPD71zw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BywWffdXTsM/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF0oUzAP&rs=AOn4CLBVrHinNNDH-Vxpi3d7kGS476MFZw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BywWffdXTsM/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF0oUzAP&rs=AOn4CLB2uslx7JyLnemWwiJIl6VPXvx_lw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "KI-I2T9g_c4",
+      "setVideoId": "55C055DD3AD78DC4",
+      "titleLong": "Differentiability (includes counter-examples) 7 minutes, 43 seconds",
+      "time": 463,
+      "timeShort": "7:43",
+      "timeLong": "7 minutes, 43 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/KI-I2T9g_c4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLChD_HE5S62x0OJHWMHKEasoCR6-w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/KI-I2T9g_c4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLADweHvTdUDwL4NITChmOcwVps_Gg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/KI-I2T9g_c4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEos4drrPdm3NZVl9hPpN5xCjtQQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/KI-I2T9g_c4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrwmgLrtJ01Yu7FzW1CbSdcIWsgw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "ZmrDIdzOAAE",
+      "setVideoId": "001F70D958CF5CDF",
+      "titleLong": "Piecewise Functions 9 minutes, 25 seconds",
+      "time": 565,
+      "timeShort": "9:25",
+      "timeLong": "9 minutes, 25 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/ZmrDIdzOAAE/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVyhGMA8=&rs=AOn4CLCrvjI2mQ9NYVpEVQe3-7iBc0gBKQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZmrDIdzOAAE/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVyhGMA8=&rs=AOn4CLDS24LltPpygoFU3mW4aONUJT0KoA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZmrDIdzOAAE/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFcoRjAP&rs=AOn4CLCDIxZBq5lmD0MpsHTMmRkb7NRdBQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZmrDIdzOAAE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFcoRjAP&rs=AOn4CLBdpA9xBivaZQOXMf1UL_fBlCEjUw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "tt2DGYOi3hc",
+      "setVideoId": "B57104458A731863",
+      "titleLong": "Introduction to Calculus (1 of 2: Seeing the big picture) 12 minutes, 11 seconds",
+      "time": 731,
+      "timeShort": "12:11",
+      "timeLong": "12 minutes, 11 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/tt2DGYOi3hc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCFhhbNQzr0rruUgbmRK-aqB3iYyQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/tt2DGYOi3hc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB9skaqI3aMrWxkTmzVUaNsm-vH4g",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/tt2DGYOi3hc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKiReo_5qWL9sfZkZnwusKd3dqoA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/tt2DGYOi3hc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBscAgkR_vXYUL-e06pE_GmA94GPQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "rdN1oxtds8U",
+      "setVideoId": "0AA4C382BFCF0B51",
+      "titleLong": "Small Angle Approximations (1 of 4: Proof) 10 minutes, 40 seconds",
+      "time": 640,
+      "timeShort": "10:40",
+      "timeLong": "10 minutes, 40 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/rdN1oxtds8U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA6Sa_6SyyhU4gzuF157ZYUBJbdRw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/rdN1oxtds8U/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCIHtOdCPKUW6LRg59I_YoPkS5_yQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/rdN1oxtds8U/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBw4DsOq0DNpKPlpa-P5m2FtxYAA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/rdN1oxtds8U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVvwPE7wPNlEiMOTnPQ5-FlbfzKw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "p1Vl9YNNIbw",
+      "setVideoId": "CB86D420EFBFE8EE",
+      "titleLong": "Small Angle Approximations (2 of 4: Applied examples) 7 minutes, 46 seconds",
+      "time": 466,
+      "timeShort": "7:46",
+      "timeLong": "7 minutes, 46 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/p1Vl9YNNIbw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDQLGLsvIb-ZVQUy8AmqiiE3gF-rw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/p1Vl9YNNIbw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBRA8DaEO7ikcEZJmpSYt9SNcmlgA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/p1Vl9YNNIbw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqwcnWEPdSHIEr_Xa7G0o9Zhx6MA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/p1Vl9YNNIbw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLtqe4p2oiEJZXjdNRGx0DRw-w8Q",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "JByRDFa0plg",
+      "setVideoId": "23A2CE53B6FB0544",
+      "titleLong": "Small Angle Approximations (3 of 4: Pure examples) 6 minutes, 4 seconds",
+      "time": 364,
+      "timeShort": "6:04",
+      "timeLong": "6 minutes, 4 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/JByRDFa0plg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCGVrs1ntwBkpbTpziMGAfBeWCToA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JByRDFa0plg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCNIuJ2v0NYNRVIoKziOVFxxweQfQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JByRDFa0plg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAk9ZrJaG_4MbQE4pxk2AecCnzWUA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JByRDFa0plg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkdJYLoy3_i_DrY3xd5y4j-V5NuA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "MkYWnG8zmaQ",
+      "setVideoId": "DA7E4573F7135B9F",
+      "titleLong": "Evolving with mathematics 1 minute, 31 seconds",
+      "time": 91,
+      "timeShort": "1:31",
+      "timeLong": "1 minute, 31 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/MkYWnG8zmaQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB68Y4j_QHPcMZovtCV0xXRPrSACw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MkYWnG8zmaQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBCGpI9IwBBMvFKY8Oq_-HjYmMHdQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MkYWnG8zmaQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9aqE5V1fdlgq1_kYWUQTmWzKzXw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MkYWnG8zmaQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7ClwlFXoitSJI0vqWxAUwLETFWQ",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Eddie Woo",
+        "id": "UCq0EGvLTyy-LLT1oUSO_0FQ",
+        "url": "/@misterwootube"
+      }
+    },
+    {
+      "id": "kfF40MiS7zA",
+      "setVideoId": "0FEA5F89937BB506",
+      "titleLong": "Limits, L'Hôpital's rule, and epsilon delta definitions | Chapter 7, Essence of calculus 18 minutes",
+      "time": 1107,
+      "timeShort": "18:27",
+      "timeLong": "18 minutes, 27 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/kfF40MiS7zA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD4f2cserpHE9mya-gJOiDt2s3oMw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/kfF40MiS7zA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDMFrDcUk-EkmVnSdsI3gYzZCB8Sw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/kfF40MiS7zA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBr3tpNWojBpqLhc29NLUdvgT1u-g",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/kfF40MiS7zA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMX1tV82mZOZawDMDObTIrwHgI-Q",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "RjMNyZbP9PY",
+      "setVideoId": "DDCE598CD616C109",
+      "titleLong": "Small Angle Approximations (4 of 4: Derivative of sin(x)) 7 minutes, 34 seconds",
+      "time": 454,
+      "timeShort": "7:34",
+      "timeLong": "7 minutes, 34 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/RjMNyZbP9PY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCBHX4IWMbCENU793ibO7Rdb4BsGQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RjMNyZbP9PY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCTsWyz_d4srNDalnSMtvYkCYDupw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RjMNyZbP9PY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuOTXWpTm95f_RVInGsSsodUDXdA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RjMNyZbP9PY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiwARR3eKWA-O5AuAmSxe_YUS58g",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "ycO0Vn_w9Q0",
+      "setVideoId": "EB72D6A0C256797D",
+      "titleLong": "l'Hospital Practice | MIT 18.01SC Single Variable Calculus, Fall 2010 10 minutes, 47 seconds",
+      "time": 647,
+      "timeShort": "10:47",
+      "timeLong": "10 minutes, 47 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/ycO0Vn_w9Q0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAl99y7aZcrJbajq55kyrQtWeqnZQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ycO0Vn_w9Q0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAWhC296xMUjDj_Pi-IMyrc_txEIw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ycO0Vn_w9Q0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDrwIBnmFROmetZELn06vzG7ka-w",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ycO0Vn_w9Q0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqGHT51ehbjDEJ30or28hyzoEaDQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "g7IoTtd0oBY",
+      "setVideoId": "1F1574824B1CED7A",
+      "titleLong": "The Behaviour of tan(x) & x at the Origin 8 minutes, 48 seconds",
+      "time": 528,
+      "timeShort": "8:48",
+      "timeLong": "8 minutes, 48 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/g7IoTtd0oBY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCKJDjEEvTY3vD1NfbjXHD_8L0qDg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/g7IoTtd0oBY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAibkC38yfARfzhyqQ_WsW7B3rHzw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/g7IoTtd0oBY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxHkzHqHvBJ-189XIDRkPgihkEPQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/g7IoTtd0oBY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtwQj9xfSfNzJ-ci_orOyPVnfwHw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "reMXJtvzFL8",
+      "setVideoId": "82C6F5DBD97B625D",
+      "titleLong": "Sin(x), x & tan(x) at the Origin (Example Questions) 6 minutes, 18 seconds",
+      "time": 378,
+      "timeShort": "6:18",
+      "timeLong": "6 minutes, 18 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/reMXJtvzFL8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAaIPWZHK6lieqpMHsqyTqeDIlaIg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/reMXJtvzFL8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLALveeZrGUoJ8srSr10hVQEIMrFEA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/reMXJtvzFL8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABl2XohcQR3QJk5cO9fkxrgOhYtQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/reMXJtvzFL8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmS334Z86HdzS3tmcfRr0pD-1v9w",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "WAExRA_CCkc",
+      "setVideoId": "9495DFD78D359043",
+      "titleLong": "Evaluating Trigonometric Limit (example question) 3 minutes, 49 seconds",
+      "time": 229,
+      "timeShort": "3:49",
+      "timeLong": "3 minutes, 49 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/WAExRA_CCkc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAX59DBh7KXIpNRYTepFJhKFeql0w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WAExRA_CCkc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDr7No0y0fOrqnpHebri5BRDRPBlw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WAExRA_CCkc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBGxzQx8uj8jWlynWtKeZ1AgxNMg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WAExRA_CCkc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQJuS4SzdgvqTN4_c12yONHiht_g",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "T0kuMKR3hks",
+      "setVideoId": "32F6207D2DE91693",
+      "titleLong": "Solving Limits involving properties of Trigonometric Functions as they approach the origin. 2 minutes, 9 seconds",
+      "time": 129,
+      "timeShort": "2:09",
+      "timeLong": "2 minutes, 9 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/T0kuMKR3hks/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLByN42uA9HGi8cPGnYszXc-gpJu6Q",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/T0kuMKR3hks/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCEKuf8hiGqQXAnjGO7cMVsHBY1bQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/T0kuMKR3hks/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATWfoDx-2I_3VOkP9dqlV04tMP9A",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/T0kuMKR3hks/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcG3BNh25vPQeLYdBFkJApD_nMhw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "ydvVIGr9Hdc",
+      "setVideoId": "0623D059463E2810",
+      "titleLong": "Apply Bernoulli's (L'Hopital's Rule) Everywhere 😜 8 minutes, 29 seconds",
+      "time": 509,
+      "timeShort": "8:29",
+      "timeLong": "8 minutes, 29 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/ydvVIGr9Hdc/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCFNTH6zriHNpGVpTjJPv_SXe1d7w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ydvVIGr9Hdc/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDxoLaKyQUN6R8P3mLom0VNwfHiYA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ydvVIGr9Hdc/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLBWnroLfQ7mcnTf09Fju_aHF06hGQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ydvVIGr9Hdc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLD27SVhQt9eAiDcbPDPfmXum2IiwQ",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "REYNEP",
+        "id": "UCou4JeP0pBJlBkRCH5Vln1Q",
+        "url": "/@reynep"
+      }
+    },
+    {
+      "id": "BUoutWDwDM8",
+      "setVideoId": "C866C79375BFDCCE",
+      "titleLong": "limit_(x→0) cosec(x)/x   | You can check the graph before applying Bernoulli's (L'Hôpital's) Rule 1 minute, 29 seconds",
+      "time": 89,
+      "timeShort": "1:29",
+      "timeLong": "1 minute, 29 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/BUoutWDwDM8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCEqcawWp5HMkz7qa6UhxW3Q07pjw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BUoutWDwDM8/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAhksYRHas32Kyzo8Hmch7wkAXK6Q",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BUoutWDwDM8/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLCNOmzH5z4I36uNDSCq8d9e5uHDJQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BUoutWDwDM8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLB8GqxMdaFHM29b3o4ne5coCbU-jw",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "REYNEP",
+        "id": "UCou4JeP0pBJlBkRCH5Vln1Q",
+        "url": "/@reynep"
+      }
+    },
+    {
+      "id": "awk5Co-9rcc",
+      "setVideoId": "F63CD4D04198B046",
+      "titleLong": "Unusual Trigonometric Derivative Proof 4 minutes, 44 seconds",
+      "time": 284,
+      "timeShort": "4:44",
+      "timeLong": "4 minutes, 44 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/awk5Co-9rcc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBrwuI4soLZ-KuBnjePBiTcIjNHwg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/awk5Co-9rcc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBw_oD-X3qLbSuKYC_pcoh2BY5gdw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/awk5Co-9rcc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlWum1T3PFUPLkPxRUno_UxoXXvQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/awk5Co-9rcc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWK0xxsYwYHlvL-jrnjc6ylBhyUg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "INoXqqmNRJQ",
+      "setVideoId": "8DB8AFCD29078CCE",
+      "titleLong": "Using L'Hopital's Rule to show that exponentials dominate polynomials 9 minutes, 25 seconds",
+      "time": 565,
+      "timeShort": "9:25",
+      "timeLong": "9 minutes, 25 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/INoXqqmNRJQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCPVoJgbQhcjXX76j3DbAVbsKFuzg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/INoXqqmNRJQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDmEhY3b7l3mieN6VpDBUEyvcZAcw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/INoXqqmNRJQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9J09qXXCBf78fu6cfYzGo00dtNg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/INoXqqmNRJQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTOrxacAgPBG5ygo1yq2j7-E3Erw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "rdQkqlyvTzA",
+      "setVideoId": "7F7AA305E0E05BA7",
+      "titleLong": "Why  0/0 via substituting x→0  is needed for applying Bernoulli's Rule (L'Hopital's Rule) 16 minutes",
+      "time": 1019,
+      "timeShort": "16:59",
+      "timeLong": "16 minutes, 59 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/rdQkqlyvTzA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCWOR0cC2HUqeOref6YHIWEl_uzhw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/rdQkqlyvTzA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB67VQoOusvQu7RoAnFJUPALqX5pw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/rdQkqlyvTzA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBr3ggi_LoXH0-7orT_LRPKDUv7PQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/rdQkqlyvTzA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBE_PnW2ae2mbBe9c3LgpMn8CIV2Q",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "REYNEP",
+        "id": "UCou4JeP0pBJlBkRCH5Vln1Q",
+        "url": "/@reynep"
+      }
+    },
+    {
+      "id": "Ql-1C4YlQzo",
+      "setVideoId": "56B44F6D10557CC6",
+      "titleLong": "Revision of Log Laws 9 minutes, 45 seconds",
+      "time": 585,
+      "timeShort": "9:45",
+      "timeLong": "9 minutes, 45 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Ql-1C4YlQzo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAnTlZLXQXZyIS7tRXgj8hcbSEXgw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ql-1C4YlQzo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAOEAV2Df6nAEprEpwEISOIe1Wd1A",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ql-1C4YlQzo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbaG7mBM5sDM1TiMioE7aciZtJ1g",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ql-1C4YlQzo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBduqc7zIu89Ig5x1jGD2y0Ty0-ow",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "MIdOT2cIuQE",
+      "setVideoId": "289F4A46DF0A30D2",
+      "titleLong": "The Derivative of ln x 10 minutes, 32 seconds",
+      "time": 632,
+      "timeShort": "10:32",
+      "timeLong": "10 minutes, 32 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/MIdOT2cIuQE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCccGVM6jm5xE1-x97oecHbbDTX_g",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MIdOT2cIuQE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC5EUJHqxSCn2qJDCQ0faS2rb6BPA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MIdOT2cIuQE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMPornVB6KAONu-h8hQAQMpdAp9Q",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MIdOT2cIuQE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPITnbfZsOKSeD9MWf4BjZgXJr4Q",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "jzhn9Xg5iAQ",
+      "setVideoId": "485610F3C92B0C54",
+      "titleLong": "Applying L'Hopital's Rule to Exponential Indeterminate Forms 7 minutes, 59 seconds",
+      "time": 479,
+      "timeShort": "7:59",
+      "timeLong": "7 minutes, 59 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/jzhn9Xg5iAQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDnRTc8exCwk27YNMpJb20GfB2cdw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/jzhn9Xg5iAQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC539eOshPLCP1KBwlFvKn7w1p5yg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/jzhn9Xg5iAQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSQD_lH6dszvAHD14bh4M0xfyPAQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/jzhn9Xg5iAQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAC9oaoXRS2dP_T6qFfmRMxT181rw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "3kG2qoEdptQ",
+      "setVideoId": "090796A75D153932",
+      "titleLong": "Differentiating Log Functions w/ Chain Rule 13 minutes, 33 seconds",
+      "time": 813,
+      "timeShort": "13:33",
+      "timeLong": "13 minutes, 33 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/3kG2qoEdptQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBOns00RyY2i2Y4ssvq0NzA9J2Seg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/3kG2qoEdptQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLALZUL9yYtM1xV2SXErfBLDuaj0dw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/3kG2qoEdptQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwei5PuHNLZSyF-RDudAeZzVmK7g",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/3kG2qoEdptQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeUuFuhfcVK4EJZBU5exaDAHwb5Q",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "ZBJQIv1ZPdU",
+      "setVideoId": "12EFB3B1C57DE4E1",
+      "titleLong": "Hyperbolic Sine & Cosine 5 minutes, 35 seconds",
+      "time": 335,
+      "timeShort": "5:35",
+      "timeLong": "5 minutes, 35 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/ZBJQIv1ZPdU/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWihQMA8=&rs=AOn4CLAjYTIYvR3AbKQJesOf98x_bW3KFA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZBJQIv1ZPdU/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWihQMA8=&rs=AOn4CLDbRHlGaWRLTLvqnX-T9SebJEP1sw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZBJQIv1ZPdU/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFooUDAP&rs=AOn4CLACKsHoYsloq9TFbi1CwlpaXayLtg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZBJQIv1ZPdU/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFooUDAP&rs=AOn4CLBEXjY3moPt2CTDUOcwR_UuBx89EQ",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Eddie Woo",
+        "id": "UCq0EGvLTyy-LLT1oUSO_0FQ",
+        "url": "/@misterwootube"
+      }
+    },
+    {
+      "id": "-o34rPDcgj0",
+      "setVideoId": "532BB0B422FBC7EC",
+      "titleLong": "Rephrasing Exponentials in Base e 8 minutes, 26 seconds",
+      "time": 506,
+      "timeShort": "8:26",
+      "timeLong": "8 minutes, 26 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/-o34rPDcgj0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAeJoTvHy8L-6jxwzAzTNg75vaOEA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-o34rPDcgj0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAlGyCscr7NbfdBd8Ff0m3AKqHapA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-o34rPDcgj0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnPUuGqip602auFnyDBjLYi-z8NQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-o34rPDcgj0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFUlHrInL02HISaWy-8blCVZuhqg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "-NUWkohcSJI",
+      "setVideoId": "D5B991BBF1451B47",
+      "titleLong": "Applications of First Principles (1 of 4: Refining language and notation) 10 minutes, 32 seconds",
+      "time": 632,
+      "timeShort": "10:32",
+      "timeLong": "10 minutes, 32 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/-NUWkohcSJI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLADWMX03AzxcjkOTjDyqczDV8oacg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-NUWkohcSJI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBPRbo6cFWZ0Y0wNqZ8AJfVfbWFZQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-NUWkohcSJI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZvukiKPo-Q78MJOary50XII6Hcw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-NUWkohcSJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAAwdZVuszT6b6HEsrBziUjlLpqw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "Ar25C2tg_wY",
+      "setVideoId": "BF0E953A18287EBE",
+      "titleLong": "Applications of First Principles (2 of 4: The function 1/x) 8 minutes, 26 seconds",
+      "time": 506,
+      "timeShort": "8:26",
+      "timeLong": "8 minutes, 26 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Ar25C2tg_wY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCiVva1rwqKZhOMB_r1T-uCgtAQlQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ar25C2tg_wY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAjwsTTrtqNqsgI91Hyj3NRNvRi5w",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ar25C2tg_wY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfgSLSGt0GtMhuy5HuRwhb_5vVRw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ar25C2tg_wY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0Bw1IXWh7ndipcyI3x2et-9R4gw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "9YvC0inO_SU",
+      "setVideoId": "0B08BEDCDEDB321B",
+      "titleLong": "Differentiating a Rational Function by First Principles 8 minutes, 19 seconds",
+      "time": 499,
+      "timeShort": "8:19",
+      "timeLong": "8 minutes, 19 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/9YvC0inO_SU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAM4nkD31a8AnD07ouWOHowQPCc0Q",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9YvC0inO_SU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDUFkEZGUQyQunPwkCoCTkKgr3-Tw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9YvC0inO_SU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDn1j92qSAPu1lN8UJ6bpBLqD7j-g",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9YvC0inO_SU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKpfB3BjobOM7612KtY_Qe4fhtoQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "Mqmv9JMjCBg",
+      "setVideoId": "E21DFF1226692289",
+      "titleLong": "Y10 Review Questions (Rationalising denominators) 6 minutes, 15 seconds",
+      "time": 375,
+      "timeShort": "6:15",
+      "timeLong": "6 minutes, 15 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Mqmv9JMjCBg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYChWMA8=&rs=AOn4CLA7kLfmsqH-tbAzbkW9j-wKVaPrNQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Mqmv9JMjCBg/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYChWMA8=&rs=AOn4CLAkxD7QZ0klYgddbOgmw0bKZFz0PA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Mqmv9JMjCBg/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGAoVjAP&rs=AOn4CLBd2gJIoqVs6z-DL2qkTYvZ1E5efg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Mqmv9JMjCBg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGAoVjAP&rs=AOn4CLCScC3cRT0A7POyu_-kZR4Em9bSdg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "daOrt1Z3pP8",
+      "setVideoId": "5A48A223F5E0F1CD",
+      "titleLong": "Applications of First Principles (3 of 4: The function √x) 6 minutes, 3 seconds",
+      "time": 363,
+      "timeShort": "6:03",
+      "timeLong": "6 minutes, 3 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/daOrt1Z3pP8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBn1BVMyWRo2q7t4VlY2qtmK5rTzg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/daOrt1Z3pP8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCzE4_eH4q0FbIRqerb4mRDaWAAMg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/daOrt1Z3pP8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaLRXWiCULlH-VXebXKpkbNdgg8w",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/daOrt1Z3pP8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSLkJm0pxXL6XvdZtCUrfH1ubBjw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "zmUK_8EqcJU",
+      "setVideoId": "F7A0FC1A2F11B475",
+      "titleLong": "Differentiating the fourth root of x (by first principles) 6 minutes, 47 seconds",
+      "time": 407,
+      "timeShort": "6:47",
+      "timeLong": "6 minutes, 47 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/zmUK_8EqcJU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBS6DGZiTeAC8zWTexV8CBm4LQwHQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zmUK_8EqcJU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBeSU9UtxAR3WuxRcux9WlllehKIg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zmUK_8EqcJU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCcBnX9FObtSSwSdOj3jFbrcs1OA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zmUK_8EqcJU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgKc5K2wIb7r4-KWXDKlilaVA4XA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "nVU9Lgq_nho",
+      "setVideoId": "6D81CC69B0DFB66E",
+      "titleLong": "CALCULUS SPEEDRUN || Limits || Episode 1 12 minutes, 42 seconds",
+      "time": 762,
+      "timeShort": "12:42",
+      "timeLong": "12 minutes, 42 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/nVU9Lgq_nho/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD2lnOmHdPD90F4rqJCjyWLy7QpVA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/nVU9Lgq_nho/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAFyQ2fAjjuuZuVzgimgV5XUojx8A",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/nVU9Lgq_nho/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhK3RB1u5OgICojl8yJh8YAG-RXQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/nVU9Lgq_nho/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAt-OEjKxctajbhHFAYXE3Sk_LA5g",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "g45quDrSA6g",
+      "setVideoId": "532E4F1812704AE1",
+      "titleLong": "Understanding Limits and L'Hospital's Rule 9 minutes, 12 seconds",
+      "time": 552,
+      "timeShort": "9:12",
+      "timeLong": "9 minutes, 12 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/g45quDrSA6g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCWJWpjRWlOIIn4YytXKbtvGsVMpQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/g45quDrSA6g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC3wKoMXpEb0JzupImF-4lfOmsnHA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/g45quDrSA6g/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArTEEWCB4xIHnNzRhnf6AnRIPfzQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/g45quDrSA6g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMgi5e-LL_pKrwt4RfCzEgQmMFZg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "9OVRsk8bRKo",
+      "setVideoId": "43106E8EA428AF88",
+      "titleLong": "Determining the Oblique Asymptote (Polynomial Division) 9 minutes, 57 seconds",
+      "time": 597,
+      "timeShort": "9:57",
+      "timeLong": "9 minutes, 57 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/9OVRsk8bRKo/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYChXMA8=&rs=AOn4CLDUeCmlEEvgBV4WVqxA1ScBa5d7WA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9OVRsk8bRKo/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYChXMA8=&rs=AOn4CLAWGYc_3O0KPLZs1OA2U7a4NvWDzg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9OVRsk8bRKo/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGAoVzAP&rs=AOn4CLAWPkRyG8OwkQ8Lt5pBmRAGPiwFxQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9OVRsk8bRKo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGAoVzAP&rs=AOn4CLDfCD8aGOLKQsoznj1T3D1w6c_byQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "QKXAd2PhZGY",
+      "setVideoId": "D6870E2CB3833A8A",
+      "titleLong": "Failure of L'Hospital's Rule | MIT 18.01SC Single Variable Calculus, Fall 2010 5 minutes, 57 seconds",
+      "time": 357,
+      "timeShort": "5:57",
+      "timeLong": "5 minutes, 57 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/QKXAd2PhZGY/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGFggZShCMA8=&rs=AOn4CLCQUWJmaFUbajauxF-wFeLhXPlGLQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/QKXAd2PhZGY/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGFggZShCMA8=&rs=AOn4CLAe4sVTY0GRtO0qbN64ook6ZIQbYA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/QKXAd2PhZGY/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARhYIGUoQjAP&rs=AOn4CLDzugw0QcZU1stRDDGw0fmW-WarBA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/QKXAd2PhZGY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARhYIGUoQjAP&rs=AOn4CLAhvEyL6_9LiiJNY5n1QDaH4U_ktA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "-unUH8qbkrw",
+      "setVideoId": "4CBDD317705953F4",
+      "titleLong": "Tricky Trig Limit Question 4 minutes, 59 seconds",
+      "time": 299,
+      "timeShort": "4:59",
+      "timeLong": "4 minutes, 59 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/-unUH8qbkrw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBNB0PJf-LntgXQSnMM1sdoGvMeog",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-unUH8qbkrw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDdwlaxbln9kGjGqOoVXDmFrRv3IA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-unUH8qbkrw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlQqI9mdxn0cJBztwSpbEZ3TR1qw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-unUH8qbkrw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsH0J9hjiBHqBkI8Pw6KBpqWtOGg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "z1DQQE8iC9k",
+      "setVideoId": "83D9344A70C1C279",
+      "titleLong": "L'Hopital's Rule Lesson Calculus 1 AB with 8 Examples 49 minutes",
+      "time": 2961,
+      "timeShort": "49:21",
+      "timeLong": "49 minutes, 21 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/z1DQQE8iC9k/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFogWihaMA8=&rs=AOn4CLA_WZuuGTJtaFWZJpHrzESqb_1RlA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/z1DQQE8iC9k/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFogWihaMA8=&rs=AOn4CLBhjpqYijvFspZvkcNsmSyMj7Oaow",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/z1DQQE8iC9k/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhaIFooWjAP&rs=AOn4CLDlFbdx3yM-M-_NnagHR9HQJ3erPQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/z1DQQE8iC9k/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhaIFooWjAP&rs=AOn4CLC7teFdaid7oYHh9FIHPfO00H8Rzw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "uFASwTlwcq4",
+      "setVideoId": "A54FA15B665A9503",
+      "titleLong": "Chain Rule 5 minutes, 27 seconds",
+      "time": 327,
+      "timeShort": "5:27",
+      "timeLong": "5 minutes, 27 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/uFASwTlwcq4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC7wPGYWdrghnX_xg3FKqaNcls-2Q",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/uFASwTlwcq4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDpGU3R1817in1eeNv9OtNh6hLa-g",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/uFASwTlwcq4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeWT4kOl45OR0Kwb1uSC3iQxbl2Q",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/uFASwTlwcq4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBo0Xs8fSiWQp_-noba6fUmTLWrqw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "2NWxmkWwiJM",
+      "setVideoId": "E917E0E23E03D3F3",
+      "titleLong": "Intuitive Approach to Gradient Function of sin(x) 8 minutes, 50 seconds",
+      "time": 530,
+      "timeShort": "8:50",
+      "timeLong": "8 minutes, 50 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/2NWxmkWwiJM/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXihRMA8=&rs=AOn4CLCIa37GX6aodzknC1nA4gBU-KZkZA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/2NWxmkWwiJM/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXihRMA8=&rs=AOn4CLC6DoA8Ryoe-K1xxO6Uvc-8-QTK6A",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/2NWxmkWwiJM/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF4oUTAP&rs=AOn4CLCEmQo4VzzBYbPfqkuLAr72NnAKaA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/2NWxmkWwiJM/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF4oUTAP&rs=AOn4CLAtavUZO2drA8FzPePO-PapG6AMtg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "kY_h8xzRaYE",
+      "setVideoId": "660F2DE470236761",
+      "titleLong": "Convergence of sin(x), x, and tan(x) 13 minutes, 22 seconds",
+      "time": 802,
+      "timeShort": "13:22",
+      "timeLong": "13 minutes, 22 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/kY_h8xzRaYE/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYChaMA8=&rs=AOn4CLD_Ag5CI2Rzea2wIQQWm1aMHNWACA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/kY_h8xzRaYE/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYChaMA8=&rs=AOn4CLDBTN2UvKnuIOUoCWh7BAO700zpxQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/kY_h8xzRaYE/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGAoWjAP&rs=AOn4CLC8NEK4Kx-kCkyCKyDCceDPRtO0Fw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/kY_h8xzRaYE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGAoWjAP&rs=AOn4CLA66IHfcJ2yYDbuiQ9S6ql9ZV__rA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "h5OIRugAxr8",
+      "setVideoId": "450FD19086CCD828",
+      "titleLong": "Radian Measure result for sin(x), x and tan(x) 9 minutes, 42 seconds",
+      "time": 582,
+      "timeShort": "9:42",
+      "timeLong": "9 minutes, 42 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/h5OIRugAxr8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBRAh06-JjBHrmKJfSjIxvMHSITqg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/h5OIRugAxr8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCI0GPdmtz2MGrcJyUC8jSn7UVQ4A",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/h5OIRugAxr8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBr0YgwB9g8gbfz6B7S8iKd3gK4aw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/h5OIRugAxr8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBW8m_oDKUorPpCUmsYYl_WGsZ8qQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "xhKf7v2FU_g",
+      "setVideoId": "B095CC1DF295D96E",
+      "titleLong": "AP Calculus AB and BC Unit 1 Review [Limits and Continuity] 1 hour, 8 minutes",
+      "time": 4108,
+      "timeShort": "1:08:28",
+      "timeLong": "1 hour, 8 minutes, 28 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/xhKf7v2FU_g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD7P1aEnkEvsMbsApbnX0v0fHncDw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/xhKf7v2FU_g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCzZ3kTySMC_BmGhC3HHIYJ9l0FLA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/xhKf7v2FU_g/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3LtEcds93F3DVpKmNZ76VO2DepA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/xhKf7v2FU_g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCE7nAJvvckNFGW32O-FxlU7t2RGQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    }
+  ]
+}

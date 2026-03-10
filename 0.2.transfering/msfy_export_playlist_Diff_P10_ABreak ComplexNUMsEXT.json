@@ -1,0 +1,3040 @@
+{
+  "id": "PLR0j6NckpKjzzPUw9A7kalEzeM_oANA27",
+  "title": "Diff_P10_ABreak ComplexNUMsEXT",
+  "description": "Important:-\n  1. 'Angles in the Same segment' is later on.... because i want you to take a day's pause and come up with a proof of yourself....\n\n  2. #45 'Sketching (z-1)÷(z-i) WHEN IT's REAL'\nI want you to think in terms of the last few videos just before that....\n\n\n————————————————————————\nNotes:-\n  0. this playlist has all complexNUMs videos from:-             [#55-#123]\n'2016_nov_2017_jan ComplexMadness'\n\n  1. Complex Roots (5 of 5) requires GEOMETRIC PROGRESSION.... you can learn series first.... before coming back to ComplexNUMsEXT\n\n  2. in the first 57 videos....\nprobably only 6 of them are actually inside Mar20-May2 of 2021.... :woozy:\n\n————————————————————————\nThese 5 kinda supposed to be in \nJan20-Mar20 playlist....\n\n  1. Polynomials with Trig. Solutions 3of3\n- right after:- \nSquare Roots of a Complex Number (3of3)\n\n  2. Solving Higher Degree Trig Eq. 3of3\nright after:-\nEquations with Complex Solutions (2of2)\n\n  3. Complex Conjugate Root Theorem (2of2) right after:-\nSolving Higher Degree Trig Eq. (3of3)\n\n  4. working with moduli and Arguments (Proof Question)\n  5. Argument of the Complex Conjugate\n\nbut are here :woozy:",
+  "numVideos": 157,
+  "isEditable": true,
+  "canReorder": true,
+  "channel": {
+    "name": "REYNEP",
+    "id": "UCou4JeP0pBJlBkRCH5Vln1Q",
+    "url": "/@reynep"
+  },
+  "privacy": {
+    "value": 1,
+    "type": "public",
+    "icon": "PRIVACY_PUBLIC"
+  },
+  "videos": [
+    {
+      "id": "WmItSgQDWEs",
+      "setVideoId": "D6870E2CB3833A8A",
+      "titleLong": "Parallelogram Law (Geometrically representing the addition of complex numbers with vectors) 7 minutes, 41 seconds",
+      "time": 461,
+      "timeShort": "7:41",
+      "timeLong": "7 minutes, 41 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/WmItSgQDWEs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDDivF-XMZzfew73EzukvTNsJvGJw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WmItSgQDWEs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA6M6-5-URjpw-YHDKD3BvU4jE0HA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WmItSgQDWEs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNjHOGOJtoh8ipDd6tPhjTwxd99A",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WmItSgQDWEs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeVX2m0M1LeqdtajQPvGPzjCv7lg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "kw9EKH8m_YI",
+      "setVideoId": "90B768315EBFF861",
+      "titleLong": "Vectors (1 of 4: Outline of vectors and their ability to represent complex number) 5 minutes",
+      "time": 300,
+      "timeShort": "5:00",
+      "timeLong": "5 minutes",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/kw9EKH8m_YI/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYChMMA8=&rs=AOn4CLDcQKz6MJRMf0KmjQKoIXixBQHHAg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/kw9EKH8m_YI/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYChMMA8=&rs=AOn4CLD0wB84OnmaxHPQwWwX4TMIwANdNg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/kw9EKH8m_YI/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGAoTDAP&rs=AOn4CLBFAYLib_ouE7TfYKtgu1exuWodRQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/kw9EKH8m_YI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGAoTDAP&rs=AOn4CLBq5Nrk5WM3AQm8Z-UXTUntfgAbqQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "wxJspfmO0WQ",
+      "setVideoId": "34C3CACDF52A5FD5",
+      "titleLong": "Vectors (2 of 4: Representing addition & subtraction of complex numbers with vectors) 7 minutes, 37 seconds",
+      "time": 457,
+      "timeShort": "7:37",
+      "timeLong": "7 minutes, 37 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/wxJspfmO0WQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAGgygTOnhgz87Nc8GbWL2jrnitTQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wxJspfmO0WQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDAGKBm3HYQzNMI8zhKtAUyYI3u9g",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wxJspfmO0WQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBz0m7E8aAnlw4csq1WfgAWDiieVQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wxJspfmO0WQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJyOqrQWuB4y2242EH15-2acdDig",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "uD9e8njaK1M",
+      "setVideoId": "AC4AC3D983556BFA",
+      "titleLong": "Vectors (3 of 4: Geometrically representing multiplication of complex numbers with vectors) 5 minutes, 33 seconds",
+      "time": 333,
+      "timeShort": "5:33",
+      "timeLong": "5 minutes, 33 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/uD9e8njaK1M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBOwFRN1-Q_uJ3r3iwLiPyF5zu1tA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/uD9e8njaK1M/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCW0dE94YNRth030hjzLGQvxz01Pw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/uD9e8njaK1M/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9dxYGS1U8GzV5S4lo8ArmTvVPUQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/uD9e8njaK1M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0VuO-HqZ4wV6NUaqSrnpxMR1apg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "pyDGOxUe3Mo",
+      "setVideoId": "D7E45977202517C7",
+      "titleLong": "Vectors (4 of 4: Outlining the usefulness of vectors in representing geometry) 10 minutes, 37 seconds",
+      "time": 637,
+      "timeShort": "10:37",
+      "timeLong": "10 minutes, 37 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/pyDGOxUe3Mo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB_WiSLiPsZQC-mNyda2WYK68diJA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pyDGOxUe3Mo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAbKDgyt9mMEBXXSOT6z4YimW9Xhg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pyDGOxUe3Mo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH0l3wBxi9nDptLWcvzxPfnTFPxg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pyDGOxUe3Mo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKyHh6lO3eX8z8wNZzewinvtJYNg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "F9PYMn0DX6w",
+      "setVideoId": "54B92F1774073AE0",
+      "titleLong": "Relationships Between Moduli & Arguments in Products of Complex Numbers 9 minutes, 57 seconds",
+      "time": 597,
+      "timeShort": "9:57",
+      "timeLong": "9 minutes, 57 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/F9PYMn0DX6w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD9v5taOr6Kj4FpMXDDESswENvjEg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/F9PYMn0DX6w/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLATCeXKDflW-2MOItn6dZC7dp7OMA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/F9PYMn0DX6w/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0jv9XV11EGrMWJaapEyIFHTefYg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/F9PYMn0DX6w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3W-rKFKkb67PHREJ2IGRgJPBxpw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "mgbHtMWK-3w",
+      "setVideoId": "03B4AD4D56DD162B",
+      "titleLong": "Understanding Complex Quotients & Conjugates in Mod-Arg Form 6 minutes, 7 seconds",
+      "time": 367,
+      "timeShort": "6:07",
+      "timeLong": "6 minutes, 7 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/mgbHtMWK-3w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAkVb_YeV-sZJqoCqZ2Nre4um9NNw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/mgbHtMWK-3w/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCVFBLiyy0TAnyoPb5Dl3zUxarrXg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/mgbHtMWK-3w/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwghrugzn5i8Ubz2N3vqlbBODfvg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/mgbHtMWK-3w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCf4mg4syOt9yBCrhUHPZgenDBVHg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "fK55U6XQqDw",
+      "setVideoId": "6315A2A0B7628F99",
+      "titleLong": "Powers of a Complex Number (example question) 7 minutes, 34 seconds",
+      "time": 454,
+      "timeShort": "7:34",
+      "timeLong": "7 minutes, 34 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/fK55U6XQqDw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDprQZ2JXejn-js-MhEsORIUbvQfg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/fK55U6XQqDw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCsNUPb44EEws4Ns587RJ80uSeCbA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/fK55U6XQqDw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBb-FIlcFkGhXx-Sshvu-JqWgm9ig",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/fK55U6XQqDw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQqHbzNGmxxfEJDD2SY9HA2FCrGA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "Ev1NfI5H47c",
+      "setVideoId": "8B2401731B1EAA91",
+      "titleLong": "Manipulating Complex Numbers for Purely Real Results 11 minutes, 43 seconds",
+      "time": 703,
+      "timeShort": "11:43",
+      "timeLong": "11 minutes, 43 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Ev1NfI5H47c/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGsgayhrMA8=&rs=AOn4CLANxs-UCw1wtt3jKTMRm_Mcm2_KdQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ev1NfI5H47c/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGsgayhrMA8=&rs=AOn4CLCDRNtrmoZALs_D-WSy-jrXhU1KIA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ev1NfI5H47c/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhrIGsoazAP&rs=AOn4CLAZWWVXPIMT6AP7KoXaVm_UWcM8Hw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ev1NfI5H47c/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhrIGsoazAP&rs=AOn4CLAUXnHbOg8fNVS45NwwB3k_jdCcdA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "s4ssDsLfBJ0",
+      "setVideoId": "E934246CFCADCEAD",
+      "titleLong": "Complex Numbers as Vectors (3 of 3: Using Geometric Properties) 8 minutes, 49 seconds",
+      "time": 529,
+      "timeShort": "8:49",
+      "timeLong": "8 minutes, 49 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/s4ssDsLfBJ0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD8Cbek_PoOywY5FKPVNBCR3KX0iw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/s4ssDsLfBJ0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBwlgsGJMWQa3dSeBkE62NL8wyB4w",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/s4ssDsLfBJ0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTCMKv76lkMIV-39XNhR01qz0myQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/s4ssDsLfBJ0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQ8r1ePVbyDnmO1j2CAVpA7yVxSg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "aDLdA_gNZMc",
+      "setVideoId": "A56CEEAFE0D577AE",
+      "titleLong": "Wootube is 3 years old! 1 minute, 55 seconds",
+      "time": 115,
+      "timeShort": "1:55",
+      "timeLong": "1 minute, 55 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/aDLdA_gNZMc/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gLig6MA8=&rs=AOn4CLCae-yXPt7tqAruDQtuL-WysrNrYA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/aDLdA_gNZMc/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gLig6MA8=&rs=AOn4CLCq62EETOxqraSq1SOov3uQ-zYDQg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/aDLdA_gNZMc/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IC4oOjAP&rs=AOn4CLBfhnXFHIGqz7m_AlzoZseaf_kqTw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/aDLdA_gNZMc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IC4oOjAP&rs=AOn4CLCvSXIHTbufWEsIN6VC10iLh1iZVQ",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Eddie Woo",
+        "id": "UCq0EGvLTyy-LLT1oUSO_0FQ",
+        "url": "/@misterwootube"
+      }
+    },
+    {
+      "id": "ksRD2MFcv_A",
+      "setVideoId": "D37FF0AC5B4F648F",
+      "titleLong": "Graphs in the Complex Plane (1 of 4: Introductory Examples) 10 minutes, 3 seconds",
+      "time": 603,
+      "timeShort": "10:03",
+      "timeLong": "10 minutes, 3 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/ksRD2MFcv_A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLARjO0ouG_4AH8uFzCBZkaXSt9qJA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ksRD2MFcv_A/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBJcVxiuBQAxjT9Y_J4kGpp9Ir86g",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ksRD2MFcv_A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANyB9obTX6oE-ryxEGRQE9QYUnfA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ksRD2MFcv_A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFjiyoBbNhm17vxVM6mCJUxRT2gg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "758X5GvUpX4",
+      "setVideoId": "88F134CD85DC8B20",
+      "titleLong": "Graphs in the Complex Plane (2 of 4: Graphing Complex Inequalities) 4 minutes, 25 seconds",
+      "time": 265,
+      "timeShort": "4:25",
+      "timeLong": "4 minutes, 25 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/758X5GvUpX4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAnDJHjTB2bJTnm7kG4hLlJ6UF76g",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/758X5GvUpX4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBkvj2OR16otXFBTj3xW3me0rLQGg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/758X5GvUpX4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHgIteey605fz_504oUWk61Uj1pQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/758X5GvUpX4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1H7OeQ8upv0hqPu0yBUojOULSTQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "QhZkvFQb7Is",
+      "setVideoId": "D686B4795C9A6C60",
+      "titleLong": "How to graph the locus of |z-1|=1 7 minutes, 59 seconds",
+      "time": 479,
+      "timeShort": "7:59",
+      "timeLong": "7 minutes, 59 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/QhZkvFQb7Is/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYShTMA8=&rs=AOn4CLCyefOHy-HeH-1sQfMG3aJjeIdLxQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/QhZkvFQb7Is/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYShTMA8=&rs=AOn4CLBx-Bq2jJeiwwen7lDdGAUzBaAFnw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/QhZkvFQb7Is/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGEoUzAP&rs=AOn4CLCeWNWBsSkGQhfR9Zx-2p2Ub7vOjA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/QhZkvFQb7Is/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGEoUzAP&rs=AOn4CLDl3MImJ5WwxFYN6Y7XepgQZQrJQg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "VbB4LyuDyMo",
+      "setVideoId": "D882668307C69E91",
+      "titleLong": "Curves and Regions on the Complex Plane (1 of 4: Introductory example plotting |z|=5 geometrically) 12 minutes, 49 seconds",
+      "time": 769,
+      "timeShort": "12:49",
+      "timeLong": "12 minutes, 49 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/VbB4LyuDyMo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBT8XK66Z1aRLxdMT8klkJWVTup-g",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VbB4LyuDyMo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDIdmdrOwzeByUciSaVg_TSDJsyfQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VbB4LyuDyMo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1lG0htZIGrhEFQ7GnLyxWdTsBCQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VbB4LyuDyMo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmmIwHxcmNa8azEFvHJ9xIPIJeKw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "s-7iwVzyy0c",
+      "setVideoId": "A77DC64DD3A127E7",
+      "titleLong": "Curves and Regions on the Complex Plane (2 of 4: Deciphering terminology to plot complex numbers) 6 minutes, 26 seconds",
+      "time": 386,
+      "timeShort": "6:26",
+      "timeLong": "6 minutes, 26 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/s-7iwVzyy0c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC-4dh6qwpelfrefuIlMbuWHIfW6A",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/s-7iwVzyy0c/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBHq_tF621GZ7BCS7n9l1UUwv2izQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/s-7iwVzyy0c/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0SrQ8rTNPXMvjEx0GvbAQZaztQg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/s-7iwVzyy0c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHGC3WDYzXlk2BW1np9dR_UbtORw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "Yu2W6FtHhJg",
+      "setVideoId": "7D8732C14E16E900",
+      "titleLong": "Curves and Regions on the Complex Plane (3 of 4: Simplifying expressions to plot on a complex plane) 6 minutes, 43 seconds",
+      "time": 403,
+      "timeShort": "6:43",
+      "timeLong": "6 minutes, 43 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Yu2W6FtHhJg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLABCEpeg2EGFOnKvCjGEl6WGmGD7g",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Yu2W6FtHhJg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBLMkDRWRLRUu_I-pFNFFmzGRa4Tg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Yu2W6FtHhJg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCun6V0hCzB3aqBubyBB55h_Ag49g",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Yu2W6FtHhJg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYLjyNWsvVXxKDPkASdR-Cdby8gA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "wkYwnD5WG5k",
+      "setVideoId": "86216799D0BBA849",
+      "titleLong": "Curves and Regions on the Complex Plane (4 of 4: Plotting simultaneous shifted complex numbers) 7 minutes, 34 seconds",
+      "time": 454,
+      "timeShort": "7:34",
+      "timeLong": "7 minutes, 34 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/wkYwnD5WG5k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB2QAzxPNd5YaaJR9F2r72TYrfsgA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wkYwnD5WG5k/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDlg3ObMwr_dWl4v7iaMCLoqDB8SQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wkYwnD5WG5k/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYpQ-94WJTSmLBHFM6Zlc_9D1c0A",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wkYwnD5WG5k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkYpkDL1ZPkf2RpXor9LMCgdz1uw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "vdIKqeF7_rs",
+      "setVideoId": "6263132B04ADB7BE",
+      "titleLong": "Graphs in the Complex Plane (1 of 3: Perpendicular bisector - visual method) 8 minutes, 16 seconds",
+      "time": 496,
+      "timeShort": "8:16",
+      "timeLong": "8 minutes, 16 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/vdIKqeF7_rs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBqfKE4NLsSVLNOdHJthI-9z6TBBQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/vdIKqeF7_rs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC1eLHchZFOphp1tHfZL63hEsQViw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/vdIKqeF7_rs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_woeM0Fi48SuT-tW2uen2VbMFEw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/vdIKqeF7_rs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnEnIYZwhf2aNb98XvSWprN1Y0zQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "VzKwqd3Uxvg",
+      "setVideoId": "403D304A0EE8E30D",
+      "titleLong": "Graphs in the Complex Plane (2 of 3: Algebraic method) 11 minutes, 59 seconds",
+      "time": 719,
+      "timeShort": "11:59",
+      "timeLong": "11 minutes, 59 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/VzKwqd3Uxvg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDA08nerv0wMs2r1iqydIzOVGK41w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VzKwqd3Uxvg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD-vtk1Pg7MgncHCiEgazQ5f1N2Fg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VzKwqd3Uxvg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA68dn7XwtrQCajSbuMHYSgqhgz6g",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VzKwqd3Uxvg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_hUY_5B2SlI7EZodoe5LcKYE_0Q",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "sJmaufW8NYA",
+      "setVideoId": "00C2A0A9505349AF",
+      "titleLong": "Working with Moduli and Arguments (Proof Question) 15 minutes",
+      "time": 918,
+      "timeShort": "15:18",
+      "timeLong": "15 minutes, 18 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/sJmaufW8NYA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBN2O1SGdk7aFDXc3fh7c83Pa8MAA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/sJmaufW8NYA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDiSLnUyi7h7uMRPIuVkIDdUIYWNA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/sJmaufW8NYA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCs0_zZKsCm6L_Zv8cw7hSb6uQyqg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/sJmaufW8NYA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARF0lQtRW7aqydMj1cK-giGWyLPQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "YZAnrKwIF0o",
+      "setVideoId": "0090FB771180611F",
+      "titleLong": "Distance between complex numbers 4 minutes, 48 seconds",
+      "time": 288,
+      "timeShort": "4:48",
+      "timeLong": "4 minutes, 48 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/YZAnrKwIF0o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBLFzSTfljzGRv3IrUGoo9CU4mA8g",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/YZAnrKwIF0o/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA9jrAATBZLU8WbaotFUerLQya65g",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/YZAnrKwIF0o/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAePMpk4Wv3M9LFmdlhhoB9q18yxg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/YZAnrKwIF0o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMSwnuJRxqpRNjW_xncrTKfRX3Jg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "llh9tVFud0U",
+      "setVideoId": "EB72D6A0C256797D",
+      "titleLong": "Argument of the Complex Conjugate 10 minutes, 56 seconds",
+      "time": 656,
+      "timeShort": "10:56",
+      "timeLong": "10 minutes, 56 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/llh9tVFud0U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDymxXK59RB-zT6yGnjTkoK8fGKdA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/llh9tVFud0U/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAq4UwI28R-g5A7XJoo62aU3zKQ1g",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/llh9tVFud0U/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFT3e-Ok-YvzJQW97Pdd5eQcsW1w",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/llh9tVFud0U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAj47fYvuTJ_CjXZhqcCZ-HkrPjWA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "cOI1140Saxs",
+      "setVideoId": "485610F3C92B0C54",
+      "titleLong": "The Sine Rule (1 of 2: Proving the result) 9 minutes, 33 seconds",
+      "time": 573,
+      "timeShort": "9:33",
+      "timeLong": "9 minutes, 33 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/cOI1140Saxs/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXihWMA8=&rs=AOn4CLBtBiCOuq95WYO_RVYx7rXyP8-bjg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cOI1140Saxs/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXihWMA8=&rs=AOn4CLDD6BMPXg7T9n7D1bwgi5qsRTMqjA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cOI1140Saxs/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF4oVjAP&rs=AOn4CLAtpyC2dmBd_tMiOX5bFuSxGHujVQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cOI1140Saxs/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF4oVjAP&rs=AOn4CLCXqS_VEPsQjqikMfNIFMMqRZQC_A",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Eddie Woo",
+        "id": "UCq0EGvLTyy-LLT1oUSO_0FQ",
+        "url": "/@misterwootube"
+      }
+    },
+    {
+      "id": "MzjteJt68dI",
+      "setVideoId": "0FEA5F89937BB506",
+      "titleLong": "Further Curves and Regions (1 of 5: Why does Sine & the Sine Rule produce an ambiguous case?) 3 minutes, 52 seconds",
+      "time": 232,
+      "timeShort": "3:52",
+      "timeLong": "3 minutes, 52 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/MzjteJt68dI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB90KO2qBBY3gOKYjoJZgJs42xQUg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MzjteJt68dI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAPyOlaBQTXCj_j8yZdoDB0FRj4YQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MzjteJt68dI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLecINnBhpJXFURAn4NNnAXXXahQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MzjteJt68dI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCu0GUtR-VquhpBtrlFJOP3FA-b1Q",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "8n3jLEh5uq0",
+      "setVideoId": "7941D7D6D04FF2D2",
+      "titleLong": "The Triangle Inequalities (1 of 3: Sum of Complex Numbers) 10 minutes, 46 seconds",
+      "time": 646,
+      "timeShort": "10:46",
+      "timeLong": "10 minutes, 46 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/8n3jLEh5uq0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBNMHySDNX1yKlpRhQqS-C6LHEwaQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/8n3jLEh5uq0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAccMFgx5lHLE7kzAoYH3h6h2tcsg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/8n3jLEh5uq0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyhPxv7bS4jSs9VS7TGJRDudS6_g",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/8n3jLEh5uq0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwqYlwj9h7_OOhRv7N6lJK2DFsXg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "NFRUvs6K2FQ",
+      "setVideoId": "395F020793896A45",
+      "titleLong": "The Triangle Inequalities (2 of 3: Discussing Specific Cases) 9 minutes, 17 seconds",
+      "time": 557,
+      "timeShort": "9:17",
+      "timeLong": "9 minutes, 17 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/NFRUvs6K2FQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCGP3jU3iylcjoICP0dbeD8cZ3Bjg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/NFRUvs6K2FQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD61TEp8Yt-bHU54hQFkFZOYN7wkQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/NFRUvs6K2FQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUQE4o3OYuaXcQV02FOpNt0c_RAQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/NFRUvs6K2FQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDddb685ZG0SsmUotL_T3PTRKqrw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "LZBJYeQbjug",
+      "setVideoId": "8AA433CFC8F04672",
+      "titleLong": "The Triangle Inequalities (3 of 3: Difference of Complex Numbers) 5 minutes, 16 seconds",
+      "time": 316,
+      "timeShort": "5:16",
+      "timeLong": "5 minutes, 16 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/LZBJYeQbjug/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCkJ7Hm2RMtLm9pD4DWksV-dTEBrw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LZBJYeQbjug/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCsLi7aq0FbB2_e8Za_XEodRUu5xA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LZBJYeQbjug/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEOJqvlKZqIxh0Uxnn2L5Qu3bIDw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LZBJYeQbjug/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCEk2vlawez2cDiIwk1MjaNg4Xsw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "PygsQaUViSA",
+      "setVideoId": "4716165A37EB7BE7",
+      "titleLong": "Max/Min Value of |z| (1 of 2: Geometric solution) 9 minutes, 23 seconds",
+      "time": 563,
+      "timeShort": "9:23",
+      "timeLong": "9 minutes, 23 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/PygsQaUViSA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDk-0r1IcLZ77KnHXjGw1vfoE5wDg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/PygsQaUViSA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBxbXUNxVZbz3l7caj6pLRagvffPw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/PygsQaUViSA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaAd4HQliWeC6H4qLcpIo38J9zGQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/PygsQaUViSA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcLN3ttHSDmuMy1S_DUWB-BUUT5A",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "PeY4B9-rb1g",
+      "setVideoId": "D32CE50B0D9EEC00",
+      "titleLong": "Max/Min Value of |z| (2 of 2: Triangle inequality) 14 minutes, 41 seconds",
+      "time": 881,
+      "timeShort": "14:41",
+      "timeLong": "14 minutes, 41 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/PeY4B9-rb1g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB97p4Z2PHAonSdZK1B0rrkEdc9sQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/PeY4B9-rb1g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD4qZX9JoSoMPbD4HBRsndtoR_CtQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/PeY4B9-rb1g/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDv55EO8cmt47vOIcCWnm2MQxY5eA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/PeY4B9-rb1g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlsITmOoZQtbrEHqIK1dQw17mL9w",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "UBnwSbwHziM",
+      "setVideoId": "23A2CE53B6FB0544",
+      "titleLong": "Maximising Sum of Moduli (1 of 3: Geometric approach) 16 minutes",
+      "time": 1009,
+      "timeShort": "16:49",
+      "timeLong": "16 minutes, 49 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/UBnwSbwHziM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD21KOD-XexrKOXdhh-2Bdkb-VMJA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UBnwSbwHziM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLButNi-cfrHvZ8eTDfTSYQy3rlfoA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UBnwSbwHziM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1Arg1HkgR7wqz4-dQw8MhCvq5sQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UBnwSbwHziM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5dXr7MXEEsXWtYurby__LLIv3vA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "-TNH6hy8KRo",
+      "setVideoId": "DDCE598CD616C109",
+      "titleLong": "Maximising Sum of Moduli (2 of 3: Differentiation) 10 minutes, 32 seconds",
+      "time": 632,
+      "timeShort": "10:32",
+      "timeLong": "10 minutes, 32 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/-TNH6hy8KRo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC_sP_saQl9mGn0AM9MPQNcoq9GmA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-TNH6hy8KRo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDW975ciJzMLH7H_zCFqCF8GGfmpw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-TNH6hy8KRo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAX7TKWM4CA29LBcW1kHvg4blntLg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-TNH6hy8KRo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBURFj_myd15evWKFH6nSVhr93NoQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "CR1CbQ_snVM",
+      "setVideoId": "5D53F2ECF41B7755",
+      "titleLong": "Maximising Sum of Moduli (3 of 3: Interpreting stationary points) 8 minutes, 11 seconds",
+      "time": 491,
+      "timeShort": "8:11",
+      "timeLong": "8 minutes, 11 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/CR1CbQ_snVM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCNSzEHGrb0IEx0amxhPt4kzjOnkg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CR1CbQ_snVM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB-7i14OdigMkMsuB-W7X9AQ0BmBQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CR1CbQ_snVM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBarPLGTCULWl7X6YTj3Ur2Oxe20w",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CR1CbQ_snVM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDo8Q2KskQ-Ikiex89fkLqtqcD4BQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "J1e0LBqDeo4",
+      "setVideoId": "761947CE7D647E90",
+      "titleLong": "Further Curves and Regions (2 of 5: Finding the Range of |z| ) 11 minutes, 52 seconds",
+      "time": 712,
+      "timeShort": "11:52",
+      "timeLong": "11 minutes, 52 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/J1e0LBqDeo4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCZiYg4foMroiWXbigMq_4t_awHNQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/J1e0LBqDeo4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAEAQVog2ITZQD3mgscLS3nIf3cmQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/J1e0LBqDeo4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtzX19jqbqS6E82stPxs2xdbTiFg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/J1e0LBqDeo4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2dZDs2sbk_O7OXrBz_MolamZjqA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "Udo9Wrejeh8",
+      "setVideoId": "CB86D420EFBFE8EE",
+      "titleLong": "Varying |z| & Argz on a Locus 10 minutes, 26 seconds",
+      "time": 626,
+      "timeShort": "10:26",
+      "timeLong": "10 minutes, 26 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Udo9Wrejeh8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDJqU28xYH1Cve8zsIAVvv6q6FBXQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Udo9Wrejeh8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB5Jr6K0uvGxMgJw99epf_yjS8uFg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Udo9Wrejeh8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKfmO5KUUzLyXjUdUg1w0XW6YmiA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Udo9Wrejeh8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxsGCD5ka1is_b3cVC1F3a9YF5Sw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "UDIm71ugBoA",
+      "setVideoId": "D4A29206F871F2D6",
+      "titleLong": "Further Curves and Regions (3 of 5: Finding the range of arg z) 5 minutes, 56 seconds",
+      "time": 356,
+      "timeShort": "5:56",
+      "timeLong": "5 minutes, 56 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/UDIm71ugBoA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBV9FENvZC8MtbYHjjCEnKfkclvwg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UDIm71ugBoA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAooIuax5Izy0Sw7cnLnfooNYsE1g",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UDIm71ugBoA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgcpD5wMQdp6FfQH-DXt26L2Sp5A",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UDIm71ugBoA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKWTbzL5EzH2rfeRhFIyM5JN_GbQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "84wvbijhj-Y",
+      "setVideoId": "64FC554E4D453F33",
+      "titleLong": "Further Curves and Regions (4 of 5: Geometrical expression of expressions of arg) 10 minutes, 31 seconds",
+      "time": 631,
+      "timeShort": "10:31",
+      "timeLong": "10 minutes, 31 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/84wvbijhj-Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBP5iEIaX3k_hrI5J5FDGQLfeJKEQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/84wvbijhj-Y/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA_TSOem_s_QMXiZquOagMzwvPbLg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/84wvbijhj-Y/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH4pwPf-t8T-ptlM6Gx808WIgYDA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/84wvbijhj-Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8GvHeV17xLUeN5oZ0TEJru4KsZQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "pCTopZVC3Xs",
+      "setVideoId": "6E3B8C1DB7CEC256",
+      "titleLong": "Graphs in the Complex Plane (3 of 3: Opposing rays) 13 minutes, 57 seconds",
+      "time": 837,
+      "timeShort": "13:57",
+      "timeLong": "13 minutes, 57 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/pCTopZVC3Xs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAqimaOjcylEYZdm8taA9RjQnHHnA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pCTopZVC3Xs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC0RIkW1--P758PpOHv6R0TyJR0Bw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pCTopZVC3Xs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCraX7_OrEZf-OZYKBw0jI4qzO4fQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pCTopZVC3Xs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXfnXEdIFS3KNBQtVi53BSHW2wxQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "3fop9tNmG8M",
+      "setVideoId": "83D9344A70C1C279",
+      "titleLong": "Using Inverse tan to find arguments? (1 of 2: Why it doesn't work... Sometimes) 11 minutes, 51 seconds",
+      "time": 711,
+      "timeShort": "11:51",
+      "timeLong": "11 minutes, 51 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/3fop9tNmG8M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCp72-xHUgwP_0Qa9Y8_3-S_SoSig",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/3fop9tNmG8M/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCBBp6bUqplM7nhtSqvGq9aTdzr5g",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/3fop9tNmG8M/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH84M6g21ASFYZPR6oksN9BXaZGQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/3fop9tNmG8M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHdCM6U76-DJOZdG4UHjq_gJc2sA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "TU_q8Hu2IiE",
+      "setVideoId": "B83D91DD3BB5688D",
+      "titleLong": "Graphing y = tan¯¹(tan x) 5 minutes, 7 seconds",
+      "time": 307,
+      "timeShort": "5:07",
+      "timeLong": "5 minutes, 7 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/TU_q8Hu2IiE/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgSyg-MA8=&rs=AOn4CLDhBF3EXi_F1C5k_0oHHnqvnpDrDQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TU_q8Hu2IiE/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgSyg-MA8=&rs=AOn4CLBB-6zoxMu9GMmUCugUU-h8OO-ZLw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TU_q8Hu2IiE/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEsoPjAP&rs=AOn4CLDuHgluGhN7wNsK4etEdahZPeDw1w",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TU_q8Hu2IiE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEsoPjAP&rs=AOn4CLAOb_F9LNGM-wuhk0rvFQHU3tFVCQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "1ge2DPtIC4E",
+      "setVideoId": "4A69643BD328068C",
+      "titleLong": "Using Inverse tan to find arguments? (2 of 2: Why it works... Sometimes) 5 minutes, 23 seconds",
+      "time": 323,
+      "timeShort": "5:23",
+      "timeLong": "5 minutes, 23 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/1ge2DPtIC4E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBjcZt_sW5NkiWQ3qQZnKpLMHWJZw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/1ge2DPtIC4E/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDqPynKyPCKrx84ergu6PIR5lUc8A",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/1ge2DPtIC4E/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3uaevYOasbGtaw8tqzDC7kIMynQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/1ge2DPtIC4E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkYo2DzY7dyY7kEmKyc4APuEwn3w",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "-sD1_ypVQpc",
+      "setVideoId": "DBA7E2BA2DBAAA73",
+      "titleLong": "Algebraic Proof for Opposing Rays (1 of 3: Foundational knowledge) 9 minutes, 59 seconds",
+      "time": 599,
+      "timeShort": "9:59",
+      "timeLong": "9 minutes, 59 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/-sD1_ypVQpc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDbimLSWbiqQjn-v0CGOdHN0vdqxg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-sD1_ypVQpc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAMSeVWBS-5Kyub4w1z9N9q-lA5IA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-sD1_ypVQpc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFM1mM_ErQ4E3qeQ41Pe_Y2oHB9A",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-sD1_ypVQpc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJZouDFwl2PJjniZIAl2HG7wlXAA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "E0gSsPvfbtY",
+      "setVideoId": "2C98A09B9311E8B5",
+      "titleLong": "Algebraic Proof for Opposing Rays (2 of 3: Generating the equation) 8 minutes, 42 seconds",
+      "time": 522,
+      "timeShort": "8:42",
+      "timeLong": "8 minutes, 42 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/E0gSsPvfbtY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLApP8qfNRoEOkEp_p4IcxeEfyYiFg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/E0gSsPvfbtY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAsd2L5xt68n4WYKxc8dQo8hL1lcQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/E0gSsPvfbtY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAElx7nsWfWNfL1Xkd1NL2izJJHew",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/E0gSsPvfbtY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4TxJA605PPRgGcOrPfr9ttIyEWg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "pICS7Oa6Uro",
+      "setVideoId": "949CAAE98C101B50",
+      "titleLong": "Algebraic Proof for Opposing Rays (3 of 3: Testing cases) 10 minutes, 25 seconds",
+      "time": 625,
+      "timeShort": "10:25",
+      "timeLong": "10 minutes, 25 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/pICS7Oa6Uro/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCGVBPGrd33BCSAMwv8ULWJDb8pQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pICS7Oa6Uro/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDp1IQPyYxfdLosBB-59Cn6T4_TmQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pICS7Oa6Uro/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxoW62THkhCgjXwSaWgl7Rf_ciuw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pICS7Oa6Uro/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUk6Gn6sM7PXBwdJkJuqZ357lYUQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "F9PYMn0DX6w",
+      "setVideoId": "172891459A7D2AF4",
+      "titleLong": "Relationships Between Moduli & Arguments in Products of Complex Numbers 9 minutes, 57 seconds",
+      "time": 597,
+      "timeShort": "9:57",
+      "timeLong": "9 minutes, 57 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/F9PYMn0DX6w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD9v5taOr6Kj4FpMXDDESswENvjEg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/F9PYMn0DX6w/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLATCeXKDflW-2MOItn6dZC7dp7OMA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/F9PYMn0DX6w/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0jv9XV11EGrMWJaapEyIFHTefYg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/F9PYMn0DX6w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3W-rKFKkb67PHREJ2IGRgJPBxpw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "wgTi_bX0o7Y",
+      "setVideoId": "17F6B5A8B63499C9",
+      "titleLong": "Semi Circles on Argand Diagrams (1 of 3: Relating the angles) 9 minutes, 3 seconds",
+      "time": 543,
+      "timeShort": "9:03",
+      "timeLong": "9 minutes, 3 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/wgTi_bX0o7Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBde62oBi6BvtGucWU2dzixVfFFDQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wgTi_bX0o7Y/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB0-PONVSuxWUlP9YGWmVI9rlg9kg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wgTi_bX0o7Y/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjWg6rCcvtXfzl4Gm6P1av-2YPRQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wgTi_bX0o7Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmHGvwaU_wrIKn_QA9MHUOcxb9gA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "dp675tTVPjo",
+      "setVideoId": "AD855F5966C838C4",
+      "titleLong": "Further Curves and Regions (5 of 5: Using Circle properties to graph an expression of args) 6 minutes, 58 seconds",
+      "time": 418,
+      "timeShort": "6:58",
+      "timeLong": "6 minutes, 58 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/dp675tTVPjo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBx3UmIAQefQGQhJb1ZnnEEwHNMog",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/dp675tTVPjo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDXKcIoLwije-hEx4zeV1WA9PGrWA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/dp675tTVPjo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCruI_GcOT2aECRYpbsZc8xFTcUww",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/dp675tTVPjo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcb0Uk2LIfS8NRgRo0Y4vfDgA6MA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "E9JN9nWES94",
+      "setVideoId": "EAF6C98EAC7FEFFE",
+      "titleLong": "Semi Circles on Argand Diagrams (2 of 3: Graphing the locus) 14 minutes, 52 seconds",
+      "time": 892,
+      "timeShort": "14:52",
+      "timeLong": "14 minutes, 52 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/E9JN9nWES94/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCojGtfFEnNFv4QyJIIsz72QKKzow",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/E9JN9nWES94/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAEaYB47TPc8T8myQ0r-i3spUYLRQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/E9JN9nWES94/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQHw5Je-5_ZrB_b0CwgDQgRX0GbA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/E9JN9nWES94/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNN8N48iGlTNQ8NKX5xb0ILZwYXQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "w1-MS-ftGjs",
+      "setVideoId": "B0EAEBDFE250D593",
+      "titleLong": "Semi Circles on Argand Diagrams (3 of 3: Oblique example) 7 minutes, 55 seconds",
+      "time": 475,
+      "timeShort": "7:55",
+      "timeLong": "7 minutes, 55 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/w1-MS-ftGjs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAJKqAMqBgmDRVa72XDhbnZZeAiWA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/w1-MS-ftGjs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDB2Lx9KSpTuSbK-37JtszrmCTwDg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/w1-MS-ftGjs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiaC1udaeFL8WzPgerMn3qSmwGzg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/w1-MS-ftGjs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtn-a1xJSZpNYM7BpvOwhum5yU4g",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "9t-EbpxTSK0",
+      "setVideoId": "16224A4012D9B20D",
+      "titleLong": "Arcs on the Complex Plane (1 of 4: Review questions) 8 minutes, 19 seconds",
+      "time": 499,
+      "timeShort": "8:19",
+      "timeLong": "8 minutes, 19 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/9t-EbpxTSK0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAZ_51cbHM0pDPMv0Wez78W5Naujg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9t-EbpxTSK0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAek82S6Y32wet6ZPckGKFW1ts-zg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9t-EbpxTSK0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmaSRSYxpzF2TTDXEMwypXq77-4A",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9t-EbpxTSK0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNmv-YkWX0mgI6DTD1k3qVt6jdMw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "Gy0JKzyEApk",
+      "setVideoId": "42BE5C312C6EEB12",
+      "titleLong": "A Small Error || part of \"2021_Mar20_May2 ComplexNUMsEXT\" || 57 seconds",
+      "time": 57,
+      "timeShort": "0:57",
+      "timeLong": "57 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Gy0JKzyEApk/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEcgTyhlMA8=&rs=AOn4CLCh4u0epzT-H_nI8PkksriPokgfWw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Gy0JKzyEApk/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEcgTyhlMA8=&rs=AOn4CLDBlt-GREDiH5BdZvVvyeiLDwV1Bw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Gy0JKzyEApk/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhHIE8oZTAP&rs=AOn4CLDTnk2tqruAPoPyjZqON9KEpIMnfA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Gy0JKzyEApk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhHIE8oZTAP&rs=AOn4CLA1JmZTub3Jwz7mj2HLZdepvvcv1g",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "REYNEP",
+        "id": "UCou4JeP0pBJlBkRCH5Vln1Q",
+        "url": "/@reynep"
+      }
+    },
+    {
+      "id": "mprF4MS3u08",
+      "setVideoId": "8A660A370EABB1D6",
+      "titleLong": "Arcs on the Complex Plane (2 of 4: Exploring circle properties) 11 minutes, 10 seconds",
+      "time": 670,
+      "timeShort": "11:10",
+      "timeLong": "11 minutes, 10 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/mprF4MS3u08/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB5KflCbpL5mJuVht8KARZMmrUFHA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/mprF4MS3u08/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA5zXaVAXeR-pWR6ajrDiQRUqUObg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/mprF4MS3u08/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAR6EIOI89W6zTzB7PIOwW3fO0pw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/mprF4MS3u08/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9qF-UomyZyFMuZICjDWJVdlAodw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "Gyz0_064j6E",
+      "setVideoId": "3A93F81E648E42C7",
+      "titleLong": "Arcs on the Complex Plane (3 of 4: Identifying length and direction) 8 minutes, 23 seconds",
+      "time": 503,
+      "timeShort": "8:23",
+      "timeLong": "8 minutes, 23 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Gyz0_064j6E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCC00daX0CssYOOKdDc9AjLx6mp4Q",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Gyz0_064j6E/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCokOQlrww4gSjjBklhteUPp1YjGA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Gyz0_064j6E/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWlJCIp1P-TcmF4ElmPaW4T6SNOA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Gyz0_064j6E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFmfX82vKcvxmckBD8MqWkK2m_oA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "sSVnoBYcHlQ",
+      "setVideoId": "156A5D106AC1F290",
+      "titleLong": "Arcs on the Complex Plane (4 of 4: Cartesian equation) 7 minutes, 4 seconds",
+      "time": 424,
+      "timeShort": "7:04",
+      "timeLong": "7 minutes, 4 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/sSVnoBYcHlQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCcWeAnIdls8S2YHsf425iECTQ7wg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/sSVnoBYcHlQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB4mfUiQObXGLH22DU5ERahrKGt-g",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/sSVnoBYcHlQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFTPV2_DV9sMjw0EhLdMFYkUkYvA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/sSVnoBYcHlQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATE77Yzoylf3RX_u9yr8Qg_F59qQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "j7beNHh5ee8",
+      "setVideoId": "8A05A42E773EFC61",
+      "titleLong": "Algebraic Approach for Major Arc (1 of 2: Foundational steps) 6 minutes, 43 seconds",
+      "time": 403,
+      "timeShort": "6:43",
+      "timeLong": "6 minutes, 43 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/j7beNHh5ee8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCAvJYw5PURGFGTYtGvnK04BL1pkw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/j7beNHh5ee8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDPbwQvNwCMMchOG2FvY_rIUsRncQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/j7beNHh5ee8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDB3XMaj3o-K-UCRhZ4siwFuMIUDw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/j7beNHh5ee8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCr7sl7NYn6BP2vxw3dqwIG2ZuoKw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "v7C9f32uPwM",
+      "setVideoId": "82C6F5DBD97B625D",
+      "titleLong": "Algebraic Approach for Major Arc (2 of 2: Identifying intercept & equation) 11 minutes, 51 seconds",
+      "time": 711,
+      "timeShort": "11:51",
+      "timeLong": "11 minutes, 51 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/v7C9f32uPwM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA4-rr__Zhk-_Snac9cl8lJKkocLw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/v7C9f32uPwM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDR6UpWX-WNSdG1lnut-AAWd09AWw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/v7C9f32uPwM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuG0BUShANkPKgfXVsK6ISacZLRw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/v7C9f32uPwM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqQgbFxSoIamlT8hWMKBeBYSNikg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "Ev1NfI5H47c",
+      "setVideoId": "89A8EB09DFEC407F",
+      "titleLong": "Manipulating Complex Numbers for Purely Real Results 11 minutes, 43 seconds",
+      "time": 703,
+      "timeShort": "11:43",
+      "timeLong": "11 minutes, 43 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Ev1NfI5H47c/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGsgayhrMA8=&rs=AOn4CLANxs-UCw1wtt3jKTMRm_Mcm2_KdQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ev1NfI5H47c/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGsgayhrMA8=&rs=AOn4CLCDRNtrmoZALs_D-WSy-jrXhU1KIA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ev1NfI5H47c/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhrIGsoazAP&rs=AOn4CLAZWWVXPIMT6AP7KoXaVm_UWcM8Hw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ev1NfI5H47c/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhrIGsoazAP&rs=AOn4CLAUXnHbOg8fNVS45NwwB3k_jdCcdA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "yFYW48Bkr1U",
+      "setVideoId": "5822180C0862BBFB",
+      "titleLong": "Sketching (z-1)÷(z-i) (1 of 2: When it's real) 9 minutes, 57 seconds",
+      "time": 597,
+      "timeShort": "9:57",
+      "timeLong": "9 minutes, 57 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/yFYW48Bkr1U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLATmjYaVZ0j9nDDcCr84raSVAYMog",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/yFYW48Bkr1U/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAO1J_OUf47jkaFhyw90l6Yc5ckjw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/yFYW48Bkr1U/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhx04_aEbplN_lpe7A68sO5N6C0g",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/yFYW48Bkr1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDnMVoRRIKF-wT2bUDsl_3bOwctQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "cIM08iQzRFg",
+      "setVideoId": "B4F255A47F02503B",
+      "titleLong": "Sketching (z-1)÷(z-i) (2 of 2: When it's imaginary) 11 minutes, 15 seconds",
+      "time": 675,
+      "timeShort": "11:15",
+      "timeLong": "11 minutes, 15 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/cIM08iQzRFg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBEntle7cumthQdtt7n53iNPOFTOQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cIM08iQzRFg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLANynyC2hz_71Lk0kvSEEY8Q6lIjA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cIM08iQzRFg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4WicwaVp_Dlj835wkRQkOckWBjA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cIM08iQzRFg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvV6atkAKdSsBGvF5QIHf0GixVRw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "lJKl4B2t0pk",
+      "setVideoId": "DFDCB647F4CEE97B",
+      "titleLong": "Eddie Woo on mathematics in schools - ABC 7:30 Report 7 minutes, 43 seconds",
+      "time": 463,
+      "timeShort": "7:43",
+      "timeLong": "7 minutes, 43 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/lJKl4B2t0pk/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGBsgICh_MA8=&rs=AOn4CLBtFilg97IgL9tOHEJLrs6jiRib7A",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lJKl4B2t0pk/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGBsgICh_MA8=&rs=AOn4CLAo8u5H-y0LeloGr1xT-G-hlqWpgQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lJKl4B2t0pk/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgbICAofzAP&rs=AOn4CLDt6piOA0I6cB_HfP_7Vo5FLfWFiw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lJKl4B2t0pk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgbICAofzAP&rs=AOn4CLCxBsDg3vbJ3tY6YUe3JXEWPsh_KQ",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Eddie Woo",
+        "id": "UCq0EGvLTyy-LLT1oUSO_0FQ",
+        "url": "/@misterwootube"
+      }
+    },
+    {
+      "id": "m_GG4He2QCo",
+      "setVideoId": "6D81CC69B0DFB66E",
+      "titleLong": "DMT & Complex Roots (1 of 4: Reviewing geometrical expression of arg equations) 7 minutes",
+      "time": 420,
+      "timeShort": "7:00",
+      "timeLong": "7 minutes",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/m_GG4He2QCo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAYsESXfHw_taihinwRfBV3sjxVJw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/m_GG4He2QCo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD4aR5SgjESRugJ9QBI422e3N2Krg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/m_GG4He2QCo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZgF206KwSzmYhBwbGM_E3O5OLbw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/m_GG4He2QCo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAF0xhGBfjLt0BowZxTUS5FSbtSTA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "Qha-Lsdj5xo",
+      "setVideoId": "CA230D2A2A40887E",
+      "titleLong": "De Moivre's Theorem 7 minutes, 27 seconds",
+      "time": 447,
+      "timeShort": "7:27",
+      "timeLong": "7 minutes, 27 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Qha-Lsdj5xo/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWShHMA8=&rs=AOn4CLCuTyhNQ5qhhSIGUUHp4s5mk8PEsQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Qha-Lsdj5xo/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWShHMA8=&rs=AOn4CLCfwsHc58goQ7cdCMkV4dgayl-dUg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Qha-Lsdj5xo/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFkoRzAP&rs=AOn4CLAd9rzuRRFcoqcnEKUgFRzUV8U1Yg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Qha-Lsdj5xo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFkoRzAP&rs=AOn4CLAS8puW1Lo2cpLkq0qb8_h91s-2hg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "FWj2BOO9WTg",
+      "setVideoId": "43106E8EA428AF88",
+      "titleLong": "DMT & Complex Roots (2 of 4: Using DMT to find roots of a complex polynomial) 11 minutes, 30 seconds",
+      "time": 690,
+      "timeShort": "11:30",
+      "timeLong": "11 minutes, 30 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/FWj2BOO9WTg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCFFqmYMJobhgs5sNVxWsINOGmKhQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/FWj2BOO9WTg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBMiFn5jDAXKSzadHK9x5-_gAZ_aA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/FWj2BOO9WTg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACoSf2efoeuz_K_A5wE94vfzOKDA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/FWj2BOO9WTg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDq7JSbxJOmdRkO0EeCs_Hd5q-MNA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "p46flbC5kvg",
+      "setVideoId": "C866C79375BFDCCE",
+      "titleLong": "DMT & Complex Roots (3 of 4: Using the fundamental theorem of algebra to justify number of roots) 7 minutes, 36 seconds",
+      "time": 456,
+      "timeShort": "7:36",
+      "timeLong": "7 minutes, 36 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/p46flbC5kvg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDUxXzLa0-PS-65bdXuBydihLjQVg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/p46flbC5kvg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDE0C9ybzHJ4mB1Kg1DoortaVNzQg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/p46flbC5kvg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBB-aqZbKLdptCFz9fw0LNlYQ3Tlg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/p46flbC5kvg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdh4a-Hz2AGW_DMasgz9-yGL8Pvw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "I16Ckaa2gWc",
+      "setVideoId": "87459259AE3CEE79",
+      "titleLong": "DMT & Complex Roots (4 of 4: Solving for roots of a complex number taking advantage of DMT) 6 minutes, 48 seconds",
+      "time": 408,
+      "timeShort": "6:48",
+      "timeLong": "6 minutes, 48 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/I16Ckaa2gWc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAgnarKwDWFmx9fG-nugVPK3IA06g",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/I16Ckaa2gWc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCOOLr5NIQZ_34ejkatnBkK-LMphQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/I16Ckaa2gWc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBs_pCDtyLNtI9A6fvWqBeYRQHJmw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/I16Ckaa2gWc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkaAWJKMkU1voeay-unuB36LEgEA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "ihJAbf8V9Yg",
+      "setVideoId": "B1C476977DC9FF01",
+      "titleLong": "Investigating de Moivre's Theorem (1 of 3: Why must we be cautious?) 12 minutes, 11 seconds",
+      "time": 731,
+      "timeShort": "12:11",
+      "timeLong": "12 minutes, 11 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/ihJAbf8V9Yg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCL2RxLDwp6vh6p_1w7DaRCSM8N0Q",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ihJAbf8V9Yg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC0j02ff3hi5QjXTkv1rsFco9gfRw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ihJAbf8V9Yg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwlAWS7XgVLdXBPgDnQq-4dTbUBg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ihJAbf8V9Yg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAH8cseEXaO9CqHgedCnLuPmpfNQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "p0Nfcg9BfbI",
+      "setVideoId": "F00C6BF363DE2160",
+      "titleLong": "Investigating de Moivre's Theorem (2 of 3: Infinite values for i-th powers?!) 8 minutes, 58 seconds",
+      "time": 538,
+      "timeShort": "8:58",
+      "timeLong": "8 minutes, 58 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/p0Nfcg9BfbI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDmw0eayHUD3zYDJrNhlV4XoBZJbw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/p0Nfcg9BfbI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCypZGXbQ-Zu5CL5j2uPuWqkHKexQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/p0Nfcg9BfbI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDK6KmhBUNlH4IwCx_1BpupszoEqA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/p0Nfcg9BfbI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwUgsLCyX4QOMN2mj5g3B66KVBVg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "Ih9xfnkUkGA",
+      "setVideoId": "0AA4C382BFCF0B51",
+      "titleLong": "Investigating de Moivre's Theorem (3 of 3: Proof by mathematical induction) 16 minutes",
+      "time": 960,
+      "timeShort": "16:00",
+      "timeLong": "16 minutes",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Ih9xfnkUkGA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBCDufcpLFLx6nbhyYPMik_MSZtNw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ih9xfnkUkGA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAnUgP8ephHeu9AYuNPqZaeQgp_Kg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ih9xfnkUkGA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNrf4Nm0Lhq2eZDiAG4xv7HA8FZg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ih9xfnkUkGA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClu6Ji3e4d2S53t10tN9yV8kDc4w",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "Rg0S-QoQlbk",
+      "setVideoId": "001F70D958CF5CDF",
+      "titleLong": "Angles in the Same Segment 9 minutes, 27 seconds",
+      "time": 567,
+      "timeShort": "9:27",
+      "timeLong": "9 minutes, 27 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Rg0S-QoQlbk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD9DGK986BQ8w1rTALwbTbEgiI4hw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Rg0S-QoQlbk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDbzvbefe71t40H3DbARrcgedcklg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Rg0S-QoQlbk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEAVczGeFda1pC7vr49XAk62dpLQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Rg0S-QoQlbk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyc-XXcuuATJAHz72IrGrcdMl1zg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "jX2Rx9805hw",
+      "setVideoId": "B095CC1DF295D96E",
+      "titleLong": "Complex Roots (1 of 5: Observing Complex Conjugate Root Theorem through seventh roots of unity) 11 minutes, 20 seconds",
+      "time": 680,
+      "timeShort": "11:20",
+      "timeLong": "11 minutes, 20 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/jX2Rx9805hw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC5FTRF9Sob9uNevovzaqpTvi8gxA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/jX2Rx9805hw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDyaj7sVbbxf8lTxuDfIWCrN4IEOg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/jX2Rx9805hw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRq5Y-reEAWYWc3nEt5ceIgbQaGw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/jX2Rx9805hw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqHJy6nTFs7kkxChOp2kKRo_v3Cg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "UfRxQPi3DQs",
+      "setVideoId": "7F7AA305E0E05BA7",
+      "titleLong": "Complex Roots (2 of 5: Using Trigonometrical Identities & Conjugates to solve an equation) 7 minutes, 26 seconds",
+      "time": 446,
+      "timeShort": "7:26",
+      "timeLong": "7 minutes, 26 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/UfRxQPi3DQs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA8b-4ZZIrOUMt94VgUiAZ7MZHk-A",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UfRxQPi3DQs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBr3ImRCqynU3uhQTmE7qkLqpAT0w",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UfRxQPi3DQs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIEAgYCCU2mw55dxelBW1WZMgyhw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UfRxQPi3DQs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgkVWJb3Dz17YGEMFq1bka_IeHkQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "jIgh0N6nBfs",
+      "setVideoId": "F7A0FC1A2F11B475",
+      "titleLong": "Complex Roots (3 of 5: Using DMT to solve an equation of roots of unity) 4 minutes, 20 seconds",
+      "time": 260,
+      "timeShort": "4:20",
+      "timeLong": "4 minutes, 20 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/jIgh0N6nBfs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUt_au7T-qHQ3o6vzGkhD20A0mNw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/jIgh0N6nBfs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAfUe2WQjD8VzMg3N7suPcF3YnzaQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/jIgh0N6nBfs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwfIbKMJcGeLd3wbwRZU8xyMcwww",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/jIgh0N6nBfs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_O6aDivZ6C1-iSNHT-sRiAoF3Tg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "l7Ww8OTfa5A",
+      "setVideoId": "D5B991BBF1451B47",
+      "titleLong": "Complex Roots (4 of 5: Using Polynomial Identities to prove unity identities) 7 minutes, 44 seconds",
+      "time": 464,
+      "timeShort": "7:44",
+      "timeLong": "7 minutes, 44 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/l7Ww8OTfa5A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCPz46_Onl4yicBH3iMKLOlqDJdFg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/l7Ww8OTfa5A/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCEefSkjMJjINhSWwKb6hTRiilVMg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/l7Ww8OTfa5A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4h2lKzMrv4NPKhQUrbXG9tfWDnA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/l7Ww8OTfa5A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWO_dUzFguAosjl5SVSi3EOJWrhA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "xJd9bP4w-Y0",
+      "setVideoId": "BF0E953A18287EBE",
+      "titleLong": "Complex Roots (5 of 5: Using Geometric Progression to find factors of ω^n - 1) 6 minutes, 2 seconds",
+      "time": 362,
+      "timeShort": "6:02",
+      "timeLong": "6 minutes, 2 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/xJd9bP4w-Y0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD2SECDaW3cUeHRXcps-UGUN-LAHg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/xJd9bP4w-Y0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDiRjIkhPwkXRSDnL_VejVIU8673g",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/xJd9bP4w-Y0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbWh0LVGZR6rkQVN35qK17KPUCKQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/xJd9bP4w-Y0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCf8FhF7ZW4xSe3IgTUf4iZcrCxjQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "KP4FI5LdxUA",
+      "setVideoId": "F74AF6A11ED568DC",
+      "titleLong": "Complex Conjugate Root Theorem (1 of 4: Using DMT and Polar Form to solve for Complex Roots) 10 minutes, 20 seconds",
+      "time": 620,
+      "timeShort": "10:20",
+      "timeLong": "10 minutes, 20 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/KP4FI5LdxUA/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWShVMA8=&rs=AOn4CLDcYKxmOzhDCeDMu5uF335YhUnuHg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/KP4FI5LdxUA/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWShVMA8=&rs=AOn4CLA4qxf-ch9CoNWHB6DD5WfuEKBelw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/KP4FI5LdxUA/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFkoVTAP&rs=AOn4CLBXSvtHMX-Bu7YOyH51VzxlcCvqyw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/KP4FI5LdxUA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFkoVTAP&rs=AOn4CLDQux37gvmF098TyjtFLHGK71EslQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "brLNFlSKOSs",
+      "setVideoId": "338820A76BC69098",
+      "titleLong": "Complex Conjugate Root Theorem (2 of 4: Introduction to the Conjugate Root Theorem) 12 minutes, 22 seconds",
+      "time": 742,
+      "timeShort": "12:22",
+      "timeLong": "12 minutes, 22 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/brLNFlSKOSs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBSaBJ2KyRTi0KmwzuzhZl-CMX3Dg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/brLNFlSKOSs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAvUtyWBoKVB3_A5AI3IGGpJRZqKQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/brLNFlSKOSs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDloO4po4re2-xh5qSYq8IBzr5vyg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/brLNFlSKOSs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw4eSezMAlfKzMOeFvO4qkVGYaKg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "pg9WP6FS7pg",
+      "setVideoId": "29F91CA139D32DD9",
+      "titleLong": "Complex Conjugate Root Theorem (3 of 4: Geometrical Shape represented by Conjugate Root Theorem) 10 minutes, 29 seconds",
+      "time": 629,
+      "timeShort": "10:29",
+      "timeLong": "10 minutes, 29 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/pg9WP6FS7pg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDKyNUQx2q5LwDmE9gndw43dUpYOg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pg9WP6FS7pg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBnVjPIPcziPBTaUv7wBRQURW0OHA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pg9WP6FS7pg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0a_1SqJtnYwLU6GWzOR0v3_YMNA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pg9WP6FS7pg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCNTIFsEJTBeMWB_be9JI_25z8Vg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "EITMr4vxdI0",
+      "setVideoId": "1F1574824B1CED7A",
+      "titleLong": "Complex Conjugate Root Theorem (1 of 2: Conjugate of a sum) 11 minutes, 13 seconds",
+      "time": 673,
+      "timeShort": "11:13",
+      "timeLong": "11 minutes, 13 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/EITMr4vxdI0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAFfqgsIY0AbZUMTXrlY4wwoaZe-w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/EITMr4vxdI0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA3lBp7xc8ze4Ow3M3h1je73OHPTw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/EITMr4vxdI0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdRzgAKs3qJbA_fyTnA4GubLY0Nw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/EITMr4vxdI0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB83_EKTk5XbDvp8MIxa9MtKsoQHA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "MNTx3BVkaDI",
+      "setVideoId": "C5A39AE6B29E394B",
+      "titleLong": "Complex Conjugate Root Theorem (2 of 2: Other conjugate properties) 11 minutes, 5 seconds",
+      "time": 665,
+      "timeShort": "11:05",
+      "timeLong": "11 minutes, 5 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/MNTx3BVkaDI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAkVs1wHVjhrIiEMCE0-_6HVVbFbg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MNTx3BVkaDI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCQxvHhlFyBcVQupH0N2DWwBS6fzw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MNTx3BVkaDI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDd4zDZC83BSIz4b164nEiRFff4SQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MNTx3BVkaDI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4ii72qdn7LhnEgONWO02vjDbuZQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "rY7soX46gk8",
+      "setVideoId": "48C371CB09CF1247",
+      "titleLong": "Complex Conjugate Root Theorem (Formal Proof) 11 minutes, 1 second",
+      "time": 661,
+      "timeShort": "11:01",
+      "timeLong": "11 minutes, 1 second",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/rY7soX46gk8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLApASvav8MX6_98fVfC68EBITbpQg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/rY7soX46gk8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCGbwswF2jVx8Y6diNsjDmC5QGWFA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/rY7soX46gk8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8tUYwaq48MPYlkAoIEcVCzDpLAA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/rY7soX46gk8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZYJTxyh0FWvlEnStje5iVSlM38Q",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "egWUEMfroZE",
+      "setVideoId": "5A48A223F5E0F1CD",
+      "titleLong": "DMT and Trig Identities (1 of 4: Noticing a pattern in natural numbers) 4 minutes, 35 seconds",
+      "time": 275,
+      "timeShort": "4:35",
+      "timeLong": "4 minutes, 35 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/egWUEMfroZE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLByxbthfzFab8e2zA_FrXLUgHbf6g",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/egWUEMfroZE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAued0Iw9055qH1o7HOIHR4YYC3TQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/egWUEMfroZE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8CiU6mznb2_kG08S0cxCJFiDy2g",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/egWUEMfroZE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMEdrkIkzlDAZxk5UkFhPfNT3_UQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "owS7yBpOq_o",
+      "setVideoId": "0B08BEDCDEDB321B",
+      "titleLong": "DMT and Trig Identities (2 of 4: Using Trig expansion to find the sine triple angle formula) 8 minutes, 2 seconds",
+      "time": 482,
+      "timeShort": "8:02",
+      "timeLong": "8 minutes, 2 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/owS7yBpOq_o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBV4vu6jOk5-bbW4iEvT94g7HfOmA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/owS7yBpOq_o/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBOglIK3Co-1xMoN0oAQvYzeoztjg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/owS7yBpOq_o/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7C6Rp20-ABn1cJqoxZbEKdvRFSQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/owS7yBpOq_o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDa5WBIWVJobEAjFU5eUyEN_vGAPA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "35jozf14cc0",
+      "setVideoId": "0623D059463E2810",
+      "titleLong": "DMT and Trig Identities (3 of 4: Using DMT and Polynomials to verify triple angle formula for sine) 7 minutes, 42 seconds",
+      "time": 462,
+      "timeShort": "7:42",
+      "timeLong": "7 minutes, 42 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/35jozf14cc0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB0YdrgCg5VJ3_Wm5oUHysqIUqqOg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/35jozf14cc0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBtjT6WZ8zGeRLiOTyOVPPIB11N6g",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/35jozf14cc0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdMsGPsuDVtRXjWYew-oXayAyKOg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/35jozf14cc0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClPcxNc8aWQN83wWCPMqz9jbMvlQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "KMrqXxcWHT8",
+      "setVideoId": "A57D16157EFDE1D4",
+      "titleLong": "Polynomials with Trigonometric Solutions (1 of 3: de Moivre's Theorem) 18 minutes",
+      "time": 1132,
+      "timeShort": "18:52",
+      "timeLong": "18 minutes, 52 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/KMrqXxcWHT8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBOfcb0YebX5LGMQV-wq16_3AaKBQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/KMrqXxcWHT8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAkNp85lvw0MULLvMuoIBpo21Rggw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/KMrqXxcWHT8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcjUVM_LY9KkkzLPl1htSGMCgIzg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/KMrqXxcWHT8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTLP-mrsv7W7j34l_4VsmrBAgqjw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "oierK_liaA4",
+      "setVideoId": "54C7F7FCACF905D9",
+      "titleLong": "DMT and Trig Identities (2 of 4: Using De Moivre's Theorem and Binomial Expansions) 10 minutes, 54 seconds",
+      "time": 654,
+      "timeShort": "10:54",
+      "timeLong": "10 minutes, 54 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/oierK_liaA4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBYvUw7N8Aj6KRTzLRSd-ylSXuHjQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/oierK_liaA4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDes86Yo08uxaWn5PBXMFRaS1B5mw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/oierK_liaA4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNBuhhar2zf-R1sX5grc9tQg_X5g",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/oierK_liaA4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBji0kQBCrC9XSzGgSZJ2N8mEjSEw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "WCnGoCVkkaM",
+      "setVideoId": "DA7E4573F7135B9F",
+      "titleLong": "DMT and Trig Identities (4 of 4: Using Trig Identities to solve polynomial equations) 11 minutes, 44 seconds",
+      "time": 704,
+      "timeShort": "11:44",
+      "timeLong": "11 minutes, 44 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/WCnGoCVkkaM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBMWfNgw6cfmcEQ-2qsL8fh4RkDoQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WCnGoCVkkaM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDjKa2YzgD1SeujAMBZGQ882yRxeg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WCnGoCVkkaM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLTJymP5Uopsrg1WyxfrPIZUVRyQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WCnGoCVkkaM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ4FbhNRtIDc8QPeCqW6-5dn0oDQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "EnfhYp4o20w",
+      "setVideoId": "CFF4C4148D858ABD",
+      "titleLong": "Polynomials with Trigonometric Solutions (2 of 3: Substitute & solve) 16 minutes",
+      "time": 970,
+      "timeShort": "16:10",
+      "timeLong": "16 minutes, 10 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/EnfhYp4o20w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBpLGTYFNbCU_n7QGGTNzyeG_1V7w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/EnfhYp4o20w/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCMzwmRzHpr5zd0qILG3D_GpE3Aeg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/EnfhYp4o20w/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAO1VaDyx2qwTyVM03V3cQysJ7sAw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/EnfhYp4o20w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQU_8cu302aafbwmhB3o6Q8lW6Iw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "UGHn-z5QpUU",
+      "setVideoId": "767816D0835C54EF",
+      "titleLong": "Polynomials with Trigonometric Solutions (3 of 3: Simplifying with identities) 18 minutes",
+      "time": 1124,
+      "timeShort": "18:44",
+      "timeLong": "18 minutes, 44 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/UGHn-z5QpUU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBovUFn3agspqnou-oG89cxuCj_vw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UGHn-z5QpUU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA3lbS5OnLJ7fed6OLVGUa2dagyEw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UGHn-z5QpUU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3BX6nR1IBCjggqghqbOBceDwJ4A",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UGHn-z5QpUU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByGobs-qIox31izMoU9wzVSAle4g",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "o6OhGSMbGq4",
+      "setVideoId": "47EB371A12DE543C",
+      "titleLong": "DMT and Trig Identities (3 of 4: Deriving tan expression from cos and sin) 7 minutes, 52 seconds",
+      "time": 472,
+      "timeShort": "7:52",
+      "timeLong": "7 minutes, 52 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/o6OhGSMbGq4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDu1EZNdt_QNJ4taaaoMBANi8pUcg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/o6OhGSMbGq4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAP9WU0XeyO7eA8IjBWFlK8R9f_hg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/o6OhGSMbGq4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrfSTu9SttcpKBa9S0AOdNH7MMgQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/o6OhGSMbGq4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnO-jHpQc3dBSwQAeORCLxQKi9Wg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "Es4qR0kGbkY",
+      "setVideoId": "88545EF4FF027A7E",
+      "titleLong": "DMT and Trig Identities (4 of 4: Using Multi-angle formula to solve polynomials) 12 minutes, 45 seconds",
+      "time": 765,
+      "timeShort": "12:45",
+      "timeLong": "12 minutes, 45 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Es4qR0kGbkY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB_mJAFzQlRu8RVgkqOMXHjLnWzAg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Es4qR0kGbkY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC9zWf9fWhR-Ezg0agOgeyxj_H0iA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Es4qR0kGbkY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5escvSpS97TVxhuDMDsuzOyJyEw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Es4qR0kGbkY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArw_w4b-RZsRsdPbAy_CUChvRV7w",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "OTo6O2Qpac0",
+      "setVideoId": "45E92519E504FC34",
+      "titleLong": "Solving Higher Degree Trigonometric Equations (1 of 3: Initial use of de Moivre's Theorem) 10 minutes, 28 seconds",
+      "time": 628,
+      "timeShort": "10:28",
+      "timeLong": "10 minutes, 28 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/OTo6O2Qpac0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBsBCQOWt28HG1_ewRmVaSPBUEDoQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/OTo6O2Qpac0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDZ6YLHxRiTWIlINoSyXPnVjlvQPw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/OTo6O2Qpac0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABn5Xu_jdIYIFIDjvDeBsoCyNoUw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/OTo6O2Qpac0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgu5N2RbMjEsUJ--a5sVPj646QLA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "D0GXbio2oxc",
+      "setVideoId": "2394F5642A329D16",
+      "titleLong": "Solving Higher Degree Trigonometric Equations (2 of 3: Combining results into proof) 8 minutes, 14 seconds",
+      "time": 494,
+      "timeShort": "8:14",
+      "timeLong": "8 minutes, 14 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/D0GXbio2oxc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAmS_om6StWwIUekdoha5pqowU58Q",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/D0GXbio2oxc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA55yz72WYw1R-gai1avGOaFmybcQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/D0GXbio2oxc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjJ6oHwJt84SnKcdcI2cjHWtpgcg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/D0GXbio2oxc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBm1Yj3zyHARZ9Z5g0Sx1fKjF04cw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "PGy-Iw67XQ4",
+      "setVideoId": "72173FA9A8265A05",
+      "titleLong": "Solving Higher Degree Trigonometric Equations (3 of 3: Finding solutions) 9 minutes, 56 seconds",
+      "time": 596,
+      "timeShort": "9:56",
+      "timeLong": "9 minutes, 56 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/PGy-Iw67XQ4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCRqgHEEMOlMDsY8JMwHUJzZjqunw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/PGy-Iw67XQ4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB9Cp6n34dPI1P4Y6_peI--XjukNQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/PGy-Iw67XQ4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkUD1QetyzDDrgrtGLwLVnJLvEQA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/PGy-Iw67XQ4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASdYcepDZt2DDaKADFWw84NlkKPw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "_QqJOZV3_fA",
+      "setVideoId": "78C93B02D530B1B5",
+      "titleLong": "Equations with Complex Solutions (1 of 2: Relation to square roots) 7 minutes, 32 seconds",
+      "time": 452,
+      "timeShort": "7:32",
+      "timeLong": "7 minutes, 32 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/_QqJOZV3_fA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCtXZQsGdJKp_Lf36RCVz8gbhEx1w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_QqJOZV3_fA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBgW56uv_OG_qUT7skolT6Tgqyx6Q",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_QqJOZV3_fA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkBdYuL1l2zKDs4CYvFEFbf9PHFA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_QqJOZV3_fA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD41dnBu7JF5-5TgySqlRhuj9UeNA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "FeFNkVDfv6Q",
+      "setVideoId": "4AD90F5A6B37E6CB",
+      "titleLong": "Equations with Complex Solutions (2 of 2: Solving & factorising) 11 minutes, 29 seconds",
+      "time": 689,
+      "timeShort": "11:29",
+      "timeLong": "11 minutes, 29 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/FeFNkVDfv6Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCKweMOX9L4kzxsus4zX34VeLQ-Fw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/FeFNkVDfv6Q/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB4TEUYSHYrg2MCLL7VHa93v2Luaw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/FeFNkVDfv6Q/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9RT5zzJxPAKhQnDWx9fXbELPcDg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/FeFNkVDfv6Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5N6d9LiXeIQ4asIMhGdsrbC3Tkw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "m45ypgAZ734",
+      "setVideoId": "52BE0100212DCDD7",
+      "titleLong": "Roots of Unity (1 of 2: Evaluating the cube roots) 13 minutes, 11 seconds",
+      "time": 791,
+      "timeShort": "13:11",
+      "timeLong": "13 minutes, 11 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/m45ypgAZ734/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBrZ1ad9QmYu_ConhVregkjoXWIsQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/m45ypgAZ734/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDWUeMRhFvuxJ1jF8Qi3Hb4LdIQ6A",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/m45ypgAZ734/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQnx1HQel9sH8LEMIpKhTVwPWCmQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/m45ypgAZ734/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYwDrsHmzhVQGF5D8j7VJLilhP5A",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "k8FQLVj7_bU",
+      "setVideoId": "94230EA69951FD6B",
+      "titleLong": "Linear Factorisation of Polynomials (1 of 2: Working in the Complex Field) 5 minutes, 6 seconds",
+      "time": 306,
+      "timeShort": "5:06",
+      "timeLong": "5 minutes, 6 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/k8FQLVj7_bU/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWihPMA8=&rs=AOn4CLALO2-zsESKjULbWkMcjjcTSwGUFw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/k8FQLVj7_bU/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWihPMA8=&rs=AOn4CLDZ01_6hW-yrr3eMc91WlqSBwXbBA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/k8FQLVj7_bU/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFooTzAP&rs=AOn4CLBAu-d-2LgK_avalO0P2rLjGTVU2Q",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/k8FQLVj7_bU/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFooTzAP&rs=AOn4CLBFQ8MOJ2PLFdPNz867AD6Lt1UIeQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "VRKII6xfZU4",
+      "setVideoId": "DDE4B6DD33D0F533",
+      "titleLong": "Factorisation with Complex Numbers 11 minutes, 42 seconds",
+      "time": 702,
+      "timeShort": "11:42",
+      "timeLong": "11 minutes, 42 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/VRKII6xfZU4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDw8BueOPFQt-3eECbcENjNdKPrxg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VRKII6xfZU4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB4iDJcrZmlCL0_IvGE_eIB4xStfw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VRKII6xfZU4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmeIQsaInaKt1rDJtdQ60z-mt3WQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VRKII6xfZU4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPTnXNckS3AlL-_-Hu7A-OObdypQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "fmSR8TOZx54",
+      "setVideoId": "B4AD9CCEC325F276",
+      "titleLong": "Linear Factorisation of Polynomials (2 of 2: Introductory example) 7 minutes, 2 seconds",
+      "time": 422,
+      "timeShort": "7:02",
+      "timeLong": "7 minutes, 2 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/fmSR8TOZx54/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCYtEF_dA1Tq8OV0_cW0aUrWpQwIw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/fmSR8TOZx54/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDE_VawHwwTdRmDHilrKT2E8catNg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/fmSR8TOZx54/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeV3ncns48LxoSSbEg2i6L7y4SMg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/fmSR8TOZx54/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcQaVRXh4GLVFSIWKYsoMDFNKtnQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "YtHMsJXz-V0",
+      "setVideoId": "02C7BADC48A5413A",
+      "titleLong": "Complex Polynomial Identity Question (1 of 4: Quadratic factors) 13 minutes, 45 seconds",
+      "time": 825,
+      "timeShort": "13:45",
+      "timeLong": "13 minutes, 45 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/YtHMsJXz-V0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAEq9qFDrfOBXjvWiWqssMqomNZyw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/YtHMsJXz-V0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAY6woI0sR6qPhWAZjE6IiQ3ig7Fw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/YtHMsJXz-V0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJhC5kp4o8T_RH9YpRK7jKK2dyDA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/YtHMsJXz-V0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-39cYCViy40bCht39R5XETIFU-g",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    }
+  ]
+}

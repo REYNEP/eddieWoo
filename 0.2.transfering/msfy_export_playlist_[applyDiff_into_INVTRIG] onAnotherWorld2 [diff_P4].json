@@ -1,0 +1,3130 @@
+{
+  "id": "PLR0j6NckpKjxuYbk3MgTtH9NTO_2yGt2W",
+  "title": "[applyDiff_into_INVTRIG] onAnotherWorld2 [diff_P4]",
+  "description": "1-8. Inverse Functions in General\n\n9-15. Graphing sin⁻¹(x), cos⁻¹(x), tan⁻¹(x)\n    & mixing sin⁻¹(sinx) \n    - [others are shown later]\n\n16-19. Trynna Differentiate sin⁻¹(x)\n  - DTIYS 😜\n  - after 18th V, 'Props of INV. FN (2of3)'\n  - don't see solution before U try for 1Hour\n  - Consider thinking in terms of 'ORIGINAL WORLD & INVERSE WORLD' like eddie did\n\n20. Function vs Relations\n\n21-26. Scaling, Shifting/Translating, Reflecting INV_TRIG_FN\n\n27-44. More Compound, [after sin⁻¹(sinx)]\n    - 27. sin⁻¹(x) + cos⁻¹(x)\n\n45-60. moreGraphing:- Squared/Root fn\n    - Powers of FN, Multiplying FN\n    - Reciprocal FN / [Dividing Intro]\n\n61-67. DIFFERENTIATION only\n\n68. Guitar Gear\n69. Count on me\n\n70-75. [Looking Back] General Solution for NOT invTrig\n76. Graphing/Viz Complicated argument [inside invTrig Fn]\n\n77-89. Mixing more TRIG-invTrig\nThinking in Terms of Triangles\n    - Try it yourself. Every Combo....\n    - Before eddie reveals the answer\n    - and think about the shape/Graph\n    - use GeoGebra/Desmos if you want to\n    - ALL COMPOUND INV_TRIG Graphs:-\n    - https://www.milefoot.com/math/trig/33compositions.htm\n\n90-98. General Solutions EXT\n\n99-100. Looking Backwards, Once again Differentiation",
+  "numVideos": 100,
+  "isEditable": true,
+  "canReorder": true,
+  "channel": {
+    "name": "REYNEP",
+    "id": "UCou4JeP0pBJlBkRCH5Vln1Q",
+    "url": "/@reynep"
+  },
+  "privacy": {
+    "value": 1,
+    "type": "public",
+    "icon": "PRIVACY_PUBLIC"
+  },
+  "videos": [
+    {
+      "id": "1BMO80jha3U",
+      "setVideoId": "56B44F6D10557CC6",
+      "titleLong": "Inverse Functions (1 of 4: Introduction via trigonometry) 8 minutes, 2 seconds",
+      "time": 482,
+      "timeShort": "8:02",
+      "timeLong": "8 minutes, 2 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/1BMO80jha3U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBTXd7Ux2KvAVlP1RQXOmLH9oIXLQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/1BMO80jha3U/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDJaxQ45PZwstnHXrY6UozvKLnvfA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/1BMO80jha3U/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHtv6Er8dWxA_Bkr-qqEdJ0Hdiog",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/1BMO80jha3U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-mtcNXb0C43EyzA0NPSC50IZw7g",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "oskfY7goQ58",
+      "setVideoId": "289F4A46DF0A30D2",
+      "titleLong": "Inverse Functions (2 of 4: Noticing the visual relationship) 12 minutes, 18 seconds",
+      "time": 738,
+      "timeShort": "12:18",
+      "timeLong": "12 minutes, 18 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/oskfY7goQ58/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCtauukWv8k4tpWKaQTpPpiExKRYw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/oskfY7goQ58/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBHyzmI1AjPfLukYbfcp3LnEVJLYA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/oskfY7goQ58/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIfYFejBb59tHuq27PbJFomr2kJQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/oskfY7goQ58/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXMcgLeIyuzqnE7xoOnAPRJc8x9w",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "SG4Hza8d22o",
+      "setVideoId": "017208FAA85233F9",
+      "titleLong": "Inverse Functions (2 of 4: Finding the Inverse and the geometrical properties of Inverse Function) 6 minutes, 29 seconds",
+      "time": 389,
+      "timeShort": "6:29",
+      "timeLong": "6 minutes, 29 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/SG4Hza8d22o/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgUyhAMA8=&rs=AOn4CLAkitsjDHlYLdW0a2_Z5SvsNBQANQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SG4Hza8d22o/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgUyhAMA8=&rs=AOn4CLCamC3EnHhHqobhzRNCSUdWmKjJNg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SG4Hza8d22o/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFMoQDAP&rs=AOn4CLCl9zQu1dyvF6zdlq7QT2bQClW1yA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SG4Hza8d22o/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFMoQDAP&rs=AOn4CLC9MLqsuOLMwX06qIsHl67poeKxWA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "8Fp06c7Wz0M",
+      "setVideoId": "52152B4946C2F73F",
+      "titleLong": "Inverse Functions (3 of 4: Mutual inverses) 8 minutes, 5 seconds",
+      "time": 485,
+      "timeShort": "8:05",
+      "timeLong": "8 minutes, 5 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/8Fp06c7Wz0M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCg3XueHs9xYUZulhfKxFapOombVw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/8Fp06c7Wz0M/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD31CRCBMDTqltPhZdNDri7NM6X-A",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/8Fp06c7Wz0M/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADRTGpN6n0O0mM5IzL6K5RpwAcOw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/8Fp06c7Wz0M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBExa5Z7nCyde5SX55cmuLnuWjlLQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "nJ_NhrtWZag",
+      "setVideoId": "090796A75D153932",
+      "titleLong": "Inverse Functions (4 of 4: Restricting the domain) 8 minutes, 11 seconds",
+      "time": 491,
+      "timeShort": "8:11",
+      "timeLong": "8 minutes, 11 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/nJ_NhrtWZag/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCQMoyrLvXGEc-TIl9YVDmSiHw_1Q",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/nJ_NhrtWZag/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCaoXDuj8MaAUd6cElr8yhRhscwgQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/nJ_NhrtWZag/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsJkjNHkzM4lRypURi9xcjvWKKOQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/nJ_NhrtWZag/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDq_eMJdbMa4CJxDYrIe5QlL-e0ig",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "b79e-mN1PZs",
+      "setVideoId": "532BB0B422FBC7EC",
+      "titleLong": "Graphing Functions & Their Inverses 8 minutes, 51 seconds",
+      "time": 531,
+      "timeShort": "8:51",
+      "timeLong": "8 minutes, 51 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/b79e-mN1PZs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCCTb7mm2DWRx8CQCXhCMcJu945EQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/b79e-mN1PZs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC-McdGXQy_DfkztH6CkS8YT-7h9w",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/b79e-mN1PZs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVd6ZGQSCQgB9MZNVoxVg1PtyQOA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/b79e-mN1PZs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADh5QjK8SwHrswiyaE0ljVu-_0aQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "JCtJrqM6izc",
+      "setVideoId": "CACDD466B3ED1565",
+      "titleLong": "Geometric Properties of Inverse Functions 5 minutes, 35 seconds",
+      "time": 335,
+      "timeShort": "5:35",
+      "timeLong": "5 minutes, 35 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/JCtJrqM6izc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBLFthf19zQ4yXNx69bhc07YjHP0Q",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JCtJrqM6izc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLATPZ_M1PpV3BYUwvYtfd_W2LlZMQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JCtJrqM6izc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4mTaX68zJQ2u4i7AKA5oGLodWSQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JCtJrqM6izc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1PU6J-CAzcIFEA_abxfluQ9ee6w",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "ZnZqB5Z75zI",
+      "setVideoId": "DFDCB647F4CEE97B",
+      "titleLong": "Quicksilver Saves Everyone - Sweet Dreams - X-Men: Apocalypse (2016) Movie Clip HD 3 minutes, 13 seconds",
+      "time": 193,
+      "timeShort": "3:13",
+      "timeLong": "3 minutes, 13 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/ZnZqB5Z75zI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCGZe1S8WmkcdjPceyp5NGiqHGMnA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZnZqB5Z75zI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCB46LVn5UdbY7SXT5cqo3X8v5VuA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZnZqB5Z75zI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_yd89F_rUAoYT7xpQCw7a4NBw3A",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZnZqB5Z75zI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZ4NRJbb3x25WboZ6yM5HmHbx_Sw",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "TopMovieClips",
+        "id": "UClVbhSLxwws-KSsPKz135bw",
+        "url": "/@topmovieclips5056"
+      }
+    },
+    {
+      "id": "7JXMfs7Mg-8",
+      "setVideoId": "9495DFD78D359043",
+      "titleLong": "Inverse Trigonometric Functions (1 of 4: Choosing a Domain for the Inverse of sine) 8 minutes, 11 seconds",
+      "time": 491,
+      "timeShort": "8:11",
+      "timeLong": "8 minutes, 11 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/7JXMfs7Mg-8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC4qFeHsD2jDhwrFr4SvErh8Pjawg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7JXMfs7Mg-8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCbLftURwsQme_qliFKdkuEADmtAQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7JXMfs7Mg-8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiiiBvpqn9IjZjD2T9sA-hWlD8nw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7JXMfs7Mg-8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOauUqLJaROGN2lPwJaAeyI5w-eg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "yfOmDk2ybww",
+      "setVideoId": "F63CD4D04198B046",
+      "titleLong": "Inverse Trigonometric Functions (2 of 4: Justifying the Choice of Domain) 8 minutes, 2 seconds",
+      "time": 482,
+      "timeShort": "8:02",
+      "timeLong": "8 minutes, 2 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/yfOmDk2ybww/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA-F7WtKwsD8VXfWzk9wozJCs_RTA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/yfOmDk2ybww/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCvGjHvSPZCKGn66QnaggZPE7ythA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/yfOmDk2ybww/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCzzGJV216nOw4vxNWQxDonEnIkQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/yfOmDk2ybww/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABFltN0Lf5qQafkBERot-HjlV2Cg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "9ZHYD4eFh6o",
+      "setVideoId": "476B0DC25D7DEE8A",
+      "titleLong": "Functions, Domains and Fussy Eaters 11 minutes, 27 seconds",
+      "time": 687,
+      "timeShort": "11:27",
+      "timeLong": "11 minutes, 27 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/9ZHYD4eFh6o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC2WPsC-YwI2IbIr1LUPzUaz9yxCA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9ZHYD4eFh6o/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBV5qRXYWciYtRhCNkS9XtpCWXR5w",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9ZHYD4eFh6o/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCn70VQObmHrSGqPCdZAuCoteNAIg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9ZHYD4eFh6o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7u0yvruabM5qr2_N8feTYGRaJ_A",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "Ld6C7U151SQ",
+      "setVideoId": "D0A0EF93DCE5742B",
+      "titleLong": "Interpreting sin¯¹(cos x) 1 minute, 49 seconds",
+      "time": 109,
+      "timeShort": "1:49",
+      "timeLong": "1 minute, 49 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Ld6C7U151SQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBWaTfvjhtdXHdkVX2zxlTW9FkMsw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ld6C7U151SQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDG9_RFdF5aHZz8-_-ALX8vjaTvew",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ld6C7U151SQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFgmGsJWkYAUq9zQKAmg9pbkXT8w",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ld6C7U151SQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGbo7-SJ9DGbBgkI2p0hM0MENz1g",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "fXNcPjWvf9o",
+      "setVideoId": "984C584B086AA6D2",
+      "titleLong": "Inverse Trigonometric Functions (3 of 4: Determining the domain of cos¯¹x and tan¯¹x) 7 minutes, 32 seconds",
+      "time": 452,
+      "timeShort": "7:32",
+      "timeLong": "7 minutes, 32 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/fXNcPjWvf9o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCvxXDE56zttrf85ios-ndHSaw15A",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/fXNcPjWvf9o/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBiaBkZgIZ0QQhck_cyHb_0kkuitA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/fXNcPjWvf9o/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDx6ZaL5wfG90Da2GCzv8AWxaoCmw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/fXNcPjWvf9o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_AeyxemWmUWzFOqV94Eq-3zeVCA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "R148LmmJdq8",
+      "setVideoId": "30892D90EC0C5586",
+      "titleLong": "Inverse Trigonometric Functions: tan¯¹(x) 6 minutes, 39 seconds",
+      "time": 399,
+      "timeShort": "6:39",
+      "timeLong": "6 minutes, 39 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/R148LmmJdq8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDtIHy8EnwFlJo2qw71phkOm3WZOw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/R148LmmJdq8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA-yLGo8QNxOJ8ClwKK_Aaq-nBayQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/R148LmmJdq8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACcuA4Q8RqWndHEY8CE90IVmXL3w",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/R148LmmJdq8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4lG8m4O8N6VbsKdcrKq2zA8nbGQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "Vr2tdEi2Twg",
+      "setVideoId": "5396A0119349808E",
+      "titleLong": "Inverse Trigonometric Functions (4 of 4: Graphing the Shape of the inverse Trig Functions) 4 minutes, 9 seconds",
+      "time": 249,
+      "timeShort": "4:09",
+      "timeLong": "4 minutes, 9 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Vr2tdEi2Twg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBiESX0wvbtkL-x1rG-9JZJhrRWfg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Vr2tdEi2Twg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAfT371WmiTDtUwigOMtEUIlD2iJw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Vr2tdEi2Twg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMHabnEHiuYdz8KqcdnPmcOemi2w",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Vr2tdEi2Twg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBv5MRzBYBqGQwrbTgCYO6Mg-C9iw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "NTWI1a4xE-4",
+      "setVideoId": "748EE8094DE58F87",
+      "titleLong": "What it means to be human 1 minute, 30 seconds",
+      "time": 90,
+      "timeShort": "1:30",
+      "timeLong": "1 minute, 30 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/NTWI1a4xE-4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCuunzwHEQGFnC9SiW-Q2l4vEB-xQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/NTWI1a4xE-4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCvAFrMZ1tPxCQNj7CTK23xJT9A1A",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/NTWI1a4xE-4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9RkYGwXMj9LLpBKuqlWzjBClIvg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/NTWI1a4xE-4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNMJjJ1RV8TW50zyOqJ8ALEIO7Xw",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Eddie Woo",
+        "id": "UCq0EGvLTyy-LLT1oUSO_0FQ",
+        "url": "/@misterwootube"
+      }
+    },
+    {
+      "id": "Xx8UxNprQtw",
+      "setVideoId": "DAA551CF700844C3",
+      "titleLong": "Introduction to Inverse Trig Functions (1 of 2): Why a whole new topic? 6 minutes, 4 seconds",
+      "time": 364,
+      "timeShort": "6:04",
+      "timeLong": "6 minutes, 4 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Xx8UxNprQtw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAMrNjCmzTZxvuMqo_XWEJ5F2_C5w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Xx8UxNprQtw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDzLovG1ot2YkF0J9zg2Awe-RjiTg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Xx8UxNprQtw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCsVavD6P_PI13RvKpa6YxieZxUg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Xx8UxNprQtw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxaoD8TrsRDHQlx5iSKfVHE9oHVg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "0zqNvswuVvE",
+      "setVideoId": "5A65CE115B87358D",
+      "titleLong": "Properties of Inverse Functions (2 of 3: Relationship of derivatives of the original and inverse) 10 minutes, 31 seconds",
+      "time": 631,
+      "timeShort": "10:31",
+      "timeLong": "10 minutes, 31 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/0zqNvswuVvE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDbVPu4XZxAV1XRv7UPkE6FhinF5A",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/0zqNvswuVvE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCC_MTJRCwUvuwSJPRsj2Nue1IKlg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/0zqNvswuVvE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDf2U9uUqWDiA0kTQ1COqZDejUABQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/0zqNvswuVvE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB41vPXhJ9xAx7B7Rj6_EO6VtGjRQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "TNWO64gslUk",
+      "setVideoId": "D4A29206F871F2D6",
+      "titleLong": "For All Mankind — Helios Recruitment | Season 4 | Apple TV 1 minute, 9 seconds",
+      "time": 69,
+      "timeShort": "1:09",
+      "timeLong": "1 minute, 9 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/TNWO64gslUk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAIqdJhF8GuknXsRo_duaSe89UwTg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TNWO64gslUk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDtb5TLqkrDN-lJa98RILynF04l-w",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TNWO64gslUk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGrIcDQlIeOauPiRKV5DSjkbyQBA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TNWO64gslUk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRLyrwFTIFWOPhEiZ6dJuIA4rNFw",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Apple TV",
+        "id": "UC1Myj674wRVXB9I4c6Hm5zA",
+        "url": "/@AppleTV"
+      }
+    },
+    {
+      "id": "BO4-EtuYgb8",
+      "setVideoId": "21D2A4324C732A32",
+      "titleLong": "Differentiating sin inverse x by Considering Domain 10 minutes, 22 seconds",
+      "time": 622,
+      "timeShort": "10:22",
+      "timeLong": "10 minutes, 22 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/BO4-EtuYgb8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAEYbHhy02YaXL4ZNYgQshQSoQ00Q",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BO4-EtuYgb8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDLRkcRtTGdP0JThW4KZGIewvRmoA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BO4-EtuYgb8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4n0OELJ3VMGUCYU9rFcipWmKhyQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BO4-EtuYgb8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpG3htyYARsb3D3DDdF2SyhPuJbQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "gszP_i8A-zc",
+      "setVideoId": "6263132B04ADB7BE",
+      "titleLong": "Welcoming change for the future of maths 1 minute, 33 seconds",
+      "time": 93,
+      "timeShort": "1:33",
+      "timeLong": "1 minute, 33 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/gszP_i8A-zc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAZQdD_vdk40G5X-oTwK8K2XvW84w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/gszP_i8A-zc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCzItIJEvmDcg3zqoC-PcepmVSdLw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/gszP_i8A-zc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCG5kemOFKNaa06PdRO-S-3UqRhtQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/gszP_i8A-zc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJHgsb2d8sFeaqmohipJtF42Jv1A",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Eddie Woo",
+        "id": "UCq0EGvLTyy-LLT1oUSO_0FQ",
+        "url": "/@misterwootube"
+      }
+    },
+    {
+      "id": "DuiA_b8_5v4",
+      "setVideoId": "9E8144A350F4408B",
+      "titleLong": "Introduction to Inverse Trig Functions (2 of 2): Reviewing Functions & Relations 12 minutes, 20 seconds",
+      "time": 740,
+      "timeShort": "12:20",
+      "timeLong": "12 minutes, 20 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/DuiA_b8_5v4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBK7BBql_nz1bkKXS2MnHDDTxKc9A",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/DuiA_b8_5v4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCevtgLqDSJWTQ6GhZOLPC0uYhfxQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/DuiA_b8_5v4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqXGnbzgMQfb8Fv_rdOZW-aALqQQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/DuiA_b8_5v4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-adtBb520oTQxkdjXlGowUtvo7Q",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "183tEhupiSQ",
+      "setVideoId": "7D8732C14E16E900",
+      "titleLong": "Natalie Holt - TVA (From \"Loki\") 2 minutes, 26 seconds",
+      "time": 146,
+      "timeShort": "2:26",
+      "timeLong": "2 minutes, 26 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/183tEhupiSQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCuvWVaUx6M0PXLDSjn6joAnD7Xpw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/183tEhupiSQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB1GShoN1HyfkL4frY5_01lxAgaoQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/183tEhupiSQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8kwf3FYfIqFATNtoOk4etVVEFtg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/183tEhupiSQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1VU--VJTGsG6lSvR0vbdvdd4S7w",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "MarvelMusicVEVO",
+        "id": "UCP55DP1xXupgE8nm2mZG6MQ",
+        "url": "/@MarvelMusicVEVO"
+      }
+    },
+    {
+      "id": "x1QxDrrvBH8",
+      "setVideoId": "D458CC8D11735272",
+      "titleLong": "Graphs of the Inverse Trig Functions (1 of 3: Reviewing the domain, range and shape) 9 minutes, 20 seconds",
+      "time": 560,
+      "timeShort": "9:20",
+      "timeLong": "9 minutes, 20 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/x1QxDrrvBH8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBpuDNMAUNbRchUd2RNZ8q6hHtv9g",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/x1QxDrrvBH8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCCXZJhAn4KDQfLnCN1RgQX3wmGNg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/x1QxDrrvBH8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCq8b5MWfqMLNoWBJrW5TxLXHsOBA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/x1QxDrrvBH8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM9nhpPK_7A5wAklm_YKI8QHWz6w",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "jgLvO6A7OEo",
+      "setVideoId": "208A2CA64C241A85",
+      "titleLong": "Graphing Inverse Trig Functions (1 of 2) 14 minutes, 27 seconds",
+      "time": 867,
+      "timeShort": "14:27",
+      "timeLong": "14 minutes, 27 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/jgLvO6A7OEo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD2XMsSNoeEJsF6pbl7JChk1pD8uA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/jgLvO6A7OEo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBlUAD7-l_U8z4FOg6k3um_sUJfFw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/jgLvO6A7OEo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2PmS7rAIneHGLAC9HSLm5dtzeEQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/jgLvO6A7OEo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyfw2Olq-t9uC-HcLVHZTcUK9k8A",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "_X7Zc9-X4ro",
+      "setVideoId": "F3D73C336952E57D",
+      "titleLong": "Graphs of the Inverse Trig Functions (2 of 3: Transformations of the basic inverse trig functions) 8 minutes, 45 seconds",
+      "time": 525,
+      "timeShort": "8:45",
+      "timeLong": "8 minutes, 45 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/_X7Zc9-X4ro/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXChQMA8=&rs=AOn4CLD2Kik5klM8VsYOR9QL5HcL5r_SSQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_X7Zc9-X4ro/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXChQMA8=&rs=AOn4CLAvRnI0RNZk7zHOkVYBF_jOcD_IaA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_X7Zc9-X4ro/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFwoUDAP&rs=AOn4CLBs0-CLmlZhfV3E3UCrLJ1cYsdt-A",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_X7Zc9-X4ro/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFwoUDAP&rs=AOn4CLAiUnIfT7T2IRX8kUnxU7AXy0pdpg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "dzX9WtPBqfI",
+      "setVideoId": "3F342EBE842F2A34",
+      "titleLong": "Graphing Inverse Trig Functions (2 of 2) 6 minutes, 40 seconds",
+      "time": 400,
+      "timeShort": "6:40",
+      "timeLong": "6 minutes, 40 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/dzX9WtPBqfI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC5f5YL6NhSLtYhCOKcOUqCtVfwuw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/dzX9WtPBqfI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCWxOLuRoK6r6VLGdwiwrZtE05-og",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/dzX9WtPBqfI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAm9caglIQy0lPeE3hOL1yGnvY-Q",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/dzX9WtPBqfI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGTbjjHoyIB5zDq4NyYmWBC-xrvA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "r2UvqSLZG-A",
+      "setVideoId": "9750BB53E158A2E4",
+      "titleLong": "Graphs of the Inverse Trig Functions (3 of 3: WARNING - Shifting and transforming the WRONG way) 8 minutes, 47 seconds",
+      "time": 527,
+      "timeShort": "8:47",
+      "timeLong": "8 minutes, 47 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/r2UvqSLZG-A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBfc_piFxRuR-0AsXeY63mEwaC15g",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/r2UvqSLZG-A/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBS2HRxmGICUYP7L3SzNkQSeNhveg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/r2UvqSLZG-A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa8iBsk-wzTcNzIUDznh-E_0K45g",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/r2UvqSLZG-A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7AsngUpnRsJndPYlYSd7hOL7vcg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "0KOZ3VbPB0k",
+      "setVideoId": "D882668307C69E91",
+      "titleLong": "Purpose Is Glorious (From \"Loki: Season 2 - Vol. 2 (Episodes 4-6)\"/Score/Audio Only) 3 minutes, 8 seconds",
+      "time": 188,
+      "timeShort": "3:08",
+      "timeLong": "3 minutes, 8 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/0KOZ3VbPB0k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBFBLlA19Uus_lvPCRAwwODRn0JDQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/0KOZ3VbPB0k/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC2v_e7JpNfuLNIWshqMIJWuayhfw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/0KOZ3VbPB0k/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTm9tNReXhSUMFFoSHTIbae4yZqw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/0KOZ3VbPB0k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3BczNl2LQHLcXs6qoU2ruQHJZFw",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "MarvelMusicVEVO",
+        "id": "UCP55DP1xXupgE8nm2mZG6MQ",
+        "url": "/@MarvelMusicVEVO"
+      }
+    },
+    {
+      "id": "Oyxgl5Mx8LE",
+      "setVideoId": "C715F6D1FB204D0A",
+      "titleLong": "Properties of Graphs of I.T.Fs (1 of 3: Graphically and Algebraically Solving sin¯¹x + cos¯¹x = ?) 9 minutes, 11 seconds",
+      "time": 551,
+      "timeShort": "9:11",
+      "timeLong": "9 minutes, 11 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Oyxgl5Mx8LE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD4jXyqz60J37Lt_9qJc073yPk2zg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Oyxgl5Mx8LE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBRxnnZUVMQyneo5K6B8BX0LF7vKQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Oyxgl5Mx8LE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaF3V3Xq0TPTjHUwsNf3IuJCaMyA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Oyxgl5Mx8LE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAq8G54ME1pp8MgFVfmgs0Hx1Tzzw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "9ZHYD4eFh6o",
+      "setVideoId": "30D50B2E1F78CC1A",
+      "titleLong": "Functions, Domains and Fussy Eaters 11 minutes, 27 seconds",
+      "time": 687,
+      "timeShort": "11:27",
+      "timeLong": "11 minutes, 27 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/9ZHYD4eFh6o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC2WPsC-YwI2IbIr1LUPzUaz9yxCA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9ZHYD4eFh6o/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBV5qRXYWciYtRhCNkS9XtpCWXR5w",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9ZHYD4eFh6o/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCn70VQObmHrSGqPCdZAuCoteNAIg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9ZHYD4eFh6o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7u0yvruabM5qr2_N8feTYGRaJ_A",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "WLUI_zWF7dI",
+      "setVideoId": "7125420930B2133F",
+      "titleLong": "Properties of Graphs of I.T.Fs (2 of 3: Finding the solution to the compound function of arc(trig)x) 4 minutes, 42 seconds",
+      "time": 282,
+      "timeShort": "4:42",
+      "timeLong": "4 minutes, 42 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/WLUI_zWF7dI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDuwvPlMlqwTsY6RkTCDzqW6vWAfg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WLUI_zWF7dI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBbmFkWpqLhJWluZW6WebypK0Vevg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WLUI_zWF7dI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-XO-r6ESUyZXn9RtGFdtEEn6nFw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WLUI_zWF7dI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmPorEAUS8MZGS0o3zrp-vp4v-bg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "heV7XbH6rlU",
+      "setVideoId": "CCC2CF83843EF8F0",
+      "titleLong": "Properties of Graphs of I.T.Fs (3 of 3: Showing the Relationship between original & Compound) 12 minutes, 43 seconds",
+      "time": 763,
+      "timeShort": "12:43",
+      "timeLong": "12 minutes, 43 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/heV7XbH6rlU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCs6g9VMBZP3KfM2QwrNPeAUKPurQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/heV7XbH6rlU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCgnNG7kgzJRw8TASXUwDvmtmEaHw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/heV7XbH6rlU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlK5jAL2g0B-iblWcu4YJ_iRljfg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/heV7XbH6rlU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRAV3Sm6plfODhsIf9GpjnnFDQEQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "ECCjAuIah3s",
+      "setVideoId": "2AA6CBD198537E6B",
+      "titleLong": "Graphical & Analytical Approach to sin¯¹(sin x) 9 minutes, 6 seconds",
+      "time": 546,
+      "timeShort": "9:06",
+      "timeLong": "9 minutes, 6 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/ECCjAuIah3s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBH9XM5pqMENLAAjm83KGD7tmMbuw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ECCjAuIah3s/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAWLYzxA4Axb7ox8aHRARq6HlOGbg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ECCjAuIah3s/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLxTnT-5m6Q4v96Vx3T8GiyXEe0Q",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ECCjAuIah3s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_avqfz-5TKb91DmImRF_lFNKoSQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "56w_xHCApmc",
+      "setVideoId": "C2E8565AAFA60017",
+      "titleLong": "Graphing y = cos¯¹(cos x) 5 minutes, 37 seconds",
+      "time": 337,
+      "timeShort": "5:37",
+      "timeLong": "5 minutes, 37 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/56w_xHCApmc/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgUihDMA8=&rs=AOn4CLBqS_HuOaHLnszpXfE73yjDoX373Q",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/56w_xHCApmc/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgUihDMA8=&rs=AOn4CLBUwSZkRG53pqON5Q4ZBjKOelxCBQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/56w_xHCApmc/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFIoQzAP&rs=AOn4CLDX2rzoXSMpyngXmivHQ1biDUNAJA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/56w_xHCApmc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFIoQzAP&rs=AOn4CLDxqgrzOWRLbnLirspHKpNN0wbHHw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "TU_q8Hu2IiE",
+      "setVideoId": "8279DAAEA617ED54",
+      "titleLong": "Graphing y = tan¯¹(tan x) 5 minutes, 7 seconds",
+      "time": 307,
+      "timeShort": "5:07",
+      "timeLong": "5 minutes, 7 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/TU_q8Hu2IiE/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgSyg-MA8=&rs=AOn4CLDhBF3EXi_F1C5k_0oHHnqvnpDrDQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TU_q8Hu2IiE/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgSyg-MA8=&rs=AOn4CLBB-6zoxMu9GMmUCugUU-h8OO-ZLw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TU_q8Hu2IiE/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEsoPjAP&rs=AOn4CLDuHgluGhN7wNsK4etEdahZPeDw1w",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TU_q8Hu2IiE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEsoPjAP&rs=AOn4CLAOb_F9LNGM-wuhk0rvFQHU3tFVCQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "CSpAdP-AwEY",
+      "setVideoId": "12EFB3B1C57DE4E1",
+      "titleLong": "Using the curriculum as a launchpad 1 minute, 41 seconds",
+      "time": 101,
+      "timeShort": "1:41",
+      "timeLong": "1 minute, 41 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/CSpAdP-AwEY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBWjIFkXUC3Oyok5-AbToW5Ey57Cg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CSpAdP-AwEY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAHT18a2Ehj3fjmN1Zb0dTOkm8Fdw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CSpAdP-AwEY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCU1qrYcJx71-pERm8pdhqqGXe1sw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CSpAdP-AwEY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdUT1R8Jct5o4fRXQ_Uf5lURCSWg",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Eddie Woo",
+        "id": "UCq0EGvLTyy-LLT1oUSO_0FQ",
+        "url": "/@misterwootube"
+      }
+    },
+    {
+      "id": "wIgmyE5Juzw",
+      "setVideoId": "0FEA5F89937BB506",
+      "titleLong": "Wallows - Are You Bored Yet? (feat. Clairo) [Official Video] 3 minutes, 27 seconds",
+      "time": 207,
+      "timeShort": "3:27",
+      "timeLong": "3 minutes, 27 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/wIgmyE5Juzw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAkq14SOthkHSoDhd0STFZ8YMaMEQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wIgmyE5Juzw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBaLz3gWYvcfj40-1pUfGQbFq9_Ew",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wIgmyE5Juzw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcx2ukgp5e7r8eSyYdh3BVJG9YPA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wIgmyE5Juzw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmI-HwxTw6NwMIHW2y4JMQN3fCnw",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Wallows",
+        "id": "UCjNGsoJEu1AnHiP7kOYiXCw",
+        "url": "/channel/UCjNGsoJEu1AnHiP7kOYiXCw"
+      }
+    },
+    {
+      "id": "tsGhEfvuUMM",
+      "setVideoId": "5AFFA69918A4DAE8",
+      "titleLong": "Graphing Squared Functions (2 of 2: Cubic + semi-circle examples) 3 minutes, 49 seconds",
+      "time": 229,
+      "timeShort": "3:49",
+      "timeLong": "3 minutes, 49 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/tsGhEfvuUMM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD90Le-kObte2KLGwwhTNQgUwNb0w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/tsGhEfvuUMM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDOoCZ4BdpC7cMnnALs-_GGyiHoxA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/tsGhEfvuUMM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgNbk20hSQzvzd70HLYrVLJF3c9Q",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/tsGhEfvuUMM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdiMoqgYg0X3ziUJ34QkSjYSTUmQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "4mxg9KaQXDw",
+      "setVideoId": "3D0C8FC9C40694A3",
+      "titleLong": "Graphing Square Root Functions (1 of 3: Linear example) 6 minutes, 10 seconds",
+      "time": 370,
+      "timeShort": "6:10",
+      "timeLong": "6 minutes, 10 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/4mxg9KaQXDw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBBSuHD-HWUdbitTD3S1B4vTBSJSg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/4mxg9KaQXDw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCKl1Audwrjy6a7VkhsgMygh9sg2w",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/4mxg9KaQXDw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-lyuCqgVNUbGGllx8gqPIP37rDw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/4mxg9KaQXDw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMLE7UiXIVoiYKbAZQhOxAs6xVLQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "kJVw8D86_2g",
+      "setVideoId": "B0D629957746EECA",
+      "titleLong": "Graphing Square Root Functions (2 of 3: Quadratic example) 8 minutes, 19 seconds",
+      "time": 499,
+      "timeShort": "8:19",
+      "timeLong": "8 minutes, 19 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/kJVw8D86_2g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAOfBQggjSRxtnRP5XVQBx_deqyug",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/kJVw8D86_2g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCzEJ4NXKG69HWuImXKB3ioHub9NQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/kJVw8D86_2g/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMx5TPyaSMjolSUOBI-iJ02TmZDA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/kJVw8D86_2g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC68egWNYS1njlCJZlR9KAWwqcvkQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "JiPpbPxC7ok",
+      "setVideoId": "6128676B35F5529F",
+      "titleLong": "Graphing Square Root Functions (3 of 3: Cubic example) 9 minutes, 49 seconds",
+      "time": 589,
+      "timeShort": "9:49",
+      "timeLong": "9 minutes, 49 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/JiPpbPxC7ok/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCDuaWUa6ur4bxfl3BKNNJ4_e2dJA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JiPpbPxC7ok/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDhqbGh1Rgu95j72TcLu47jqfApIQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JiPpbPxC7ok/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANS6m7_5FUC5QF47cgyxq1L0QCPA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JiPpbPxC7ok/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkD52dEJni1wBzzIjAKnzS5Lb1FA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "N8KzV9wgmpQ",
+      "setVideoId": "9F3E08FCD6FABA75",
+      "titleLong": "Graphing Powers of Functions (2 of 4: Understanding square behaviour) 4 minutes, 11 seconds",
+      "time": 251,
+      "timeShort": "4:11",
+      "timeLong": "4 minutes, 11 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/N8KzV9wgmpQ/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYChUMA8=&rs=AOn4CLDkWvqhDdAd3wscNNYKDjW-qT5wAw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/N8KzV9wgmpQ/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYChUMA8=&rs=AOn4CLCZsX-HcO2jssudag3RFzlceWhqSA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/N8KzV9wgmpQ/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGAoVDAP&rs=AOn4CLDo_5CYu5QHS0EDDPwWCUy20CkheA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/N8KzV9wgmpQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGAoVDAP&rs=AOn4CLB8btP2xgFxnHztHhjCLluWRz5q4A",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "L08tdBzgSWg",
+      "setVideoId": "4A07556FC5C9B361",
+      "titleLong": "Graphing Powers of Functions (3 of 4: y = sin²x) 8 minutes, 18 seconds",
+      "time": 498,
+      "timeShort": "8:18",
+      "timeLong": "8 minutes, 18 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/L08tdBzgSWg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXyhSMA8=&rs=AOn4CLD7pFgYBS6joCfxH-2hoF-LGrASTw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/L08tdBzgSWg/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXyhSMA8=&rs=AOn4CLALjMvI3hKm_FrzO14nOWoHjWmMGg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/L08tdBzgSWg/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF8oUjAP&rs=AOn4CLAlpHBrdf2czeusLWCX1qU1Pr2QWQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/L08tdBzgSWg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF8oUjAP&rs=AOn4CLD1lqd3AHvZCzvI6rxKUMNu3KA8Rw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "E-Ly4WQ1g68",
+      "setVideoId": "AF2C899DC46931B2",
+      "titleLong": "Graphing Powers of Functions (4 of 4: y = √sinx) 7 minutes, 3 seconds",
+      "time": 423,
+      "timeShort": "7:03",
+      "timeLong": "7 minutes, 3 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/E-Ly4WQ1g68/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAtXL2Zi_eiwkaK38UeF4ixlXpa8g",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/E-Ly4WQ1g68/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDl9bni1ZIYc-YWtuF5KFOyRSPtnA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/E-Ly4WQ1g68/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlzxyBB8_uniYNGGL2cWNP-MkKeg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/E-Ly4WQ1g68/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZHXniz7OMeDfq2AlygDjzJcZeJA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "ai0XgSVr8yY",
+      "setVideoId": "1913C8AC5703C673",
+      "titleLong": "Multiplying Functions Visually (1 of 3: Introduction) 11 minutes, 51 seconds",
+      "time": 711,
+      "timeShort": "11:51",
+      "timeLong": "11 minutes, 51 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/ai0XgSVr8yY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAfKtidAKjJNpz6tZ-S2_oqgqh9fw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ai0XgSVr8yY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAcsjMjPgB18hWpq1HOini7HdMaKA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ai0XgSVr8yY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXMmorhOLMzUjOu3VbtpUZFB4V7A",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ai0XgSVr8yY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAc5VAx-M8070lbKI5gMu3pa2QeEQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "-LanM2u_6vA",
+      "setVideoId": "F485675C6DF9EF19",
+      "titleLong": "Multiplying Functions Visually (2 of 3: Linear × Parabola) 7 minutes, 48 seconds",
+      "time": 468,
+      "timeShort": "7:48",
+      "timeLong": "7 minutes, 48 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/-LanM2u_6vA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDi2vfIlcrjLD7yio1_frUQHcuw1A",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-LanM2u_6vA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBApm-FwzLy9BXjdycwBOBPpZ5sBQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-LanM2u_6vA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDypkCMnkWbKOy97_wYStjcv88hBQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-LanM2u_6vA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASxBKLHG7ltxM704ZbtCEd4x2Vlw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "dE02skw2Tjo",
+      "setVideoId": "3C1A7DF73EDAB20D",
+      "titleLong": "Multiplying Functions Visually (3 of 3: Parabola × Parabola) 4 minutes, 27 seconds",
+      "time": 267,
+      "timeShort": "4:27",
+      "timeLong": "4 minutes, 27 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/dE02skw2Tjo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCfDiTM-x_PSlT_vuaq_L_-kVEQ0w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/dE02skw2Tjo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBR_GaWyRlc9iskRbEen0ZG_EyXpg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/dE02skw2Tjo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzh2tXPV5cg9dB9pZ4Zre2UuqIjA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/dE02skw2Tjo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQdH3Gc8zKMQWfmLSNVEwbqP2zWQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "bDHKgz-rJqg",
+      "setVideoId": "96ED591D7BAAA068",
+      "titleLong": "Graphing Reciprocal Functions (1 of 4: Linear example) 8 minutes, 55 seconds",
+      "time": 535,
+      "timeShort": "8:55",
+      "timeLong": "8 minutes, 55 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/bDHKgz-rJqg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDZjvxRrGOKvwfe9CGlxtxQLwTcAw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/bDHKgz-rJqg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAz51GVqUJc1NXV-8n97ALFZjYF-A",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/bDHKgz-rJqg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-mBrNvkSwmQwRpurb9xNYqjVkKA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/bDHKgz-rJqg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDiGkKcZq4vybozn4ruc1IlszHRw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "RFt7Z-vKYps",
+      "setVideoId": "C6C0EB62B8BB841F",
+      "titleLong": "Graphing Reciprocal Functions (2 of 4: Considering sign) 9 minutes, 31 seconds",
+      "time": 571,
+      "timeShort": "9:31",
+      "timeLong": "9 minutes, 31 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/RFt7Z-vKYps/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBWSQBek6gYRzvRBMnOw0obmJnmsA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RFt7Z-vKYps/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAxPjhv0dNQAQDt4EhxQ6ZQjunbWA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RFt7Z-vKYps/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_E-l52GJ1wrJWcHxcGH-LuwIIpQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RFt7Z-vKYps/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEfdK9neueEHKn0ughwAUCMlgA3A",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "RIk3pI9upRE",
+      "setVideoId": "CED0831C52E9FFF7",
+      "titleLong": "Graphing Reciprocal Functions (3 of 4: Considering symmetry) 7 minutes, 1 second",
+      "time": 421,
+      "timeShort": "7:01",
+      "timeLong": "7 minutes, 1 second",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/RIk3pI9upRE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCn-uY-8_gVlV8r_lsalP0iw3dHCw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RIk3pI9upRE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA3waGEmhf2XmVLMu-V2IVI_aOWOA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RIk3pI9upRE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaHjARDpYkB-qhEb7G1Km2i4YXLw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RIk3pI9upRE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChipRsQxPBaPxFG2ot6GPbkvDLkQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "_8Ok5MsS_ZY",
+      "setVideoId": "53683709AEEE7C11",
+      "titleLong": "Graphing Reciprocal Functions (4 of 4: Cubic + semi-circle examples) 10 minutes, 54 seconds",
+      "time": 654,
+      "timeShort": "10:54",
+      "timeLong": "10 minutes, 54 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/_8Ok5MsS_ZY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBCDeKwtEPN0C0ua9ayz0oPHAV6jQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_8Ok5MsS_ZY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC20pV-yxqRKPvYyVl0CZo17pctcw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_8Ok5MsS_ZY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmkgA-E_oWzwIXM6GH-P8qKdvSXg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_8Ok5MsS_ZY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzWaGD287iYSLApmKImKbVZ7tKiw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "tjF5CKQe4is",
+      "setVideoId": "F796E9CA3BC2BC2F",
+      "titleLong": "Graphing Reciprocal Trigonometric Functions (1 of 2: Cosecant) 3 minutes, 5 seconds",
+      "time": 185,
+      "timeShort": "3:05",
+      "timeLong": "3 minutes, 5 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/tjF5CKQe4is/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDFqLLWRS_2zeM7szBkW7Qf40pC7A",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/tjF5CKQe4is/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBKxOYWQDjBmClny6PGuSSN9uQ7pA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/tjF5CKQe4is/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDP8uVu8d7rheRMnyU5EB-_shJawg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/tjF5CKQe4is/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBK7kOND1mLJtE3N6mmU1xLz6Z7Wg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "wkWn3JPcLSE",
+      "setVideoId": "780605BC69C6C250",
+      "titleLong": "Graphing Reciprocal Trigonometric Functions (2 of 2: Cotangent) 4 minutes, 45 seconds",
+      "time": 285,
+      "timeShort": "4:45",
+      "timeLong": "4 minutes, 45 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/wkWn3JPcLSE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDsXuZAJvzZ9qJs_XztlbKU_0IuVQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wkWn3JPcLSE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCikGWFs9gEWYpw0D2w1eALBjkmQQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wkWn3JPcLSE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXElfiIBNnD5xphcPSeUtD5g29zQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wkWn3JPcLSE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWrK80Qrbak1JGJkdzNuw8VLeJmw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "fd9m1Uod1fs",
+      "setVideoId": "AD855F5966C838C4",
+      "titleLong": "Spaghettification (From \"Loki: Season 2 - Vol. 2 (Episodes 4-6)\"/Score/Audio Only) 1 minute, 10 seconds",
+      "time": 70,
+      "timeShort": "1:10",
+      "timeLong": "1 minute, 10 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/fd9m1Uod1fs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB24C74HBTXOelv3IrIIt06yxdt1A",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/fd9m1Uod1fs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDJYO46PKlORxKC5r7Pf2A5j7LN7w",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/fd9m1Uod1fs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvN_MDd-rTsVpj-ZQGk3XeBHkw0g",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/fd9m1Uod1fs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDh6G7QDb57rHv2SDAuGlKhav4v4g",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "MarvelMusicVEVO",
+        "id": "UCP55DP1xXupgE8nm2mZG6MQ",
+        "url": "/@MarvelMusicVEVO"
+      }
+    },
+    {
+      "id": "7UMkV-S0Zv8",
+      "setVideoId": "2B6EFA1B1F897EAC",
+      "titleLong": "Differentiation of ITFs (1 of 3: Predicting the properties of d/dx(tan¯¹(x))) 9 minutes, 41 seconds",
+      "time": 581,
+      "timeShort": "9:41",
+      "timeLong": "9 minutes, 41 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/7UMkV-S0Zv8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCX84FLUBt2Q5md9CrVyiZ-QLKKdA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7UMkV-S0Zv8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB2KU7F0WUQ56kG4X89hgyqTygfXQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7UMkV-S0Zv8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVIUgWIN-LtRZ2uiKkBm0ev6L24g",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7UMkV-S0Zv8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1WrDOtxmzORvnCz3oLi9DJoIKmQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "cEwzicFvh_k",
+      "setVideoId": "2ABE5EB35C671E9E",
+      "titleLong": "Differentiation of ITFs (2 of 3: Using Trig Identities to find the derivative of tan¯¹(x)) 7 minutes, 5 seconds",
+      "time": 425,
+      "timeShort": "7:05",
+      "timeLong": "7 minutes, 5 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/cEwzicFvh_k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCTMrN0SbX3LEv2GOpT8UPh31VkYQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cEwzicFvh_k/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAd3_nDRRM7JPEHtlXc1l6f-nA4xA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cEwzicFvh_k/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGGuJYigVSoF0tG-Hi2VnhEI-yag",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cEwzicFvh_k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8FOZB4LlQx3SrdBU4O2klgZa3ng",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "ThsJ_upnwEU",
+      "setVideoId": "4C4C8E4AF05B17C5",
+      "titleLong": "Differentiation of ITFs (3 of 3: Finding the Condition that make d/dx(sin¯¹(x)) what it actually is) 10 minutes, 16 seconds",
+      "time": 616,
+      "timeShort": "10:16",
+      "timeLong": "10 minutes, 16 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/ThsJ_upnwEU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAXnUPtjofM-azqyBWwoR5gR1EGnQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ThsJ_upnwEU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC6qdFxC4SIfK8Nlkty-Zir5zS6EQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ThsJ_upnwEU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9GkdphR_WF_S8aVqnItYoQ_qhmg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ThsJ_upnwEU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4_DpT8dNsinvBbUSBC1TDPv3H-g",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "kwKWeYvFJRo",
+      "setVideoId": "5E3ADF02B9C57FF6",
+      "titleLong": "Further Thoughts on the Derivatives of Inverse Trigonometric Functions 4 minutes, 52 seconds",
+      "time": 292,
+      "timeShort": "4:52",
+      "timeLong": "4 minutes, 52 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/kwKWeYvFJRo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAt2lefaQLvPRBzU5ejqIy0LFkMUQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/kwKWeYvFJRo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAxhiJtAFH_PT9zQu7ptezkIrJRBw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/kwKWeYvFJRo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4gxieEXAPiIHGY7_ms-uFFHeikg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/kwKWeYvFJRo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAT9aSKyTLmlfUwUBFvrT6RSVolxw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "CHnAwx3fS04",
+      "setVideoId": "D1BE74B44EB19F38",
+      "titleLong": "[CLIP] | Count On Me | Bruno Mars | Eddie Woo Cover 3 minutes, 42 seconds",
+      "time": 222,
+      "timeShort": "3:42",
+      "timeLong": "3 minutes, 42 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/CHnAwx3fS04/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFsgYihlMA8=&rs=AOn4CLCukgDY6zCaDUlEG3v6kR1OhdqQZA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CHnAwx3fS04/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFsgYihlMA8=&rs=AOn4CLDvLFzexi760JNX0oy_5cmGwmoLcQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CHnAwx3fS04/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhbIGIoZTAP&rs=AOn4CLCWcMxo78Cp7p1WT0WT0_W94H35Pg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CHnAwx3fS04/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhbIGIoZTAP&rs=AOn4CLCpXbooxSO_htyJr5WIZmaidp6EsA",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Parker",
+        "id": "UCvucEvqklFJYW6_-jNWeadg",
+        "url": "/@parker.oddvoot"
+      }
+    },
+    {
+      "id": "EMaYjbS_xn4",
+      "setVideoId": "74DB023C1A0DB0A7",
+      "titleLong": "Guitar Gear 20 minutes",
+      "time": 1259,
+      "timeShort": "20:59",
+      "timeLong": "20 minutes, 59 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/EMaYjbS_xn4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDtEeUdZm8rs0RvhT__UrohUJL18Q",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/EMaYjbS_xn4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD8BFzzz6j-qR1S2A5OGkmvoTLoLA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/EMaYjbS_xn4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIqN4pBX9xGj1PmZ2wqMZVzekjQA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/EMaYjbS_xn4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtayBNeEzwDtDYTMYM7CHyblQpmA",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Eddie Woo",
+        "id": "UCq0EGvLTyy-LLT1oUSO_0FQ",
+        "url": "/@misterwootube"
+      }
+    },
+    {
+      "id": "Kf9YLL5uoAE",
+      "setVideoId": "D625AB40294D381D",
+      "titleLong": "Derivatives of 6 Trigonometric Functions 4 minutes, 26 seconds",
+      "time": 266,
+      "timeShort": "4:26",
+      "timeLong": "4 minutes, 26 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Kf9YLL5uoAE/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYShYMA8=&rs=AOn4CLC1NSOo3sXibBIqD3QusT2BolIjMw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Kf9YLL5uoAE/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgYShYMA8=&rs=AOn4CLDDlbgCtiNn2HR9FPMfCYtzKqEkwg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Kf9YLL5uoAE/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGEoWDAP&rs=AOn4CLA2pRXfZUtXov-3rDboqJfWXe_8kA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Kf9YLL5uoAE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGEoWDAP&rs=AOn4CLAKgIrgV-QNTTNBtM2kQM7CKCjMjQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "CWZH4y2t83w",
+      "setVideoId": "8C5FAE6B164813C8",
+      "titleLong": "Derivatives of Inverse Trigonometric Functions 6 minutes, 21 seconds",
+      "time": 381,
+      "timeShort": "6:21",
+      "timeLong": "6 minutes, 21 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/CWZH4y2t83w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA-Tr2m7j2I7gLpm42Wq9U-dCAXdQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CWZH4y2t83w/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCrmc54HHwWiJd68QrWNwR8K-O7mg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CWZH4y2t83w/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDkV_lHgP37uqMnI9aCWUrci3V3w",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CWZH4y2t83w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArtyYXtSofcOtmMMpf3KsSGUq7Wg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "wEAxqcJc4V4",
+      "setVideoId": "138030DF486135A9",
+      "titleLong": "Areas Involving Inverse Trig Functions 6 minutes, 38 seconds",
+      "time": 398,
+      "timeShort": "6:38",
+      "timeLong": "6 minutes, 38 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/wEAxqcJc4V4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC8XdAF8YvS8nnd4giwC_5R9FgB3g",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wEAxqcJc4V4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDG5cBzQmG0ZoNDdn1RGiinoK2H6g",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wEAxqcJc4V4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDK_jjUUfuZAegi0YK4qvu14oH2-w",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wEAxqcJc4V4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4G5m2i14Gf3jhWlpLyt-j6r8k4Q",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "zKfWYeRzTaQ",
+      "setVideoId": "0090FB771180611F",
+      "titleLong": "[4K HDR] Spider-Man: Across the Spider-Verse | AM I DREAMING | End Credits 3 minutes, 22 seconds",
+      "time": 202,
+      "timeShort": "3:22",
+      "timeLong": "3 minutes, 22 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/zKfWYeRzTaQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCBsmNUEMIeKOv6T9_wTu83emGO_w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zKfWYeRzTaQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBrf0dIh6oBueNkgNIHu9cpkHlOxA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zKfWYeRzTaQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdPVEvrEQXCwNcOPw-JodfwRFRDQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zKfWYeRzTaQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLa4YjMesVaTxhJQAN7z6BGGt0zg",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Parker",
+        "id": "UCvucEvqklFJYW6_-jNWeadg",
+        "url": "/@parker.oddvoot"
+      }
+    },
+    {
+      "id": "VWMjpDXzkqs",
+      "setVideoId": "8A660A370EABB1D6",
+      "titleLong": "General Solution for tan 12 minutes, 24 seconds",
+      "time": 744,
+      "timeShort": "12:24",
+      "timeLong": "12 minutes, 24 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/VWMjpDXzkqs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDlLsfGuEllPxbd08LvyJbvTa8tyQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VWMjpDXzkqs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB4I1GkDj0OAgxH5bymBC4H3Dwpag",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VWMjpDXzkqs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOUB-lS8Kvm76b6GvzYVdovRKZAA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VWMjpDXzkqs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAp7TqXIa326KJCLM7XAO1Zrhec_w",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "bQdu1Qv1zxg",
+      "setVideoId": "B0EAEBDFE250D593",
+      "titleLong": "General Solution for cosine 5 minutes, 21 seconds",
+      "time": 321,
+      "timeShort": "5:21",
+      "timeLong": "5 minutes, 21 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/bQdu1Qv1zxg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAFXfIP32iBQyC0DM7rP8HzhZfGBg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/bQdu1Qv1zxg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDBhfVaynUXaAHWHw12Tu35Bx-RQw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/bQdu1Qv1zxg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9I3xYuR8zdhbm3EqeB9vO0gAtww",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/bQdu1Qv1zxg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASG7KgFbmCvcJiAI2poHhqxb9_aw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "U5byPezGLZ4",
+      "setVideoId": "16224A4012D9B20D",
+      "titleLong": "General Solution for sine 9 minutes, 39 seconds",
+      "time": 579,
+      "timeShort": "9:39",
+      "timeLong": "9 minutes, 39 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/U5byPezGLZ4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAn1nqv82px5IACx4qHpkxSJQyzLA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/U5byPezGLZ4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAKXtvLQ2anyfsP3w5hLRsG_QO8nw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/U5byPezGLZ4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgwEJ6ymFZgRnpxN2yPeV_FKH3VQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/U5byPezGLZ4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPShP_bV4I3tMsSIgSnAgaNnU7bQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "e6jhzpUTL70",
+      "setVideoId": "3A93F81E648E42C7",
+      "titleLong": "Generating Values from General Solutions 7 minutes, 12 seconds",
+      "time": 432,
+      "timeShort": "7:12",
+      "timeLong": "7 minutes, 12 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/e6jhzpUTL70/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCaVsKKwolWJHKpStyYf85hl71mhQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/e6jhzpUTL70/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDL4uO3tgG7Zfk4LKn0JAC98yZSbQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/e6jhzpUTL70/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCU6Amps1tcy85dnDKYDWd7TyY80g",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/e6jhzpUTL70/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqv57RQuHUu2TBXAWrdI1t2qQPTQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "MLKTYBlPxbk",
+      "setVideoId": "82C6F5DBD97B625D",
+      "titleLong": "Negative Related Angles 10 minutes, 54 seconds",
+      "time": 654,
+      "timeShort": "10:54",
+      "timeLong": "10 minutes, 54 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/MLKTYBlPxbk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBnQ1wsed83C79d6kJZM-fj7t6GeA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MLKTYBlPxbk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCeMS3cMTKuShMoVdeiq5cIDDMFTQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MLKTYBlPxbk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCx2GqVb3VpcdoZM1u9AsAulF_pvw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MLKTYBlPxbk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCl-_qBCTy95D9EMes2eLOtq1KvxA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "QzmoCkrJ2wE",
+      "setVideoId": "F00C6BF363DE2160",
+      "titleLong": "General Solution (2 of 3: Finding the General Solution for cosx) 6 minutes, 30 seconds",
+      "time": 390,
+      "timeShort": "6:30",
+      "timeLong": "6 minutes, 30 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/QzmoCkrJ2wE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBhWYTN_N2bXZK-SyB1uGNAmjIcgA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/QzmoCkrJ2wE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC8PhNpOyEBLNbaa_VHNb7kWrX9Dg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/QzmoCkrJ2wE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZBOU475ioegkcZCsmKT1lxAdeKA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/QzmoCkrJ2wE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkHutYkt3zQ6bavqueQk-GI6gTMQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "r1Wg8KwOpRI",
+      "setVideoId": "B56E93FC6D885ED1",
+      "titleLong": "Inverse Trig Function w/ Complicated Argument 12 minutes, 42 seconds",
+      "time": 762,
+      "timeShort": "12:42",
+      "timeLong": "12 minutes, 42 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/r1Wg8KwOpRI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBie8gb6KPFPbogqbO6iDj5NZkMBg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/r1Wg8KwOpRI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCUOiMzp3Zzu_QnFVW12FO7KKEUSw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/r1Wg8KwOpRI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmGVxMbM3ZG3nVLCM-CnpbUr7uvA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/r1Wg8KwOpRI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvTeM6SqCPPFST0oFktRk0u3-vkA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "D5d5xinZI3E",
+      "setVideoId": "761947CE7D647E90",
+      "titleLong": "Calling (Spider-Man: Across the Spider-Verse) 2 minutes",
+      "time": 120,
+      "timeShort": "2:00",
+      "timeLong": "2 minutes",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/D5d5xinZI3E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCYnFbTg1iBiHeV0H0nXb3hiiBh2A",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/D5d5xinZI3E/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCLXaaebdaSY-6q-nMeX_j2Z1QVng",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/D5d5xinZI3E/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFY03mqrqhzdaz7dE2dMXiVvb6QQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/D5d5xinZI3E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChaRdAl1S2tHWx46q7KQgJbBgPfg",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Metro Boomin",
+        "id": "UCKC11MOR51CLg4JpYj8jb4g",
+        "url": "/channel/UCKC11MOR51CLg4JpYj8jb4g"
+      }
+    },
+    {
+      "id": "Oyxgl5Mx8LE",
+      "setVideoId": "556D98A58E9EFBEA",
+      "titleLong": "Properties of Graphs of I.T.Fs (1 of 3: Graphically and Algebraically Solving sin¯¹x + cos¯¹x = ?) 9 minutes, 11 seconds",
+      "time": 551,
+      "timeShort": "9:11",
+      "timeLong": "9 minutes, 11 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Oyxgl5Mx8LE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD4jXyqz60J37Lt_9qJc073yPk2zg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Oyxgl5Mx8LE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBRxnnZUVMQyneo5K6B8BX0LF7vKQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Oyxgl5Mx8LE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaF3V3Xq0TPTjHUwsNf3IuJCaMyA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Oyxgl5Mx8LE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAq8G54ME1pp8MgFVfmgs0Hx1Tzzw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "Zs0vObiAu0o",
+      "setVideoId": "EF7F4337B6E2709F",
+      "titleLong": "Considering Inverse Trigonometric Expressions as Angles in Triangles 7 minutes, 46 seconds",
+      "time": 466,
+      "timeShort": "7:46",
+      "timeLong": "7 minutes, 46 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Zs0vObiAu0o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB8rm8R122zIqhBAoP9l7HeaBrMPQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Zs0vObiAu0o/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCfBOFPmrJi3Mpb3NkdRop1ea0JVw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Zs0vObiAu0o/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFkUcLB44NyPcErsXrg_bpT78PhQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Zs0vObiAu0o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp09qapZQBhghIAk6P9F3qwwBzZQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "IFQiOJgxuWE",
+      "setVideoId": "6C992A3B5EB60D08",
+      "titleLong": "Inverse Trig + Trig Expansions: With Values 8 minutes, 25 seconds",
+      "time": 505,
+      "timeShort": "8:25",
+      "timeLong": "8 minutes, 25 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/IFQiOJgxuWE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLASh4nWPH317esEwokYDEXJfS36BA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/IFQiOJgxuWE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBoa0TNAxIou0caLNmwmhMZA5Eh8A",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/IFQiOJgxuWE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACU4tcoGg8npKSmW8TKmy94HGRLw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/IFQiOJgxuWE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDsQLjk3upc4YPGN2fM4US2y2-TA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "ZhPVgKf0IWA",
+      "setVideoId": "04E51286FD35A7BE",
+      "titleLong": "Inverse Trig + Trig Expansions: With Algebraic Terms 7 minutes, 28 seconds",
+      "time": 448,
+      "timeShort": "7:28",
+      "timeLong": "7 minutes, 28 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/ZhPVgKf0IWA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBYuFx5gbmWNI1CeqHlkV-C0GACNA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZhPVgKf0IWA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC5lO8BOdhcJCmZDHsaF8zp_l0shw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZhPVgKf0IWA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEK33Y6DlSjzNAAsAzglcF4waoxA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZhPVgKf0IWA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvMq-JGydHYm97H9drpA7eQx-zKA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "lprug7qXozg",
+      "setVideoId": "BBA0D040905C6065",
+      "titleLong": "Evaluating Multiple Inverse Trig Functions 3 minutes, 37 seconds",
+      "time": 217,
+      "timeShort": "3:37",
+      "timeLong": "3 minutes, 37 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/lprug7qXozg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBgEFrNMIhmVGvnFuiCgqk_SVZ0HA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lprug7qXozg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDaA2Su7SRVeiz4_JmCckU9EPApYQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lprug7qXozg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDr1YUiSZ6jCEUQ58KMyF2CukOdg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lprug7qXozg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmBavfQYx4SOlszGudUCeM9nOTTw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "lWUlJY33iDY",
+      "setVideoId": "6C7A39AC43F44BD2",
+      "titleLong": "Combining Different Trig & Inv. Trig Functions 5 minutes, 15 seconds",
+      "time": 315,
+      "timeShort": "5:15",
+      "timeLong": "5 minutes, 15 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/lWUlJY33iDY/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgTihDMA8=&rs=AOn4CLAiRlAu9shP8JOJydFFayu42W61uQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lWUlJY33iDY/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgTihDMA8=&rs=AOn4CLDwIzij5MmKS89gw-9W1jJI4HRs-A",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lWUlJY33iDY/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIE4oQzAP&rs=AOn4CLB0RSHMm7Mx2z5XLXH1j2cNuLL9tg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lWUlJY33iDY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIE4oQzAP&rs=AOn4CLATAzEhB5kBr-_igUGRC-D_OECubg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "k_nWT8WyZac",
+      "setVideoId": "B57104458A731863",
+      "titleLong": "sin(cos⁻¹(x)), cos(sin⁻¹(x)) || Trynna Viz  || Compound/Composite INV. Trig Graphs || cos(arcsin(x)) 5 minutes, 42 seconds",
+      "time": 342,
+      "timeShort": "5:42",
+      "timeLong": "5 minutes, 42 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/k_nWT8WyZac/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLADM3xdHpVEDrIiAHMdqmZc18Elcw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/k_nWT8WyZac/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLB_ikB-H4DUtJ5twppuW-upcTr5nQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/k_nWT8WyZac/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLBNrBSPmT_Zve_gy24rtcCDQkhvHg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/k_nWT8WyZac/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLBp_qBpQRmHL6iI83LsZpAW_vbOAA",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "REYNEP",
+        "id": "UCou4JeP0pBJlBkRCH5Vln1Q",
+        "url": "/@reynep"
+      }
+    },
+    {
+      "id": "wYlPfAcAB20",
+      "setVideoId": "59DD4764C5029292",
+      "titleLong": "Evaluating Trig & Inv Trig Ratios (1 of 2) 12 minutes, 30 seconds",
+      "time": 750,
+      "timeShort": "12:30",
+      "timeLong": "12 minutes, 30 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/wYlPfAcAB20/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCUnpKoKuVtder8n6qs6weoEi2jxA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wYlPfAcAB20/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBOtpL8DCaWX8RFVM04DaX9hjE6mA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wYlPfAcAB20/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAae_iWEMHnlOeNklUmnhG_uFvPhw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wYlPfAcAB20/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcVjm6nobpdqD98ext2f7Z2YcdFA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "q4uSge__uSA",
+      "setVideoId": "0F8E3C11550E3CEA",
+      "titleLong": "Evaluating Trig & Inv Trig Ratios (2 of 2) 5 minutes, 55 seconds",
+      "time": 355,
+      "timeShort": "5:55",
+      "timeLong": "5 minutes, 55 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/q4uSge__uSA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCAf4okakpJ-QwfUjTvNMj-1y0uqQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/q4uSge__uSA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCvtMXIznMiRkSKLQkqwYB7vu-y1Q",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/q4uSge__uSA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCceZu4JiS-M-rekSz_wmu5vrU1w",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/q4uSge__uSA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQpzgR6LlEt_Lfmd3dKMajBg59Pw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "0j3FVqBZ7Xc",
+      "setVideoId": "13F23DC418DD5404",
+      "titleLong": "11M6 Bloopers #6: Stop making excuses. Start taking responsibility. 5 minutes, 19 seconds",
+      "time": 319,
+      "timeShort": "5:19",
+      "timeLong": "5 minutes, 19 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/0j3FVqBZ7Xc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBhafRabOp6RQmzCdJHtStubweOGw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/0j3FVqBZ7Xc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCNi8QUXuiFZ8KOjhJX10JUQQZ64A",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/0j3FVqBZ7Xc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj5wmYq9tqzcyXZ2jBWujR1orDlw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/0j3FVqBZ7Xc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCCFIavrWzSzVrBh1O-OL6VyzoUA",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Eddie Woo",
+        "id": "UCq0EGvLTyy-LLT1oUSO_0FQ",
+        "url": "/@misterwootube"
+      }
+    },
+    {
+      "id": "JCtJrqM6izc",
+      "setVideoId": "07AAEEE4EA16ACC1",
+      "titleLong": "Geometric Properties of Inverse Functions 5 minutes, 35 seconds",
+      "time": 335,
+      "timeShort": "5:35",
+      "timeLong": "5 minutes, 35 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/JCtJrqM6izc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBLFthf19zQ4yXNx69bhc07YjHP0Q",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JCtJrqM6izc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLATPZ_M1PpV3BYUwvYtfd_W2LlZMQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JCtJrqM6izc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4mTaX68zJQ2u4i7AKA5oGLodWSQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JCtJrqM6izc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1PU6J-CAzcIFEA_abxfluQ9ee6w",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "5Qgewp_Pbl4",
+      "setVideoId": "86216799D0BBA849",
+      "titleLong": "Lamentis-1, 2077 1 minute, 54 seconds",
+      "time": 114,
+      "timeShort": "1:54",
+      "timeLong": "1 minute, 54 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/5Qgewp_Pbl4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAC8LenJfuQK7_j0LwXw6hiiVuXVg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5Qgewp_Pbl4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAe59TE_BhH3hqhjVtABy2d2_p_Ew",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5Qgewp_Pbl4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmRHbYRRo6NOhBWAYjwC7mp4elVQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5Qgewp_Pbl4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnTrW68__awexVSFKYG7zOOgvtaA",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Natalie Holt - Topic",
+        "id": "UCDoIuShteEV3EvowSmEDtUQ",
+        "url": "/channel/UCDoIuShteEV3EvowSmEDtUQ"
+      }
+    },
+    {
+      "id": "SoemKUnJTyg",
+      "setVideoId": "8B3B6DD63EA0D1CC",
+      "titleLong": "Inverse Trig. || shittyTextbooks practiceProblems || watch till 22:57 at least || graphs sec⁻¹(x)... 57 minutes",
+      "time": 3457,
+      "timeShort": "57:37",
+      "timeLong": "57 minutes, 37 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/SoemKUnJTyg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCGD7UVxiymRq3HBPe86LNLPAyQGw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SoemKUnJTyg/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLC_BU5svWoh8ajYiJ24IP907aobpw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SoemKUnJTyg/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAEo15TPkcPRc89TNlng28iOkFBRw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SoemKUnJTyg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLCuXE8GOfd9Ai02r0l8ktXEAmOJig",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "REYNEP",
+        "id": "UCou4JeP0pBJlBkRCH5Vln1Q",
+        "url": "/@reynep"
+      }
+    },
+    {
+      "id": "5X_EKQzmX8Y",
+      "setVideoId": "3421EBFA8EE85C02",
+      "titleLong": "can you represent cosec⁻¹(x) in terms of sin⁻¹(x) || Or the other way around 😏 2 minutes, 47 seconds",
+      "time": 167,
+      "timeShort": "2:47",
+      "timeLong": "2 minutes, 47 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/5X_EKQzmX8Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCDzmHdwcGWb9H7_WU8r3lYtJWowg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5X_EKQzmX8Y/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA4rMKF2N7QucQaohGfm8om44HFwQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5X_EKQzmX8Y/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPuY31XsNPTU9S3ktnXk87BcDt5w",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5X_EKQzmX8Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkkaW12GbMghdU9FdPoWx9lAiB7g",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "REYNEP",
+        "id": "UCou4JeP0pBJlBkRCH5Vln1Q",
+        "url": "/@reynep"
+      }
+    },
+    {
+      "id": "9VqN9hCNS3U",
+      "setVideoId": "CB86D420EFBFE8EE",
+      "titleLong": "General Solution - Basic Formulae 7 minutes, 29 seconds",
+      "time": 449,
+      "timeShort": "7:29",
+      "timeLong": "7 minutes, 29 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/9VqN9hCNS3U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDWpOavB5V_M6ms66RsPUNrPdyDaw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9VqN9hCNS3U/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDnh8HFh5IruZKRPxf7e5q3piHW5A",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9VqN9hCNS3U/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgFYzz6cKWeGeaGdfm1pwBdzzDtw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9VqN9hCNS3U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAs8ldC1T-HsfZlnScs4OaGbncfbg",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Eddie Woo",
+        "id": "UCq0EGvLTyy-LLT1oUSO_0FQ",
+        "url": "/@misterwootube"
+      }
+    },
+    {
+      "id": "TU_q8Hu2IiE",
+      "setVideoId": "DDCE598CD616C109",
+      "titleLong": "Graphing y = tan¯¹(tan x) 5 minutes, 7 seconds",
+      "time": 307,
+      "timeShort": "5:07",
+      "timeLong": "5 minutes, 7 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/TU_q8Hu2IiE/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgSyg-MA8=&rs=AOn4CLDhBF3EXi_F1C5k_0oHHnqvnpDrDQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TU_q8Hu2IiE/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgSyg-MA8=&rs=AOn4CLBB-6zoxMu9GMmUCugUU-h8OO-ZLw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TU_q8Hu2IiE/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEsoPjAP&rs=AOn4CLDuHgluGhN7wNsK4etEdahZPeDw1w",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TU_q8Hu2IiE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEsoPjAP&rs=AOn4CLAOb_F9LNGM-wuhk0rvFQHU3tFVCQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "_i5a403J6Iw",
+      "setVideoId": "23A2CE53B6FB0544",
+      "titleLong": "General Solution - Modified Formulae 9 minutes, 39 seconds",
+      "time": 579,
+      "timeShort": "9:39",
+      "timeLong": "9 minutes, 39 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/_i5a403J6Iw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDAowtnc6yTIEluxUw6bwPYBNitJw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_i5a403J6Iw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBnQ6DfAtD7OO9t13nObAgSCFuhNQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_i5a403J6Iw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6AlXJeUNtDbXdd_t9p899FJ061Q",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_i5a403J6Iw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvhk2NC-aAfx4FP34stbMYIIFNqw",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Eddie Woo",
+        "id": "UCq0EGvLTyy-LLT1oUSO_0FQ",
+        "url": "/@misterwootube"
+      }
+    },
+    {
+      "id": "XDw4KWftcT8",
+      "setVideoId": "0AA4C382BFCF0B51",
+      "titleLong": "General Solution [Continued] (1 of 3: Generalising the solution of sin5x = sinx) 15 minutes",
+      "time": 952,
+      "timeShort": "15:52",
+      "timeLong": "15 minutes, 52 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/XDw4KWftcT8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAMVSASAnOKhHrKpwf5r1ud5CKSlw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/XDw4KWftcT8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAq_bd2OPE9b24PuAXVCgKe9sO-Wg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/XDw4KWftcT8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRib0yoDPh964IkIhjqZjAiohHFw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/XDw4KWftcT8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVSIAIOWDXwQvQu3hTMaTJP94rvQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "MjYwF_0EhTU",
+      "setVideoId": "A77DC64DD3A127E7",
+      "titleLong": "History Is Now 2 minutes, 32 seconds",
+      "time": 152,
+      "timeShort": "2:32",
+      "timeLong": "2 minutes, 32 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/MjYwF_0EhTU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCB2QVWYokrL21ZQv5zL74MIOcm0g",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MjYwF_0EhTU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB-0aqnZjl-ZvK3dszotHg4SPvzvg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MjYwF_0EhTU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKzLmRzo22LrofZbjdzCJ6FAAfCg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MjYwF_0EhTU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmY7D4h_F5MYikNF1lZkxLJBGH-Q",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Natalie Holt - Topic",
+        "id": "UCDoIuShteEV3EvowSmEDtUQ",
+        "url": "/channel/UCDoIuShteEV3EvowSmEDtUQ"
+      }
+    },
+    {
+      "id": "CY_DmHFtgWk",
+      "setVideoId": "156A5D106AC1F290",
+      "titleLong": "Overlapping General Solutions (1 of 2) 12 minutes, 41 seconds",
+      "time": 761,
+      "timeShort": "12:41",
+      "timeLong": "12 minutes, 41 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/CY_DmHFtgWk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCsvdNnLcr-LpIS7Bw5eVThq80hyA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CY_DmHFtgWk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA3FmWYS1aCRTHIb689uiPocDS-HQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CY_DmHFtgWk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyN2hc4pYXoaxP_u69VbgWTBquAg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CY_DmHFtgWk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8BExoFXPkfW-9BYxnqYoQ6LtdYw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "rPpwAT_I75s",
+      "setVideoId": "001F70D958CF5CDF",
+      "titleLong": "Overlapping General Solutions (2 of 2) 5 minutes, 4 seconds",
+      "time": 304,
+      "timeShort": "5:04",
+      "timeLong": "5 minutes, 4 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/rPpwAT_I75s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDjictWCmC0-D-EQwA7SEHYdr7c3Q",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/rPpwAT_I75s/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBik5GKRytDcaN9JptIDIj--gRHgQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/rPpwAT_I75s/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-KEAA25HL1R8xJoaqtWR4SmTwSw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/rPpwAT_I75s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWpRzz9_5UlvcfeH_P6yCN-BhEcA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "WXooseEwliY",
+      "setVideoId": "8A05A42E773EFC61",
+      "titleLong": "Overlapping General Solutions (Example) 10 minutes, 6 seconds",
+      "time": 606,
+      "timeShort": "10:06",
+      "timeLong": "10 minutes, 6 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/WXooseEwliY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD_b3Vd2doQYNTbDmlIx1DknJ9CoA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WXooseEwliY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLASZSxNBLfPVQvmjFXiwimMv9V2Rg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WXooseEwliY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDHwLAejSwdPp6nLsJSSeg9ye6MQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WXooseEwliY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnQSqumPjn_GRRsqL4quUkTNOXDA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "5y2OsjuUNZA",
+      "setVideoId": "B1C476977DC9FF01",
+      "titleLong": "General Solution: Combining Solutions 11 minutes, 49 seconds",
+      "time": 709,
+      "timeShort": "11:49",
+      "timeLong": "11 minutes, 49 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/5y2OsjuUNZA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDlzgce_KtsJH5f5bp7wi0ZjiLs5g",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5y2OsjuUNZA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDOISJNUoZrE5N6L76pCfZTHFiQQw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5y2OsjuUNZA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAG3kcAZQNatpMKohk9NzLVlHOiPw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5y2OsjuUNZA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvzeFlYKbmPp2fVID46RtTNt6YkA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "sJbexcm4Trk",
+      "setVideoId": "64FC554E4D453F33",
+      "titleLong": "Cyberpunk 2077: Phantom Liberty — Official Cinematic Trailer 3 minutes, 29 seconds",
+      "time": 209,
+      "timeShort": "3:29",
+      "timeLong": "3 minutes, 29 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/sJbexcm4Trk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA6InJwbBSifsIjZKp6-ZfC8rltdA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/sJbexcm4Trk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCsxszLIifxdWEHWVXzZIj5PfBlWA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/sJbexcm4Trk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBu1e58AiH7gJCElX_sbWVWOqOQRA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/sJbexcm4Trk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARGJAspOtwj6H7JDKtvHGAFWksDA",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Cyberpunk 2077",
+        "id": "UC4zyoIAzmdsgpDZQfO1-lSA",
+        "url": "/@CyberpunkGame"
+      }
+    },
+    {
+      "id": "6Q9uyDiKblU",
+      "setVideoId": "296FE3DCFF5C9D80",
+      "titleLong": "Extraneous Solutions 6 minutes, 29 seconds",
+      "time": 389,
+      "timeShort": "6:29",
+      "timeLong": "6 minutes, 29 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/6Q9uyDiKblU/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWihVMA8=&rs=AOn4CLDAcGp2B2g73jB4tYhWtLnyux2i7A",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/6Q9uyDiKblU/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWihVMA8=&rs=AOn4CLAl8RE0_dHYqhh_cD2FRLMb1lCLDA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/6Q9uyDiKblU/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFooVTAP&rs=AOn4CLAszu6YJWbXF6Y2Y_4e2mgRN8ii-w",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/6Q9uyDiKblU/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFooVTAP&rs=AOn4CLA9nzRastNsAfXc9h5cCexX6gUG-w",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "vK-61iAk2l0",
+      "setVideoId": "0161C5AD254ECAFD",
+      "titleLong": "Differentiating sin¯¹(x) & cos¯¹(x) 16 minutes",
+      "time": 973,
+      "timeShort": "16:13",
+      "timeLong": "16 minutes, 13 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/vK-61iAk2l0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBODs_Fucj05DDMk_wgeqfztC4UEA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/vK-61iAk2l0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCnzo9WidHwIt6jneEZga0nQXWvTQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/vK-61iAk2l0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByJVAcVktw6E_PngE-p-U-rEd6sg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/vK-61iAk2l0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCG2EOV3bBmaaOy5mWvQoGFXUHhWQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "JeyiDqBSapw",
+      "setVideoId": "31A22D0994588080",
+      "titleLong": "Differentiating tan¯¹(x) 5 minutes, 11 seconds",
+      "time": 311,
+      "timeShort": "5:11",
+      "timeLong": "5 minutes, 11 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/JeyiDqBSapw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCB_0FRlUdAc2zZsIjv0rSpjblcBg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JeyiDqBSapw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDpVr7jpC-ugZbcMxTGQVyc9Ouapw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JeyiDqBSapw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_zcRSYHdWi3NjCd2mPBNxj8nB7A",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JeyiDqBSapw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9BjzjGUICMFLWqnVbGfIK_oObzg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    }
+  ]
+}

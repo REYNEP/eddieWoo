@@ -1,0 +1,293 @@
+
+
+<li>Years 11 and 12, select your course: <a href="https://misterwootube.com/2020/03/18/lesson-videos/#standard"><strong>Standard</strong></a>, <a href="https://misterwootube.com/2020/03/18/lesson-videos/#advanced"><strong>Advanced</strong></a>, <a href="https://misterwootube.com/2020/03/18/lesson-videos/#ext1"><strong>Extension 1</strong></a> or <a href="https://misterwootube.com/2020/03/18/lesson-videos/#ext2"><strong>Extension 2</strong></a></li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">A few other points for you to be aware of:</p>
+
+
+
+<ul class="wp-block-list">
+<li>These topics are aligned to the NSW Mathematics curriculum. If you live in another Australian state or territory, please use the <a href="https://wootube.mathspace.co/">Mathspace + Wootube portal</a>.</li>
+
+
+
+<li>Some topics below have “<strong>related content</strong>” – this includes videos that explain connected skills and concepts, but may not be within the scope of the syllabus.</li>
+
+
+
+<li>In some lessons, I teach multiple topics so they don’t fit neatly into a heading below. You can find those videos in <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5C6tetD7Ptx7CMEnDDx00ei">Mixed Topics</a>.</li>
+
+
+
+<li>As part of enrichment classes, I’ve taught several concepts that aren’t related directly to the syllabus. You can find those in <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5BOJhJ0Yeh05l0lnTBe3ybN">Mathematical Exploration</a>.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<a id="S4"></a><h2>Stage 4 Mathematics (Years 7 &amp; 8)</h2>
+
+
+
+<b>Number &amp; Algebra</b>
+<table width="100%" border="1">
+<tbody><tr bgcolor="#dddddd" data-darkreader-inline-bgcolor="" style="--darkreader-inline-bgcolor: var(--darkreader-background-dddddd, #2b2f31);">
+<td>Topic</td>
+<td>This playlist includes…</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5CyhzaViGUSFc164691gd0G">Computation with Integers</a></td>
+<td>Ordering &amp; calculating with whole numbers</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5A3lQJK26JqkPC2HZPOb3-W">Fractions, Decimals and Percentages</a></td>
+<td>Operating &amp; converting between number forms</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5D4-Axux8PcJmZXB0Yv2gi1">Basic Financial Mathematics</a></td>
+<td>Purchasing goods</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5A3EpPzrcebR5Y8q8K25hTl">Basic Ratios &amp; Rates</a></td>
+<td>Operations and graphical representation</td>
+</tr><tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5BTbgTCHTkwxUqfvg6MvNuJ">Basic Algebraic Techniques</a></td>
+<td>Introduction to algebra &amp; pronumerals</td>
+</tr><tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5CWmVgY_VVRmh_r_MJgE1uo">Basic Indices</a></td>
+<td>Operations with positive integer &amp; zero indices</td>
+</tr><tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5DMdiBiiGeTIkaht6MBhhnC">Basic Equations</a></td>
+<td>Solving simple equations</td>
+</tr><tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5BGNGW5eVKndzk4BCdJE6kP">Basic Linear Relationships</a></td>
+<td>Number patterns &amp; straight line graphs</td>
+</tr>
+</tbody></table>
+
+
+
+<b>Measurement &amp; Geometry</b>
+<table width="100%" border="1">
+<tbody><tr bgcolor="#dddddd" data-darkreader-inline-bgcolor="" style="--darkreader-inline-bgcolor: var(--darkreader-background-dddddd, #2b2f31);">
+<td>Topic</td>
+<td>This playlist includes…</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5DtydLCjMby6JhKZmh-cbvh">Measuring Basic Shapes</a></td>
+<td>Length, area &amp; volume</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5Ccr-Cl1tAPn6tOMAHhurwi">Time</a></td>
+<td>Units of time &amp; time zones</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5BnA2BgYm_AIGaYVVZsnMqT">Pythagoras’ Theorem</a></td>
+<td>Calculating side lengths</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5AtD-gkOyQMtLjR2TPMrJkQ">Basic Properties of Geometrical Figures</a></td>
+<td>Classify shapes; congruent triangles</td>
+</tr><tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5BsHgRlFWPKoKVN-0JlVcgo">Angle Relationships</a></td>
+<td>Angle properties, parallel lines (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5B_kldyScGw4aaUrO5go26V">related content</a>)</td>
+</tr>
+</tbody></table>
+
+
+
+<b>Statistics &amp; Probability</b>
+<table width="100%" border="1">
+<tbody><tr bgcolor="#dddddd" data-darkreader-inline-bgcolor="" style="--darkreader-inline-bgcolor: var(--darkreader-background-dddddd, #2b2f31);">
+<td>Topic</td>
+<td>This playlist includes…</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5BNIYXZYEYT6H4Xiwkbt3hi">Data Collection &amp; Representation</a></td>
+<td>Surveys, graphs &amp; charts</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5D5BS80FWHE_mH6ZTtGU3iQ">Basic Single Variable Analysis</a></td>
+<td>Measures of location &amp; range</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5ANrjJ0EEMzvxVKmnPNVYvf">Basic Probability</a></td>
+<td>Chance of simple &amp; compound events</td>
+</tr>
+</tbody></table><br><br>
+
+
+
+<a id="S5"></a><h2>Stage 5 Mathematics (Years 9 &amp; 10)</h2>
+
+
+
+<b>Number &amp; Algebra</b>
+<table width="100%" border="1" cellpadding="3">
+<tbody><tr bgcolor="#dddddd" data-darkreader-inline-bgcolor="" style="--darkreader-inline-bgcolor: var(--darkreader-background-dddddd, #2b2f31);">
+<td>Topic</td>
+<td>This playlist includes…</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5DO7n6yl1wcWPar5BCCnrOI">Further Financial Mathematics</a></td>
+<td>Earning, Spending &amp; Investing</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5B6qu4q2C3_YPJVs1P-dBPg">Further Ratios and Rates</a></td>
+<td>Proportion problems &amp; working with graphs</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5ATGZobbZgt78rXma1cidQB">Further Algebraic Techniques</a></td>
+<td>Algebraic fractions &amp; quadratic expressions</td>
+</tr>
+<tr><td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5BMrygdJYxqIZ0aZwihKu0e">Further Indices</a></td>
+<td>Operations with negative &amp; fractional indices</td>
+</tr><tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5BflvNTYTtJski5eASSVFVt">Further Equations</a></td>
+<td>Solving quadratic, cubic &amp; simultaneous equations (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5DAVGjbAnG6kytWHUkLhTfy">related content</a>)</td>
+</tr><tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5Dao4OjSGe8msbPBQ0y74Lr">Further Linear Relationships</a></td>
+<td>Coordinate geometry techniques (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5AzWOflo8QwqC-6t_Kl8dWa">related content</a>)</td>
+</tr><tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5BXoGnG2t04s2GerwgCYNyY">Non-Linear Relationships</a></td>
+<td>Sketching &amp; interpreting curved graphs</td>
+</tr><tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5B0MakQQyX_k9_iFM6dYivZ">Polynomials</a></td>
+<td>Sketching, factor &amp; remainder theorem</td>
+</tr><tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5D2djP07pTNWY3QnBqEASKf">Logarithms</a></td>
+<td>Define logarithms &amp; use laws</td>
+</tr><tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5CGGxg3mH3nMpPnuEzW-jXh">Functions &amp; Other Graphs</a></td>
+<td>Use function notation &amp; sketch graphs</td>
+</tr>
+</tbody></table>
+
+
+
+<b>Measurement &amp; Geometry</b>
+<table width="100%" border="1">
+<tbody><tr bgcolor="#dddddd" data-darkreader-inline-bgcolor="" style="--darkreader-inline-bgcolor: var(--darkreader-background-dddddd, #2b2f31);">
+<td>Topic</td>
+<td>This playlist includes…</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5ChPLYGWyvKVv3am4rWZek4">Measuring Further Shapes</a></td>
+<td>Area, surface area &amp; volume</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5AhF8EmkRJoef-kyVsUSCHs">Numbers of Any Magnitude</a></td>
+<td>Scientific notation &amp; significant figures</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5DdtHcMLtodrdN7nr79GJIJ">Trigonometry</a></td>
+<td>Angles &amp; sides in triangles</td>
+</tr>
+<tr><td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5B1WTc4rBI3Jk_QM954sK8w">Further Properties of Geometrical Figures</a></td>
+<td>Similar figures, geometric reasoning (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5CahmnWE1QfpV_OyvFZcTwG">related content</a>)</td>
+</tr><tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5DXqr9QWQKZbtR33tDlqn4Z">Circle Geometry</a></td>
+<td>Deductive arguments with circle theorems</td>
+</tr>
+</tbody></table>
+
+
+
+<b>Statistics &amp; Probability</b>
+<table width="100%" border="1">
+<tbody><tr bgcolor="#dddddd" data-darkreader-inline-bgcolor="" style="--darkreader-inline-bgcolor: var(--darkreader-background-dddddd, #2b2f31);">
+<td>Topic</td>
+<td>This playlist includes…</td>
+</tr>
+
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5CSUxSvs43zRNTdCUvZrKr7">Further Single Variable Analysis</a></td>
+<td>Quartiles, box plots, standard deviation</td>
+</tr><tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5C3Qgid37hT1aINQU7xbJ_1">Bivariate Analysis</a></td>
+<td>Relationships between two variables</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5CpoYPRi8Z-iCzBf5Ivyy4Y">Further Probability</a></td>
+<td>Multi-step experiments (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5A7nsgXClyJTRLnqzryTL15">related content</a>)</td>
+</tr>
+</tbody></table><br><br>
+
+
+
+<a id="standard"></a><h2>Mathematics Standard 2</h2>
+
+
+
+<p class="wp-block-paragraph"><strong>Year 11</strong><br>MS-A1 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5CY8DSdiAolbz62xmHw-crk">Formulae and Equations</a><br>MS-A2 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5ByNdXGsYTh6lKyOEgQLcWh">Linear Relationships</a> <br>MS-M1 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5BMXQ6etFDb9AVZ7aSvAIhw">Applications of Measurement</a> (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5D1To3HQ3pNMMb8YGrJ1KX7">related content</a>)<br>MS-M2 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5D4iI0541nAXCzUeQyP-AV7">Working with Time</a><br>MS-F1 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5DNhWt7Dmo4vEG-Z-5yCW5s">Money Matters</a><br>MS-S1 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5DMPTef2EnihsjTNiokCN2-">Data Analysis</a> (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5D2Ws451TVi1R3rRXGnWhgH">related content</a>)<br>MS-S2 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5DWE0dV0104Abot_3gD2aQ5">Relative Frequency and Probability</a> </p>
+
+
+
+<p class="wp-block-paragraph"><strong>Year 12</strong><br>MS-A4 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5AVuT7Z6pTAni52OM26QOyl">Types of Relationships</a> <br>MS-M6 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5B5FcF3HXrhcVGSdYa8E9mJ">Non-right-angled Trigonometry</a><br>MS-M7 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5AfmTFYO8JBPfAQeIH3xPmo">Working with Rates and Ratios</a><br>MS-F4 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5BNEsjWXQUAITzco_eYI-ht">Investments and Loans</a> <br>MS-F5 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5Ah57vQ197OTQawfMlkm7yY">Annuities</a><br>MS-S4 Bivariate Data Analysis (no specific content, but see related content in <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5Ak8nKmEetGN0uZfT2e9W4G">MA-S2</a>) <br>MS-S5 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5DXRbmHUrpERI5JzCiS-1t1">The Normal Distribution</a> <br>MS-N2 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5DHyEf5LCbd8fs_yfIIIk_8">Network Concepts</a><br><span class="has-inline-color has-light-gray-color">MS-N3 Critical Path Analysis</span></p>
+
+
+
+<a id="advanced"></a><h2>Mathematics Advanced</h2>
+
+
+
+<p class="wp-block-paragraph"><strong>Year 11</strong><br>MA-F1 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5CbAukmvHOU7RUoDUDQl4Iw">Working with Functions</a> (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5Aef-YUwah0RCKdSdDS_TRZ">related content</a>)<br>MA-T1 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5DDsJNijZJqCBALQjOc_X7F">Trigonometry and Measure of Angles</a><br>MA-T2 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5DcuZjxn8n9zkpXQmJCDDDU">Trigonometric Functions and Identities</a> (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5ABToTmfGUxGZFcdrdVNoEZ">related content</a>)<br>MA-C1 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5DwIsDKWdHYmkRZmXMi1mE8">Introduction to Differentiation</a><br>MA-E1 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5DEMR0IcM_r7tT9tgUSZXUf">Logarithms and Exponentials</a> (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5Cd-Ah4X-0RDjnOQypvAqm_">related content</a>)<br>MA-S1 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5BFwSEeNMH5keKPZGNdP0EE">Probability and Discrete Probability Distributions</a></p>
+
+
+
+<p class="wp-block-paragraph"><strong>Year 12</strong><br>MA-F2 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5C8pu8FETc5eKoIvhDoQnIt">Graphing Techniques</a> (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5AZkoqWJlMHjP0wpKDEB9NA">related content</a>)<br>MA-T3 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5DVBsQQXc2vegRC8kCttz_p">Trigonometric Functions and Graphs</a> (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5C2Oaejfaf2DdiXyp3U1Jot">related content</a>)<br>MA-C2 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5BfO1Ma7-1NM-CRM9WAou8r">Differential Calculus</a> (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5CpYvLtlBjjWQk_tlSqIaGQ">related content</a>)<br>MA-C3 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5AIfGURYGmFy6r7dj3RGEu1">Applications of Differentiation</a> (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5D-z8hZIqsE3Q9pGlcUv1Xt">related content</a>)<br>MA-C4 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5CHD-vFdY9aLe380GrjBx81">Integral Calculus</a> (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5AsQgLnRE3bhzT2-E4PyK5_">related content</a>)<br>MA-M1 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5BO0XAC7TI2EjqguA3_KdUT">Modelling Financial Situations</a> (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5DDbb2p39oWTO8JH-Wt_ITm">related content</a>)<br>MA-S2 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5Ak8nKmEetGN0uZfT2e9W4G">Descriptive Statistics &amp; Bivariate Data Analysis</a><br><span class="has-inline-color has-black-color">MA-S3</span><span class="has-inline-color has-light-gray-color"> <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5C9nhzyacvNtcWHLh3mvXJE">Random Variables</a></span></p>
+
+
+
+<a id="ext1"></a><h2>Mathematics Extension 1</h2>
+
+
+
+<p class="wp-block-paragraph"><strong>Year 11</strong><br>ME-F1 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5AcWuW2TeRl-t8qL_lZ2H-s">Further Work with Functions</a> (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5BDjSXY-sXQjlFgpqzIoK86">related content</a>)<br>ME-F2 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5BTLPdsdJzkLOXUTiJrFbpH">Polynomials</a> (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5AOV15pmefpIr4e_JfjKqDx">related content</a>)<br>ME-T1 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5ADb33mmHXwlvRaHoGLwc7-">Inverse Trigonometric Functions</a> (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5DXmYZRtFlXHaxPx4GsKGBx">related content</a>)<br>ME-T2 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5BJVn5T6AkBTphtEa1xWrSx">Further Trigonometric Identities</a> (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5CwnhJSZX4A6YJpYvHhRAT1">related content</a>)<br>ME-C1 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5Dsi60VtJ6u2ll6I4QrGmFC">Rates of Change</a><br>ME-A1 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5BoekiiL-6NzgRFo4JFnz7k">Working with Combinatorics</a></p>
+
+
+
+<p><strong>Year 12</strong><br>ME-P1 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5CnkA4bi7l6W62VPoYRbOEk">Introduction to Proof by Mathematical Induction</a><br>ME-V1 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5A5esZvyw2QGj0NNNnBf8TR">Introduction to Vectors</a> (<a href="https://www.youtube.com/playlist?list=PLZJc0KZ84sbwuBKvolmD_zDb8t-o1mMm3">comprehensive lessons by Miriam Lees</a>)<br>ME-T3 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5CZI8xy_0VCrcdma2ZPGup1">Trigonometric Equations</a><br>ME-C2 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5CXcD5HLf8qRtt8h7ggelVq">Further Calculus Skills</a><br>ME-C3 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5D6oNmraS0ZtnkLCKciBhTg">Applications of Calculus</a> (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5DFSxBQ5sEVJqw35a8sIOLx">related content</a>)<br>ME-S1 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5Bcz-V51UHtlg_eBW-PtQ7_">The Binomial Distribution</a></p>
+
+
+
+<a id="ext2"></a><h2>Mathematics Extension 2</h2>
+
+
+
+<p class="wp-block-paragraph"><strong>Year 12</strong><br>MEX-P1 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5DdkpsH2qYqaTHUnaERss7y">The Nature of Proof</a><br>MEX-P2 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5A3Htn0jBcNcnhFANx1ZHId">Further Proof by Mathematical Induction</a><br>MEX-V1 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5CoUMVspvbLtusjCkrrjOOv">Further Work with Vectors</a><br>MEX-N1 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5Cgemeh9KmvgG11ej98Mqde">Introduction to Complex Numbers</a><br>MEX-N2 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5DBjyGtlZQmzbIe5cp7qq7q">Using Complex Numbers</a><br>MEX-C1 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5BGMtdKDFOIwvbj3oM_TYMl">Further Integration</a> (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5A9etIG43O9SmVklFQZ-zdZ">related content</a>)<br>MEX-M1 <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5ByiBtqCQLcSZtT3_c1NQu0">Applications of Calculus to Mechanics</a> (and <a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5AKu_EpJYjWG00w-KXH_xSE">related content</a>)</p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul data-sharing-events-added="true"><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-2433" class="share-twitter sd-button share-icon" href="https://misterwootube.com/2020/03/18/lesson-videos/?share=twitter&amp;nb=1" target="_blank" aria-labelledby="sharing-twitter-2433">
+				<span id="sharing-twitter-2433" hidden="">Share on X (Opens in new window)</span>
+				<span>X</span>
+			</a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-2433" class="share-facebook sd-button share-icon" href="https://misterwootube.com/2020/03/18/lesson-videos/?share=facebook&amp;nb=1" target="_blank" aria-labelledby="sharing-facebook-2433">
+				<span id="sharing-facebook-2433" hidden="">Share on Facebook (Opens in new window)</span>
+				<span>Facebook</span>
+			</a></li><li class="share-end"></li></ul></div></div></div><div class="sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-loaded" id="like-post-wrapper-62196666-2433-69afd89b4cc6b" data-src="//widgets.wp.com/likes/index.html?ver=20260310#blog_id=62196666&amp;post_id=2433&amp;origin=misterwootube.wordpress.com&amp;obj_id=62196666-2433-69afd89b4cc6b&amp;domain=misterwootube.com" data-name="like-post-frame-62196666-2433-69afd89b4cc6b" data-title="Like or Reblog"><div class="likes-widget-placeholder post-likes-widget-placeholder" style="height: 55px;"><span class="button"><span>Like</span></span> <span class="loading">Loading...</span></div><iframe class="post-likes-widget jetpack-likes-widget" name="like-post-frame-62196666-2433-69afd89b4cc6b" src="./Lesson Videos – Wootube_files/index.html" height="55px" width="100%" frameborder="0" scrolling="no" title="Like or Reblog"></iframe><span class="sd-text-color"></span><a class="sd-link-color"></a></div>
+<div id="jp-relatedposts" class="jp-relatedposts" style="display: block;">
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+<div class="jp-relatedposts-items jp-relatedposts-items-minimal jp-relatedposts-grid "><p class="jp-relatedposts-post jp-relatedposts-post0" data-post-id="714" data-post-format="false"><span class="jp-relatedposts-post-title"><a class="jp-relatedposts-post-a" href="https://misterwootube.com/2014/09/19/term-3-summary/" title="Term 3 Summary" data-origin="2433" data-position="0">Term 3 Summary</a></span><time class="jp-relatedposts-post-date" datetime="September 19, 2014" style="display: block;">September 19, 2014</time><span class="jp-relatedposts-post-context">In "exploremaths"</span></p><p class="jp-relatedposts-post jp-relatedposts-post1" data-post-id="397" data-post-format="false"><span class="jp-relatedposts-post-title"><a class="jp-relatedposts-post-a" href="https://misterwootube.com/2014/07/25/beauty-mathematics-continued-25-july-2014/" title="Beauty &amp;amp; Mathematics continued (25 July 2014)" data-origin="2433" data-position="1">Beauty &amp; Mathematics continued (25 July 2014)</a></span><time class="jp-relatedposts-post-date" datetime="July 25, 2014" style="display: block;">July 25, 2014</time><span class="jp-relatedposts-post-context">In "Mathematics"</span></p><p class="jp-relatedposts-post jp-relatedposts-post2" data-post-id="1302" data-post-format="false"><span class="jp-relatedposts-post-title"><a class="jp-relatedposts-post-a" href="https://misterwootube.com/2015/05/15/video-composition-ideas-michelle-so-hiya-ganju-sophia-kim-and-joyce-liu/" title="Video composition ideas (Michelle So, Hiya Ganju, Sophia Kim and Joyce Liu)" data-origin="2433" data-position="2">Video composition ideas (Michelle So, Hiya Ganju, Sophia Kim and Joyce Liu)</a></span><time class="jp-relatedposts-post-date" datetime="May 15, 2015" style="display: block;">May 15, 2015</time><span class="jp-relatedposts-post-context">In "Submissions"</span></p></div></div></div>		</div><!-- .entry-content -->
+
+			<footer class="entry-footer">
+		<span class="tags-links">Tagged <a href="https://misterwootube.com/tag/highlight/" rel="tag">highlight</a></span>	</footer><!-- .entry-footer -->
+				<div class="entry-author author-avatar-show">
+						<div class="author-avatar">
+				<img referrerpolicy="no-referrer" alt="Unknown&#39;s avatar" src="./Lesson Videos – Wootube_files/efd8a20078f9914b51bcf5349cbc82ec931d719882ee7b6a27564f899ebe1da1.png" srcset="https://2.gravatar.com/avatar/efd8a20078f9914b51bcf5349cbc82ec931d719882ee7b6a27564f899ebe1da1?s=60&amp;d=identicon&amp;r=G 1x, https://2.gravatar.com/avatar/efd8a20078f9914b51bcf5349cbc82ec931d719882ee7b6a27564f899ebe1da1?s=90&amp;d=identicon&amp;r=G 1.5x, https://2.gravatar.com/avatar/efd8a20078f9914b51bcf5349cbc82ec931d719882ee7b6a27564f899ebe1da1?s=120&amp;d=identicon&amp;r=G 2x, https://2.gravatar.com/avatar/efd8a20078f9914b51bcf5349cbc82ec931d719882ee7b6a27564f899ebe1da1?s=180&amp;d=identicon&amp;r=G 3x, https://2.gravatar.com/avatar/efd8a20078f9914b51bcf5349cbc82ec931d719882ee7b6a27564f899ebe1da1?s=240&amp;d=identicon&amp;r=G 4x" class="avatar avatar-60 wp-hovercard-attachment grav-hashed grav-hijack" height="60" width="60" decoding="async">			</div><!-- .author-avatar -->
+			
+			<div class="author-heading">
+				<h2 class="author-title">
+					Published by <span class="author-name">Eddie Woo</span>				</h2>
+			</div><!-- .author-heading -->
+
+			<p class="author-bio">
+								<a class="author-link" href="https://misterwootube.com/author/eddddie/" rel="author">
+					View all posts by Eddie Woo				</a>
+			</p><!-- .author-bio -->
+		</div><!-- .entry-auhtor -->
+			</div> <!-- .entry-body -->
+</article><!-- #post-## -->

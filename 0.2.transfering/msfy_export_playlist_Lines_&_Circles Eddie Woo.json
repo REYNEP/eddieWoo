@@ -1,0 +1,935 @@
+{
+  "id": "PLR0j6NckpKjwtLQhkn4ZfQwDrvraXzliw",
+  "title": "Lines_&_Circles Eddie Woo",
+  "description": "",
+  "numVideos": 30,
+  "isEditable": true,
+  "canReorder": true,
+  "channel": {
+    "name": "REYNEP",
+    "id": "UCou4JeP0pBJlBkRCH5Vln1Q",
+    "url": "/@reynep"
+  },
+  "privacy": {
+    "value": 1,
+    "type": "public",
+    "icon": "PRIVACY_PUBLIC"
+  },
+  "videos": [
+    {
+      "id": "BywWffdXTsM",
+      "setVideoId": "56B44F6D10557CC6",
+      "titleLong": "Interesting Discontinuity Example 6 minutes, 49 seconds",
+      "time": 409,
+      "timeShort": "6:49",
+      "timeLong": "6 minutes, 49 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/BywWffdXTsM/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXShTMA8=&rs=AOn4CLConCL6u3TUdVGvcQ8kcPrvn05dhw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BywWffdXTsM/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXShTMA8=&rs=AOn4CLBrByD0IODsvhpSZNtd67CkPD71zw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BywWffdXTsM/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF0oUzAP&rs=AOn4CLBVrHinNNDH-Vxpi3d7kGS476MFZw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BywWffdXTsM/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF0oUzAP&rs=AOn4CLB2uslx7JyLnemWwiJIl6VPXvx_lw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "MKpE5KIdezw",
+      "setVideoId": "289F4A46DF0A30D2",
+      "titleLong": "The Pieces of a Parabola 5 minutes, 17 seconds",
+      "time": 317,
+      "timeShort": "5:17",
+      "timeLong": "5 minutes, 17 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/MKpE5KIdezw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAbyx6zq0IcIEba6AWsEyKe11d0Zw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MKpE5KIdezw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAhoE1LmvkUFeEnmhdSGpPRTILHNA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MKpE5KIdezw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7ieyx2I93mkt-TWNMQuCHUoridw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MKpE5KIdezw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNnwyKUElVUsQyQ_imnLGvrbkB7A",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "ebPeW93Ll-U",
+      "setVideoId": "017208FAA85233F9",
+      "titleLong": "Applications of Completing the Square (1 of 2: Finding a parabola's vertex) 8 minutes, 34 seconds",
+      "time": 514,
+      "timeShort": "8:34",
+      "timeLong": "8 minutes, 34 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/ebPeW93Ll-U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDFm7H5J6Q7pt7uVCxj2_1rfiJt8w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ebPeW93Ll-U/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCHETIHhSvavxfALPv8UJW_M905-g",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ebPeW93Ll-U/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtrUBjzwhijVn84Jk00YCpq35MhA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ebPeW93Ll-U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIukyXpVYB3kPTn5-ncHfkoHqgZQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "wOTfkuK_GQU",
+      "setVideoId": "52152B4946C2F73F",
+      "titleLong": "Vertex Form of a Parabola (1 of 2: Why it matters) 7 minutes, 43 seconds",
+      "time": 463,
+      "timeShort": "7:43",
+      "timeLong": "7 minutes, 43 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/wOTfkuK_GQU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBfHKV6ARTsmB4kkurHXD_cNoL0Kg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wOTfkuK_GQU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLArpIAvI_mH1V0Ytjfkz2tjr7wZAw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wOTfkuK_GQU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBF2X0bnQ5kwoo-WOLT7KZPbqrikw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wOTfkuK_GQU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbfc7_iuxZxAWnZ6uwptbehEPPVw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "RzLy2jSx3fs",
+      "setVideoId": "090796A75D153932",
+      "titleLong": "Vertex Form of a Parabola (2 of 2: Inductive Derivation) 11 minutes, 13 seconds",
+      "time": 673,
+      "timeShort": "11:13",
+      "timeLong": "11 minutes, 13 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/RzLy2jSx3fs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD9epXujvDLZ-V4fhwBOsoM1xU4qg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RzLy2jSx3fs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBNlicocswTbtHmFSQtea9owJkUKA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RzLy2jSx3fs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBv9W2H4XrmlpdJtRLv9YJfT9YJlA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RzLy2jSx3fs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9vkQD8BRYYh9l-O_BFWrj6hHJ5w",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "i7yA-Tqt6Zs",
+      "setVideoId": "12EFB3B1C57DE4E1",
+      "titleLong": "Intro to Inverse Functions (1 of 4: Overview & basic examples) 9 minutes, 58 seconds",
+      "time": 598,
+      "timeShort": "9:58",
+      "timeLong": "9 minutes, 58 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/i7yA-Tqt6Zs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCR7gHPX7XC7DTWID3ntA91i_fIuw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/i7yA-Tqt6Zs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD9XX6I4FZf1DnHtpRQSrVg8W0C-Q",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/i7yA-Tqt6Zs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAaKcmRapx-x4LzWLauL-fdHIgqA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/i7yA-Tqt6Zs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMdGnINAH0HSc73yC2fMyS3pqHxw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "7wiHvVP_308",
+      "setVideoId": "532BB0B422FBC7EC",
+      "titleLong": "Graphing Regions: A Sneaky Hyperbola Inequality 5 minutes, 26 seconds",
+      "time": 326,
+      "timeShort": "5:26",
+      "timeLong": "5 minutes, 26 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/7wiHvVP_308/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA5C2GHwrrE9_MwhWklx6FZ25yWEQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7wiHvVP_308/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDX0lAfxn2R_0LydxDvVcBIlRI2YA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7wiHvVP_308/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjZkdep3yNCtrPBcHApL6f0HXMKg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7wiHvVP_308/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXL93u-QXfmHqX1rDq-N4hS3iLUQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "YZviwxCR4Jo",
+      "setVideoId": "CACDD466B3ED1565",
+      "titleLong": "Trigonometric Identities & Sneaky Absolute Values 8 minutes, 4 seconds",
+      "time": 484,
+      "timeShort": "8:04",
+      "timeLong": "8 minutes, 4 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/YZviwxCR4Jo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB7QgJ-qJnHbWuLyvBXt_-kTh487A",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/YZviwxCR4Jo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCgRAXhX7ucnusUFoezGokceAPpAg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/YZviwxCR4Jo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA89-3J3J08s9hw_UbKEFvzBXDk1g",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/YZviwxCR4Jo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCx8YVrNY9ZpRQwUOkjAT2KX-onvQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "JiPpbPxC7ok",
+      "setVideoId": "9495DFD78D359043",
+      "titleLong": "Graphing Square Root Functions (3 of 3: Cubic example) 9 minutes, 49 seconds",
+      "time": 589,
+      "timeShort": "9:49",
+      "timeLong": "9 minutes, 49 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/JiPpbPxC7ok/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCDuaWUa6ur4bxfl3BKNNJ4_e2dJA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JiPpbPxC7ok/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDhqbGh1Rgu95j72TcLu47jqfApIQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JiPpbPxC7ok/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANS6m7_5FUC5QF47cgyxq1L0QCPA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JiPpbPxC7ok/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkD52dEJni1wBzzIjAKnzS5Lb1FA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "KI-I2T9g_c4",
+      "setVideoId": "F63CD4D04198B046",
+      "titleLong": "Differentiability (includes counter-examples) 7 minutes, 43 seconds",
+      "time": 463,
+      "timeShort": "7:43",
+      "timeLong": "7 minutes, 43 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/KI-I2T9g_c4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLChD_HE5S62x0OJHWMHKEasoCR6-w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/KI-I2T9g_c4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLADweHvTdUDwL4NITChmOcwVps_Gg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/KI-I2T9g_c4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEos4drrPdm3NZVl9hPpN5xCjtQQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/KI-I2T9g_c4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrwmgLrtJ01Yu7FzW1CbSdcIWsgw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "MKpE5KIdezw",
+      "setVideoId": "476B0DC25D7DEE8A",
+      "titleLong": "The Pieces of a Parabola 5 minutes, 17 seconds",
+      "time": 317,
+      "timeShort": "5:17",
+      "timeLong": "5 minutes, 17 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/MKpE5KIdezw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAbyx6zq0IcIEba6AWsEyKe11d0Zw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MKpE5KIdezw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAhoE1LmvkUFeEnmhdSGpPRTILHNA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MKpE5KIdezw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7ieyx2I93mkt-TWNMQuCHUoridw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MKpE5KIdezw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNnwyKUElVUsQyQ_imnLGvrbkB7A",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "ebPeW93Ll-U",
+      "setVideoId": "D0A0EF93DCE5742B",
+      "titleLong": "Applications of Completing the Square (1 of 2: Finding a parabola's vertex) 8 minutes, 34 seconds",
+      "time": 514,
+      "timeShort": "8:34",
+      "timeLong": "8 minutes, 34 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/ebPeW93Ll-U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDFm7H5J6Q7pt7uVCxj2_1rfiJt8w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ebPeW93Ll-U/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCHETIHhSvavxfALPv8UJW_M905-g",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ebPeW93Ll-U/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtrUBjzwhijVn84Jk00YCpq35MhA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ebPeW93Ll-U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIukyXpVYB3kPTn5-ncHfkoHqgZQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "wOTfkuK_GQU",
+      "setVideoId": "984C584B086AA6D2",
+      "titleLong": "Vertex Form of a Parabola (1 of 2: Why it matters) 7 minutes, 43 seconds",
+      "time": 463,
+      "timeShort": "7:43",
+      "timeLong": "7 minutes, 43 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/wOTfkuK_GQU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBfHKV6ARTsmB4kkurHXD_cNoL0Kg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wOTfkuK_GQU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLArpIAvI_mH1V0Ytjfkz2tjr7wZAw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wOTfkuK_GQU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBF2X0bnQ5kwoo-WOLT7KZPbqrikw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wOTfkuK_GQU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbfc7_iuxZxAWnZ6uwptbehEPPVw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "RzLy2jSx3fs",
+      "setVideoId": "30892D90EC0C5586",
+      "titleLong": "Vertex Form of a Parabola (2 of 2: Inductive Derivation) 11 minutes, 13 seconds",
+      "time": 673,
+      "timeShort": "11:13",
+      "timeLong": "11 minutes, 13 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/RzLy2jSx3fs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD9epXujvDLZ-V4fhwBOsoM1xU4qg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RzLy2jSx3fs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBNlicocswTbtHmFSQtea9owJkUKA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RzLy2jSx3fs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBv9W2H4XrmlpdJtRLv9YJfT9YJlA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RzLy2jSx3fs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9vkQD8BRYYh9l-O_BFWrj6hHJ5w",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "T5Be98VX24M",
+      "setVideoId": "5396A0119349808E",
+      "titleLong": "Solving Equations with Radical Functions (1 of 2: Initial steps & discussion) 10 minutes, 58 seconds",
+      "time": 658,
+      "timeShort": "10:58",
+      "timeLong": "10 minutes, 58 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/T5Be98VX24M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCuNAaxa96exdkHeP5gRWW4Cz4PLQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/T5Be98VX24M/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBoEzNVBHSBXEp6fT2g1q5cRkLnHg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/T5Be98VX24M/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsb-8KZpDf7dbD4fOC3RIr3OVTYA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/T5Be98VX24M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuQOV5uHUqhYmsPda0ZpZRfCptEg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "JMhUF_8EvP4",
+      "setVideoId": "DAA551CF700844C3",
+      "titleLong": "Y10 Review Questions (Surds, Fractions, Number Lines) 10 minutes, 19 seconds",
+      "time": 619,
+      "timeShort": "10:19",
+      "timeLong": "10 minutes, 19 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/JMhUF_8EvP4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDMGUTOP_J26p5jXYevV4-PLwowJg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JMhUF_8EvP4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBoq12pv_KLvI9tUL62a1cApjTJAA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JMhUF_8EvP4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3Y3EreM406tukxlOMQxQZJfGPqA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JMhUF_8EvP4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMw80AZZVbIFZSw5rSklrgSapgWw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "5bkKbsmI-zY",
+      "setVideoId": "5A65CE115B87358D",
+      "titleLong": "Finding the Domain of a Given Radical Function 6 minutes, 59 seconds",
+      "time": 419,
+      "timeShort": "6:59",
+      "timeLong": "6 minutes, 59 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/5bkKbsmI-zY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCpwfSfMLWAaAHXPZCp6TTcmgYK6Q",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5bkKbsmI-zY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAZabI7NYjGRhGibUv19_oczVy-8g",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5bkKbsmI-zY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAodwRxT2E5L9OtWyZ2wrHPqV86lA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5bkKbsmI-zY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAg8tmpChEkCE0Jub7hhjuvKOmpw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "6Q9uyDiKblU",
+      "setVideoId": "21D2A4324C732A32",
+      "titleLong": "Extraneous Solutions 6 minutes, 29 seconds",
+      "time": 389,
+      "timeShort": "6:29",
+      "timeLong": "6 minutes, 29 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/6Q9uyDiKblU/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWihVMA8=&rs=AOn4CLDAcGp2B2g73jB4tYhWtLnyux2i7A",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/6Q9uyDiKblU/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWihVMA8=&rs=AOn4CLAl8RE0_dHYqhh_cD2FRLMb1lCLDA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/6Q9uyDiKblU/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFooVTAP&rs=AOn4CLAszu6YJWbXF6Y2Y_4e2mgRN8ii-w",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/6Q9uyDiKblU/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFooVTAP&rs=AOn4CLA9nzRastNsAfXc9h5cCexX6gUG-w",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "SC8Xr-QUWVQ",
+      "setVideoId": "9E8144A350F4408B",
+      "titleLong": "Introduction to Locus 13 minutes, 43 seconds",
+      "time": 823,
+      "timeShort": "13:43",
+      "timeLong": "13 minutes, 43 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/SC8Xr-QUWVQ/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAKBq9goVQJflKui8OvgRzVHsdANg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SC8Xr-QUWVQ/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBBtM4GiImzB8ieoHvWYeVpkCrW1g",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SC8Xr-QUWVQ/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLDJBPbM0_P5vdr9EtJ6J2iau2G3qQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SC8Xr-QUWVQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAsqfr_pczrzTcTq2l9hbvE57B1RQ",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "9f8aFn7LaMY",
+      "setVideoId": "D458CC8D11735272",
+      "titleLong": "The Discriminant 7 minutes, 39 seconds",
+      "time": 459,
+      "timeShort": "7:39",
+      "timeLong": "7 minutes, 39 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/9f8aFn7LaMY/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgYChFMA8=&rs=AOn4CLDL1d4OOslLkQb6uzet21gcTR2pMA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9f8aFn7LaMY/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgYChFMA8=&rs=AOn4CLAlbWpH_L-1h5qyJNR1jXgOEdhPOg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9f8aFn7LaMY/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIGAoRTAP&rs=AOn4CLDJYmE1aG2C2ncx5WM9G0qQprUsXA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9f8aFn7LaMY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIGAoRTAP&rs=AOn4CLCMrUUr9snv4AC6BYJhb13a5yPtdA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "exkOf0YzWus",
+      "setVideoId": "208A2CA64C241A85",
+      "titleLong": "Using Multiplicity of Roots (1 of 2: Locating a double root with calculus) 11 minutes, 56 seconds",
+      "time": 716,
+      "timeShort": "11:56",
+      "timeLong": "11 minutes, 56 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/exkOf0YzWus/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCg2ERDPiThslzXZX7lK_fsbmzL5Q",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/exkOf0YzWus/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAoc1BnEfmpx5beIROeaN3H7ZClTw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/exkOf0YzWus/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIyM8WngPbqX-2yfxBYPhsyiTbQw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/exkOf0YzWus/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC75t79eIpKRQ2t87QL8JClkikK_Q",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "6QF-7OFMWRc",
+      "setVideoId": "F3D73C336952E57D",
+      "titleLong": "Equation of a Parabola - Vertex Form (Completing the square) 10 minutes",
+      "time": 600,
+      "timeShort": "10:00",
+      "timeLong": "10 minutes",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/6QF-7OFMWRc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBqiD4J1wXcQGDjceCBcXMSDRmCjA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/6QF-7OFMWRc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBmX756AJRcVp381gLtzOSO4oeI9w",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/6QF-7OFMWRc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoXzpITlB1D17U40nKPcNv9mNv-A",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/6QF-7OFMWRc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7mKxL6L6Ef-PNDJYwGu5jMbQVfg",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "NjpXGEHsrEg",
+      "setVideoId": "3F342EBE842F2A34",
+      "titleLong": "Visualising Square Roots (1 of 2: Exploring the graphs) 10 minutes, 19 seconds",
+      "time": 619,
+      "timeShort": "10:19",
+      "timeLong": "10 minutes, 19 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/NjpXGEHsrEg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBttxGraiH1Uyuz-9i812ThrSxLwg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/NjpXGEHsrEg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLApPb6YWQq6H82t9qZ0RsR9qrZmfw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/NjpXGEHsrEg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmajiYUd0qcyoyBa0N8U4IR6oOUQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/NjpXGEHsrEg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBShy-VqfmyYWZ3smAtTCU8PgxDfQ",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Eddie Woo",
+        "id": "UCq0EGvLTyy-LLT1oUSO_0FQ",
+        "url": "/@misterwootube"
+      }
+    },
+    {
+      "id": "LATkdUhEX_4",
+      "setVideoId": "9750BB53E158A2E4",
+      "titleLong": "Visualising Square Roots (2 of 2: Modifying a & b) 10 minutes, 36 seconds",
+      "time": 636,
+      "timeShort": "10:36",
+      "timeLong": "10 minutes, 36 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/LATkdUhEX_4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA2_H_Qk_Hv4uTU8mAAa7VY8NPLhA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LATkdUhEX_4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDHK9tEk_cCYqeiSZjaaVmQnqoV2g",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LATkdUhEX_4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAfUeD5mz3t2JWJ0ZIeaHJyBWK_w",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LATkdUhEX_4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCh0bbPPl1A7s35OkucQxGSaCbmLQ",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Eddie Woo",
+        "id": "UCq0EGvLTyy-LLT1oUSO_0FQ",
+        "url": "/@misterwootube"
+      }
+    },
+    {
+      "id": "BVaj--ugjo4",
+      "setVideoId": "C715F6D1FB204D0A",
+      "titleLong": "Introduction to Radians (1 of 3: Thinking about degrees) 10 minutes, 24 seconds",
+      "time": 624,
+      "timeShort": "10:24",
+      "timeLong": "10 minutes, 24 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/BVaj--ugjo4/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVyhVMA8=&rs=AOn4CLCopOgiE43tlrhVWJrX9yFTpq4egA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BVaj--ugjo4/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVyhVMA8=&rs=AOn4CLBn_u7Fl0LVrMBo1smd7BF0OZOimQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BVaj--ugjo4/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFcoVTAP&rs=AOn4CLC3v3k9ymum6KB8gsoVyPR-U0vRiw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BVaj--ugjo4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFcoVTAP&rs=AOn4CLBvVl7WBexoGeTFR5pke3Wv3ZlQqw",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "EZhCDaiTahM",
+      "setVideoId": "7125420930B2133F",
+      "titleLong": "Introduction to Radians (2 of 3: Defining a better way) 9 minutes, 19 seconds",
+      "time": 559,
+      "timeShort": "9:19",
+      "timeLong": "9 minutes, 19 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/EZhCDaiTahM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCbqethxuCJ9UA7uJIcicRH2cGf2A",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/EZhCDaiTahM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBvcSVyYXhPKYVlyoMk_t0CgNq3Ow",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/EZhCDaiTahM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2UMunA_DU0X0SSqXKIhjT5QjI9g",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/EZhCDaiTahM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqRbFIoHcmWcwLupv27b7owsoCXA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "ZJY5RXJuTOg",
+      "setVideoId": "CCC2CF83843EF8F0",
+      "titleLong": "Introduction to Radians (3 of 3: Definition + Why Radians Aren't Units) 11 minutes, 43 seconds",
+      "time": 703,
+      "timeShort": "11:43",
+      "timeLong": "11 minutes, 43 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/ZJY5RXJuTOg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVihOMA8=&rs=AOn4CLARqf1ORzBqcJ0m1_xZ02iUZQU00Q",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZJY5RXJuTOg/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVihOMA8=&rs=AOn4CLChGfw_PX7dg-CsiGgUTVm-2a49Hw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZJY5RXJuTOg/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFYoTjAP&rs=AOn4CLBxm5WkYmkdmuq3oIToWh06Ao1KDA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZJY5RXJuTOg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFYoTjAP&rs=AOn4CLC_2gOZQm89aqXjw2HVK2DcdQB41A",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "aDzk8RFz88w",
+      "setVideoId": "2AA6CBD198537E6B",
+      "titleLong": "HSC Extension 1 Assorted Quiz (#1: Circle Geometry & Parametrics) 8 minutes, 28 seconds",
+      "time": 508,
+      "timeShort": "8:28",
+      "timeLong": "8 minutes, 28 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/aDzk8RFz88w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBVG4z9Jy7hymZIWjxBNE1TbMWhKA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/aDzk8RFz88w/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD0DPdLsn8n5SinwyIu7NHvfMhNEw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/aDzk8RFz88w/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWDZ5juZ12rxjBTlkBFhUQzjGgiA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/aDzk8RFz88w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDC2FjlErUHtDJ_A2M1RPJ5ehrfjA",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "channel": {
+        "name": "Eddie Woo",
+        "id": "UCq0EGvLTyy-LLT1oUSO_0FQ",
+        "url": "/@misterwootube"
+      }
+    },
+    {
+      "id": "XU4BAXFhNlU",
+      "setVideoId": "C2E8565AAFA60017",
+      "titleLong": "5.3 Functions - Evaluating Expressions with Function Notation 11 minutes, 21 seconds",
+      "time": 681,
+      "timeShort": "11:21",
+      "timeLong": "11 minutes, 21 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/XU4BAXFhNlU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCurzSkvu7avjjzlhEeW_NGXDo3lQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/XU4BAXFhNlU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLChoXLWiy5jF0I2BJStHGkRYAlCIQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/XU4BAXFhNlU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPY-A85-jn3Mg48YWbAf7Vakw7YQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/XU4BAXFhNlU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoMLz4kVDCUZOlna3xjM5EqxC3bA",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    },
+    {
+      "id": "OIsnH6DbKRU",
+      "setVideoId": "8279DAAEA617ED54",
+      "titleLong": "Complex Conjugate Root Theorem (4 of 4: Using Factorisation to find patterns with Roots of Unity) 6 minutes, 28 seconds",
+      "time": 388,
+      "timeShort": "6:28",
+      "timeLong": "6 minutes, 28 seconds",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/OIsnH6DbKRU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAMC5_NSWE6PVDFeJMcpeVVPBcFGw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/OIsnH6DbKRU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBKcacH66veSJcxgJHLbWrEOGKoQg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/OIsnH6DbKRU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsdTgi7B7R8s26W5Tqf96JSnncJA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/OIsnH6DbKRU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB32_1D1Wl1hsZL7TusmPHe4vY87w",
+          "width": 336,
+          "height": 188
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+Graphs 2 [Trig]                 https://www.youtube.com/watch?v=tt2DGYOi3hc&list=PLyQ7uIPMuZMwtYCVO0WIC7HqOHBhu-URO
+Trig P3                         https://www.youtube.com/watch?v=iy8ktMFF7KU&list=PLyQ7uIPMuZMwBEhUQ-JusCGM8-J36F11r
+
+diff    [p1]                    https://www.youtube.com/watch?v=NRSmIE5MMBQ&list=PLyQ7uIPMuZMwJGiVTMjDbVwJbxAqcfAii
+diff    [p2]                    https://www.youtube.com/watch?v=leigGc1-fAA&list=PLyQ7uIPMuZMwvrbH2iKyEZoXqNggRk5lD
+diff    [p3.1]                  https://www.youtube.com/watch?v=flGUyDD_NWw&list=PLyQ7uIPMuZMx5F-H7ZCxs8Be14MUrpxbJ
+diff    [p3.2]                  https://www.youtube.com/watch?v=OGpp9-kSTqk&list=PLyQ7uIPMuZMx3G6XdAJqBXh1Yc4kvLO7q
+integ   [p1.1]                  https://www.youtube.com/watch?v=boxEwXwYay8&list=PLyQ7uIPMuZMxC4PR--9p_MqIi5N9Plqnp
+integ   [p1.2]                  https://www.youtube.com/watch?v=8kooIgKESYE&list=PLyQ7uIPMuZMzKXhD1hK1SFfjKlxTyV5cz
+integ   [p2]                    https://www.youtube.com/watch?v=Ek40XtVsO7g&list=PLyQ7uIPMuZMyTDHDpzZibCmq6yHxyhAA8
+integ   [p3]                    https://www.youtube.com/watch?v=SNW6fcE_pec&list=PLyQ7uIPMuZMxU8jJmfCXr74ZboMDDXXSV
+
+diff    [p4]                    https://www.youtube.com/watch?v=1BMO80jha3U&list=PLyQ7uIPMuZMzsu83lNmVdG3CIIGC9Ckth
+calc    [p4] [InverseTrig]      https://www.youtube.com/watch?v=Rsq0pM6xYFU&list=PLyQ7uIPMuZMzhtADU9Trssh66FpuO7ApI
+integ   [p4]                    https://www.youtube.com/watch?v=Ek40XtVsO7g&list=PLyQ7uIPMuZMy2OD-lFnpLG1MwoLfWlcFq
+
+integ   [p5.1]                  https://www.youtube.com/watch?v=dBdRWG5Uau4&list=PLyQ7uIPMuZMy1bL1ifYvFnAlEZwCXyL-x
+integ   [p5.2]                  https://www.youtube.com/watch?v=KlT4Dfvdx7I&list=PLyQ7uIPMuZMww69KCGiXWlsf1g7GIfmM2s
+diff    [p5] [Applications]     https://www.youtube.com/watch?v=VvC_1alFins&list=PLyQ7uIPMuZMwgFnzpYy4qQ41hztztodXA
+diff    [p7] [Series+calcGreen] https://www.youtube.com/watch?v=mtU2tE6c5-I&list=PLyQ7uIPMuZMyaXTx7tG_fpy5x8Tlv2Jik
+diff    [p8] [ReCap+InvTrig]    https://www.youtube.com/watch?v=QzmoCkrJ2wE&list=PLyQ7uIPMuZMwpcOQ-dNxRB4iKjTQV9dx8
+
+calc    [p10] [ComplexNums]     https://www.youtube.com/watch?v=WmItSgQDWEs&list=PLyQ7uIPMuZMxGSW3T_k119CBj-_IWFpXs
+calc    [p11] revise            https://www.youtube.com/watch?v=7fJeIzy6FRU&list=PLyQ7uIPMuZMzOLa4gMKheH2nEYE779hIu
+
+Proof 1                         https://www.youtube.com/watch?v=E5S6iWlDO-I&list=PLyQ7uIPMuZMzXU3ogbGlDAzN-ccInMbRX
+Proof 2                         https://www.youtube.com/watch?v=Pf3tRx9iT5M&list=PLyQ7uIPMuZMzbfodO9qANFMT8wOYXawHQ
+Pascal (Binomial Theorem)       https://www.youtube.com/watch?v=31mGhAFObzM&list=PLyQ7uIPMuZMzyDcq3UgQjEehhbJuUFFQn
+Combi + Probability 1           https://www.youtube.com/watch?v=dzHXJzI--7Q&list=PLyQ7uIPMuZMxzhGjI0K9A3NAxWXooGXGy
+Combi + Probability 2           https://www.youtube.com/watch?v=EJJ2v2255GY&list=PLyQ7uIPMuZMyx9JbxK1yBeZtwDSxpDd6B
+
+Lines & Circles                 https://www.youtube.com/watch?v=BywWffdXTsM&list=PLyQ7uIPMuZMyZtVkWJY3AoExaDt97sQAT
+TMP2                            https://www.youtube.com/watch?v=1BMO80jha3U&list=PLyQ7uIPMuZMxQF5Fxdsi5aRSN4K5xnnxD
