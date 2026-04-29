@@ -1,0 +1,75 @@
+```cpp
+[0.00 - Kids 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMzx4FjhocMyRlBKV62U4-3k)
+[0.01 - Kids 2](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxqYsaM7FdKU55GjPh6WwF-)
+
+[0.11 - Algebra Intro 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMy5tIQvH2I1HmBRz_1KIiAg)
+[0.12 - Algebra Intro 2: Index Laws + Surds](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwS1WCVIE-V-Wy6ZwW93j_Z)
+[0.13 - Geometry Intro 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwmI9GJjxY9bCMicbyV7clF)
+[0.14 - Geometry Intro 2](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMy95GeHU5ypD9EWXJQOYUr1)
+
+[0.20 - Algebra is Graphs 1: The Slope](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwyrW7H54kpBbv0L-6tN-q3)
+[0.21 - Algebra is Graphs 1: Solving](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxjquBnR7MX1nRTYFIyQ2fX)
+[0.22 - Algebra is Graphs 2: x², x³, 1/x, eˣ](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxiNfWmisznfY2xwsJxNZY9)
+
+[0.31 - geo.trig 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxdkNnYUSUOKfrwNO0xDxos)
+[0.32 - algebra: ax+by+c](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyCA1Ds0nJsRGMQhp4cwFh1)
+[0.33 - algebra: ax²+bx+c=0](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMx8rG0_B8edMlT3eSxm4cEd)
+[0.34 - algebra: Logs](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxQvQEd7gzt_mDScURVibdu)
+[0.35 - geo.trig 2: Radians](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxHSvk0DOWyfu91wlaFTwr8)
+[0.36 - geo.trig 3: SineRule, CoSineRule](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMz7WSZtX1QGPtoz3wmSAf7H)
+
+[0.37 - geo.cartesian 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMw1FqwmvpXDLLtbrDn8ZxBo)
+[0.39 - algebra.Grade 09](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMzbgLRFhXEWRq_veFIPkIaz)
+[0.40 - algebra.Grade 10](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxiOH_S_1nSXNXkP_H69flZ)
+
+
+
+
+[1.00 - algebra.Diff 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwJGiVTMjDbVwJbxAqcfAii)
+
+[1.10 - algebra.Graphs 3.1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxYznz6VsfDRKVKA9Agzkx1)
+[1.11 - algebra.Graphs 3.2](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyNPltB3GymKySnsAfMYUS1)
+[1.12 - algebra.Diff 2](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMzgYml8JvxRDS_7z_ggybw_)
+[1.13 - algebra.Diff 3](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxjiKpG2PYsMn2ryZ-4lJ13)
+[1.14 - algebra.Graphs 4](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyhRmehfgcS35BhjE1Ppag5)
+[1.15 - algebra.Graphs 5](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxhN4AumcQoQfJWy52j8WGv)
+
+[1.20 - algebra.Diff 4: Apply Diff ➡️ Limits](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMznOaR-LBtsDXMwu-XdhQ9I)
+[1.21 - algebra.Integ 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwANfTsOoO4vj1F8BaDRxpp)
+[1.22 - algebra.Integ 2](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyogEn_k6BrNHUYBFmFVlFp)
+
+[1.30 - geo.trig 4: Inverse Trig](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyPkWt_JqdfLBVSozWaTeWR)
+
+[1.41 - algebra.Complex 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMz5xeiVlksVHQMjiUpqsOGm)
+[1.42 - algebra.Complex 2](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwKRvTkbhG2yQS6LCXcpIFx)
+[1.43 - algebra.Integ 3: Substitution](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMx_KSOeJvvNgvAZbw7TDMba)
+[1.44 - algebra.Integ 4: by parts](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwjwLmTnwSmUVwQqzzM39aB)
+[1.45 - geo.trig 5: General Forms](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMy5nr1A3BWm18vPF2s7k4jq)
+
+[1.50 - algebra.Diff 5: apps 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwl-hGCKBdBLpkPv5TcCFyp)
+[1.51 - algebra.Prob 1]
+[1.52 - algebra.Prob 2]
+[1.53 - algebra.Integ 5: apps 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxwm47KDw9tXEsI1c5oW1Xt)
+[1.54 - algebra.Integ 6: practice](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwmqejluDIPvc8dpj1tRNYp)
+[1.55 - algebra.Diff 6: apps 2](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwZGTPupRQTqn3gst8d7UzJ)
+
+[1.60 - algebra.Diff 7: invTrig](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwrQsreaVtNmV515-g7M78d)
+
+[1.71 - algebra.Complex 3](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxniNF-SFnah-4t53RJsGZx)
+[1.72 - algebra.Complex 4](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMywbIyJyEVtZ6KuxDMjI0Lr)
+[1.73 - algebra.Complex 5: DMT + Trig](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxiqb0Q3S78mGDNIt4nlv_O)
+[1.74 - algebra.Complex 6: ReCap](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyKAli8Jn5oV5H1ulvzZvSq)
+
+[1.81 - algebra.Diff ReCap](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyjVx_b1N4b9YICf91K6-CZ)
+[1.82 - algebra.Integ ReCap]
+
+
+
+
+[2.00 Proofs 1: Intro](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyn6lHBRD5LGs-zFSJNhPTz)
+[2.10 Proofs 2: Induction](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyyAK5DIUEwLunWU6LanNqZ)
+[2.11 Proofs 3: Recursion](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwgavJYAVe_SsBQGqx0-lav)
+[2.20 Proofs 4: Inequality](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwgavJYAVe_SsBQGqx0-lav)
+[2.30 Proofs 5: Vectors](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMw4JEd-5m-QQqR4-SfXeWAv)
+[2.40 Proofs 6: Geo 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwJH5FBkQ7D7wZDmrrS1u7q)
+```

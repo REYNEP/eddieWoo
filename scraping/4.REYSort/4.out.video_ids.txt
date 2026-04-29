@@ -1,0 +1,2228 @@
+"0.00 - Kids 1"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMzx4FjhocMyRlBKV62U4-3k]
+    idTtdWVmFAQ    |    Introduction to Integers
+    nFf2vkSaE9o    |    Examples of Integers
+    eVShvGSGANM    |    Counter-Examples of Integers
+    Anob0AXpVbA    |    The Number Line
+    QBV2-6dZJmA    |    Introduction to Subtracting Integers
+    9vd9sl1qufI    |    Subtracting Integers with the Number Line
+    4AEqkZJ-dS0    |    Multiplication: An Abbreviation of Addition
+    eW2DfNQAzzA    |    Multiplying Positives & Negatives
+    c1CuHR9DCKM    |    Operations and their Results
+    pC9JD-fPMrI    |    Dividing Integers: Introduction (and relation to other operations)
+    MZpwyjlfhQQ    |    Dividing Integers: Positive & Negative Cases
+    KP3PCqH_svk    |    Introduction to Integers (1 of 2: Linking Numbers that are above & below zero)
+    pE4ZTc41tOY    |    Introduction to Integers (2 of 2: Solving problems with Integers)
+    i-HYEQrkJuE    |    The Number Line (How do Integers fit on a Number line?)
+    IgNWnYgNujg    |    Adding and Subtracting Integers (Applying operations to integers and visualising with Number line)
+    ht0UhiW112c    |    Ascending and Descending Integers (Evaluating Ascending, Descending on Number lines)
+    yqhoH7pn0KQ    |    Ascending and Descending Integers (2 of 3: Noticing patterns in multiplications)
+    pRgMR-fc1gQ    |    Ascending and Descending Integers (3 of 3: Recognising the mathematical relation between cells)
+    iUES2LX6y2s    |    Dividing Integers (Dealing with negative divisors and dividends)
+    Oc-F8YYS62w    |    Harder Integer Question (Adding and Subtracting Integers to find Unknown Integers)
+    rfQU5Uur_yY    |    Introduction to the Order of Operations (What comes first?)
+    87B-1IfFK0w    |    Significant Figures
+    THIZxfMh4e4    |    Review: Prime Numbers
+    xjMd9eH5wX0    |    Prime Factorisation (simple example with factor tree)
+    I7rTzw2PXAw    |    Highest Common Factor (HCF) & Lowest Common Multiple (LCM)
+    I8DEt7CQGpw    |    Multiplying by the smallest number to produce a perfect square
+    2_k3A043750    |    Introduction to Working With Numbers
+    7v4RjsUGQ-U    |    Mental Calculation Strategies (1 of 2: Estimation & the Commutative Law)
+    Hcjb0_qu_0Q    |    Mental Calculation Strategies (2 of 2: The Distributive Law)
+    roYPASwF5P8    |    Strategies for Multiplication (1 of 2: Basic strategies to simplify larger multiplications)
+    7TR4mHlrKHw    |    Strategies for Multiplication (2 of 2: Connecting Multiplication with Division)
+    U82NChD8gT0    |    Primes and Composites (1 of 3: Review of Long Division)
+    gYB9UeoyO3A    |    Primes and Composites (2 of 3: Introducing Primes of Composites)
+    JEdttqDWZto    |    Primes and Composites (3 of 3: Applications of Primes and Composites)
+    ui5yjN1riQA    |    Greatest Common Divisor (Using Factor Trees to find the Highest Common Factor)
+    leJ-6QNPVEQ    |    Lowest Common Multiple (Introducing LCM and Finding the Lowest Common Multiple of two numbers)
+    VOTxyy3vXkk    |    Yr 7 Review Questions (Factors & Multiples)
+    P7bYdaVPWyM    |    Highest Common Factor & Lowest Common Multiple - example questions
+    9wmAi0T0DMw    |    What is mathematical thinking? (1 of 2: Odd and Even Numbers)
+    CeJXpAahHo0    |    What is mathematical thinking? (2 of 2: Strange Squares)
+    WBAyTMyfvR0    |    Rounding & Estimating (1 of 4: Why is it useful? - reupload)
+    kuvOD67JD60    |    Rounding & Estimating (2 of 4: How does it work?)
+    vI4DNT9Z7Lc    |    Rounding & Estimating (3 of 4: A quicker way)
+    KOvLrp5YwaA    |    Rounding & Estimating (4 of 4: How it helps with multiplication)
+    nBdWxsm6x5M    |    Introduction to Fractions
+    ow7FuKrbD0s    |    Different Kinds of Fractions
+    Ue1_s85G0JU    |    Equivalent & Simplified Fractions
+    KHCqxwWON9I    |    Percentages, Fractions & Decimals
+    h3s8FbhkdwU    |    Converting Fractions into Percentages (Example Question: 4/9)
+    ulHYxwAz6L8    |    Simplifying Fractions
+    Z4YWK8QTQT8    |    Ordering Fractions (1 of 3: Why is it tricky?)
+    wcino4tHKgs    |    Ordering Fractions (2 of 3: How to compare fractions with different denominators)
+    HWzq_ipvUgc    |    Ordering Fractions (3 of 3: Examples of how to make a common denominator)
+    wzdXlmGc870    |    Plotting Fractions on a Number Line (1 of 2: With Common Denominators)
+    DFGGimTYNWI    |    Plotting Fractions on a Number Line (2 of 2: With Different Denominators)
+    3Y-S-vG4IDg    |    Adding fractions is different to adding whole numbers!
+    WCpfaGan4yk    |    Can we write decimals inside a fraction?
+    93PbETLqSe4    |    How to find a fraction between fractions
+    DDDKxrPmaDs    |    Multiplying Fractions by Whole Numbers
+    r1vMmg1QARM    |    Multiplying Fractions by Fractions (Example 1, with cancelling)
+    bVeF1y0Q9HY    |    Multiplying Fractions by Fractions (Example 2, without cancelling)
+    96FsONc0HmQ    |    Dividing Fractions
+    RLeNiCN-HSo    |    Fractions Involving Time Units
+    zCPRFVju6Ao    |    Solving & Setting Out Fraction Problems
+    IZaF-VTgNmk    |    Converting Percentages to Decimals
+    9hQ3AUxvf_Y    |    Percentages of Quantities
+    teeYccVRFPs    |    Increasing Quantities by Percentages
+    XCts4QefeAE    |    Percentages of Quantities & Quantities as Percentages
+    TlXbhAFHRA0    |    Decimals on a Calculator: An Important Warning!
+    gmSvr6b2tuM    |    Why is it useful to express quantities as percentages?
+    1EDCyM41BWQ    |    Multiplying Mixed Numerals
+    8ee29vr9iIE    |    Review: Different Kinds of Fractions
+    b4psR27fIRE    |    Adding & Subtracting Fractions
+    vxyEDACeNHo    |    Multiplying Fractions (1 of 4: Understanding the Language)
+    yX0B4ltfnKc    |    Multiplying Fractions (2 of 4: Fractions of Fractions)
+    IZ9ngobDeco    |    Multiplying Fractions (3 of 4: Helpful Techniques)
+    RRUVu8jyFN8    |    Multiplying Fractions (4 of 4: Relationship to Dividing)
+    ogq87-oEov4    |    Percentages & Quantities (1 of 3: General Tips)
+    8c25YsTovOc    |    Percentages & Quantities (2 of 3: Ticket Example)
+    kb_MYSIreIw    |    Percentages & Quantities (3 of 3: Discount Example)
+    uu_k5bnv0EE    |    Percentage Change (1 of 4: Increase)
+    CvFfAJxt9U4    |    Percentage Change (2 of 4: Decrease)
+    UnCKunozt_o    |    Percentage Change (3 of 4: Combining Increase & Decrease)
+    WAWcs4hMNeI    |    Percentage Change (4 of 4: Thinking Backwards)
+    OAlLmEi4GXc    |    The Unitary Method (1 of 2: Introduction and Example)
+    ZOuqBqzEEck    |    The Unitary Method (2 of 2: The Potato Puzzle)
+    cy7VDmSIc6w    |    GST (1 of 2: How to calculate and add it on)
+    j9V0htrX9iI    |    GST (2 of 2: Working backwards)
+    waA87boWMg4    |    Converting Between Mixed Numerals & Improper Fractions
+    Tpk6U0ossBg    |    Operations with Mixed Numerals
+    b157V1e442U    |    Dividing Fractions (1 of 2: Reviewing Division to find fractions and Mixed Numerals)
+    Av4vnfd2-0Y    |    Dividing Fractions (2 of 2: Introduction to Division of Fractions with some introductory examples)
+    -DiA11zUThQ    |    Fractions, Percentages & Decimals (1 of 3: Reviewing addition and multiplication of fractions)
+    vjQ7lopXrCs    |    Fractions, Percentages & Decimals (2 of 3: Limitations of Fractions & Introduction to Percentages)
+    oQdC-A5gcO4    |    Fractions, Percentages & Decimals (3 of 3: Calculating Percentages from Fractions)
+
+"0.01 - Kids 2"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxqYsaM7FdKU55GjPh6WwF-]
+    z-2Z2cmR8Qw    |    Laws of Arithmetic (1 of 3: Computation with Fractions)
+    KEhYd0SmF0E    |    Laws of Arithmetic (2 of 3: The Commutative Law)
+    E9m_FkZD9T0    |    Laws of Arithmetic (3 of 3: The Associative Law)
+    ShKplrWUbCE    |    The Distributive Law (1 of 2: Using two approaches to subtract fractions & Multiply Fractions)
+    nlqZ2FxkubM    |    The Distributive Law (2 of 2: Linking the Commutative Law and Associative Law together)
+    wioG-mzxDrc    |    Dividing Decimals by Whole Numbers (1 of 2: Dividing with Short Division)
+    QzYiJUtvjyo    |    Dividing Decimals by Whole Number (2 of 2: Integer Noughts and Crosses)
+    FMTyoExjvOA    |    Review Questions: Manipulating Fractions
+    j6NC5Oihm4c    |    Review Questions on Fractions (Sharing & Intermediate Fractions)
+    2jjt9oxm2Ew    |    Review Questions (Working through Subtraction of fractional numbers)
+    Gh-0XnpiKME    |    Fraction Forms and Open Problems
+    lobXRYrhqIU    |    Quantities as Fractions
+    nkNz8oJvqmU    |    Percentage Increase/Decrease (1 of 2: The Potato Paradox)
+    OGiR-HVuRxc    |    Percentage Increase/Decrease (2 of 2: Example question)
+    f0hDmH901rw    |    Strategies for Mentally Calculating Percentages
+    WVKpzKI9mrE    |    Fractions & Percentages (Review Questions)
+    Xl4iSGCh4zA    |    Adding and Subtracting Fractions (1 of 4: Starter questions)
+    Tx2nfJ9AXBY    |    Encryption & Prime Numbers (Ultimate Classroom lesson)
+    2ZFzguM2mOg    |    Integers and Order of Operations
+    lO5KTovme18    |    Multiplying fractions: why does the rule work?
+    _jFWu_whDjI    |    Dividing fractions: why do we "keep change flip"?
+    bXPPX1PR_KU    |    Calculating Best Buys (how to use two comparable methods)
+    je_F1urTZpE    |    Introduction to Ratios
+    y-Biz-vy0no    |    Simplifying Numerical Ratios (example questions)
+    uXyL0KsuwbI    |    Dividing Quantities into Given Ratios
+    qDPHTAVC93c    |    Simplifying Ratios Involving Units
+    LIznMoxvkdg    |    Introduction to Ratios (1 of 2: Foundational Skills)
+    tKXaO8fVoRY    |    Introduction to Ratios (2 of 2: Equivalent Ratios)
+    MBY4WqbOkJg    |    Deriving Formula for Sum of a Geometric Progression
+    q9OWPSkY1p4    |    Ratio Problems (Solving by Two Methods)
+    F8XM9ZzCUp0    |    Thinking Deeply About Factors (1 of 3: Initial Observations)
+    KRfv9pQCTDE    |    Thinking Deeply About Factors (2 of 3: Strange Patterns)
+    TS9Tlj5Dow8    |    Thinking Deeply About Factors (3 of 3: Finding Explanations)
+    U82NChD8gT0    |    Primes and Composites (1 of 3: Review of Long Division)
+    gYB9UeoyO3A    |    Primes and Composites (2 of 3: Introducing Primes of Composites)
+    JEdttqDWZto    |    Primes and Composites (3 of 3: Applications of Primes and Composites)
+    ui5yjN1riQA    |    Greatest Common Divisor (Using Factor Trees to find the Highest Common Factor)
+    leJ-6QNPVEQ    |    Lowest Common Multiple (Introducing LCM and Finding the Lowest Common Multiple of two numbers)
+    VOTxyy3vXkk    |    Yr 7 Review Questions (Factors & Multiples)
+    P7bYdaVPWyM    |    Highest Common Factor & Lowest Common Multiple - example questions
+    rfQU5Uur_yY    |    Introduction to the Order of Operations (What comes first?)
+    6G24JRBstVs    |    The Unitary Method
+
+
+"0.11 - Algebra Intro 1"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMy5tIQvH2I1HmBRz_1KIiAg]
+    OC_tRwBqW4U    |    Introduction to Index Notation
+    QTRg_kyagvc    |    How to Expand Index Notation (Numbers Raised to a Power)
+    VmfPVNoQgEE    |    Indices, Exponents & Powers
+    nofSLaxQVgU    |    Square Roots & Cube Roots (1 of 3: Introducing Index Notation)
+    JrMkrbGYeOg    |    Square Roots & Cube Roots (2 of 3: Notation Surrounding Square and Cube Roots)
+    KqsajqBOGR0    |    Square Roots & Cube Roots (3 of 3: Exploring Operations on the Calculator)
+    5eYJPGtjxQM    |    Introduction to Square Roots
+    buoAzyIjqkI    |    【ぽるし】ブレインロット　踊ってみた
+    Sgv1zbWs6vA    |    Introduction to Algebra (1 of 2: What Happens when you don't know a number which you need to find?)
+    U1yNskrHFv4    |    Introduction to Algebra (2 of 2: Outlining Abbreviations in Algebra, Simplifying algebraic terms)
+    xI7gfInfmeM    |    Translating Words to Algebra (1 of 2: Reviewing Commutative, Associative & Distributive Numbers)
+    vv8_VyqOh6M    |    Translating Words to Algebra (2 of 2: Converting words into mathematical terms for calculations)
+    T4LpiEh0NVk    |    Black & Red Cards (1 of 2: Performing the trick)
+    _gHuX0ZImug    |    Black & Red Cards (2 of 2: Understanding the trick)
+    myeerS0v1Tg    |    Multiplying Algebraic Terms
+    yN9KU1dqSE0    |    食卓 (Fool's Table) - なとり / Kuma Cover【歌ってみた】
+    0sfWVR27Vuo    |    Metric Units of Area
+    8DO82FMZW8Q    |    Areas of Plane Shapes (1 of 3: Squares & Rectangles)
+    _UEgQ8tp2Hk    |    Areas of Plane Shapes (2 of 3: Triangles & Parallelograms)
+    WJFpBaFhzEg    |    Areas of Plane Shapes (3 of 3: Composite Figures)
+    8T3Rkwo2aUs    |    Areas of Composite Figures
+    G_bdnIIT9No    |    Area of a Trapezium
+    k8BEJnKSryg    |    Area of Kites & Rhombuses
+    A8hZXNvzRRE    |    Happy Pi Day!
+    CLNsN4nw39Y    |    Review: Perimeter of Basic Figures
+    J2P4x_HTKkU    |    The Area of a Circle (1 of 2: Seeing the Composite Figure)
+    lPRUlsbldnA    |    The Area of a Circle (2 of 2: Why We Must Imagine Infinity)
+    Sx-5YJbszuI    |    Quick Visual Proof: Area of a Circle
+    vbsHK0p-5SA    |    《살아남은 로맨스》 PV 공개!
+    JMES1l4oAwk    |    Algebraic Substitution (1 of 2: What does it mean?)
+    3pMrTCqel3I    |    Algebraic Substitution (2 of 2: Worked examples)
+    5EzshCKzTwA    |    Algebraic Expansion with Area
+    aI9fAobtplA    |    Expanding Algebraic Expressions
+    aXRmI4wV5tM    |    Year 8 Quick Questions (Algebra and Area)
+    vKUyCIJfYfY    |    Ado くちばしにチェリー 20200623
+    VmfPVNoQgEE    |    Indices, Exponents & Powers
+    ShYm1TM6QtU    |    Multiplying  Terms w/ Indices (Basic Example)
+    kwU-_ZqMBWw    |    Multiplying/Dividing Indices (1 of 3: Noticing the numerical pattern)
+    TeT5u-zDSYk    |    Multiplying/Dividing Indices (2 of 3: Establishing a general rule)
+    vUwBSOT9ZB4    |    Multiplying/Dividing Indices (3 of 3: Considering division)
+    D9w4tcKA6KA    |    Factorising Expressions
+    WUwBR1Zkfzg    |    Visualisation Tool for Algebraic Simplification (1 of 2: Collecting simple terms)
+    s9xNgpxlXDE    |    Visualisation Tool for Algebraic Simplification (2 of 2: Examples with indices)
+    O9A496z9Xeg    |    Factorising Algebraic Expressions (1 of 2: All Positives)
+    lqtmy5h45W8    |    Factorising Algebraic Expressions (2 of 2: With Negatives)
+    tABNT-LVhdA    |    Expanding & Factorising (What are they & why are they useful?)
+    dir5nFkhpcc    |    【Ado】橙ゲノム 歌いました
+    brKhu_j6frQ    |    What is Algebraic Substitution?
+    J9SmTMHouyY    |    Algebraic Substitution
+    FnCiAZhr7mo    |    Substituting into an Algebraic Expression (Harder Example)
+    j0WT8Ru9GJY    |    Multiplying Algebraic Terms (version 2)
+    1Mw3Ff7KRaU    |    Binomial Products (1 of 2: Visualising the expansion)
+    y8MKwdTEKkE    |    Expanding Algebraic Expressions
+    EAyI-yiXaek    |    Expand & Simplify Basic Algebraic Expressions
+    GoKrzNHrafk    |    Introduction to Solving Equations
+    tMkMJoSxbC8    |    Balancing & Backtracking: 2 Approaches for 1-Step Equations
+    uPKEcS6hcLU    |    Solving Simple Linear Equations (1-Step & 2-Step)
+    cv8x8xEHpsU    |    Solving Equations (Outlining the purpose of 'solving an equation')
+    GRXm11sF6rI    |    Expressing Recurring Decimals as Fractions using Algebra
+
+
+"0.12 - Algebra Intro 2: Index Laws + Surds"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwS1WCVIE-V-Wy6ZwW93j_Z]
+    yN9KU1dqSE0    |    食卓 (Fool's Table) - なとり / Kuma Cover【歌ってみた】
+    VmfPVNoQgEE    |    Indices, Exponents & Powers
+    ShYm1TM6QtU    |    Multiplying  Terms w/ Indices (Basic Example)
+    nofSLaxQVgU    |    Square Roots & Cube Roots (1 of 3: Introducing Index Notation)
+    JrMkrbGYeOg    |    Square Roots & Cube Roots (2 of 3: Notation Surrounding Square and Cube Roots)
+    KqsajqBOGR0    |    Square Roots & Cube Roots (3 of 3: Exploring Operations on the Calculator)
+    kwU-_ZqMBWw    |    Multiplying/Dividing Indices (1 of 3: Noticing the numerical pattern)
+    TeT5u-zDSYk    |    Multiplying/Dividing Indices (2 of 3: Establishing a general rule)
+    vUwBSOT9ZB4    |    Multiplying/Dividing Indices (3 of 3: Considering division)
+    vbsHK0p-5SA    |    《살아남은 로맨스》 PV 공개!
+    2G0Ah68NE_I    |    Multiplying terms with different bases: approaches that work vs. ones that don't
+    JkHrXvco36I    |    Index Laws / "Shortcuts" (1 of 3: Multiplication & Division)
+    PLyjNAJWVq4    |    Index Laws (1 of 2: Power of a power)
+    UrWtXbKM3m0    |    Index Laws (2 of 2: Zero power)
+    AHEQA55w0lk    |    Index Laws / "Shortcuts" (2 of 3: All About Zero)
+    r0_mi8ngNnM    |    What is 0 to the power of 0?
+    NmTaaZwUuWU    |    Index Laws / "Shortcuts" (3 of 3: Power of a Power)
+    9294eBabzVE    |    Index Laws w/ Algebra
+    yFOGavlJxxQ    |    Year 10 Test Review: Algebra
+    vKUyCIJfYfY    |    Ado くちばしにチェリー 20200623
+    Vl7_IFUdn1M    |    Overview of the Multiplication/Division Index Laws
+    iQMyG9E-Fi0    |    Negative Indices
+    0Ro6fooep-k    |    Rewriting Expressions w/ Negative Indices (Basic Examples)
+    vESd6sFUC7g    |    What happens when the power isn't a whole number? (Fractional Indices)
+    4xBG_We9Zbg    |    Working w/ Fractional Indices: Basic Example Questions
+    5V8V-Q47tPs    |    Fractional Indices (1 of 2: Deriving definitions from index laws)
+    xS3SRhpz3EA    |    Fractional Indices (2 of 2: Exploring different denominators)
+    buoAzyIjqkI    |    【ぽるし】ブレインロット　踊ってみた
+    5eYJPGtjxQM    |    Introduction to Square Roots
+    RAHedApNlMA    |    What are Surds, and why are they special?
+    JMhUF_8EvP4    |    Y10 Review Questions (Surds, Fractions, Number Lines)
+    OrAfyScYuzw    |    A note about surds & negative numbers
+    YPcKs1OV-X0    |    Simplifying Surds (1 of 2: Squares vs. square roots)
+    cWc1ADDds8Y    |    Simplifying Surds (2 of 2: Multiplying surds)
+    6jqlkVWKYK0    |    [Private video]
+    gUN6Z0uR-P0    |    Adding & Subtracting Surds
+    hUYBrufdUNw    |    Multiplying & Dividing Surds
+    AKBdP4N-GFA    |    Y10 Review Questions (Surds & algebraic expressions)
+    _yqLjaYjCQs    |    Binomial Expansions with Surds
+    gmf3Nu7js6c    |    Y10 Review Questions: Manipulating Surds
+
+"0.13 - Geometry Intro 1"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwmI9GJjxY9bCMicbyV7clF]
+    0sfWVR27Vuo    |    Metric Units of Area
+    8DO82FMZW8Q    |    Areas of Plane Shapes (1 of 3: Squares & Rectangles)
+    _UEgQ8tp2Hk    |    Areas of Plane Shapes (2 of 3: Triangles & Parallelograms)
+    WJFpBaFhzEg    |    Areas of Plane Shapes (3 of 3: Composite Figures)
+    8T3Rkwo2aUs    |    Areas of Composite Figures
+    G_bdnIIT9No    |    Area of a Trapezium
+    k8BEJnKSryg    |    Area of Kites & Rhombuses
+    A8hZXNvzRRE    |    Happy Pi Day!
+    CLNsN4nw39Y    |    Review: Perimeter of Basic Figures
+    J2P4x_HTKkU    |    The Area of a Circle (1 of 2: Seeing the Composite Figure)
+    lPRUlsbldnA    |    The Area of a Circle (2 of 2: Why We Must Imagine Infinity)
+    Sx-5YJbszuI    |    Quick Visual Proof: Area of a Circle
+    MHyuvs2RvAY    |    Prisms (2 of 3: Introduction and Definition of a prism)
+    mBR0yTvIFwc    |    Prisms (3 of 3: Using a sheet of isometric dot paper to build a prism from the definition)
+    vbsHK0p-5SA    |    《살아남은 로맨스》 PV 공개!
+    UFMLqSJzYNc    |    Area of a Trapezium (1 of 2: From a Rectangle)
+    qWn9ZlN5vIQ    |    Area of a Trapezium (2 of 2: From 2 Triangles)
+    HLDN1fbsoT0    |    Areas of Kites & Rhombuses (1 of 2: Understanding the Shape)
+    Dg--eGgViys    |    Areas of Kites & Rhombuses (2 of 2: Deriving the Formula)
+    9XidOM0a4p8    |    What are length, area and volume?
+    PAZgi7yzp9g    |    Converting between metric units (1 of 3: basic ideas & traps to avoid)
+    h2jWH3ebsEw    |    Converting between metric units (2 of 3: example question)
+    trOxUvdmDy8    |    Converting between metric units (3 of 3: summary)
+    4K5ej_VLsA8    |    Review Questions (Perimeter & Area)
+    MkQnsXY_ctQ    |    Finding Composite Areas (example question)
+    vKUyCIJfYfY    |    Ado くちばしにチェリー 20200623
+    jMKRT2657mo    |    Pythagoras' Theorem (1 of 3: Introduction)
+    EzCWuNZpBaQ    |    Pythagoras' Theorem (2 of 3: Dissection Proof)
+    tTHhBE5lYTg    |    Visual Proof of Pythagoras' Theorem
+    DiENLlm2VHM    |    Pythagoras' Theorem (3 of 3: Summary)
+    rgnJDwyucO8    |    Proof of Pythagoras' Theorem (Redux)
+    hHGg7dytflM    |    Evaluating the Hypotenuse w/ Pythagoras' Theorem
+    exXYXmdxG5c    |    Evaluating Side Lengths w/ Pythagoras' Theorem
+    -sNEld7w4ks    |    How to smuggle a fishing rod onto a bus (by Pythagoras' Theorem)
+    pzTAtqIdqFc    |    Review: Pythagoras' Theorem & its Converse
+    RLWGyrqqsTU    |    Forcing Myself To Read 16 Webtoon Recommendations
+
+"0.14 - Geometry Intro 2"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMy95GeHU5ypD9EWXJQOYUr1]
+    bJyZsSJ5yH0    |    Shapes are simple... but mysterious!
+    3qxZYeVgvBk    |    Congruent Figures (1 of 2: Introduction)
+    N8ABWeeGWU4    |    Congruent Figures (2 of 2: Transformations)
+    LWc8b_A6BPQ    |    Congruence Transformations (1 of 3: Translation)
+    Gl-aQ-TBZZs    |    Congruence Transformations (2 of 3: Rotation)
+    1u302YEJbhk    |    Congruence Transformations (3 of 3: Reflection)
+    49Z124F74Pc    |    Composite Transformations
+    XekUKlGeA_g    |    Transformation & Rotation by Repeated Reflection
+    LzCl9bDQWCc    |    Reflectional Symmetry
+    w8QIjk_2i2w    |    Introduction to Rotational Symmetry
+    g6oPqjwYUFs    |    Orders of Rotational Symmetry
+    HqwQOUUokSE    |    The Global/Historical Geometry Project (1 of 2: Euclid to Lobachevsky)
+    D19JvZNKyro    |    The Global/Historical Geometry Project (2 of 2: Einstein to today)
+    oQ3dYagTPsI    |    Quadrilateral Evolution (1 of 2: To the Parallelogram)
+    sNMZNllkuiY    |    Quadrilateral Evolution (2 of 2: To the Square)
+    izyUfobZFGg    |    Quadrilateral Family Tree
+    lf5PGP2SvOk    |    Using Quadrilateral Properties (1 of 2: Prologue about Proof)
+    B9OshgQMRU0    |    Using Quadrilateral Properties (2 of 2: Example Proof)
+    grMBeYrznDY    |    Rotational Symmetry
+    biXKCEl2OlU    |    I Drew a Webtoon in 24 Hours
+    Vm_ghS2WF58    |    Introduction to Angles (1 of 2: Why they matter & how we name them)
+    ccKdey5Q6po    |    Introduction to Angles (2 of 2: Definition & Basic Details)
+    NwNTLCi9E40    |    Measuring & Drawing Angles
+    O5j4CWuPJt8    |    Classifying Angles by Size
+    Up6G8gisoS0    |    Angles at a Point
+    LNmvXjxEF9Q    |    Angles on Parallel Lines (1 of 2: Finding patterns)
+    2Ei_-6Lmm8E    |    Angles on Parallel Lines (2 of 2: Naming the relationships)
+    iiP4pvSybr0    |    Corresponding Angles (Finding patterns in angle side on parallel lines)
+    85WFves6Vl8    |    Parallel Lines & Angles: Converse Statements
+    UCigSz7yQpc    |    Parallel Lines & Transversals
+    GbfIAJV4DnU    |    Review: Corresponding, Alternate & Co-Interior Angles
+    nLP2w_thXfU    |    Patterns on Parallel Lines (1 of 2: Proving that Alternate Angles on Parallel Lines are equal)
+    zkjUelj5UCg    |    Patterns on Parallel Lines (2 of 2: Cointerior Angles on Parallel Lines)
+    fGdQOmT7bjk    |    Proving Parallel Lines (1 of 2: Reviewing Multiplication, Division and Parallel Line Angles)
+    mUxapzNzMoU    |    Proving Parallel Lines (2 of 2: Using the properties of angles on parallel lines for proofs)
+    erDWYyUCUNU    |    Reviewing Multiplication, Division and Properties of Angles on Parallel Lines
+    4XdYb48bY0c    |    Revolution Angles and Corresponding Angles (How to use mathematical reasoning to justify results)
+    by2gDAAHgf8    |    Illustrating the Angle Sum of a Triangle
+    0EWM9OZjFpk    |    Equal Angles Opposite Equal Sides
+    zfzEw7VjfaQ    |    Using Triangle Properties in Geometric Proofs
+    qGxnKUUV_rA    |    Lines, Rays & Intervals
+    9JDtwQChx6A    |    How to Construct Parallel Lines: Demonstration
+    qcktB5gRVS8    |    How to Construct Parallel Lines: Demonstration (Step-by-Step)
+    rz_Zr_a_YtM    |    How to Construct Perpendicular Lines
+
+"0.20 - Algebra is Graphs 1: The Slope"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwyrW7H54kpBbv0L-6tN-q3]
+    hjKOQ0X_9uU    |    Algebra, the Gamechanger of Mathematics
+    J9SmTMHouyY    |    Algebraic Substitution
+    j0WT8Ru9GJY    |    Multiplying Algebraic Terms (version 2)
+    5EzshCKzTwA    |    Algebraic Expansion with Area
+    hP9os_Na-eg    |    Sexy Minus / LOL feat. Hatsune Miku, Kasane Teto
+    _psbsCFP4k0    |    Coordinates on the Number Plane
+    WknOSudK0Og    |    Plotting on the Number Plane (1 of 2: Reading Coordinates)
+    LqBaLDaW7QM    |    Plotting on the Number Plane 2of 2: Locating Points)
+    0dHhTj35IH8    |    Understanding the Coordinate Plane | Plot Points, Quadrants, and Ordered Pairs
+    yoliJSZVDnA    |    Transformations on the Number Plane (1 of 2: Translation)
+    rxMIedM844Y    |    Transformations on the Number Plane (2 of 2: Rotation & Reflection)
+    FmEDDyuIm0o    |    Coordinate Geometry - Rectangle Puzzle
+    fzV5PTf0BtE    |    Menseki Meiro (1 of 2: How to play)
+    I1qFYZti3to    |    Menseki Meiro (2 of 2: Harder puzzles)
+    vbsHK0p-5SA    |    《살아남은 로맨스》 PV 공개!
+    qcvLjX5Npyk    |    Introduction to the Cartesian Plane
+    pYJg28eKVdA    |    How to plot a simple graph
+    F5InA458KWY    |    Introduction to Linear Relationships (Mathematics General AM2)
+    jv3pW32krDI    |    Sketching Linear Graphs (1 of 2: Understanding the Variables)
+    it4mkiNFP2Y    |    Sketching Linear Graphs (2 of 2: Constructing & Interpreting a Graph)
+    4w4RbiHvwuk    |    GCSE Maths - Straight Line Equations You Need to Know (2026/27 exams)
+    jY25uxFoLG0    |    Introduction to Gradient (1 of 2: Definition & Meaning)
+    uRqOY3Eh_w8    |    Introduction to Gradient (2 of 2: Reading & Interpreting Graphs)
+    zVSq5b3PPfY    |    GCSE Maths - How to Find the Gradient of a Straight Line (2026/27 exams)
+    H6SPvGFxHnQ    |    Finding the rule (equation) of a graph (1 of 2: Triangle Method)
+    oFVwKbHzZls    |    Finding the rule (equation) of a graph (2 of 2: Formula Method)
+    T0g6M0YlXvk    |    GCSE Maths - How to Find the Gradient Using the Coordinates of Two Points (2026/27 exams)
+    ys0Dxj-jKTk    |    GCSE Maths - How to Find the Equation of a Straight Line (y = mx + c) (2026/27 exams)
+    YvSLw1uYkoE    |    Sketching Linear Graphs by Slope/Intercept Method (1 of 2: Explanation)
+    yHqt13f8nOA    |    Sketching Linear Graphs by Slope/Intercept Method (2 of 2: Example)
+    a4Xsr3Jrvaw    |    Desmos: The Game Engine No One Talks About
+    9jgFsYLYo1s    |    Plotting Straight-Line Graphs | GCSE Maths | Addvance Maths 😊➕
+    0022sPNczoI    |    y = mx + c  | Straight Line Graphs | GCSE maths | Addvance Maths 😊➕
+    MY_pRSRZs60    |    What is a slope? / Gradient
+    5uRXy-CNVBQ    |    What about a y-intercept?
+    GKtZpOH_DyA    |    Gradient (Slope)
+    Ue48k3ngxrk    |    Graphing Linear Equations (y = mx + b Explained Clearly) | FULL LESSON
+
+"0.21 - Algebra is Graphs 1: Solving"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxjquBnR7MX1nRTYFIyQ2fX]
+    frPmfSzKoOc    |    Parallel Lines
+    Ut4bl3m95xU    |    Perpendicular Lines (1 of 2: Using congruent triangles)
+    JEKkjpGTtEA    |    Perpendicular Lines (2 of 2: Understanding the relationship)
+    8um1l_3ONck    |    Comparing Linear & Non-Linear Functions
+    1crBmAcFKWs    |    Intersections of Linear Graphs
+    rdIO7y4VmEE    |    Drawing Straight Line Graphs - GCSE Maths
+    GoKrzNHrafk    |    Introduction to Solving Equations
+    tMkMJoSxbC8    |    Balancing & Backtracking: 2 Approaches for 1-Step Equations
+    uPKEcS6hcLU    |    Solving Simple Linear Equations (1-Step & 2-Step)
+    sfLk9SKHsMw    |    1-Step & 2-Step Equations
+    cv8x8xEHpsU    |    Solving Equations (Outlining the purpose of 'solving an equation')
+    WUjI3pIRsb4    |    Solving Simple Linear Equations (Quick Questions #1)
+    dLRPfAh4SP8    |    Solving Equations w/ Variables on Both Sides
+    7GPnvgfAPi4    |    Solving Simple Linear Equations (Quick Questions #2)
+    EMFAKQ99v6M    |    Solving Linear Equations w/ Brackets
+    _MMeaIxS8dA    |    Solving Equations with Brackets (1 of 2: Review & introduction)
+    7mLb10hZRcQ    |    Solving Equations with Brackets (2 of 2: Trickier examples)
+    dir5nFkhpcc    |    【Ado】橙ゲノム 歌いました
+    r95Yh7dMVVc    |    Solving Equations by Collecting Like Terms (1 of 2)
+    HTTcmbtqx5o    |    Solving Equations by Collecting Like Terms (2 of 2)
+    TneAPIMifZw    |    Solving Equations with Expanding Brackets
+    XsQmaiuStoo    |    Solving Algebraic Equations by Expanding Brackets
+    NDcJAlRrL9w    |    Discussion: Different Approaches to Solving One Equation
+    buoAzyIjqkI    |    【ぽるし】ブレインロット　踊ってみた
+    EGAqt_r70-I    |    Solving Equations: What happens when the pronumeral is squared (a²)?
+    hKnAYXh1PmM    |    Solving Equations: What happens when the pronumeral has a square root (√a)?
+    6yGWbDfd10o    |    Solving Equation Problems (1 of 3: Reviewing abstract equations)
+    THbUANiTGZA    |    Solving Equation Problems (2 of 3: Using inverses to change the subject)
+    C65vdjQEl_c    |    Solving Equation Problems (3 of 3: Translating to an equation)
+    cjzlZuqP5cU    |    Equations: Interpreting & Solving Word Problems
+    ZQAK7glYs2A    |    Solving Simple Linear Equations (Quick Questions #3)
+    ETD_hTyYOwc    |    Solving Simple Quadratic Equations
+    vbsHK0p-5SA    |    《살아남은 로맨스》 PV 공개!
+    bDwJD_V8nKE    |    Solving Simple Linear Equations
+    HqNOvsJprls    |    Equations with Fractions (1 of 3: Simple Example)
+    PU76yTefGkw    |    Equations with Fractions (2 of 3: Trickier Example)
+    7JgN_AADdSU    |    Equations with Fractions (3 of 3: Multiple Common Denominators)
+    iRQqdJSpIXk    |    Further Equations (1 of 2: Introductory Examples)
+    jI_b3ixegBo    |    Further Equations (2 of 2: Solving Equations by collecting like terms)
+    KXqFei5mE4I    |    Solving Equations w/ Algebraic Fractions (Example 1 of 3)
+    66IfiIIqu1s    |    Solving Equations w/ Algebraic Fractions (Example 2 of 3)
+    GlHbHBdmDiM    |    Solving Equations w/ Algebraic Fractions (Example 3 of 3)
+    Mk-p6ZNvlJ4    |    Algebraic Fractions (1 of 2: Addition & Subtraction)
+    EBiXoFI5k_Y    |    Algebraic Fractions (2 of 2: Multiplication & Division)
+    pKiUk66YyXI    |    You Can't Study Math!
+    8kovtc-PYT8    |    Reviewing Expanding and Simplifying, Fractional algebra and Gradient
+    UpjDFA97AaE    |    Equations with Algebraic Fractions
+    PHiV1t3v4BM    |    Simplifying Algebraic Expressions and Fractions & Outlining Common Errors with Simplification
+    lYiBKskjZoU    |    Solving Equations with Mixed Numerals
+
+"0.22 - Algebra is Graphs 2: x², x³, 1/x, eˣ"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxiNfWmisznfY2xwsJxNZY9]
+    BQvBq3K50u8    |    How I animate stuff on Desmos Graphing Calculator
+    pIWIlznkS64    |    Slope intercept form explained
+    lz8zVJxRFX8    |    Graphing Lines in Algebra: Understanding Slopes and Y-Intercepts
+    YvSLw1uYkoE    |    Sketching Linear Graphs by Slope/Intercept Method (1 of 2: Explanation)
+    yHqt13f8nOA    |    Sketching Linear Graphs by Slope/Intercept Method (2 of 2: Example)
+    sMe14ltgG4o    |    Sketching Linear Graphs by x/y-Intercepts Method (1 of 2: Explanation)
+    GEZZRIHdrXc    |    Sketching Linear Graphs by x/y-Intercepts Method (2 of 2: Example)
+    mhO_ANLBKXo    |    GCSE Maths - Plotting a Line by Finding Where it Crosses the Axes (2026/27 exams)
+    nUk47WSiS30    |    GCSE Maths - What on Earth is y = mx + c (2026/27 exams)
+    1crBmAcFKWs    |    Intersections of Linear Graphs
+    frPmfSzKoOc    |    Parallel Lines
+    Ut4bl3m95xU    |    Perpendicular Lines (1 of 2: Using congruent triangles)
+    JEKkjpGTtEA    |    Perpendicular Lines (2 of 2: Understanding the relationship)
+    0SD0z2VMS7M    |    GCSE Maths - Parallel Lines (2026/27 exams)
+    3UEcLKv4QJM    |    If Graphs Confuse You, Start Here
+    hLB-VSnK9Qo    |    Linear Relationships (1 of 3): Review
+    Tsc5oo4KB5Y    |    Linear Relationships (2 of 3): Step Graphs
+    oMdqexq_SHY    |    Linear Relationships (3 of 3): Piecewise Functions
+    jcSdGd5z-bo    |    What are Graphs? (Introduction & Metaphor)
+    -X8mIDApxlQ    |    Linear Graph Review: Sketching
+    JxjYpixtr6s    |    Linear Graph Review: x & y Intercepts
+    1Mcu66Deluc    |    Linear Graph Review: Comparing Different Gradients
+    kiLywqnBASw    |    Linear Graph Review: Vertical & Horizontal Lines
+    iFkID_zMiQg    |    Introduction to Parabolas (1 of 3: Testing Values)
+    dvk_XK8bEgg    |    Introduction to Parabolas (2 of 3: Plotting Points)
+    tHYrg9w5gk4    |    Introduction to Parabolas (3 of 3: Drawing & Shifting)
+    8um1l_3ONck    |    Comparing Linear & Non-Linear Functions
+    C7ELb67U2vo    |    Modifications of x² (1 of 2: Review of Shifts)
+    rqFOOzkPnTs    |    Modifications of x² (2 of 2: Parabolas through the Origin)
+    65f91USjkXI    |    A little extra bit: what about y = x³ and x = y²?
+    ekjaTlRWUCY    |    Cubic Curves
+    fND3ly69DNU    |    The Power Curves (1 of 2: Investigating through tables of values)
+    ZIu8cp7qmsk    |    The Power Curves (2 of 2: Considering higher powers)
+    3OZRtul3u-c    |    The Hyperbola (1 of 2: Review of earlier graphs)
+    NFv6-1oI5LE    |    The Hyperbola (2 of 2: Understanding the graph & its behaviour)
+    MbOxKSnuuyg    |    Introduction to Parabolas (1 of 2: Investigating the shape)
+    08VjAVMf_-Y    |    Introduction to Parabolas (2 of 2: Characteristics & translations)
+    kMvK0e7Abtg    |    Review: Linear & Parabolic Graphs
+    QJKxBTdQyO8    |    Exponential Graphs (1 of 2: Considering the Values)
+    FTc7-uwOzbQ    |    Exponential Graphs (2 of 2: Plotting Points)
+    dir5nFkhpcc    |    【Ado】橙ゲノム 歌いました
+    FIPFHS7rkU0    |    Introduction to the Hyperbola (1 of 2: Mathematical Modelling)
+    p3FT3sc1lbQ    |    Introduction to the Hyperbola (2 of 2: Basic Shape & Characteristics)
+    mTan6wp4-gc    |    Drawing Parabolas with a Template (1 of 2: Introduction)
+    O_GTzqsJBlg    |    Drawing Parabolas with a Template (2 of 2: Example Question)
+    kMOkNijmVJY    |    Y10 Review Questions (Graphing parabolas)
+    jmiBIc0MjwE    |    Y10 Review Questions (Simple graphs)
+    vbsHK0p-5SA    |    《살아남은 로맨스》 PV 공개!
+    3l4LD23QpIs    |    Direct Linear Variation (1 of 2: Introduction)
+    6E6W6evLcfc    |    Direct Linear Variation (2 of 2: Example questions)
+    tEvRN7Dxajk    |    Direct Variation (1 of 3: Introduction)
+    3uRR6PNiLCw    |    Direct Variation (2 of 3: Stating the equations)
+    LY4YnBt-eYo    |    Direct Variation (3 of 3: Graphing against a different variable)
+    fAV-Z_Y9y7A    |    Direct Variation (1 of 5: Relating two changing quantities)
+    HfVK5ZX-WfI    |    Direct Variation (2 of 5: Forming variation equations)
+    QxmTg6lRL_M    |    Direct Variation (3 of 5: Interpreting variation equations)
+    YT2zBClGIY0    |    Direct Variation (4 of 5: Graphing a relationship with different horizontal axes)
+    JouLR5Bbdzo    |    Direct Variation (5 of 5: Solving a problem through the equation)
+    eM7NlIkdVSs    |    Linear vs nonlinear function #equation #graph #table #slope
+    i4g1krYYIFE    |    Introduction to Functions
+
+"0.31 - geo.trig 1"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxdkNnYUSUOKfrwNO0xDxos]
+    yt_Ej8C3zQA    |    What do tailors have to do with trigonometry?
+    4ih0O2z6P_Q    |    Naming sides of a triangle relative to an angle
+    S113G9FDDXI    |    Defining the Trigonometric Ratios
+    s7jlroOY0eE    |    Sidenote: Greek Alphabet
+    yN-VDVlkIq0    |    Why Cosine is named Cosine
+    9kQcEzEpsj0    |    Using the Trigonometric Ratios (some fundamental examples)
+    9-me2wsc8mM    |    Evaluating Trigonometric Ratios with a Calculator
+    775XrAIKUwo    |    How to Use a Clinometer
+    WxhOdr3AmkM    |    Discussing results from measuring objects
+    v-oaEduKB0c    |    Finding Side Lengths with Trigonometry
+    7N_x5Bk4gs4    |    Finding Angles with Trigonometry (1 of 2: What's an Inverse?)
+    zSx4TsEjAM8    |    Finding Angles with Trigonometry (2 of 2: Using the Calculator)
+    0hv6Kz8sxSw    |    Finding an Angle of Elevation
+    VLNuflzoTe0    |    Finding Unknown Angle with Trigonometry: Example 1
+    GCXd2sAwNiA    |    Finding Unknown Angle with Trigonometry: Example 2
+    d0h5e4RrMS4    |    Finding Unknown Side with Trigonometry: Example 1
+    beQ4cK9Ef8E    |    Finding Unknown Side with Trigonometry: Example 2
+    buoAzyIjqkI    |    【ぽるし】ブレインロット　踊ってみた
+    Ana0FvTkhW8    |    Right-Angled Triangle Trigonometry (1 of 2: Reviewing the ratios)
+    oTH1z8A-rfk    |    Right-Angled Triangle Trigonometry (2 of 2: Example basic questions)
+    jAj-JHX6JTs    |    Trigonometric Ratios of Complementary Angles (1 of 3: Noticing the pattern)
+    C4Owlh6p2Gw    |    Trigonometric Ratios of Complementary Angles (2 of 3: Basic questions)
+    AOW3L-QWkHI    |    Trigonometric Ratios of Complementary Angles (3 of 3: Constructing a helpful triangle)
+    SiA-WTnKNgs    |    Exact Values of Trigonometric Ratios (1 of 2: 30°)
+    VkgH1X2JBuM    |    Exact Values of Trigonometric Ratios (2 of 2: 60° and 45°)
+    KB0eMG9QR9k    |    Y10 Review Questions (Right-Angled Triangle Trigonometry)
+    vbsHK0p-5SA    |    《살아남은 로맨스》 PV 공개!
+    qjHDkXIRQ-4    |    Trigonometric Relationships (1 of 3: The Basic Ratios)
+    vgBYSJXMsWw    |    Trigonometric Relationships (2 of 3: Relating Sine & Cosine)
+    ZGuqYU7Splo    |    Trigonometric Relationships (3 of 3: Manipulating Sine & Cosine)
+    tDMBtXmxrr4    |    Exact Values for Trigonometric Ratios
+    vS25aG1Guw0    |    Redefining Sine (1 of 3: Why We Need a Better Definition)
+    l4ZOcL1omuY    |    Redefining Sine (2 of 3: The Unit Circle)
+    tMKi5uxdync    |    Redefining Sine (3 of 3: Angles Greater Than 90°)
+    ILRrqghJzdE    |    Trigonometry on the Unit Circle (1 of 3: Introduction)
+    FRQNRr4BfnI    |    Trigonometry on the Unit Circle (2 of 3: Full redefinition)
+    0JcVsNiyPJ8    |    Trigonometry on the Unit Circle (3 of 3: Example questions)
+    5a15xwS7rW8    |    Introduction to Radians (1 of 3: Comparing measurement systems)
+    sdeJAtfDHPE    |    Introduction to Radians (2 of 3: Developing an initial sense)
+    INdiZqIcIYc    |    Introduction to Radians (3 of 3: Formal definition & conversion)
+    bzK-rq3jdOE    |    Y10 Review Questions (Solving sin x = ½)
+    n2elzauaDjQ    |    Graphs of Basic Trigonometric Functions (1 of 3: Investigating the unit circle with spaghetti)
+    8O0gFSApz8c    |    Graphs of Basic Trigonometric Functions (2 of 3: The features of trigonometric curves)
+    I8vvoxoOCnY    |    Graphs of Basic Trigonometric Functions (3 of 3: Graphing examples)
+    FTTkXGJ7E3Y    |    Intro to Trigonometric Functions (1 of 2: Angles of any magnitude)
+    X457qbiBwnw    |    Intro to Trigonometric Functions (2 of 2: Plotting the graph)
+    nqQMW8TLXkk    |    Y10 Review Questions (Solving simple trigonometric equations)
+    Z4tXgDDgOII    |    The Sine Rule (1 of 2: Introduction through example)
+    eZ2fkGEPo48    |    The Sine Rule (2 of 2: Generalising the formula)
+    Z5jpqErYxTc    |    Y10 Review Questions (Solving trigonometric equations with quadrants)
+    I0iT3WUNMp4    |    Solving Trigonometric Equations with the Unit Circle
+    DzhsiuIiKCg    |    Area of a Triangle: ½absinC
+    sQ5mfUD-o4I    |    Sine Rule (1 of 3: Where does it come from?)
+
+"0.32 - algebra: ax+by+c"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyCA1Ds0nJsRGMQhp4cwFh1]
+    mEivU0qbet8    |    Y10 Review Questions (Simplifying algebraic expressions)
+    GwUjU_DEbkM    |    Y10 Review Questions (Fractions, Surds, Equations)
+    0jlrgJrlt_w    |    Graphing Straight Lines (1 of 2: Interpreting equations as graphs)
+    j4gimrKVs0A    |    Graphing Straight Lines (2 of 2: Basic example questions)
+    ozlCbiTmTpE    |    Equations of Straight Lines (1 of 2: Slope-Intercept Form)
+    Y26rz6iPxPw    |    Equations of Straight Lines (2 of 2: General Form)
+    joHgI8N7GKs    |    Point-Gradient Form (1 of 2: Reviewing other forms for straight lines)
+    yx7-HQJNQNY    |    Point-Gradient Form (2 of 2: y - yₒ = m(x - xₒ))
+    qs0BlB99jCk    |    2-Point Form (Equations of Straight Lines)
+    18zDSVAcMIM    |    Y10 Review Questions (Straight lines in coordinate geometry)
+    vbsHK0p-5SA    |    《살아남은 로맨스》 PV 공개!
+    8um1l_3ONck    |    Comparing Linear & Non-Linear Functions
+    1crBmAcFKWs    |    Intersections of Linear Graphs
+    GoKrzNHrafk    |    Introduction to Solving Equations
+    cv8x8xEHpsU    |    Solving Equations (Outlining the purpose of 'solving an equation')
+    URAPBVkQodM    |    Intro to Simultaneous Equations (1 of 2: Understanding multiple solutions)
+    CC_1Roehip4    |    Intro to Simultaneous Equations (2 of 2: Solving visually)
+    mWk_aykuidc    |    Graphically Solving Simultaneous Equations (Solving by using a simple visual argument)
+    1nAo7FgZpjs    |    Solving Simultaneous Equations Algebraically
+    F5InA458KWY    |    Introduction to Linear Relationships (Mathematics General AM2)
+    GM6SUFcsk5Q    |    Simultaneous Equations (1 of 2: By elimination)
+    9Si7GW69UDE    |    Solving Simultaneous Equations by Substitution
+    _fTFFBJmLM8    |    Solving Simultaneous Equations by Elimination
+    gQ3T4D6Qdyo    |    Simultaneous Equations (2 of 2: By substitution)
+    82isSVjefVk    |    Solving Simultaneous Equations by Elimination (1 of 2: Reviewing other methods)
+    kGkc2HYQngY    |    Solving Simultaneous Equations by Elimination (2 of 2: Worked example)
+    KNXnY1EDKV0    |    Review Questions (Simultaneous Equations)
+    eETzBdTefQ4    |    Forming Simultaneous Equations (1 of 2: Fast & Slow Walkers)
+    SwnouqPpaTc    |    Forming Simultaneous Equations (2 of 2: Two Digit Number)
+    y4x_Okv0HMQ    |    Translating Words into Simultaneous Equations
+    g5sp1i1XhRI    |    Simultaneous Equations: Verifying Solutions Graphically
+    2aQcurLK5cw    |    Simultaneous Equations: Using Desmos to Verify Solutions
+    8xvtRvuPxc0    |    Systems of 3 Linear Equations (1 of 2: Introduction & approach)
+    lmAEPGTFuh8    |    Systems of 3 Linear Equations (2 of 2: Solving methodically)
+
+"0.33 - algebra: ax²+bx+c=0"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMx8rG0_B8edMlT3eSxm4cEd]
+    tPBQbW5XYqc    |    Products & Factors (1 of 2: Multiplying and Dividing Terms with Pronumerals)
+    ubuWAXeEAqw    |    Products & Factors (2 of 2: Multiplying and Dividing Algebraic Fractions)
+    D9w4tcKA6KA    |    Factorising Expressions
+    eMB1DpuryPs    |    Expanding & Factorising (1 of 4: Taking advantage of factors to simplify fractional multiplication)
+    T3KbAUiGaLY    |    Expanding & Factorising (2 of 4: Using factors to solve expressions)
+    PBZZAxWpGVI    |    Expanding and Factorising (3 of 4: Introduction to expansion)
+    thGOBer7DMY    |    Expanding and Factorising (4 of 4: What is Substitution?)
+    FURe047qpFk    |    Substitution into mathematical formulas (1 of 3 : Expanding and simplifying)
+    H9hZ-u0iOGI    |    Substitution into Mathematical Formulas (2 of 3: Adaptation of Mathematical Formulas for Maths)
+    g6lKy5VOw3k    |    Substitution into Mathematical Formulas (3 of 3: Real World Applications of substitution)
+    vKUyCIJfYfY    |    Ado くちばしにチェリー 20200623
+    1Mw3Ff7KRaU    |    Binomial Products (1 of 2: Visualising the expansion)
+    2CebIaO9fe0    |    Binomial Products (2 of 2: Perfect squares)
+    0LeXddDDjI8    |    Visual Proof: Squaring a Sum (a+b)²
+    wIPGEVCOzJ4    |    Visual Proof for Difference of Squares a²-b²
+    dVKrSK_GBPQ    |    Introduction to AM3 (Further Algebraic Skills & Techniques)
+    PSM1xqzJD9U    |    Factorising Monic Quadratic Expressions (1 of 2: Symbolically)
+    1rwJq4zYXiM    |    Factorising Monic Quadratic Expressions (2 of 2: Visually)
+    e_uCoFYkzCE    |    Factorising Non-Monic Quadratic Expressions (1 of 2: With a common numerical factor)
+    NqmMefQM4yg    |    Factorising Non-Monic Quadratic Expressions (2 of 2: Without a common numerical factor)
+    90n1Crk8xXw    |    Factorising Further Algebraic Binomials
+    nILL-jH11Vg    |    Y10 Review Questions (Expanding algebraic binomials)
+    KGmp40osSUo    |    Y10 Review Questions (Expanding & factorising)
+    iv7bnl1I93A    |    Algebraic Fractions (1 of 2: Addition/Subtraction)
+    D3Ibeq42p8w    |    Algebraic Fractions (2 of 2: Multiplication/Division)
+    buoAzyIjqkI    |    【ぽるし】ブレインロット　踊ってみた
+    1crBmAcFKWs    |    Intersections of Linear Graphs
+    mWk_aykuidc    |    Graphically Solving Simultaneous Equations (Solving by using a simple visual argument)
+    2aQcurLK5cw    |    Simultaneous Equations: Using Desmos to Verify Solutions
+    7IWbzRGpkQg    |    Solving Quadratic Equations (1 of 2: What does it mean?) + review questions
+    _B77MwtldpI    |    Solving Quadratic Equations (2 of 2: Using factorisation)
+    uGUqXPZ8WxM    |    Constructing an equation to solve a problem
+    xYkSt9VSjS8    |    Y10 Review Questions (Solving quadratic equations)
+    noY0JJO81h4    |    5.3 Quadratics: Quick Questions #1 (Monic)
+    D5FDSxxcae0    |    5.3 Quadratics: Quick Questions #2 (Non-Monic)
+    UhsM_iRMAlQ    |    Solving Simple Cubic Equations
+    dir5nFkhpcc    |    【Ado】橙ゲノム 歌いました
+    RxbmHFAEdoU    |    Completing the Square (1 of 2: How does it help?)
+    fVmwyVLEXoU    |    Completing the Square (2 of 2: Example problem)
+    McDdEw_Fb5E    |    Beautiful Visual Explanation of Completing the Square
+    JIoW2AnQyXQ    |    Completing the Square (1 of 2: Explanation)
+    eyBNWN9Pa7E    |    Completing the Square (2 of 2: Example)
+    5e9Im5oribI    |    Y10 Review Questions (Quadratic equations)
+    M-oW-zekglU    |    Y10 Review Questions (Solving quadratic equations)
+    vbsHK0p-5SA    |    《살아남은 로맨스》 PV 공개!
+    Sb4ptenmt54    |    Number Sets & Graphing Solutions on a Number Line
+    xPx4xQxF1Bg    |    Equations & Inequalities (1 of 2: What are equations?)
+    OsZJUgsUYDc    |    Equations & Inequalities (2 of 2: How are Inequalities different?)
+    D5QFxxfe6kU    |    Graphing Regions on the Cartesian Plane
+    E74XdxKnnOs    |    Equations/Inequalities with No/Infinite Solutions
+    urbRE1PsBY4    |    Solving Equations & Inequalities by Graphing (1 of 2: Linear Example)
+    163K7d-w3_Y    |    Solving Equations & Inequalities by Graphing (2 of 2: Quadratic Example)
+    pXIECrm-TsE    |    The Quadratic Formula  (Definition & example question)
+    TCZRQP2MdYM    |    Quadratic Equations (1 of 4: Overview of methods)
+    ql_f_ok57NQ    |    Quadratic Equations (2 of : Example of completing the square)
+    VEY1oKJ4p-A    |    Quadratic Equations (3 of : Visually Completing the Square)
+    je0U5ktiA78    |    Quadratic Equations (4 of : Deriving the quadratic formula)
+    38TysPMjU7E    |    The Quadratic Formula (Derivation)
+
+"0.34 - algebra: Logs"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxQvQEd7gzt_mDScURVibdu]
+    PLyjNAJWVq4    |    Index Laws (1 of 2: Power of a power)
+    UrWtXbKM3m0    |    Index Laws (2 of 2: Zero power)
+    cIUOURxdmEo    |    Anything to the Power of Zero Equals 1!? (Laws of Indices)
+    r0_mi8ngNnM    |    What is 0 to the power of 0?
+    Vl7_IFUdn1M    |    Overview of the Multiplication/Division Index Laws
+    iQMyG9E-Fi0    |    Negative Indices
+    vESd6sFUC7g    |    What happens when the power isn't a whole number? (Fractional Indices)
+    4xBG_We9Zbg    |    Working w/ Fractional Indices: Basic Example Questions
+    vbsHK0p-5SA    |    《살아남은 로맨스》 PV 공개!
+    ntBWrcbAhaY    |    Introduction to Logarithms (1 of 2: Definition)
+    MEAwyRUsX2o    |    Introduction to Logarithms (2 of 2: Numerical examples)
+    2Bu5NG1KIL4    |    Logarithm Laws (1 of 3: Adding logarithms)
+    7GI8L5Vn-2E    |    Logarithm Laws (2 of 3: Subtracting logarithms)
+    fh75jrgcl5A    |    Logarithm Laws (3 of 3: Powers & coefficients)
+    40FJObU7oxU    |    Graphs of Logarithms (1 of 3: Considering integer values)
+    qOcI87pT0VU    |    Graphs of Logarithms (2 of 3: Investigating near x=0)
+    TndEh_7ALmw    |    Graphs of Logarithms (3 of 3: Visualising the shape)
+    Hkc0qNckNco    |    Understanding Logarithms (1 of 2: Comparing with index laws)
+    44JqIYZ4338    |    Understanding Logarithms (2 of 2: Changing base; a helpful metaphor)
+    buoAzyIjqkI    |    【ぽるし】ブレインロット　踊ってみた
+    2V5h5gMMVGo    |    Introduction to Logarithms (1 of 2: Rethinking Exponentials)
+    l6sG1paOiJE    |    Introduction to Logarithms (2 of 2: Definition & Basic Principles)
+    6bkB92-1JHM    |    Proof: Law of Adding Logarithms
+    2ydcfYwlZ6U    |    The Essential Log Laws
+    BRVkIS-yzmk    |    Logarithmic Arithmetic (1 of 3: Basic Numerical Examples)
+    0Y2thp_wB58    |    Logarithmic Arithmetic (2 of 3: Harder Numerical Examples)
+    3DOrApDak-Q    |    Logarithmic Arithmetic (3 of 3: Using Logs to solve Exponential Equations)
+    hcURanAt-og    |    Logarithms Review (1 of 4: Using Log Laws to solve Log Equations)
+    Z-Q6vQmBAhE    |    Logarithms Review: (2 of 4: Proving the Change of Base Law)
+    7GmSpKh63Gw    |    Logarithms Review (3 of 4: Using Logs to answer Compound Interest Questions)
+    3vtqFfR1kXY    |    Logarithms Review (4 of 4: Dealing with (logb)^2 and Logarithmic Quadratics)
+    f3hHoGtaL7U    |    Logarithms (1 of 1: Solving Logs with Pronumerals)
+    fQ50T0yvmmw    |    Solving Simple Logarithmic Equations
+    BxxXGZ015ZY    |    Solving Log Equations w/ Extraneous Solutions (Example 1 of 2)
+    XtvywBUla-U    |    Solving Log Equations w/ Extraneous Solutions (Example 2 of 2)
+    CyaVL49hqmI    |    An Intimidating Logarithms Question (which is actually easy)
+
+"0.35 - geo.trig 2: Radians"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxHSvk0DOWyfu91wlaFTwr8]
+    DEapEOdZJbQ    |    Trigonometry in Right Triangles (1 of 5: Reviewing the ratios)
+    BulBhLz84Is    |    Trigonometry in Right Triangles (2 of 5: Evaluating ratios & angles)
+    ok2r4Px6Xa0    |    Trigonometry in Right Triangles (3 of 5: Finding an angle)
+    y6vJVM9euAo    |    Trigonometry in Right Triangles (4 of 5: Exact values & reciprocals)
+    mXm09Day7k0    |    Trigonometry in Right Triangles (5 of 5: Applied problems)
+    5a15xwS7rW8    |    Introduction to Radians (1 of 3: Comparing measurement systems)
+    sdeJAtfDHPE    |    Introduction to Radians (2 of 3: Developing an initial sense)
+    INdiZqIcIYc    |    Introduction to Radians (3 of 3: Formal definition & conversion)
+    f33PN26w4O4    |    Exact Values (1 of 4: Radians vs. Degrees)
+    wYuQWfpXJ-k    |    Exact Values (2 of 4: Solving a basic trigonometric equation)
+    YN5qlkbsGg0    |    Exact Values (3 of 4: Using the unit circle for trigonometry)
+    _yBy8IfTCsA    |    Exact Values (4 of 4: Why "tan" is short for "tangent")
+    vbsHK0p-5SA    |    《살아남은 로맨스》 PV 공개!
+    VjdCDZ0f3s4    |    Why is Trigonometry so important?
+    pJPMCcWDluY    |    The Basic Trig Ratios & their Reciprocals
+    f2pLhomzFXc    |    Why are Sine & Cosine given their names?
+    XK6EWZ_NHCE    |    Meanings of the Trigonometric Ratios (1 of 4: Re-introducing the Unit Circle)
+    V1P_RVdjrZo    |    Meanings of the Trigonometric Ratios (2 of 4: Why is one of them called "tangent"?)
+    B3w5JhaJQiA    |    Meanings of the Trigonometric Ratios (3 of 4: Why is one of them called "secant"?)
+    6c3J-2_lcy0    |    Meanings of the Trigonometric Ratios (4 of 4: Dynamic visualisation)
+    9owZTZGVGm4    |    Trigonometric Functions: Angles of Any Magnitude (1 of 2: The unit circle)
+    T5SBdxWO2k0    |    Trigonometric Functions: Angles of Any Magnitude (2 of 2: Obtuse & reflex angles)
+    BVaj--ugjo4    |    Introduction to Radians (1 of 3: Thinking about degrees)
+    EZhCDaiTahM    |    Introduction to Radians (2 of 3: Defining a better way)
+    ZJY5RXJuTOg    |    Introduction to Radians (3 of 3: Definition + Why Radians Aren't Units)
+    EsaGPkQvCvg    |    Radian Measure (1 of 4: The worth of Radians in Circles & Calculus)
+    _gvC85xbJAE    |    Radian Measure (2 of 4: Finding ratio between arc length and radius - Why use 'pi'?)
+    6XHwuyzuuyQ    |    Radian Measure (3 of 4: Finding the formula for the area of a sector in radians)
+    3LlaX2_jtZk    |    Radian Measure (4 of 4: Solving Trigonometry with Radians and advantages for calculus)
+    xMwuHTyT3CU    |    Circles and Radian Measure (Using Area of Triangle and Sector to find the Area of a Segment)
+
+"0.36 - geo.trig 3: SineRule, CoSineRule"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMz7WSZtX1QGPtoz3wmSAf7H]
+    VjdCDZ0f3s4    |    Why is Trigonometry so important?
+    Ana0FvTkhW8    |    Right-Angled Triangle Trigonometry (1 of 2: Reviewing the ratios)
+    oTH1z8A-rfk    |    Right-Angled Triangle Trigonometry (2 of 2: Example basic questions)
+    ILRrqghJzdE    |    Trigonometry on the Unit Circle (1 of 3: Introduction)
+    FRQNRr4BfnI    |    Trigonometry on the Unit Circle (2 of 3: Full redefinition)
+    0JcVsNiyPJ8    |    Trigonometry on the Unit Circle (3 of 3: Example questions)
+    FTTkXGJ7E3Y    |    Intro to Trigonometric Functions (1 of 2: Angles of any magnitude)
+    X457qbiBwnw    |    Intro to Trigonometric Functions (2 of 2: Plotting the graph)
+    Z4tXgDDgOII    |    The Sine Rule (1 of 2: Introduction through example)
+    eZ2fkGEPo48    |    The Sine Rule (2 of 2: Generalising the formula)
+    vbsHK0p-5SA    |    《살아남은 로맨스》 PV 공개!
+    uu2nJEbap80    |    Redefining the Trig Functions on the Unit Circle (1 of 2: The Basic Concept)
+    gUdksdjuSCk    |    Redefining the Trig Functions on the Unit Circle (2 of 2: Understanding Non-Acute Angles)
+    aUV_biroTjI    |    Manipulating the Trig Ratios in Geometry (example question)
+    qE6kgurVntE    |    5.3 Trigonometry - Quick Questions #1
+    e1kZwzxOFUQ    |    Characteristics of the Sine Curve
+    U-jPpBtcVxU    |    Understanding the Cosine Curve through the Unit Circle
+    JGsnZmjO3aI    |    Graphing the Cosine Curve
+    Oq4mYV1d_p0    |    How to Graph Trigonometric Functions (1 of 2: Sine)
+    1LytS1dxjqk    |    How to Graph Trigonometric Functions (2 of 2: Cosine & Tangent)
+    F3jEmmeBXK8    |    Reading Values from Trigonometric Graphs
+    lYKZJbbpir8    |    Understanding the graph of tan(x) (1 of 2: Thinking Visually)
+    bI6otPuQ7eQ    |    Understanding the graph of tan(x) (2 of 2: Geometric Features)
+    TfihKCeiqAo    |    5.3 Trigonometry - Quick Questions #2
+    lces9eCv_Dk    |    Solving Trigonometric Equations (1 of 2: Thinking Graphically)
+    9FTgzKpqGyA    |    Solving Trigonometric Equations (2 of 2: Finding the Solutions)
+    nmpNTCdmUUY    |    5.3 Trigonometry - Quick Questions #3
+    aIZ0Y858q7I    |    Solving Trigonometric Equations by Graphs (1 of 2: Cosine example)
+    L_6Y3kZCmEw    |    Solving Trigonometric Equations by Graphs (2 of 2: Tan example)
+    yUaiUPeoTaM    |    How to Sketch y = tan(x) Quickly & Accurately
+    0e5okPcD1O4    |    Solving Trigonometric Equations by Quadrants (1 of 3: Introduction)
+    nGTdvCnMi9k    |    Solving Trigonometric Equations by Quadrants (2 of 3: Examples)
+    l4V2SruSlZQ    |    Solving Trigonometric Equations by Quadrants (3 of 3: Why 180°+ x?)
+    v2CJ6sVkPoM    |    5.3 Trigonometry - Quick Questions #4
+    hyesZgKFQeI    |    5.3 Trigonometry - Quick Questions #5
+    fB0hLF-t5-w    |    The Sine Rule (1 of 2: What does it actually mean?)
+    DD-Tn_EEjI8    |    The Sine Rule (2 of 2: Proving & Using the Formula)
+    XQnIMHVmwAs    |    5.3 Trigonometry: Quick Questions #6
+    g-hsBcmqCmc    |    Using the Sine Rule to Find Angles (1 of 3: Basic Example)
+    pd_ywdkpmPk    |    Using the Sine Rule to Find Angles (2 of 3: The Ambiguous Case)
+    u99rtkY-33o    |    Using the Sine Rule to Find Angles (3 of 3: Searching for ambiguity)
+    oHeNLlzUSGo    |    Applying the Sine Rule (1 of 2: Finding an acute angle)
+    YR9pJGmiKso    |    Applying the Sine Rule (2 of 2: Finding an obtuse angle)
+    LGyrAKx94mY    |    Y10 Review Questions (Sine Rule)
+    1U7OWoU26XA    |    5.3 Trigonometry: Quick Questions #7
+    G0vFAAya-Pg    |    Cosine Rule (1 of 2: Stating & re-arranging the formula)
+    _cL1EG_83Qc    |    Cosine Rule (2 of 2: Example questions)
+    FeubDMBf2wo    |    The Cosine Rule (1 of 3: Proof of the Formula)
+    Yv38o9C1hRM    |    The Cosine Rule (2 of 3: Basic Example of Finding Sides)
+    gR7dAvxc2dI    |    The Cosine Rule (3 of 3: How to tell which rule to use)
+    TOKKuo9W34o    |    5.3 Trigonometry: Quick Questions #8
+    HZ2HWHPb9sw    |    The Cosine Rule for Angles
+    0H8MR75wgWE    |    5.3 Trigonometry: Quick Questions #9
+    EO2wBUqvs6Q    |    Area of a Triangle (Deriving the trigonometric formula)
+    _Fy_PZiNsPs    |    Area of a Triangle (Trigonometric Formula)
+    E5atQX-doaY    |    Overview of 5.3 Trigonometry
+    buoAzyIjqkI    |    【ぽるし】ブレインロット　踊ってみた
+    0AGBkR7q53k    |    Trigonometry (1 of 2: Exploring the connection between ratio of sides on different triangles)
+    zpG0tLvhVoQ    |    Trigonometry (2 of 2: Defining the ratios found as sine, cosine and tangent)
+    IQBR_34neWo    |    Trigonometric Ratios (Review Questions)
+    TCF35NrG_CI    |    Trigonometry Review (Review of Trigonometric Ratios)
+    xdGSkd0lTm0    |    Using a "Magic" Trick as an analogy for the implication of Sine, Cosine and Tangents
+    DzhsiuIiKCg    |    Area of a Triangle: ½absinC
+    ZxwKDh48Eco    |    Review Questions (Right-Angled Triangle Trigonometry)
+    sQ5mfUD-o4I    |    Sine Rule (1 of 3: Where does it come from?)
+    CobTlA8GrqA    |    Sine Rule (2 of 3: How do I use it?)
+    DdGsrAOPY8A    |    The Sine Rule (3 of 3: When is it useful?)
+    iy8ktMFF7KU    |    Sine Rule for Angles: The Ambiguous Case
+    cOI1140Saxs    |    The Sine Rule (1 of 2: Proving the result)
+    6_lp-qsJKwQ    |    The Sine Rule (2 of 2: Ambiguous case)
+    s3DvfQbiSic    |    The Cosine Rule (1 of 2: Introduction & relation to Pythagoras' Theorem)
+    mel0Y7i9rD8    |    The Cosine Rule (2 of 2: Examples of finding sides & angles)
+    io43Zrr2e3s    |    Sine Rule: The Ambiguous Case
+    YjgEPxvxlZs    |    Cosine Rule: An Upgrade to Pythagoras' Theorem
+    nJQkCU1JDGM    |    Sine Rule - example test question
+    xJ_TQIJ746M    |    Cosine Rule - example test question
+    fMIqJzt2sCk    |    Overview of Trigonometric Techniques
+
+"0.37 - geo.cartesian 1"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMw1FqwmvpXDLLtbrDn8ZxBo]
+    vKUyCIJfYfY    |    Ado くちばしにチェリー 20200623
+    W0gqIF3B_A0    |    Calculating Distance (1 of 5: Review of Pythagoras' Theorem)
+    98nRnimn7G4    |    Calculating Distance (2 of 5: Using Pythagoras w/ Coordinates)
+    -M462r6vChY    |    Calculating Distance (4 of 5: Developing the Formula)
+    C15CP2QG-T0    |    Calculating Distance (5 of 5: Using the Formula)
+    99MRLjoj5Tk    |    Deriving the Distance Formula
+    yudeOCF3dy0    |    Finding the Midpoint (1 of 3: Horizontal & Vertical Intervals)
+    K0I5iqPE0fY    |    Finding the Midpoint (2 of 3: Between 2 Random Points)
+    oe6EHBBe3Lc    |    Finding the Midpoint (3 of 3: Using the Formula)
+    vSbYM6X7qho    |    Finding the centre of a square
+    a62dST8IPIE    |    Introduction to Coordinate Geometry (1 of 2: The Cartesian Plane)
+    GYBx3pfGqig    |    Introduction to Coordinate Geometry (2 of 2: Midpoint Formula)
+    LTFOZkUEuXE    |    Y10 Review Questions (Midpoints)
+    PYZ9P99i6l8    |    Plotting points & sketching graphs on the Cartesian plane
+    RRGkuCNhZWA    |    Understanding a triangle through Coordinate Geometry
+    89gtweJAj9s    |    The Circle (1 of 2: Starting with a verbal definition)
+    u03Pt_SKyn8    |    The Circle (2 of 2: Constructing the Cartesian equation)
+    0Wj9jBl8CxE    |    Equation of a Translated Circle
+    cxn-b6_E7Kw    |    Equations of straight lines
+    1tcmai8ieZg    |    Gradient (1 of 3: Developing the formula)
+    lvb4Haxrmk8    |    Gradient (2 of 3: Angle of inclination)
+    73glcx_ujeI    |    Gradient (3 of 3: Example of finding an angle)
+    msjaLNqbmvM    |    Linear Functions (1 of 2: Simple Forms)
+    DbnYLtRIgfo    |    Linear Functions (2 of 2: Forms Involving Geometric Features)
+
+"0.39 - algebra.Grade 09"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMzbgLRFhXEWRq_veFIPkIaz]
+    dir5nFkhpcc    |    【Ado】橙ゲノム 歌いました
+    GzzXvkTJpwQ    |    Algebraic Fractions (1 of 3: Why do they matter?)
+    XnZmt_dCR90    |    Algebraic Fractions (2 of 3: Example questions)
+    fs6YeGZ3QYM    |    Algebraic Fractions (3 of 3: Denominators & restricted domains)
+    mjFIVwGGU_A    |    Problem Solving with Quadratic Equations (1 of 2: Geometry example)
+    wZkQHhTxcmI    |    Problem Solving with Quadratic Equations (2 of 2: Watching for restrictions)
+    yFOGavlJxxQ    |    Year 10 Test Review: Algebra
+    Dis-C78LV-c    |    Quadratic Factorisation (1 of 3: Overview of Methods)
+    S_Tc4ak9Wmg    |    Quadratic Factorisation (2 of 3: Translating to a quadratic equation)
+    jSeSA5FxmzQ    |    Quadratic Factorisation (3 of 3: Interpreting quadratic solutions)
+    RyfOdNjZlkw    |    Factorisation (1 of 4: What's the point?)
+    06NQm4PQinc    |    Factorisation (2 of 4: Unlocking a number's structure)
+    KnPcgFFeLGo    |    Factorisation (3 of 4: Applying difference of squares)
+    czsOuFsEQZs    |    Factorisation (4 of 4: The factors of z^4 + 4)
+    dZs9tIVnQvk    |    Quadratic Functions: What the Discrimant tells you
+    2k030RuNyOE    |    Solving Non-Monic Quadratic Equations (Basic Examples)
+    lg2FjYbhntQ    |    Simultaneous Linear/Quadratic Equations (1 of 2: Considering a line & parabola)
+    g1_5uckynk4    |    Simultaneous Linear/Quadratic Equations (2 of 2: Varying numbers of solutions)
+    6L_Q6a4Bp1s    |    Visual Representation of Solving Simultaneous Equations
+
+"0.40 - algebra.Grade 10"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxiOH_S_1nSXNXkP_H69flZ]
+    dKzaI8IfTAg    |    Quadratic Equation Problems (1 of 2: Overall guide)
+    z5qb9MVmpT0    |    Quadratic Equation Problems (2 of 2: Worked example)
+    QsWz8eC5G90    |    Graphing Parabolas (working with general quadratic equations)
+    -z0t3D-PM8U    |    Graphing Parabolas with Axis of Symmetry
+    11masNWwvZY    |    Y10 Review Questions (Solving quadratic & trigonometric equations)
+    cfOouvt8C8w    |    Y10 Review Questions (Solving & forming quadratic equations)
+    99MRLjoj5Tk    |    Deriving the Distance Formula
+    yudeOCF3dy0    |    Finding the Midpoint (1 of 3: Horizontal & Vertical Intervals)
+    K0I5iqPE0fY    |    Finding the Midpoint (2 of 3: Between 2 Random Points)
+    oe6EHBBe3Lc    |    Finding the Midpoint (3 of 3: Using the Formula)
+    89gtweJAj9s    |    The Circle (1 of 2: Starting with a verbal definition)
+    u03Pt_SKyn8    |    The Circle (2 of 2: Constructing the Cartesian equation)
+    0Wj9jBl8CxE    |    Equation of a Translated Circle
+    ebPeW93Ll-U    |    Applications of Completing the Square (1 of 2: Finding a parabola's vertex)
+    wWPC8EeH6vw    |    Applications of Completing the Square (2 of 2: Finding a circle's centre)
+    o0t2RFBmIC0    |    Intersection Between Lines & Curves (1 of 2: Basic example)
+    3swPRGnDRbM    |    Intersection Between Lines & Curves (2 of 2: Circle and straight line)
+    vbsHK0p-5SA    |    《살아남은 로맨스》 PV 공개!
+    Dis-C78LV-c    |    Quadratic Factorisation (1 of 3: Overview of Methods)
+    S_Tc4ak9Wmg    |    Quadratic Factorisation (2 of 3: Translating to a quadratic equation)
+    jSeSA5FxmzQ    |    Quadratic Factorisation (3 of 3: Interpreting quadratic solutions)
+    TArekc3kS64    |    Factorising Algebraic Expressions (1 of 3: Grouping)
+    qECXxjOTdWM    |    Factorising Algebraic Expressions (2 of 3: Non-Monic Quadratic)
+    Lv0f47Whycc    |    Factorising Algebraic Expressions (3 of 3: The Quadratic Formula)
+    vt491JmFgP0    |    Factorising Non-Monic Quadratics: 4 Methods
+    _yqLjaYjCQs    |    Binomial Expansions with Surds
+    DvKlCKAiMcE    |    Y10 Review Questions (Solving an equation with surds)
+    gmf3Nu7js6c    |    Y10 Review Questions: Manipulating Surds
+    altB_OEHu08    |    Rationalising Binomial Denominators
+    Mqmv9JMjCBg    |    Y10 Review Questions (Rationalising denominators)
+    _nUk1-omrdU    |    Y10 Review Questions (Solving an inequality, rationalising a denominator)
+    buoAzyIjqkI    |    【ぽるし】ブレインロット　踊ってみた
+    SECM6theBTA    |    Cubic Identities (1 of 3: What is an identity?)
+    HvvFfTmK2pE    |    Cubic Identities (2 of 3: Cubes of sum & difference)
+    7lv43uJKfZc    |    Cubic Identities (3 of 3: Sum & difference of cubes)
+    TpLcjqZ-DsU    |    Preliminary Extension 1 Quiz (Algebraic Fractions, Factorisation)
+    YtuIeDkBpDQ    |    Polynomial Division & Graphing (1 of 3: Performing long division)
+    Rdp0BlnNYiA    |    Polynomial Division & Graphing (2 of 3: Factorising the whole polynomial)
+    NAYtI2qETN0    |    Polynomial Division & Graphing (3 of 3: Relating the intercepts & graph shape)
+    qO3LSfON-i0    |    Polynomial Division (1 of 3: How do I deal with "missing" terms?)
+    3WTk2VjCV20    |    Polynomial Division (2 of 3: Understanding polynomial remainders)
+    AL3qBa4uGZ4    |    Polynomial Division (3 of 3: A useful shortcut - synthetic division)
+    jj1liewb6dc    |    Intro to Polynomial Division (1 of 3: Comparing to numerical division)
+    VKEZWA7-mDE    |    Intro to Polynomial Division (2 of 3: Basic example)
+    0l0KKxVZAYo    |    Intro to Polynomial Division (3 of 3: Why is it important?)
+    jlKOXI7AIn4    |    Polynomial Division (1 of 4: Extending the Long Division technique to accommodate Functions)
+    3Uu2IbV843M    |    Polynomial Division (2 of 4: Introduction to Synthetic Polynomial Division)
+    wiVWN9RiueA    |    Polynomial Division (3 of 4: Where does the Remainder/Factor Theorem come from?)
+    SAbl6w96zVY    |    Polynomial Division (4 of 4: How the Factor Theorem assists Polynomial Curve Sketching)
+    lg2FjYbhntQ    |    Simultaneous Linear/Quadratic Equations (1 of 2: Considering a line & parabola)
+    g1_5uckynk4    |    Simultaneous Linear/Quadratic Equations (2 of 2: Varying numbers of solutions)
+
+"[diff_P1] 2019_Jul19_Aug16 CalculusReboot3"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwJGiVTMjDbVwJbxAqcfAii]
+    NRSmIE5MMBQ    |    Prologue to Calculus (1 of 5: How fast did Usain Bolt run?)
+    JB8DJOfMEMs    |    Prologue to Calculus (2 of 5: How can we measure more accurately?)
+    8oSSNUGcM24    |    Prologue to Calculus (3 of 5: The difference quotient)
+    wzelvGiFOSA    |    Prologue to Calculus (4 of 5: Exploring a parabola)
+    7fJeIzy6FRU    |    Prologue to Calculus (5 of 5: Gradient of the tangent)
+    tt2DGYOi3hc    |    Introduction to Calculus (1 of 2: Seeing the big picture)
+    ipd-hFrOwxU    |    The importance of empathy
+    a-FdYsY_h1w    |    Basics of Calculus (1 of 5: Foundational language & notation)
+    6rJ9hDUEeoQ    |    Basics of Calculus (2 of 5: Example of using first principles)
+    D9PYpY4Crig    |    Basics of Calculus (3 of 5: Observing patterns in first principles)
+    Ye8lTUo4k0g    |    Basics of Calculus (4 of 5: Considering the gradient function visually)
+    BDNQ-_vwxHo    |    Basics of Calculus (5 of 5: Locating a tangent)
+    fQsy2hX_HOE    |    Using technology to open the classroom
+    CkSUqSyOZFM    |    What are Limits? (2 of 3: A More Rigorous Definition)
+    cm4_V5hopcE    |    Limits & Continuity (2 of 3: Limits that exists when functions don't)
+    uVLWZCPwTh8    |    Angle of Inclination (with Calculus)
+    MnZfIhVBys8    |    Power Rule for Differentiation (1 of 4: Conjecture)
+    u3na7Avih0Q    |    Power Rule for Differentiation (2 of 4: Background knowledge)
+    hGeoqx7mLmA    |    Power Rule for Differentiation (3 of 4: Derivation of rule)
+    -xss-s3-RZs    |    Power Rule for Differentiation (4 of 4: Hyperbola)
+    UuQc6XmWT64    |    Basics of Calculus, continued (1 of 2: Sum of functions)
+    qMiKkmdMy08    |    Basics of Calculus, continued (2 of 2: Multiples of functions, constant function)
+    DW4-VWyrl8g    |    Maths anxiety in parents
+    Gp5EDpCrUAM    |    Leibniz's Derivative Notation (1 of 3: Overview)
+    593arm_0W6g    |    Leibniz's Derivative Notation (2 of 3: Finding equation of a tangent)
+    cCUk5kLBXVc    |    Leibniz's Derivative Notation (3 of 3: Introducing the chain rule)
+    6LcSWvv9mE8    |    Using the Chain (Function of a Function) Rule
+    6R3zwV61Uqk    |    Product Rule (1 of 2: It's Complicated...)
+    Xkm-V59j8Zw    |    Proving Product Rule
+    8gX167CjWmA    |    Product Rule - Definition
+    EDUFdEjcUYM    |    Quotient Rule (1 of 2: Proof from product & chain rule)
+    lQAVLtbjsgw    |    Quotient Rule (2 of 2: Worked examples)
+    frp1jk2j5tY    |    The student-teacher connection
+    lhdOidxG2Sw    |    It's a Numberful World: US Book Launch!
+    Gh-0XnpiKME    |    Fraction Forms and Open Problems
+
+"1.10 - algebra.Graphs 3.1"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxYznz6VsfDRKVKA9Agzkx1]
+    3UEcLKv4QJM    |    If Graphs Confuse You, Start Here
+    p2FRcEZezGM    |    Graphing Polynomials (1 of 4: Fundamental graphs)
+    AvvZrPabPEk    |    Graphing Polynomials (2 of 4: Horizontal translation)
+    OefcWVuEM2s    |    Graphing Polynomials (3 of 4: Vertical translation)
+    AuePFikS3iU    |    Graphing Polynomials (4 of 4: Dilation)
+    5Hfz6Y12SvM    |    Graphing Techniques Q&A (2 of 3: Vertical transformation example)
+    yQEejQLeNSE    |    Graphing Techniques Q&A (3 of 3: Solving an inequality visually)
+    AEa3IquBV78    |    Graphing Absolute Value Functions (1 of 3: Definitions)
+    rBjIQbC674k    |    Graphing Absolute Value Functions (2 of 3: Translations)
+    0EkCMSoz7AU    |    Graphing Absolute Value Functions (3 of 3: Reflections & non-linear curves)
+    7OstCuWfV9A    |    Graphing Exponentials & Logs (1 of 5: Fundamental graphs)
+    XG4tqFMLzgU    |    Graphing Exponentials & Logs (2 of 5: Overview of transformations)
+    EYoodEYrbvg    |    Graphing Exponentials & Logs (3 of 5: Reflected exponential graphs)
+    pWO4ySkaz_I    |    Graphing Exponentials & Logs (4 of 5: Translated logarithmic graph)
+    DtP8HCUNKWU    |    Graphing Exponentials & Logs (5 of 5: Reflected logarithmic graph)
+    40FJObU7oxU    |    Graphs of Logarithms (1 of 3: Considering integer values)
+    qOcI87pT0VU    |    Graphs of Logarithms (2 of 3: Investigating near x=0)
+    TndEh_7ALmw    |    Graphs of Logarithms (3 of 3: Visualising the shape)
+    cUoQy4UDMcs    |    Graphing Rational Functions (1 of 4: Understanding asymptotes)
+    EN9rWktLiWA    |    Graphing Rational Functions (2 of 4: Basic example)
+    alYwrZmCU5A    |    Graphing Rational Functions (3 of 4: Harder example - identifying features)
+    XSPjpy3UUiY    |    Graphing Rational Functions (4 of 4: Harder example - constructing graph)
+    0-SgHGSJpKM    |    Solving Inequalities with Graphs (1 of 4: Understanding the visual approach)
+    1fCXjn9WoSc    |    Solving Inequalities with Graphs (2 of 4: Polynomial example)
+    OPZAHBhPclc    |    Solving Inequalities with Graphs (3 of 4: Hyperbola example)
+    NDIjVhwWcWc    |    Solving Inequalities with Graphs (4 of 4: A secondary algebraic technique)
+    D5QFxxfe6kU    |    Graphing Regions on the Cartesian Plane
+    Xb8rMTufC1Y    |    Reviewing Trigonometric Functions (1 of 3: Re-introducing the sine graph)
+    dlSCde_bZBI    |    Reviewing Trigonometric Functions (2 of 3: Features of sine and cosine)
+    RFJzMm_6l2I    |    Reviewing Trigonometric Functions (3 of 3: Basic features of the tan graph)
+    Cu1jg7wLOKk    |    The Ferris Wheel - Trigonometric Function Model (1 of 3: Setting up the equation)
+    4_viqcSyc5c    |    The Ferris Wheel - Trigonometric Function Model (2 of 3: Adjusting the period)
+    vhovLKslals    |    The Ferris Wheel - Trigonometric Function Model (3 of 3: Interpreting results)
+    vS-D6sDwoLY    |    Trigonometric Graph Exam Question (1 of 2: Sketching the functions)
+    aNr3jhE0Peg    |    Trigonometric Graph Exam Question (2 of 2: Domain for intersections)
+    sp8MJEWClkY    |    Solving Trigonometric Equations (1 of 3: Using the Pythagorean Identity)
+    jKrGXVBuniw    |    Solving Trigonometric Equations (2 of 3: Using the graph)
+    hQs5TaLw2IY    |    Solving Trigonometric Equations (3 of 3: Shifted and dilated function)
+    3dSta0NHomY    |    Modifications of Trigonometric Graphs (1 of 5: Frequency/Period)
+    1aWgEUiGDDU    |    Modifications of Trigonometric Graphs (2 of 5: Amplitude)
+    0jDV3LO8yv4    |    Modifications of Trigonometric Graphs (3 of 5: Vertical Shift)
+    1LBXrqQyWE0    |    Modifications of Trigonometric Graphs (4 of 5: Horizontal Shift)
+    L_RXklDublI    |    Modifications of Trigonometric Graphs (5 of 5: Reflection)
+    ES5YAZGA0E8    |    Modifying the Trigonometric Functions (Using live graphs)
+    eFGa7u8kDBo    |    Graphing y = tan(x÷3)
+    IRab2gO2arE    |    Trigonometric Graphs with Multiple Modifications (1 of 2: Phase & Frequency)
+    CZaLNk6m5ik    |    Trigonometric Graphs with Multiple Modifications (2 of 2: Amplitude & Vertical Shift)
+    _JfCy9iPpAM    |    Graphing Trigonometric Functions (Example: y = 3cos(x) - 2)
+
+"1.11 - algebra.Graphs 3.2"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyNPltB3GymKySnsAfMYUS1]
+    EwZcwr_OPxA    |    Domain and Range (1 of 2: Introduction)
+    mOVbI_kDvKY    |    Domain and Range (2 of 2: Examples)
+    mYsUjlqX2Aw    |    Classifying Functions & Relations (1 of 2: 1-to-1, Many-to-1)
+    JoQGXVaLicg    |    Classifying Functions & Relations (2 of 2: 1-to-Many, Many-to-Many)
+    vRBHZMxwhf4    |    Interval Notation (1 of 2: Bounded intervals)
+    eQXp-1u8GOY    |    Interval Notation (2 of 2: Unbounded intervals)
+    Q2yYePKysX0    |    Advice To My 12 Year Old Self
+    VaQRxA4kspA    |    Graphing Quadratics Equations (1 of 6: Why do we care about them?)
+    KK0okXH4XDE    |    Graphing Quadratics Equations (2 of 6: Summary of basic features)
+    X_2qm7n76lw    |    Graphing Quadratics Equations (3 of 6: x & y-intercepts)
+    QPCcmbIX1-4    |    Graphing Quadratics Equations (4 of 6: Visually interpreting background calculations)
+    04HrlRSMU74    |    Graphing Quadratics Equations (5 of 6: Considering accuracy & rounding)
+    TGI74Tg9hYc    |    Graphing Quadratics Equations (6 of 6: Locating the vertex)
+    nhLVnAi1roM    |    Graphing Parabolas via Transformation (1 of 2: Rearranging algebraically)
+    QsEt81U8bi4    |    Graphing Parabolas via Transformation (2 of 2: Thinking visually)
+    _4JCnX5zbr0    |    Graphing Cubic Functions (1 of 4: Considering y = x³)
+    nwH1dVcxP6A    |    Graphing Cubic Functions (2 of 4: Vertical translation)
+    x4NkROT90-k    |    Graphing Cubic Functions (3 of 4: Factored form)
+    WEVLoks9j_o    |    Graphing Cubic Functions (4 of 4: Geometric features)
+    5fQiJrI8y2g    |    Teacher Talk with Eddie Woo (Series Preview)
+    xukRA98Gd-A    |    Solving Cubic Inequalities (1 of 3: Interpreting the graph)
+    s4MPWWQTSKQ    |    Solving Cubic Inequalities (2 of 3: Expressing the solution)
+    wbNUx1TYx70    |    Solving Cubic Inequalities (3 of 3: Considering isolated points)
+    lg2FjYbhntQ    |    Simultaneous Linear/Quadratic Equations (1 of 2: Considering a line & parabola)
+    g1_5uckynk4    |    Simultaneous Linear/Quadratic Equations (2 of 2: Varying numbers of solutions)
+    33XaQeUHTFE    |    Growth mindset in the classroom
+    rrKXfBxb_og    |    Adding Functions (1 of 2: Linear + Linear)
+    YYGOKkvcQlI    |    Adding Functions (2 of 2: Linear + Quadratic)
+    QBT4ZimoVxM    |    Subtracting Functions (1 of 2: Linear — Linear)
+    X6iDUQ-pzlY    |    Subtracting Functions (2 of 2: Quadratic — Linear)
+    51PYtvNhiM0    |    Making mistakes & perspectives
+    8hqRbvzsvYM    |    Being a "Maths Person"?
+    g1Gzgp2Q6ys    |    Graphing Circles (1 of 4: Review of functions)
+    -69zB0-jJRQ    |    Graphing Circles (2 of 4: Centering on the origin)
+    4HUKp5YflWQ    |    Graphing Circles (3 of 4: Other centres/radii)
+    Id6HI_MCY1A    |    Graphing Circles (4 of 4: Completing the square)
+    -gXFmCtUBQg    |    Equation of a Semicircle
+    DcDfbyciNQU    |    Playfulness of mathematics
+    ISrPPDKs7yU    |    Absolute Value Equations & Inequalities (1 of 4: Visualising an equation)
+    juIjg2hdWIM    |    Absolute Value Equations & Inequalities (2 of 4: Visualising the inequality)
+    tM5e-ScW4hU    |    Absolute Value Equations & Inequalities (3 of 4: Separate intervals)
+    nn7MWBpGHik    |    Absolute Value Equations & Inequalities (4 of 4: Graphing to avoid unnecessary algebra)
+    tPSq3eTySN8    |    Adapting teaching practice
+    PzkEv2J8HUY    |    Reflecting Functions (1 of 3: Setting up an example)
+    pfXMPOXZVzM    |    Reflecting Functions (2 of 3: What happens when we graph f(-x)?)
+    bjf18uvURj4    |    Reflecting Functions (3 of 3: What happens when we graph -f(x)?)
+    IUy9B9_Wf6U    |    Function Symmetry (1 of 4: Overview & definitions)
+    RqslImHaVRc    |    Function Symmetry (2 of 4: Why are they called "odd" & "even"?)
+    4bXzow290Hg    |    Function Symmetry (3 of 4: Combining symmetries)
+    T48BgTrHm4w    |    Function Symmetry (4 of 4: Differentiating an odd function)
+
+"1.12 - algebra.Diff 2"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMzgYml8JvxRDS_7z_ggybw_]
+    leigGc1-fAA    |    Advice to My Younger Self - ABC 7.30
+    _8ObUA1e61w    |    Review of Basic Differentiation (1 of 2: Polynomials, Products, Quotients)
+    _Jc1uTs5feM    |    Review of Basic Differentiation (2 of 2: Considering derivatives visually)
+    jfEnhR2D24o    |    Calculus of Exponential Functions (1 of 4: Considering derivatives visually)
+    Ma8v8fiAgDg    |    Calculus of Exponential Functions (2 of 4: The importance of 2.718...)
+    AYUoRTxBhKc    |    Calculus of Exponential Functions (3 of 4: Basic differentiation examples)
+    zAfc32nzUgU    |    Calculus of Exponential Functions (4 of 4: Differentiating with non-e bases)
+    ZfzHo1BnBH8    |    Determining Derivatives from Graphs (1 of 3: Identifying major features)
+    7J18HDpewp4    |    Determining Derivatives from Graphs (2 of 3: Considering sign of the gradient)
+    LXS_bM4nWlk    |    Determining Derivatives from Graphs (3 of 3: Reversing the process)
+    OwK1RSnM2xo    |    Taking a moment
+    sVH_KYOPahM    |    Introducing Calculus of Exponential Functions (1 of 6: Considering other functions)
+    xxSZ3_SOHS8    |    Introducing Calculus of Exponential Functions (2 of 6: Characteristics of the gradient)
+    U_gpNS8bsLc    |    Introducing Calculus of Exponential Functions (3 of 6: Using the uniqueness of e)
+    8qatxhYCTew    |    Introducing Calculus of Exponential Functions (4 of 6: Simple chain rule examples)
+    QacL2jxK1as    |    Introducing Calculus of Exponential Functions (5 of 6: Common mistakes with notation)
+    AhSt7KD5Q8w    |    Introducing Calculus of Exponential Functions (6 of 6: Finding equation of a tangent)
+    BamDNJ0S0A8    |    f(x) = x²(x-1) (1 of 4: Initial sketch)
+    qDAu417XfZg    |    f(x) = x²(x-1) (2 of 4: Horizontal shift)
+    gmD-jPt6zoE    |    f(x) = x²(x-1) (3 of 4: Differentiation)
+    9D8xcMnXKHg    |    f(x) = x²(x-1) (4 of 4: Equation of a tangent)
+    Xb8rMTufC1Y    |    Reviewing Trigonometric Functions (1 of 3: Re-introducing the sine graph)
+    dlSCde_bZBI    |    Reviewing Trigonometric Functions (2 of 3: Features of sine and cosine)
+    RFJzMm_6l2I    |    Reviewing Trigonometric Functions (3 of 3: Basic features of the tan graph)
+    AkQ2zudU6p0    |    Futoshiki (fun puzzle with inequalities)
+    7D9KlMOODio    |    The Year That Made Me (ABC Radio National interview)
+    Cu1jg7wLOKk    |    The Ferris Wheel - Trigonometric Function Model (1 of 3: Setting up the equation)
+    4_viqcSyc5c    |    The Ferris Wheel - Trigonometric Function Model (2 of 3: Adjusting the period)
+    vhovLKslals    |    The Ferris Wheel - Trigonometric Function Model (3 of 3: Interpreting results)
+    UCJObolGfws    |    Intro to Trigonometric Calculus (1 of 5: Review questions)
+    -m8bUuVVoPI    |    Intro to Trigonometric Calculus (2 of 5: Investigating the gradient of sin x)
+    rdN1oxtds8U    |    Small Angle Approximations (1 of 4: Proof)
+    p1Vl9YNNIbw    |    Small Angle Approximations (2 of 4: Applied examples)
+    JByRDFa0plg    |    Small Angle Approximations (3 of 4: Pure examples)
+    ywTuVEWtM5g    |    Intro to Trigonometric Calculus (3 of 5: Investigating gradient magnitude)
+    Z30kMs08HL4    |    Intro to Trigonometric Calculus (4 of 5: Derivative of cos x)
+    FGgrXjCVWF8    |    Intro to Trigonometric Calculus (5 of 5: Derivative of tan x)
+    RjMNyZbP9PY    |    Small Angle Approximations (4 of 4: Derivative of sin(x))
+
+"1.13 - algebra.Diff 3"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxjiKpG2PYsMn2ryZ-4lJ13]
+    uXgKXfVMeFw    |    A Lesson in Memory
+    uZL0Y4IkJIU    |    Differentiating Simple Trigonometric Functions (examples)
+    NtMgTrvKCk4    |    Differentiating Trigonometric Functions - examples
+    16H9vgX0_Mo    |    Review of Logarithm Laws
+    yeXTsh3F2cU    |    Differentiating the Logarithmic Function (1 of 5: Using visual intuition)
+    L0ck-NNda1o    |    Differentiating the Logarithmic Function (2 of 5: Incorporating chain rule)
+    NmQWTapWlW8    |    Differentiating the Logarithmic Function (3 of 5: Proof by implicit differentiation)
+    PRpqtwHHR0M    |    Differentiating the Logarithmic Function (4 of 5: Restricting domain)
+    dT-7IjTlnZk    |    Differentiating the Logarithmic Function (5 of 5: Equation of a tangent)
+    p7wgwRCVclc    |    Differentiating Exponentials with Other Bases (1 of 3: Review questions)
+    rF_FqovGZXM    |    Differentiating Exponentials with Other Bases (2 of 3: Deriving a key result)
+    ZX_NJ4MDSMU    |    Differentiating Exponentials with Other Bases (3 of 3: Establishing the formula)
+    vvgvjVWTNtc    |    Differentiating Logarithms with Other Bases
+    -S5_9V0T8Hs    |    Phenomenom: Eddie Woo and the Fun Guys (who are actually quite serious)
+    KtQwEHZaiO4    |    Differentiating Exponential Functions (1 of 2: Reviewing simple derivatives)
+    4F_uzwC1Ppk    |    Differentiating Exponential Functions (2 of 2: Step by step Chain Rule)
+    YO24jWKfggQ    |    Differentiating Exponential Functions continued (1 of 2: Review questions)
+    gisH9f1VkBw    |    Differentiating Exponential Functions continued (2 of 2: Further examples)
+    cWtLUiGULmg    |    Exponential Functions with Other Bases (1 of 2: Reframing problems)
+    SQSQAOorqx0    |    Exponential Functions with Other Bases (2 of 2: Deriving the formula)
+    K9q0E5ysDnw    |    Differentiating Logarithmic Functions (1 of 4: Developing intuitions)
+    7SvjIZCLbPE    |    Differentiating Logarithmic Functions (2 of 4: Proving the formula)
+    -N8e21WVhzM    |    Diffferentiating Logarithmic Functions (3 of 4: Basic examples)
+    SNg4t5a7VOc    |    Differentiating Logarithmic Functions (4 of 4: Further examples)
+    IgljHgqF1Bo    |    Differentiating Logarithmic Functions Without Base e
+    ADlQR9-77Fs    |    Applications of Differentiating Log Functions (1 of 2: Calculating a tangent)
+    AfF24j7KIFM    |    Applications of Differentiating Log Functions (2 of 2: Calculating a normal)
+    LfF3caEHIws    |    Differentiating Trigonometric Functions (1 of 5: Review questions)
+    eA32R_aCXLQ    |    Differentiating Trigonometric Functions (2 of 5: Taking gradient measurements)
+    JFTer8aZHNE    |    Differentiating Trigonometric Functions (3 of 5: Understanding cos x & tan x)
+    AXP_tTlEyUk    |    Differentiating Trigonometric Functions (4 of 5: Chain rule examples)
+    hz6LksKMaTs    |    Differentiating Trigonometric Functions (5 of 5: Exploring the derivative of tan x)
+    pKU9EhCtAw0    |    Application of Trigonometric Derivatives (1 of 2: Finding the tangent)
+    7lMC8mEqAZE    |    Application of Trigonometric Derivatives (2 of 2: Evaluating an area)
+    d8nvLcqTwXI    |    Differentiating Trigonometric Functions (2 of 2: Example using quotient rule)
+    9s5WAzyHktk    |    Using Derivatives of Trigonometric Functions (1 of 2: Finding a tangent)
+    43X6cZoHaiw    |    Using Derivatives of Trigonometric Functions (2 of 2: Sketching a curve)
+    AGAIfsMo9y4    |    Summarising Derivatives of all Trigonometric Functions
+    4SOGAQUdeYI    |    Differentiating a^(cos x)
+    fi0A7vbfH8k    |    Summary of Exponential, Logarithmic & Trigonometric Derivatives
+
+"1.14 - algebra.Graphs 4"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyhRmehfgcS35BhjE1Ppag5]
+    flGUyDD_NWw    |    Where does the Product Rule come from? (1 of 2: Delta Notation)
+    9kkA6OJ0f-E    |    Where does the Product Rule come from? (2 of 2: Derivation)
+    OkkBQR9hlA8    |    Differentiating Exponential Functions (First Principles)
+    9iR3FyWywac    |    Differentiating Exponential Functions (Computer Aided)
+    qnr0YQJrzgw    |    Differentiating Exponential Functions: e
+    9YNJJy5vYGo    |    Differentiating Logarithmic Functions
+    IKIbX-3WrUk    |    Differentiating Logarithmic Functions (Examples)
+    htTTj-MsECo    |    Limits & Continuity (1 of 3: Formal intro to limits)
+    cm4_V5hopcE    |    Limits & Continuity (2 of 3: Limits that exists when functions don't)
+    cUoQy4UDMcs    |    Graphing Rational Functions (1 of 4: Understanding asymptotes)
+    EN9rWktLiWA    |    Graphing Rational Functions (2 of 4: Basic example)
+    alYwrZmCU5A    |    Graphing Rational Functions (3 of 4: Harder example - identifying features)
+    vPlMrtrAOG0    |    Introduction to Graphing Rational Functions (SFAIR)
+    5BdHFaEEHnI    |    How to Graph x+1/x (1 of 3: Identifying Initial Features)
+    uBW0mAdMt7g    |    How to Graph x+1/x (2 of 3: Understanding the Oblique Asymptote)
+    ZEcrlRtEs4M    |    How to Graph x+1/x (3 of 3: Putting the Pieces Together)
+    ncJOmJdyLII    |    Graphing by Regions (1 of 3: How Positives & Negatives Interact)
+    erdjGO19OjM    |    Graphing Rational Functions (1 of 4: Products and their signs)
+    X6QDgb6yMZ4    |    Graphing Rational Functions (2 of 4: Overall strategy)
+    7HXbPYdMHVs    |    Graphing a Rational Function Step-By-Step
+    e1BajeOCoPo    |    Oblique Asymptotes (1 of 3: Comparing with other asymptotes)
+    M99_zZCtes4    |    Solving an Inequality with a Rational Function (1 of 2: Solving graphically)
+    zKnUX6t8inw    |    Solving an Inequality with a Rational Function (2 of 2: Solving algebraically)
+    dHkiqaX9mPA    |    Finding the equation of a normal at a given point
+    WFp0bPD3acI    |    Graphing Rational Functions (3 of 4: Initial examples)
+    2CuqqVRYifo    |    Graphing Rational Functions (4 of 4: Harder examples)
+    c7ONWta-MBY    |    Graphing by Regions (2 of 3: Different Combinations of Identical Factors)
+    JVoZlz5RcnM    |    Graphing by Regions (3 of 3: One Last Example)
+    9OVRsk8bRKo    |    Determining the Oblique Asymptote (Polynomial Division)
+    0NqBdcdlr1g    |    Rational Functions (1 of 3)
+    yYZZvRq8r4Y    |    Rational Functions (2 of 3)
+    bO7PU-x7NG8    |    Rational Functions (3 of 3)
+    SG2vivpA69o    |    Multiplication & Division of Functions (1 of 4: Intercepts & asymptotes)
+    pwRJn2wmUFQ    |    Limits & Continuity (3 of 3: Applications to graphs)
+    3DomUVAqhtU    |    Why do I teach mathematics? (CESE Interview)
+    sEdffnsESJs    |    Multiplication & Division of Functions (3 of 4: Example with oblique asymptote)
+    aOnVirmMW8U    |    How to Graph 1/(x²+1)
+    wCmXOkqCwck    |    Addition & Subtraction of Ordinates (3 of 4: x² + 1/x)
+    VeTK2rzhz5k    |    How to Graph (x³+1)/x
+    eq9kRZL7Ma0    |    Graphing When You Can't Factorise (1 of 4: General Shape)
+    FFV0pHJ3hhA    |    Graphing When You Can't Factorise (2 of 4: Understanding the Discriminant)
+    tB10jVE4glw    |    Graphing When You Can't Factorise (3 of 4: Determining the Range)
+    6AabgQd52U8    |    Graphing When You Can't Factorise (4 of 4: Finding Turning Points Without Calculus)
+    Ldq2VRKvHVM    |    Multiplication & Division of Functions (4 of 4: Graphing y = x*lnx)
+    AsIzAiCLy7I    |    Graphing Reciprocal Functions
+    2HOGQ7x_j6s    |    Oblique Asymptotes (2 of 3: Using calculus)
+    jkVuLI8gpps    |    Oblique Asymptotes (3 of 3: Investigating shapes)
+
+"1.15 - algebra.Graphs 5"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxhN4AumcQoQfJWy52j8WGv]
+    WdDc_HktIlo    |    Differentiating with Product & Chain Rule (example question)
+    W4y1ydC9IK0    |    What is continuity?
+    BywWffdXTsM    |    Interesting Discontinuity Example
+    KI-I2T9g_c4    |    Differentiability (includes counter-examples)
+    ZmrDIdzOAAE    |    Piecewise Functions
+    wIgmyE5Juzw    |    Wallows - Are You Bored Yet? (feat. Clairo) [Official Video]
+    bDHKgz-rJqg    |    Graphing Reciprocal Functions (1 of 4: Linear example)
+    RFt7Z-vKYps    |    Graphing Reciprocal Functions (2 of 4: Considering sign)
+    RIk3pI9upRE    |    Graphing Reciprocal Functions (3 of 4: Considering symmetry)
+    _8Ok5MsS_ZY    |    Graphing Reciprocal Functions (4 of 4: Cubic + semi-circle examples)
+    _oanNS-sktE    |    Graphing Squared Functions (1 of 2: Linear + quadratic examples)
+    tsGhEfvuUMM    |    Graphing Squared Functions (2 of 2: Cubic + semi-circle examples)
+    4mxg9KaQXDw    |    Graphing Square Root Functions (1 of 3: Linear example)
+    kJVw8D86_2g    |    Graphing Square Root Functions (2 of 3: Quadratic example)
+    JiPpbPxC7ok    |    Graphing Square Root Functions (3 of 3: Cubic example)
+    N8KzV9wgmpQ    |    Graphing Powers of Functions (2 of 4: Understanding square behaviour)
+    L08tdBzgSWg    |    Graphing Powers of Functions (3 of 4: y = sin²x)
+    E-Ly4WQ1g68    |    Graphing Powers of Functions (4 of 4: y = √sinx)
+    ai0XgSVr8yY    |    Multiplying Functions Visually (1 of 3: Introduction)
+    -LanM2u_6vA    |    Multiplying Functions Visually (2 of 3: Linear × Parabola)
+    dE02skw2Tjo    |    Multiplying Functions Visually (3 of 3: Parabola × Parabola)
+    tjF5CKQe4is    |    Graphing Reciprocal Trigonometric Functions (1 of 2: Cosecant)
+    wkWn3JPcLSE    |    Graphing Reciprocal Trigonometric Functions (2 of 2: Cotangent)
+    fd9m1Uod1fs    |    Spaghettification (From "Loki: Season 2 - Vol. 2 (Episodes 4-6)"/Score/Audio Only)
+    gszP_i8A-zc    |    Welcoming change for the future of maths
+    1BMO80jha3U    |    Inverse Functions (1 of 4: Introduction via trigonometry)
+    oskfY7goQ58    |    Inverse Functions (2 of 4: Noticing the visual relationship)
+    8Fp06c7Wz0M    |    Inverse Functions (3 of 4: Mutual inverses)
+    nJ_NhrtWZag    |    Inverse Functions (4 of 4: Restricting the domain)
+    CSpAdP-AwEY    |    Using the curriculum as a launchpad
+    aI9fAobtplA    |    Expanding Algebraic Expressions
+    c9URwvkvcC0    |    Inverse Variation (1 of 4: Quick questions)
+    3Iz4GpNSMj4    |    Inverse Variation (2 of 4: The painter problem)
+    T8H9bXx89pY    |    Inverse Variation (3 of 4: Thinking visually about the hyperbola)
+    4P_9LKxY2ns    |    Inverse Variation (4 of 4: Graphing principles)
+    PoYjOJ5O7FE    |    Answers aren't everything
+    YtuIeDkBpDQ    |    Polynomial Division & Graphing (1 of 3: Performing long division)
+    Rdp0BlnNYiA    |    Polynomial Division & Graphing (2 of 3: Factorising the whole polynomial)
+    NAYtI2qETN0    |    Polynomial Division & Graphing (3 of 3: Relating the intercepts & graph shape)
+    k6vJA15q04o    |    Remainder & Factor Theorem (1 of 3: The division transformation)
+    z-byWXvIlgc    |    Remainder & Factor Theorem (2 of 3: Fully factorising a polynomial)
+    q_4x_tgMMtE    |    Remainder & Factor Theorem (3 of 3: Determining a polynomial from remainders)
+    pd3Z0B3gmIU    |    Solving Polynomial Equations (1 of 2: Using the factor theorem)
+    kLk8cUBe0Jg    |    Solving Polynomial Equations (2 of 2: Determining solutions)
+
+"1.20 - algebra.Diff 4: Apply Diff ➡️ Limits"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMznOaR-LBtsDXMwu-XdhQ9I]
+    tt2DGYOi3hc    |    Introduction to Calculus (1 of 2: Seeing the big picture)
+    rdN1oxtds8U    |    Small Angle Approximations (1 of 4: Proof)
+    p1Vl9YNNIbw    |    Small Angle Approximations (2 of 4: Applied examples)
+    JByRDFa0plg    |    Small Angle Approximations (3 of 4: Pure examples)
+    MkYWnG8zmaQ    |    Evolving with mathematics
+    kfF40MiS7zA    |    Limits, L'Hôpital's rule, and epsilon delta definitions | Chapter 7, Essence of calculus
+    RjMNyZbP9PY    |    Small Angle Approximations (4 of 4: Derivative of sin(x))
+    ycO0Vn_w9Q0    |    l'Hospital Practice | MIT 18.01SC Single Variable Calculus, Fall 2010
+    g7IoTtd0oBY    |    The Behaviour of tan(x) & x at the Origin
+    reMXJtvzFL8    |    Sin(x), x & tan(x) at the Origin (Example Questions)
+    WAExRA_CCkc    |    Evaluating Trigonometric Limit (example question)
+    T0kuMKR3hks    |    Solving Limits involving properties of Trigonometric Functions as they approach the origin.
+    ydvVIGr9Hdc    |    Apply Bernoulli's (L'Hopital's Rule) Everywhere 😜
+    BUoutWDwDM8    |    limit_(x→0) cosec(x)/x   | You can check the graph before applying Bernoulli's (L'Hôpital's) Rule
+    awk5Co-9rcc    |    Unusual Trigonometric Derivative Proof
+    INoXqqmNRJQ    |    Using L'Hopital's Rule to show that exponentials dominate polynomials
+    rdQkqlyvTzA    |    Why  0/0 via substituting x→0  is needed for applying Bernoulli's Rule (L'Hopital's Rule)
+    Ql-1C4YlQzo    |    Revision of Log Laws
+    MIdOT2cIuQE    |    The Derivative of ln x
+    jzhn9Xg5iAQ    |    Applying L'Hopital's Rule to Exponential Indeterminate Forms
+    3kG2qoEdptQ    |    Differentiating Log Functions w/ Chain Rule
+    ZBJQIv1ZPdU    |    Hyperbolic Sine & Cosine
+    -o34rPDcgj0    |    Rephrasing Exponentials in Base e
+    -NUWkohcSJI    |    Applications of First Principles (1 of 4: Refining language and notation)
+    Ar25C2tg_wY    |    Applications of First Principles (2 of 4: The function 1/x)
+    9YvC0inO_SU    |    Differentiating a Rational Function by First Principles
+    Mqmv9JMjCBg    |    Y10 Review Questions (Rationalising denominators)
+    daOrt1Z3pP8    |    Applications of First Principles (3 of 4: The function √x)
+    zmUK_8EqcJU    |    Differentiating the fourth root of x (by first principles)
+    nVU9Lgq_nho    |    CALCULUS SPEEDRUN || Limits || Episode 1
+    g45quDrSA6g    |    Understanding Limits and L'Hospital's Rule
+    QKXAd2PhZGY    |    Failure of L'Hospital's Rule | MIT 18.01SC Single Variable Calculus, Fall 2010
+    -unUH8qbkrw    |    Tricky Trig Limit Question
+    z1DQQE8iC9k    |    L'Hopital's Rule Lesson Calculus 1 AB with 8 Examples
+    uFASwTlwcq4    |    Chain Rule
+    2NWxmkWwiJM    |    Intuitive Approach to Gradient Function of sin(x)
+    kY_h8xzRaYE    |    Convergence of sin(x), x, and tan(x)
+    h5OIRugAxr8    |    Radian Measure result for sin(x), x and tan(x)
+    xhKf7v2FU_g    |    AP Calculus AB and BC Unit 1 Review [Limits and Continuity]
+
+"1.21 - algebra.Integ 1"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwANfTsOoO4vj1F8BaDRxpp]
+    boxEwXwYay8    |    Introduction to Primitives
+    Kk_xbdffrkM    |    Anti-Differentiation: Polynomial Functions
+    2jzCl2xIqrI    |    12M7 Bloopers #3: Count On Me
+    nbedyaUrJXM    |    Primitive Functions: Evaluating the Constant
+    b8R71mJPcIs    |    Reverse Chain Rule for Polynomials: Basic Examples
+    mzI_IilwLWE    |    Reverse Chain Rule for Polynomials: Be Careful!
+    3wUXXyRoypM    |    Reverse Chain Rule for Polynomials: General Rules
+    gvBSBtcHPmA    |    Introducing Integration (1 of 4: Considering displacement vs. time)
+    pYLMuEWSdRQ    |    Introducing Integration (2 of 4: Considering velocity vs. time)
+    Udc2ARenFBU    |    Introducing Integration (3 of 4: Notation)
+    _1zdoYl9gYc    |    For All Mankind - Pathfinder Fires Its Missiles
+    0GA7gMFNrj8    |    Primitive Functions (1 of 2: What is anti-differentiation?)
+    6NG0GRS66X8    |    Primitive Functions (2 of 2: Basic example question)
+    _hf3JowQfKM    |    The Story of Integration (1 of 4): Areas Under Curves
+    2eumjKINo6w    |    The Story of Integration (2 of 4): Riemann's Integral
+    LGCMzjF6eXs    |    The Story of Integration (3 of 4): The Relation to Derivatives
+    YZdU_muqre8    |    The Story of Integration (4 of 4): Forming & Evaluating an Integral
+    7_OxSGsDRwI    |    Introducing Integration (4 of 4: Concrete examples)
+    utw_UqOphx4    |    [1080p] FAM S02E10 | Gordo Stacy | Lunar Sacrifice
+    KRe2B6BSNJc    |    Fundamental Theorem of Calculus (1 of 5: Considering COVID-19)
+    W5An0dfd7gM    |    Fundamental Theorem of Calculus (2 of 5: Areas under curves)
+    SaJpsnvXJgk    |    Fundamental Theorem of Calculus (3 of 5: Relating derivatives & integrals)
+    VSl6kIxQmlM    |    Fundamental Theorem of Calculus (4 of 5: Basic examples)
+    gmHvW3IJUp4    |    Fundamental Theorem of Calculus (5 of 5: Taking care with negative indices)
+    XXpcVsBotW4    |    For All Mankind - Saving Apollo 24
+    Zg4dJVvwRko    |    Definite & Indefinite Integrals
+    hc28Q8Ye2_c    |    Indefinite Integrals (1 of 2: Compared to definite integrals)
+    A7X1__0Z_Yo    |    Indefinite Integrals (2 of 2: Example questions)
+    fZkcuEsC_CA    |    Relating Integrals & Areas
+    1a8d3rWQPhg    |    Indefinite Integrals (1 of 3: Simple polynomial examples)
+    VyqNI6-I2Lc    |    Indefinite Integrals (2 of 3: Basic reverse chain rule examples)
+    O2Ug05xiiLY    |    Indefinite Integrals (1 of 4: Review questions & introduction)
+    RZkvSZUXGvc    |    Indefinite Integrals (2 of 4: Reverse chain rule)
+    f0Aaz1TsqiE    |    Indefinite Integrals (3 of 4: When different approaches give different answers)
+    S1tSuDDU9dk    |    Indefinite Integrals (4 of 4: Rephrasing primitives from index form)
+    RzKci1rdnoM    |    Indefinite Integrals (3 of 3: Harder reverse chain rule examples)
+    C_vyW0EJy2s    |    For All Mankind - Space Travel is Worth It (S1 Ending)
+    Zgu6uZysGO0    |    Integrating Exponential Functions (Basics)
+    NmQWTapWlW8    |    Differentiating the Logarithmic Function (3 of 5: Proof by implicit differentiation)
+    MOxS_o8Qu_Y    |    Integration & Logs
+    PRpqtwHHR0M    |    Differentiating the Logarithmic Function (4 of 5: Restricting domain)
+    -N8e21WVhzM    |    Diffferentiating Logarithmic Functions (3 of 4: Basic examples)
+    fUP0oFzUkao    |    Integration & Logarithmic Functions: Non-Log Integrands (1 of 3)
+    dBdRWG5Uau4    |    Integration Practice (1 of 7: Exponential integrals)
+    44avf4uXLiY    |    Integrating Trigonometric Functions (1 of 4: Review questions)
+    LZXM6nSCFA4    |    Integrating Trigonometric Functions (2 of 4: Establishing basic results)
+    3eBsPt9Jjsc    |    Integrating Trigonometric Functions (3 of 4: Rearranging to use reverse chain rule)
+    ZbgIQkjihE0    |    Primitives of Trigonometric Functions
+    EkVbB48IAYw    |    Integrating Trigonometric Functions (4 of 4: How do we integrate tan x?)
+    5-FcyRHZiWI    |    Reverse Chain Rule for Trigonometric Functions
+    DB8i1kyXkWc    |    Interstellar - Miller's Planet (HDR - 4K - 5.1)
+    Emlhn-aDwro    |    Primitives of Exponential Functions
+    u-XDho_D1l8    |    Integrating Exponentials with Other Bases
+    tvqFRgGLGxU    |    Integrating Exponential Functions
+    AMvrk_KJsjg    |    Integration of Harder Exponential Functions
+    R1f7OC0lK0k    |    Reverse Chain Rule for Rational Functions
+    zoV8fKNfZxs    |    Integrals & Logarithmic Functions (2 of 2: Why are there absolute value signs?)
+    dT-7IjTlnZk    |    Differentiating the Logarithmic Function (5 of 5: Equation of a tangent)
+    LnUTAxFd4tI    |    Integrals & Logarithmic Functions - Why does the solution look different?
+
+"1.22 - algebra.Integ 2"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyogEn_k6BrNHUYBFmFVlFp]
+    8kooIgKESYE    |    Interstellar theme song - video
+    O5oIaCfVFp4    |    Understanding Integration (1 of 2: Different axes, methods of evaluating definite integrals)
+    e5tF_17rjqs    |    Understanding Integration (2 of 2: Signed area)
+    7yymbRwJo-A    |    Integrals & Area (1 of 2: Finding the limitations of Integrals)
+    MvcK2wmNrww    |    Integrals & Area (2 of 2: Finding Properties of Integrals with Odd and Even Integrands)
+    _v04piON3M8    |    Indefinite Integrals (1 of 2: Making Connections with areas and volumes through integrals)
+    4HyrrSq9dKk    |    Indefinite Integrals (2 of 2: Finding the connection between Volumes, Areas and Corner Lengths)
+    vhnpMXnskCA    |    Integration & Circle Formulas
+    1rmc8B-CcVY    |    Properties of Definite Integrals (1 of 4: Sign & symmetry)
+    kId4IcgXNOA    |    Properties of Definite Integrals (2 of 4: Dissection & direction)
+    gAFSnrEFYHc    |    Properties of Definite Integrals (3 of 4: Addition)
+    6E6fpEBP9B8    |    Properties of Definite Integrals (4 of 4: Piecemeal functions)
+    hF7tBGSjFP4    |    Properties of Definite Integrals: Constant Co-efficients
+    TlTaSi8EIF8    |    Properties of Definite Integrals: Even Functions
+    -S5_9V0T8Hs    |    Phenomenom: Eddie Woo and the Fun Guys (who are actually quite serious)
+    zAlyr3ON6VY    |    ABC Q&A Education Special 2020
+    TlKXbjSpa0I    |    Teaching with YouTube 01: Equipment
+    fqOYpinjCkk    |    Teaching with YouTube 02: Shooting + Editing
+    gcU3T4EgzyY    |    Teaching With YouTube 03: Uploading
+    cDbnPaeZgQ0    |    A Turning Point Mystery (1 of 2: Introducing the problem)
+    a0ePXSvQuaQ    |    A Turning Point Mystery (2 of 2: An unusual derivative)
+    6eiRlfO7ZIU    |    Byron Bay Writers Festival 2019 - ABC Interview
+    FjE3CPEzM4w    |    Emoji Maths Puzzle (1 of 2: Setting up the problem)
+    T7LBx5RV1Pk    |    Emoji Maths Puzzle (2 of 2: Evaluating the integral)
+    QsNu-K7iQL0    |    COVID-19 Q&A
+    SXKGKoPlCpc    |    Differential Calculus Exam Review (1 of 3: Chain rule)
+    FDC7mOfSszw    |    Differential Calculus Exam Review (2 of 3: Logarithms & exponentials)
+    83EFsbdHWMU    |    Differential Calculus Exam Review (3 of 3: Product rule, trigonometric functions)
+    YqDlo0azVaM    |    That's Mathema-a-a-atics!
+    hJLSvAIlucM    |    Integral Calculus Exam Review (1 of 5: Determining function from gradient)
+    G3H09TR1vIY    |    Integral Calculus Exam Review (2 of 5: Indefinite integrals)
+    Y5QGvHbETms    |    Integral Calculus Exam Review (3 of 5: Reverse chain rule for polynomial)
+    RSWQG8UrXEU    |    Integral Calculus Exam Review (4 of 5: Balloon inflation question)
+    Ig__fdAYTak    |    Integral Calculus Exam Review (5 of 5: Proving & using an algebraic identity)
+    IUy9B9_Wf6U    |    Function Symmetry (1 of 4: Overview & definitions)
+    RqslImHaVRc    |    Function Symmetry (2 of 4: Why are they called "odd" & "even"?)
+    4bXzow290Hg    |    Function Symmetry (3 of 4: Combining symmetries)
+    T48BgTrHm4w    |    Function Symmetry (4 of 4: Differentiating an odd function)
+    MWmnXUXfFOg    |    Desmos Art Contest - my favourites!
+    zKfWYeRzTaQ    |    [4K HDR] Spider-Man: Across the Spider-Verse | AM I DREAMING | End Credits
+    86eL9c9ExPk    |    Using Definite Integral Properties
+    c8W9_iaERnU    |    Areas by Integration (1 of 6: Basic area under curve)
+    su9-sz5p3vc    |    Areas by Integration (2 of 6: Area between curve & both axes)
+    UyM3qudctYs    |    Areas by Integration (3 of 6: Curve enclosing multiple regions)
+    0hETCIftw3I    |    Areas by Integration (4 of 6: Area by subtraction)
+    Z3Vgv5cna1w    |    Areas by Integration (5 of 6: Integrating from the y-axis)
+    dE6yr8tiqy8    |    Areas by Integration (6 of 6: Area under y = ln x)
+    y3gnXYGKNds    |    Basic Compound Regions (1 of 4: Finding the point of intersection)
+    AQVIkMVYUg4    |    Basic Compound Regions (2 of 4: Combining the areas)
+    fkzhhgacjfg    |    Basic Compound Regions (3 of 4: Constructing & interpreting the graph)
+    kv_21IP3FJU    |    Basic Compound Regions (4 of 4: Evaluating the individual integrals)
+    hWEfyVJLA_4    |    [4K HDR] Spider-Man: Across the Spider-Verse | SELF LOVE | Movie Scene | GWEN's BACKSTORY
+    6AxVZIJZ3LA    |    Areas Between Curves (1 of 3: Establishing "top" minus "bottom")
+    e8Zw927Iw0I    |    Areas Between Curves (2 of 3: Evaluating the integrals)
+    SCumrbL62HA    |    Areas Between Curves (3 of 3: What about beneath the x-axis?)
+    SniDiIlyHcM    |    Evaluating Compound Areas (via integration)
+    ZsBOYifabtk    |    Integration & Composite Areas
+    nouNg4v9I4A    |    Symmetrical Areas
+    DvRLn4CWTQ8    |    Curves with Multiple Crossings (1 of 5: Locating the boundaries)
+    Mv1tbyPdl_I    |    Curves with Multiple Crossings (2 of 5: Combining areas between polynomials)
+    PieI74QWm5s    |    Curves with Multiple Crossings (3 of 5: Visualising trigonometric functions)
+    Obdqtu3vKUo    |    Curves with Multiple Crossings (4 of 5: Symmetry & periodicity in areas)
+    2B9y--GBugc    |    Curves with Multiple Crossings (5 of 5: Integrating trigonometric functions)
+    1aLingC__P0    |    Logarithms as Primitive Functions (Why are there absolute value signs?)
+
+"1.30 - geo.trig 4: Inverse Trig"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyPkWt_JqdfLBVSozWaTeWR]
+    1BMO80jha3U    |    Inverse Functions (1 of 4: Introduction via trigonometry)
+    oskfY7goQ58    |    Inverse Functions (2 of 4: Noticing the visual relationship)
+    SG4Hza8d22o    |    Inverse Functions (2 of 4: Finding the Inverse and the geometrical properties of Inverse Function)
+    8Fp06c7Wz0M    |    Inverse Functions (3 of 4: Mutual inverses)
+    nJ_NhrtWZag    |    Inverse Functions (4 of 4: Restricting the domain)
+    b79e-mN1PZs    |    Graphing Functions & Their Inverses
+    JCtJrqM6izc    |    Geometric Properties of Inverse Functions
+    ZnZqB5Z75zI    |    Quicksilver Saves Everyone - Sweet Dreams - X-Men: Apocalypse (2016) Movie Clip HD
+    7JXMfs7Mg-8    |    Inverse Trigonometric Functions (1 of 4: Choosing a Domain for the Inverse of sine)
+    yfOmDk2ybww    |    Inverse Trigonometric Functions (2 of 4: Justifying the Choice of Domain)
+    9ZHYD4eFh6o    |    Functions, Domains and Fussy Eaters
+    Ld6C7U151SQ    |    Interpreting sin¯¹(cos x)
+    fXNcPjWvf9o    |    Inverse Trigonometric Functions (3 of 4: Determining the domain of cos¯¹x and tan¯¹x)
+    R148LmmJdq8    |    Inverse Trigonometric Functions: tan¯¹(x)
+    Vr2tdEi2Twg    |    Inverse Trigonometric Functions (4 of 4: Graphing the Shape of the inverse Trig Functions)
+    NTWI1a4xE-4    |    What it means to be human
+    Xx8UxNprQtw    |    Introduction to Inverse Trig Functions (1 of 2): Why a whole new topic?
+    0zqNvswuVvE    |    Properties of Inverse Functions (2 of 3: Relationship of derivatives of the original and inverse)
+    TNWO64gslUk    |    For All Mankind — Helios Recruitment | Season 4 | Apple TV
+    BO4-EtuYgb8    |    Differentiating sin inverse x by Considering Domain
+    gszP_i8A-zc    |    Welcoming change for the future of maths
+    DuiA_b8_5v4    |    Introduction to Inverse Trig Functions (2 of 2): Reviewing Functions & Relations
+    183tEhupiSQ    |    Natalie Holt - TVA (From "Loki")
+    x1QxDrrvBH8    |    Graphs of the Inverse Trig Functions (1 of 3: Reviewing the domain, range and shape)
+    jgLvO6A7OEo    |    Graphing Inverse Trig Functions (1 of 2)
+    _X7Zc9-X4ro    |    Graphs of the Inverse Trig Functions (2 of 3: Transformations of the basic inverse trig functions)
+    dzX9WtPBqfI    |    Graphing Inverse Trig Functions (2 of 2)
+    r2UvqSLZG-A    |    Graphs of the Inverse Trig Functions (3 of 3: WARNING - Shifting and transforming the WRONG way)
+    0KOZ3VbPB0k    |    Purpose Is Glorious (From "Loki: Season 2 - Vol. 2 (Episodes 4-6)"/Score/Audio Only)
+    Oyxgl5Mx8LE    |    Properties of Graphs of I.T.Fs (1 of 3: Graphically and Algebraically Solving sin¯¹x + cos¯¹x = ?)
+    WLUI_zWF7dI    |    Properties of Graphs of I.T.Fs (2 of 3: Finding the solution to the compound function of arc(trig)x)
+    heV7XbH6rlU    |    Properties of Graphs of I.T.Fs (3 of 3: Showing the Relationship between original & Compound)
+    ECCjAuIah3s    |    Graphical & Analytical Approach to sin¯¹(sin x)
+    56w_xHCApmc    |    Graphing y = cos¯¹(cos x)
+    TU_q8Hu2IiE    |    Graphing y = tan¯¹(tan x)
+    CSpAdP-AwEY    |    Using the curriculum as a launchpad
+    7UMkV-S0Zv8    |    Differentiation of ITFs (1 of 3: Predicting the properties of d/dx(tan¯¹(x)))
+    cEwzicFvh_k    |    Differentiation of ITFs (2 of 3: Using Trig Identities to find the derivative of tan¯¹(x))
+    ThsJ_upnwEU    |    Differentiation of ITFs (3 of 3: Finding the Condition that make d/dx(sin¯¹(x)) what it actually is)
+
+"1.41 - algebra.Complex 1"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMz5xeiVlksVHQMjiUpqsOGm]
+    jA8JnlP_O6g    |    Understanding Exponential Functions and their Gradients: Intuitive Approach
+    o2k1wy2CEbM    |    Understanding Exponential Functions and their Gradients: First Principles Approach
+    tUWzNNXqSbk    |    CalcGREEN 1 : Ch. 1 : FUNCTIONS & FUNCTIONS
+    tsGhEfvuUMM    |    Graphing Squared Functions (2 of 2: Cubic + semi-circle examples)
+    bDHKgz-rJqg    |    Graphing Reciprocal Functions (1 of 4: Linear example)
+    RFt7Z-vKYps    |    Graphing Reciprocal Functions (2 of 4: Considering sign)
+    RIk3pI9upRE    |    Graphing Reciprocal Functions (3 of 4: Considering symmetry)
+    _8Ok5MsS_ZY    |    Graphing Reciprocal Functions (4 of 4: Cubic + semi-circle examples)
+    1-StCdr14dA    |    CalcGREEN 1 : Ch. 1.1 : Polynomials & Trigonometric Fuctions
+    Ql-1C4YlQzo    |    Revision of Log Laws
+    apUDkQ7EKRw    |    CalcGREEN 1 : Ch. 1.2 : Exponentials, Logs, & Inverses
+    YhivrWDq1Xo    |    Zeroes & Coefficients (1 of 5: Noticing the relationship)
+    E5WYUdC_JPI    |    Zeroes & Coefficients (2 of 5: Generalising the result)
+    -cQlti5TyEk    |    Zeroes & Coefficients (3 of 5: Experimenting visually)
+    8OfsArHLReA    |    Zeroes & Coefficients (4 of 5: Example problem)
+    FFV0pHJ3hhA    |    Graphing When You Can't Factorise (2 of 4: Understanding the Discriminant)
+    tNUBZ7hX4Mo    |    Zeroes & Coefficients (5 of 5: Obtaining more complicated results)
+    ZngvknBdxRQ    |    Introducing Complex Numbers (1 of 3: History of numbers)
+    _8eJ02oRkjI    |    Introducing Complex Numbers (2 of 3: Revealing the invisible)
+    yKe_bhPgUxs    |    Introducing Complex Numbers (3 of 3: Defining fundamentals)
+    8Pv2c-8AwOI    |    Complex Arithmetic (1 of 3: Basic operations)
+    fjuiPZ4DbJI    |    Complex Arithmetic (2 of 3: Trigonometric identity)
+    u6A6_X7JHEg    |    Complex Arithmetic (3 of 3: Identity from ℝ component)
+    xdZGHPGW28w    |    Further Complex Arithmetic (1 of 2: Basic questions and notation)
+    VAdPGP6UHVM    |    Further Complex Arithmetic (2 of 2: Equating components)
+    2I4bcf4Vi54    |    Do complex numbers break the rules?
+    a1fRBMu11G0    |    Introducing the Complex Plane
+    FzNfDuaehHs    |    Exploring the Complex Plane (1 of 2: Visualising addition & subtraction)
+    FpJTb1zNz7E    |    Exploring the Complex Plane (2 of 2: Visualising multiplication)
+    2PZy0TsUcSk    |    Basics of Complex Geometry (example questions)
+    D5d5xinZI3E    |    Calling (Spider-Man: Across the Spider-Verse)
+    8Y2eIPCg7uc    |    The Most Beautiful Identity (1 of 8: Introducing Complex Numbers)
+    g7Q-ILTRPWo    |    The Most Beautiful Identity (2 of 8: Same number, different clothes)
+    iDq5mF0Mjj4    |    The Most Beautiful Identity (3 of 8: The Complex Plane)
+    tdNKkc6jbr0    |    Introducing Polar Form (1 of 3: An alternative coordinate system)
+    kCsuJ-Yo8n8    |    Introducing Polar Form (2 of 3: Relationship to rectangular form)
+    Xb8f3CHchiI    |    Introducing Polar Form (3 of 3: Example conversion)
+    U8dc3hwdxx0    |    Working in Polar Form (1 of 2: Conjugate & negative)
+    KIlUe5D9DD8    |    Working in Polar Form (2 of 2: Square & reciprocal)
+    0vJYKTHydFc    |    The Most Beautiful Identity (4 of 8: Polar Form)
+    p2Ia4CfDHw4    |    The Most Beautiful Identity (5 of 8: Polynomial Interpolation)
+    kul86TCCUKM    |    The Most Beautiful Identity (6 of 8: Taylor Series)
+    o7R66TzyeZI    |    The Most Beautiful Identity (7 of 8: Revisiting Polar Form)
+    mnw4gfImrRc    |    The Most Beautiful Identity (8 of 8: Conclusion)
+    IUTGFQpKaPU    |    The Most Beautiful Equation in Math
+    7vA8HOu86Os    |    CalcGREEN 1 : Ch. 1.3 : Euler & the Complex Plane
+
+"1.42 - algebra.Complex 2"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwKRvTkbhG2yQS6LCXcpIFx]
+    mnw4gfImrRc    |    The Most Beautiful Identity (8 of 8: Conclusion)
+    IUTGFQpKaPU    |    The Most Beautiful Equation in Math
+    7vA8HOu86Os    |    CalcGREEN 1 : Ch. 1.3 : Euler & the Complex Plane
+    QGso1gxgGBQ    |    Informal Proof of Euler's Formula (1 of 2: Exponential calculus)
+    TejELKLWNA8    |    Informal Proof of Euler's Formula (2 of 2: Trigonometric calculus)
+    2mpZDhvgzrs    |    What does an imaginary power mean?
+    pg827uDPFqA    |    What is the number "e" and where does it come from?
+    Q6EIugYmxYg    |    Proving Euler's Formula (1 of 4: Fields)
+    hQi0xOfkRtk    |    Proving Euler's Formula (2 of 4: Differentiating both sides)
+    gLAErO60K7Q    |    Proving Euler's Formula (3 of 4: Equating terms)
+    hkYofVzq0F4    |    Proving Euler's Formula (4 of 4: Evaluating constants)
+    _-abh0Au65Q    |    Geometry of Complex Numbers (1 of 6: Radians)
+    3YWzXAveKmY    |    Geometry of Complex Numbers (2 of 6: Real vs. Complex)
+    Cgnt0QqhA1c    |    Geometry of Complex Numbers (3 of 6: Real Arithmetic)
+    qpTpdsnu1G4    |    Geometry of Complex Numbers (4 of 6: The Complex Plane)
+    tOVQ-qoYhQI    |    Geometry of Complex Numbers (5 of 6: Polar Form)
+    rOvyredsm1A    |    Geometry of Complex Numbers (6 of 6: Conversion Between Forms)
+    f9W-VKeR6Uc    |    Polar Form (1 of 2: Using Complex Number examples to justify polar form's use)
+    z5IG_6_zPDo    |    Imaginary Numbers Are Real [Part 6: The Complex Plane]
+    YHvR8siIiD0    |    Imaginary Numbers Are Real [Part 7: Complex Multiplication]
+    r0IrHPCAB8A    |    MUL. Two different Complex Nums || Can you see the parallelogram .... 🤔
+    FOPe3H6eptA    |    Polar Form (2 of 2: Generalising to prove the multiplication identity of polar form)
+    IUbIWQjbRck    |    Multiplying by Complex Conjugate || a (*simple) ShortCut ||
+    v4zd-2ZxsGE    |    Proving de Moivre's Theorem (1 of 2: Prologue)
+    SkAMTwsuXsI    |    Proving de Moivre's Theorem (2 of 2: Derivation & example problem)
+    RHM0NbiKWfc    |    Using de Moivre's Theorem - example question (1 of 2: Purely real)
+    SPmMIegAdDs    |    Using de Moivre's Theorem - example question (2 of 2: Purely imaginary)
+    0XiOpGAo_8E    |    Trigonometric Expansions from Complex Numbers (1 of 3: Concept map)
+    hD_Ysb9xyHk    |    Trigonometric Expansions from Complex Numbers (2 of 3: Double angle results)
+    nIgXG_zckNA    |    Trigonometric Expansions from Complex Numbers (3 of 3: General compound angles)
+    WYbl6uaocjY    |    Exact value of cos(π÷12)
+    FcStabKKvjE    |    Complex Numbers - Mod-Arg Form (3 of 5: Calculating the Modulus)
+    cgAMTAmOgNk    |    Complex Numbers - Mod-Arg Form (4 of 5: Conversion Example 1)
+    Jp_LVBqU05U    |    Complex Numbers - Mod-Arg Form (5 of 5: Conversion Example 2)
+    JSuYT5W_Cvw    |    Square Roots of a Complex Number (1 of 3: Review questions)
+    G6_blfwwIaE    |    Square Roots of a Complex Number (2 of 3: Principal square root)
+    fsRmrFFGkPc    |    Square Roots of a Complex Number (3 of 3: Solving in rectangular and exponential form)
+    _QqJOZV3_fA    |    Equations with Complex Solutions (1 of 2: Relation to square roots)
+    6QF-7OFMWRc    |    Equation of a Parabola - Vertex Form (Completing the square)
+    FeFNkVDfv6Q    |    Equations with Complex Solutions (2 of 2: Solving & factorising)
+    NjpXGEHsrEg    |    Visualising Square Roots (1 of 2: Exploring the graphs)
+    LATkdUhEX_4    |    Visualising Square Roots (2 of 2: Modifying a & b)
+    MjYwF_0EhTU    |    History Is Now
+    m45ypgAZ734    |    Roots of Unity (1 of 2: Evaluating the cube roots)
+    1Bl_21ZT5Cw    |    Roots of Unity (2 of 2: Insights from polar & exponential forms)
+    Yx4YDWyZbxY    |    Nth Roots of a ℂ Number (1 of 2: General form)
+    OEn8DhNhLi8    |    Nth Roots of a ℂ Number (2 of 2: Example problem)
+    Qha-Lsdj5xo    |    De Moivre's Theorem
+    QhZkvFQb7Is    |    How to graph the locus of |z-1|=1
+    VbB4LyuDyMo    |    Curves and Regions on the Complex Plane (1 of 4: Introductory example plotting |z|=5 geometrically)
+    s-7iwVzyy0c    |    Curves and Regions on the Complex Plane (2 of 4: Deciphering terminology to plot complex numbers)
+    Yu2W6FtHhJg    |    Curves and Regions on the Complex Plane (3 of 4: Simplifying expressions to plot on a complex plane)
+    wkYwnD5WG5k    |    Curves and Regions on the Complex Plane (4 of 4: Plotting simultaneous shifted complex numbers)
+
+"1.43 - algebra.Integ 3: Substitution"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMx_KSOeJvvNgvAZbw7TDMba]
+    Ek40XtVsO7g    |    Spider-Man: Across the Spider-Verse | First 10 Minutes | Sony Animation
+    hCsvGfnYtzg    |    In the beginning of time....
+    C84rZH7JpoU    |    Area Between Two Curves (Solving a 'curve ball' styled question)
+    bSI17f-vcIY    |    Evaluating Constant of Integration (1 of 2: Indefinite integral)
+    HypBy034xTQ    |    Evaluating Constant of Integration (2 of 2: Definite integral)
+    1aLingC__P0    |    Logarithms as Primitive Functions (Why are there absolute value signs?)
+    RzKci1rdnoM    |    Indefinite Integrals (3 of 3: Harder reverse chain rule examples)
+    1zUsgXiy4HY    |    Integration by Substitution (1 of 2)
+    uTmrrSrDRmo    |    Integration by Substitution (2 of 2)
+    k_Ua09EsNXc    |    Definite Integrals by Substitution
+    aVhygqgNOTc    |    Integral of a Rational Function (1 of 3: Algebraic pre-work)
+    elX7Xbo9O5k    |    Integral of a Rational Function (2 of 3: Performing the integration)
+    k4fOWMkeEcQ    |    Integral of a Rational Function (3 of 3: By substitution)
+    bQwGSkFdEOg    |    Integration & Logarithmic Functions: Non-Log Integrands (2 of 3)
+    BKlvj_JrF08    |    Integration & Logarithmic Functions: Non-Log Integrands (3 of 3)
+    CHnAwx3fS04    |    [CLIP] | Count On Me | Bruno Mars | Eddie Woo Cover
+    AGAIfsMo9y4    |    Summarising Derivatives of all Trigonometric Functions
+    Yj_teyCfNN0    |    Integrating Basic & Reciprocal Trigonometric Functions
+    4SOGAQUdeYI    |    Differentiating a^(cos x)
+    IgljHgqF1Bo    |    Differentiating Logarithmic Functions Without Base e
+    nVdTKmXcGsg    |    Integrating Squared Trigonometric Functions
+    3LqrIdzGOoc    |    Integrating Trigonometric Functions (1 of 4): The Basics
+    xTOjetrdBwk    |    Integrating Trigonometric Functions (2 of 4): Involving Chain Rule
+    26GYXn8u8hE    |    Integrating Trigonometric Functions (3 of 4): Involving Identities
+    W8sDGaKtUtg    |    Integrating Trigonometric Functions (4 of 4): Involving Symmetrical Areas
+    nBJibd34-2I    |    Differentiating x^x (2 of 3: By Changing the Base)
+    N-0f7EnULeM    |    Differentiating x^x (3 of 3: Implicit Differentiation)
+    hQIRyfSrYH4    |    Implicit Differentiation (Differentiating a function without needing to rearrange for x or y)
+    tvqFRgGLGxU    |    Integrating Exponential Functions
+    Emlhn-aDwro    |    Primitives of Exponential Functions
+    Z0FaJ02PSwU    |    Intro to Inverse Functions (2 of 4: Unifying geometric definition)
+    Kf9YLL5uoAE    |    Derivatives of 6 Trigonometric Functions
+    CWZH4y2t83w    |    Derivatives of Inverse Trigonometric Functions
+    T0kuMKR3hks    |    Solving Limits involving properties of Trigonometric Functions as they approach the origin.
+    pP-YUx41rh4    |    "T" Results (Using t results to solve trigonometric equations)
+    7JXMfs7Mg-8    |    Inverse Trigonometric Functions (1 of 4: Choosing a Domain for the Inverse of sine)
+    yfOmDk2ybww    |    Inverse Trigonometric Functions (2 of 4: Justifying the Choice of Domain)
+    jgLvO6A7OEo    |    Graphing Inverse Trig Functions (1 of 2)
+    PNEHs41WjhY    |    Mathematics Extension I (Term 1 Week 2 Quiz Walkthrough)
+    hR6r20OiJ58    |    Indefinite Integrals of Inverse Trig Functions (1 of 2)
+    VAgXjG2tSQY    |    Inverse Trig Derivatives & Integrals (Summary)
+    tmg90eYPoNg    |    Definite Integrals by Substitution (2 of 2: Dealing with the boundaries)
+    R1f7OC0lK0k    |    Reverse Chain Rule for Rational Functions
+    Z9Pwjgz5NzE    |    Combining Trigonometric & Inverse Trigonometric Functions
+    xRd5kwufMq0    |    Graphs of Inverse Trigonometric Functions (1 of 2: Thinking through domain & range)
+    ZWDL4dWZ5QA    |    Graphs of Inverse Trigonometric Functions (2 of 2: Considering shifts through domain)
+    CwTqRSv2GiU    |    Applications of Differentiating Trig Functions (1 of 2: How is differentiating used in maths?)
+    yvSO7tvpT8k    |    Integration of Trigonometric Functions (1 of 3: Introduction to uses and some examples)
+    VyJ8S3wH_3M    |    Integration of Trigonometric Functions (3 of 3: Using Trig Identities to evaluate cos^2(x))
+    QkyyMdlqclc    |    Integration by Substitution (1 of 4: Integrating (1-4x^2)^1/2 without Substitution)
+
+"1.44 - algebra.Integ 4: by parts"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwjwLmTnwSmUVwQqzzM39aB]
+    SNW6fcE_pec    |    How are you feeling about remote learning? (Kind July Conversations, Part 3 of 5)
+    C-BgsKBMtAA    |    Intro to Further Integration (1 of 2: Expanding on prior learning)
+    C1IY9tn8h8s    |    Intro to Further Integration (2 of 2: Foundational examples)
+    hR6r20OiJ58    |    Indefinite Integrals of Inverse Trig Functions (1 of 2)
+    VfVC-jE_IN8    |    What do you struggle with? (Kind July Conversations, Part 4 of 5)
+    ypn1rvOGIcg    |    Integration by Unspecified Substitution (1 of 3: Introductory example)
+    nE5BdvmFfDs    |    Integration by Unspecified Substitution (2 of 3: Square root example)
+    aCos6yZVEKY    |    Integration by Unspecified Substitution (3 of 3: Trigonometric example)
+    1FwPORwhlXE    |    Three kind thoughts to encourage & inspire (Kind July Conversations, Part 5 of 5)
+    R1f7OC0lK0k    |    Reverse Chain Rule for Rational Functions
+    qO3LSfON-i0    |    Polynomial Division (1 of 3: How do I deal with "missing" terms?)
+    PQhc4-xU2bY    |    Partial Fractions (1 of 3: Review questions)
+    egkCkcBDBYk    |    Partial Fractions (2 of 3: What are they?)
+    5TRNTbtfugc    |    Partial Fractions (3 of 3: Three solution methods)
+    jHzgKodlsio    |    Partial Fractions (2 of 3: An alternative method to find introduced variables)
+    k1mJAuaabMA    |    Partial Fractions (3 of 3: How to use Partial Fractions to split fractions with Quadratic Numerator)
+    O9EebG4VuoE    |    Quadratic Identities (4 of 4: Partial Fractions)
+    O3yIlcRtNEw    |    Partial Fractions w/ Perfect Square Denominators
+    wLbX8Z1WnDk    |    Partial Fractions: Quadratic Factors (1 of 2: Issues with non-linear denominator factors)
+    bjhsLxxzBLU    |    Partial Fractions: Quadratic Factors (2 of 2: Problems with Quadratic Factors and Solution)
+    aHvpstFckoA    |    Partial Fraction: Repeated Linear Factors (Technique for Breaking down into partial fractions)
+    MDU3E7VX7wU    |    A mathemagical card trick!
+    1GhSfY0h5e4    |    Integration with Quadratic Denominators (1 of 3: Introduction - why are they challenging?)
+    T1tcBuwjIXU    |    Integration with Quadratic Denominators (2 of 3: Distinguishing characteristics)
+    uOWQQ4uKUSA    |    Integration with Quadratic Denominators (3 of 3: Rationalising the numerator)
+    fikL-JSRB4U    |    Integration by Parts (1 of 2: Arranging the integral with DETAIL)
+    I_1haFAXr_Y    |    Integration by Parts (2 of 2: When the integrand doesn't look like a product)
+    rIYiLxp3v4A    |    Recurrence Relations (1 of 3: Introduction & logarithmic example)
+    iSwr07V3Jp8    |    Recurrence Relations (2 of 3: Exponential example)
+    6_AzNgceLes    |    Recurrence Relations (3 of 3: Trigonometric examples)
+    7O2brjn1j04    |    Differentiating a Continued Fraction
+    W6bHL2Y6yNA    |    National EOS Awareness Week
+    zVz6H3jKnOs    |    Further Integration (1 of 2: Brief Overview of Extension II Integration)
+    gVHdmezIFoU    |    Extension I Quiz (Differentiation of Trig, Integration with Substitution, Newton's Method & Volumes)
+    -unUH8qbkrw    |    Tricky Trig Limit Question
+
+"1.45 - geo.trig 5: General Forms"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMy5nr1A3BWm18vPF2s7k4jq]
+    7UMkV-S0Zv8    |    Differentiation of ITFs (1 of 3: Predicting the properties of d/dx(tan¯¹(x)))
+    cEwzicFvh_k    |    Differentiation of ITFs (2 of 3: Using Trig Identities to find the derivative of tan¯¹(x))
+    ThsJ_upnwEU    |    Differentiation of ITFs (3 of 3: Finding the Condition that make d/dx(sin¯¹(x)) what it actually is)
+    kwKWeYvFJRo    |    Further Thoughts on the Derivatives of Inverse Trigonometric Functions
+    CHnAwx3fS04    |    [CLIP] | Count On Me | Bruno Mars | Eddie Woo Cover
+    EMaYjbS_xn4    |    Guitar Gear
+    Kf9YLL5uoAE    |    Derivatives of 6 Trigonometric Functions
+    CWZH4y2t83w    |    Derivatives of Inverse Trigonometric Functions
+    wEAxqcJc4V4    |    Areas Involving Inverse Trig Functions
+    zKfWYeRzTaQ    |    [4K HDR] Spider-Man: Across the Spider-Verse | AM I DREAMING | End Credits
+    VWMjpDXzkqs    |    General Solution for tan
+    bQdu1Qv1zxg    |    General Solution for cosine
+    U5byPezGLZ4    |    General Solution for sine
+    e6jhzpUTL70    |    Generating Values from General Solutions
+    MLKTYBlPxbk    |    Negative Related Angles
+    QzmoCkrJ2wE    |    General Solution (2 of 3: Finding the General Solution for cosx)
+    r1Wg8KwOpRI    |    Inverse Trig Function w/ Complicated Argument
+    D5d5xinZI3E    |    Calling (Spider-Man: Across the Spider-Verse)
+    Zs0vObiAu0o    |    Considering Inverse Trigonometric Expressions as Angles in Triangles
+    IFQiOJgxuWE    |    Inverse Trig + Trig Expansions: With Values
+    ZhPVgKf0IWA    |    Inverse Trig + Trig Expansions: With Algebraic Terms
+    lprug7qXozg    |    Evaluating Multiple Inverse Trig Functions
+    lWUlJY33iDY    |    Combining Different Trig & Inv. Trig Functions
+    k_nWT8WyZac    |    sin(cos⁻¹(x)), cos(sin⁻¹(x)) || Trynna Viz  || Compound/Composite INV. Trig Graphs || cos(arcsin(x))
+    wYlPfAcAB20    |    Evaluating Trig & Inv Trig Ratios (1 of 2)
+    q4uSge__uSA    |    Evaluating Trig & Inv Trig Ratios (2 of 2)
+    0j3FVqBZ7Xc    |    11M6 Bloopers #6: Stop making excuses. Start taking responsibility.
+    5Qgewp_Pbl4    |    Lamentis-1, 2077
+    SoemKUnJTyg    |    Inverse Trig. || shittyTextbooks practiceProblems || watch till 22:57 at least || graphs sec⁻¹(x)...
+    5X_EKQzmX8Y    |    can you represent cosec⁻¹(x) in terms of sin⁻¹(x) || Or the other way around 😏
+    9VqN9hCNS3U    |    General Solution - Basic Formulae
+    _i5a403J6Iw    |    General Solution - Modified Formulae
+    XDw4KWftcT8    |    General Solution [Continued] (1 of 3: Generalising the solution of sin5x = sinx)
+    MjYwF_0EhTU    |    History Is Now
+    CY_DmHFtgWk    |    Overlapping General Solutions (1 of 2)
+    rPpwAT_I75s    |    Overlapping General Solutions (2 of 2)
+    WXooseEwliY    |    Overlapping General Solutions (Example)
+    5y2OsjuUNZA    |    General Solution: Combining Solutions
+    sJbexcm4Trk    |    Cyberpunk 2077: Phantom Liberty — Official Cinematic Trailer
+    6Q9uyDiKblU    |    Extraneous Solutions
+    vK-61iAk2l0    |    Differentiating sin¯¹(x) & cos¯¹(x)
+    JeyiDqBSapw    |    Differentiating tan¯¹(x)
+
+"1.50 - algebra.Diff 5: apps 1"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwl-hGCKBdBLpkPv5TcCFyp]
+    Ek40XtVsO7g    |    Spider-Man: Across the Spider-Verse | First 10 Minutes | Sony Animation
+    2Oj0qiuVSyc    |    Calculating Irregular Areas (1 of 2: Composite Figures)
+    E8Z4Rzxdgdk    |    Calculating Irregular Areas (2 of 2: Simpson's Rule)
+    1gFaS9Z8Ozg    |    Stay Kind
+    EbHhQfTvMSA    |    Spider-Man: Across the Spider-Verse | "Annihilate" by Metro Boomin x Swae Lee x Lil Wayne x Offset
+    RJn4OwOC9b0    |    Sign of the Derivative (1 of 7: Differentiation review questions)
+    m_wx8WXBGnc    |    Sign of the Derivative (2 of 7: Increasing, stationary, decreasing)
+    R0AOSufuDz4    |    Sign of the Derivative (3 of 7: Basic worked example)
+    75X9AY89yS4    |    Sign of the Derivative (4 of 7: Vertical tangent)
+    2vQH6D_Td4Q    |    Sign of the Derivative (5 of 7: Distinguishing stationary points)
+    eJWdGwoXwzc    |    Sign of the Derivative (6 of 7: Locating stationary points)
+    -pyD2U8TimM    |    Sign of the Derivative (7 of 7: Determining nature of stationary points)
+    h2ILQKAWYdU    |    Classifying Stationary Points (1 of 3: Review of point types)
+    -BzcaZUkGRM    |    Classifying Stationary Points (2 of 3: Flowchart for locating points)
+    9nwwr_tfITQ    |    Classifying Stationary Points (3 of 3: Flowchart for determining nature)
+    mh-KncHB6F4    |    Spider-Man: Across the Spider-Verse | "Calling" by Metro Boomin x Nav x A Boogie with Swae Lee
+    Rmf0kgtNsxA    |    The Second Derivative (1 of 3: Investigating a pandemic curve)
+    eAsC3ZqqTHc    |    The Second Derivative (2 of 3: Exploring first derivative values)
+    PmOQu1ke6VM    |    The Second Derivative (3 of 3: Notation)
+    ej3ijm6eDO8    |    Second Derivative: A Physical Analogy
+    9eQAn_QF8Fo    |    The Second Derivative (2 of 3: Explaining dx²)
+    mzW4IKb5ZjM    |    Spider-Man: Across the Spider-Verse | Official Clip | "Stop Spider-Man"
+    S_MpHi82sBI    |    Geometry of the Derivatives (1 of 6: Review question)
+    O-vMZMLIe5Q    |    Geometry of the Derivatives (2 of 6: Exploring gradient & concavity)
+    tIyXhqRNZcs    |    Geometry of the Derivatives (3 of 6: Points of inflexion)
+    adZAMXaLC5A    |    Geometry of the Derivatives (4 of 6: Determining max/min with second derivative)
+    bG69nJKdZhY    |    Geometry of the Derivatives (5 of 6: What if the second derivative equals 0?)
+    2xSyLfWzLuI    |    Geometry of the Derivatives (6 of 6: How do I choose which derivative to use?)
+    ZiuYru3djWo    |    TED Radio Hour: Don't Fear Math
+    havgR2OLPb4    |    Identifying Important Points with Calculus (worked solution)
+    FFF6FWwenls    |    Spider-Man: Across the Spider-Verse | Official Clip | "Hangin' With Gwen"
+    ifWg4mcsqR4    |    What is Optimisation? (1 of 6: Review questions)
+    GruAntXmXEE    |    What is Optimisation? (2 of 6: The barbecue scenario)
+    kpldb45NqPc    |    What is Optimisation? (3 of 6: Example derivative)
+    VomNU9UToog    |    What is Optimisation? (4 of 6: Checking endpoints)
+    Zx5B0imgrS8    |    The number behind an impossible building: 1,056,006
+    KOtS1F_XwWk    |    What is Optimisation? (5 of 6: Constructing a model)
+    iEuE-x7B4zE    |    What is Optimisation? (6 of 6: Finding the minimum)
+    3PmmZwuPObQ    |    Spider-Man: Across the Spider-Verse | Official Clip | "Gwen and Miles"
+    Vq4U8E0pXvo    |    Derivatives of Motion (1 of 3: What does each derivative signify?)
+    fLixH0ulQNE    |    Derivatives of Motion (2 of 3: Graphs for displacement, velocity & acceleration)
+    NpQdnxXG65E    |    Derivatives of Motion (3 of 3: Understanding movement)
+    VqswtLTIlZ0    |    Interpreting Motion Graphically (1 of 4: Direction of movement)
+    nG9NJQ6jg_o    |    Interpreting Motion Graphically (2 of 4: Identifying specific features)
+    eBA_J24vxKI    |    Interpreting Motion Graphically (3 of 4: Exploring acceleration)
+    p61rjlT8qpw    |    Interpreting Motion Graphically (4 of 4: Velocity & acceleration graphs)
+    IcmwKakgBXs    |    How do I prepare for final exams?
+    pGZuE5OU5rw    |    Radio Interview: ABC Conversations
+    yfc1ZSKKMt0    |    Graphing Techniques Q&A (1 of 3: Horizontal transformation example)
+    5Hfz6Y12SvM    |    Graphing Techniques Q&A (2 of 3: Vertical transformation example)
+    yQEejQLeNSE    |    Graphing Techniques Q&A (3 of 3: Solving an inequality visually)
+
+"1.53 - algebra.Integ 5: apps 1"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxwm47KDw9tXEsI1c5oW1Xt]
+    DG8lo3lsmic    |    Trapezoidal Rule (1 of 4: Why do we need a method for approximating areas?)
+    JxH_aOVE3zg    |    Trapezoidal Rule (2 of 4: Approximating a curve with a polygon)
+    yAgZmw5spqI    |    Trapezoidal Rule (3 of 4: Improving accuracy with multiple shapes)
+    2CaVZyCkcr4    |    Trapezoidal Rule (4 of 4: Deriving the general rule for many trapeziums)
+    oCaabzXG2sA    |    Mode & Median of a Continuous Probability Distribution
+    HZoHarCLnao    |    What are Continuous Random Variables? (1 of 3: Relation to discrete data)
+    4vRqUQYKAcQ    |    What are Continuous Random Variables? (2 of 3: Why we need different tools)
+    w8ooPvs-huQ    |    What are Continuous Random Variables? (3 of 3: Conditions for a Probability Density Function)
+    SzvmOs-JF7s    |    Probability Density Functions (1 of 7: Meeting the conditions)
+    XwFl4miRCoA    |    Probability Density Functions (2 of 7: Evaluating a probability)
+    RvlBWsMOrQc    |    Probability Density Functions (3 of 7: Unknowns in the function)
+    Qp893vYwKPQ    |    Probability Density Functions (4 of 7: Domain restrictions)
+    syzCgIVzRzg    |    Probability Density Functions (5 of 7: Reviewing integration skills)
+    nX1e8TtJgL0    |    Probability Density Functions (6 of 7: Unbounded integrals)
+    rI1QG7Uc8q4    |    Probability Density Functions (7 of 7: Uniform distributions)
+    oCaabzXG2sA    |    Mode & Median of a Continuous Probability Distribution
+    E0hN0X2hgVU    |    Worked Example: Finding Median of a Continuous Probability Distribution
+    ASwEkTVS2WQ    |    Finding Median with Technology
+    FFLsODOxwN0    |    Locating Boundaries of a Distribution from its Median
+    4VB4P0X1KGo    |    Finding Percentiles of a Continuous Probability Distribution
+    tF2Kns7RrfQ    |    Expected Value of a Continuous Distribution (1 of 2: Relation to discrete data)
+    qLxGgi9YhPs    |    Expected Value of a Continuous Distribution (2 of 2: Worked example)
+    pSkoF_S28gc    |    Eddie Woo on ABC One Plus One
+    tzKggWvbACc    |    Variance (1 of 4: Introducing the formulas)
+    z-L_DxvaRwM    |    Variance (2 of 4: Worked example with first formula)
+    nx3F-BLNdbE    |    Variance (3 of 4: Worked example with second formula)
+    gtnBpaNPVtw    |    Variance (4 of 4: Proof of two formulas)
+    ZJsOOCghQJ0    |    Cumulative Distribution Function (1 of 3: Definition)
+    PN9nqf6ouXQ    |    Cumulative Distribution Function (2 of 3: Evaluating probabilities)
+    ASHPdWCPBXE    |    Cumulative Distribution Function (3 of 3: Locating quantiles)
+    qBNS2wfR92k    |    Probability Density Functions Q&A (1 of 2: Evaluating probabilities)
+    DJK3hRhAm08    |    Probability Density Functions Q&A (2 of 2: Two approaches to an unbounded probability)
+    EIC3SeE9-Gc    |    Thanks a million!!
+    93pwFxoXEg8    |    What is the Normal Distribution?
+    -e4-1F2_XS0    |    Normally Distributed Empirical Data (1 of 2: Comparing marathon times)
+    9uibOz00-5Q    |    Normally Distributed Empirical Data (2 of 2: Calculating population proportions)
+    1Q1rhvIkQo0    |    Probability Density Function of the Normal Distribution
+    Ecu7takIMJc    |    Mathematics + Music & Museums (Interview with Damian McDonald)
+    olHSQr7XAmI    |    Trapezoidal Rule on Normal Distribution (1 of 2: Reviewing the formula)
+    LHZ2_GcZTpE    |    Trapezoidal Rule on Normal Distribution (2 of 2: Verifying empirical result)
+    afusinDRvc0    |    Integrating Normal Distribution with Technology (1 of 2: One-sided inequality)
+    WAqoKECetVg    |    Integrating Normal Distribution with Technology (2 of 2: Contrasting populations)
+    CzEoRa3QfT8    |    Statistical Tables (1 of 2: How to interpret values)
+    tOHpPIzTvjI    |    Statistical Tables (2 of 2: Combining results)
+
+"Algebra 0.6.5 : integ 0.6 : practice"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwmqejluDIPvc8dpj1tRNYp]
+    dBdRWG5Uau4    |    Integration Practice (1 of 7: Exponential integrals)
+    AyVQ8U6YA9Y    |    Integration Practice (2 of 7: Trapezoidal rule with exponential function)
+    Ej57rXasPDM    |    Integration Practice (3 of 7: Rational function areas)
+    b4ZcoIYFNp4    |    Mathematics + Fashion, Journalism & Design (Interview with Kellie Hush)
+    mE_iGjqRe00    |    Integration Practice (4 of 7: Exponential function area)
+    GanDPUH1vpc    |    Integration Practice (5 of 7: Trigonometric definite integral)
+    MOTO6CLQnJw    |    Integration Practice (6 of 7: Trigonometric integral from a derivative)
+    RAA-G1EKN6Q    |    Integration Practice (7 of 7: Trigonometric/linear enclosed area)
+    Qh-ZD1CAtmg    |    Mathematics of the Sydney Opera House (Trailer)
+    TdO8GsNGBXs    |    Determine Function from Stationary Points
+    eFv7OxVEBz8    |    Integral Calculus Q&A (1 of 6: Separating an integrand)
+    sMVTEyxbJaw    |    Integral Calculus Q&A (2 of 6: Simple rational functions)
+    0HKwSxUZr8s    |    Integral Calculus Q&A (3 of 6: Further rational functions)
+    oesM-S2P19Y    |    Integral Calculus Q&A (4 of 6: Exponential equation reducible to quadratic)
+    DZXxiU2sVOI    |    Integral Calculus Q&A (5 of 6: Locating a stationary point)
+    bGNoLzZEdnQ    |    Integral Calculus Q&A (6 of 6: Further examples)
+    s6Gxl3vsQwQ    |    Integrals and Signed Areas [Exam Question]
+    x3Td-3Lmyd0    |    Equation of Circle from Tangent [Exam Question]
+    Y5n0JzqG-8s    |    Dartboard Question (1 of 2: Area)
+    aO_uSZ83uig    |    Dartboard Question (2 of 2: Percentage & perimeter)
+    svxn_maEHyE    |    Measuring a Wedge
+    -unUH8qbkrw    |    Tricky Trig Limit Question
+    zoV8fKNfZxs    |    Integrals & Logarithmic Functions (2 of 2: Why are there absolute value signs?)
+    LnUTAxFd4tI    |    Integrals & Logarithmic Functions - Why does the solution look different?
+    6lX9h67md04    |    Applications of Integration & Logarithms
+    AMvrk_KJsjg    |    Integration of Harder Exponential Functions
+    qJ7F8G_k1kY    |    Intro to Solids of Revolution (1 of 3: Establishing the formula)
+    X78bEICQcQg    |    Reverse Chain Rule (3 of 3: By explicit substitution)
+    _1GtrOWyif8    |    Solids of Revolution - Subtracting Volumes
+    Jz6ehgCazps    |    Applications of Integrating Exponential Functions (1 of 2: Evaluating a volume)
+    5lSnWw-DgP8    |    Proving existence of x-intercept in given domain (Bolzano's Theorem)
+    sbDTRR2aYtI    |    Evaluating Definite Integral with Absolute Value
+    eur6rx99cYg    |    Interpreting a Graph w/ Calculus (1 of 2: Sketching the curve)
+    4S-WulpIGm8    |    Interpreting a Graph w/ Calculus (2 of 2: Evaluating an area)
+    kllVV09FD04    |    Applications of Trigonometric Integrals (1 of 2: Fundamental properties)
+    _lW-wirVdpQ    |    Applications of Trigonometric Integrals (2 of 2: Introductory example)
+
+"Algebra 0.6.6 : diff 0.6 : apps 2"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwZGTPupRQTqn3gst8d7UzJ]
+    VvC_1alFins    |    Absolute Maximum/Minimum (1 of 2: Domain restricted polynomial)
+    9By_2qsSdsE    |    Y11 Mathematics Ext 1 Quiz (1 of 2: Curve sketching with calculus)
+    Th6HXWAVtx4    |    Applications of Maximisation/Minimisation (1 of 2: Largest rectangle area question)
+    2zDzPL4RPV4    |    Max/Min in Geometry (1 of 3: General principles)
+    Z2RbUPsRgJ8    |    Calculus of Logarithmic Functions (4 of 4: The importance of simplifying first)
+    Unq2lFMXgxE    |    Graphing Logarithmic Function with Calculus (1 of 2: Identifying features)
+    PRpqtwHHR0M    |    Differentiating the Logarithmic Function (4 of 5: Restricting domain)
+    dT-7IjTlnZk    |    Differentiating the Logarithmic Function (5 of 5: Equation of a tangent)
+    d8nvLcqTwXI    |    Differentiating Trigonometric Functions (2 of 2: Example using quotient rule)
+    9s5WAzyHktk    |    Using Derivatives of Trigonometric Functions (1 of 2: Finding a tangent)
+    GujlGAZGuZM    |    Visual Approach to Derivatives (1 of 2)
+    Kz_reJgi_Rg    |    Sketching a Derivative from the Graph of a Function
+
+"Algebra 0.6.7 : diff 0.7 : invTrig"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwrQsreaVtNmV515-g7M78d]
+    QzmoCkrJ2wE    |    General Solution (2 of 3: Finding the General Solution for cosx)
+    9VqN9hCNS3U    |    General Solution - Basic Formulae
+    TU_q8Hu2IiE    |    Graphing y = tan¯¹(tan x)
+    _i5a403J6Iw    |    General Solution - Modified Formulae
+    XDw4KWftcT8    |    General Solution [Continued] (1 of 3: Generalising the solution of sin5x = sinx)
+    Cdq2LoEegSU    |    Modified Inverse Trig Graph: Determine Features & Evaluate Area
+    _H0NeCFUr2M    |    Integrals Involving Inverse Trigonometric Functions & Reverse Chain Rule
+    bMwgBVQ8riM    |    Standard Integrals Involving Inverse Trigonometric Functions
+    VAgXjG2tSQY    |    Inverse Trig Derivatives & Integrals (Summary)
+    iYPbJNX0-L0    |    How to Approach Areas Under Inverse Trig. Functions (1 of 2)
+    xzNAsMkYMzc    |    How to Approach Areas Under Inverse Trig. Functions (2 of 2)
+    OjwaeLBuXm4    |    Determining & Interpreting the Inverse of a Special Exponential Function
+    5nBtTRTudfs    |    Evaluating Trig Ratio of Inverse Trig Expression
+    -MLLOc9j3PM    |    Exam Problem: Inverse Trig Identity
+    yGc0aoRcnp0    |    Related Rates - Boat w/ Inverse Trig
+    T0kuMKR3hks    |    Solving Limits involving properties of Trigonometric Functions as they approach the origin.
+    eVJGFOSvus4    |    Differentiating Inverse Trig Functions w/ Chain Rule (1 of 3)
+    j0JPkLLJU6M    |    Differentiating Inverse Trig Functions w/ Chain Rule (2 of 3)
+    0gJc7CobYtc    |    Differentiating Inverse Trig Functions w/ Chain Rule (3 of 3)
+    _aiH7b6EjG8    |    Max/Min Question w/ Inverse Trig
+    hR6r20OiJ58    |    Indefinite Integrals of Inverse Trig Functions (1 of 2)
+    XhDkr-y8_04    |    Indefinite Integrals of Inverse Trig Functions (2 of 2)
+    ApXoWvfEYVU    |    Post Malone, Swae Lee - Sunflower (Spider-Man: Into the Spider-Verse)
+    jgLvO6A7OEo    |    Graphing Inverse Trig Functions (1 of 2)
+    dzX9WtPBqfI    |    Graphing Inverse Trig Functions (2 of 2)
+    X1vLowTQyR4    |    Tricky Inverse Trig Integral: The Easy Way
+    MlSQ-MXvBqQ    |    Tricky Inverse Trig Integral: The Hard Way
+    r1Wg8KwOpRI    |    Inverse Trig Function w/ Complicated Argument
+    XAP6OEyt-Yc    |    Introduction to Inverse Functions (warning: out of focus)
+    zv9OSJmB8DE    |    Inverse Tan Identity Question (1 of 3): Complementary Identity
+    xTDyF4rJSBo    |    tan(𝜋/2 - tan⁻¹(x)) || GeoGebra Visualization || tan(pi/2 - arctan(x))
+    Q9p5MbkC8FA    |    Inverse Tan Identity Question (2 of 3): Addressing the Restrictions
+    lTMHuhFAWCg    |    Inverse Tan Identity Question (3 of 3): Combining Terms & Graphing
+    UWNEYt2TNec    |    Tricky Inverse Trigonometric Expression Question
+    D5d5xinZI3E    |    Calling (Spider-Man: Across the Spider-Verse)
+    rV-eeGNDzQk    |    Angle Between Two Lines
+    NwYylpXS4gg    |    Angle Between Two Lines (Example)
+    XnEW60rYqLE    |    Angle Between Two Lines (Derivation)
+    KweU5sBWcY0    |    Angle Between Line & Axis
+    R-69gxbLH84    |    Angle Between 2 Lines
+    h8C0EfZqEy0    |    Angle Between 2 Lines (Example Question: Unknown Gradients)
+    CFx9kb_zy7M    |    Simplifying Composition of a Sum of Inverse Trigonometric Functions with Example
+    5D0QYcObOgY    |    (Tangent Angle Addition) -  Exact Value of Arctan(4)+Arctan(5/3)
+    LbhcXERhiQM    |    Sum of Inverse Tangents || High School Math
+    4y7uo2hFwpo    |    Introduction to t-results (1 of 3: Quick Proof w/ Triangle)
+
+"Algebra 0.8.1 : Complex 0.3"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxniNF-SFnah-4t53RJsGZx]
+    WmItSgQDWEs    |    Parallelogram Law (Geometrically representing the addition of complex numbers with vectors)
+    kw9EKH8m_YI    |    Vectors (1 of 4: Outline of vectors and their ability to represent complex number)
+    wxJspfmO0WQ    |    Vectors (2 of 4: Representing addition & subtraction of complex numbers with vectors)
+    uD9e8njaK1M    |    Vectors (3 of 4: Geometrically representing multiplication of complex numbers with vectors)
+    pyDGOxUe3Mo    |    Vectors (4 of 4: Outlining the usefulness of vectors in representing geometry)
+    F9PYMn0DX6w    |    Relationships Between Moduli & Arguments in Products of Complex Numbers
+    mgbHtMWK-3w    |    Understanding Complex Quotients & Conjugates in Mod-Arg Form
+    fK55U6XQqDw    |    Powers of a Complex Number (example question)
+    Ev1NfI5H47c    |    Manipulating Complex Numbers for Purely Real Results
+    s4ssDsLfBJ0    |    Complex Numbers as Vectors (3 of 3: Using Geometric Properties)
+    aDLdA_gNZMc    |    Wootube is 3 years old!
+    ksRD2MFcv_A    |    Graphs in the Complex Plane (1 of 4: Introductory Examples)
+    758X5GvUpX4    |    Graphs in the Complex Plane (2 of 4: Graphing Complex Inequalities)
+    QhZkvFQb7Is    |    How to graph the locus of |z-1|=1
+    VbB4LyuDyMo    |    Curves and Regions on the Complex Plane (1 of 4: Introductory example plotting |z|=5 geometrically)
+    s-7iwVzyy0c    |    Curves and Regions on the Complex Plane (2 of 4: Deciphering terminology to plot complex numbers)
+    Yu2W6FtHhJg    |    Curves and Regions on the Complex Plane (3 of 4: Simplifying expressions to plot on a complex plane)
+    wkYwnD5WG5k    |    Curves and Regions on the Complex Plane (4 of 4: Plotting simultaneous shifted complex numbers)
+    vdIKqeF7_rs    |    Graphs in the Complex Plane (1 of 3: Perpendicular bisector - visual method)
+    VzKwqd3Uxvg    |    Graphs in the Complex Plane (2 of 3: Algebraic method)
+    sJmaufW8NYA    |    Working with Moduli and Arguments (Proof Question)
+    YZAnrKwIF0o    |    Distance between complex numbers
+    llh9tVFud0U    |    Argument of the Complex Conjugate
+    cOI1140Saxs    |    The Sine Rule (1 of 2: Proving the result)
+    MzjteJt68dI    |    Further Curves and Regions (1 of 5: Why does Sine & the Sine Rule produce an ambiguous case?)
+    8n3jLEh5uq0    |    The Triangle Inequalities (1 of 3: Sum of Complex Numbers)
+    NFRUvs6K2FQ    |    The Triangle Inequalities (2 of 3: Discussing Specific Cases)
+    LZBJYeQbjug    |    The Triangle Inequalities (3 of 3: Difference of Complex Numbers)
+    PygsQaUViSA    |    Max/Min Value of |z| (1 of 2: Geometric solution)
+    PeY4B9-rb1g    |    Max/Min Value of |z| (2 of 2: Triangle inequality)
+    UBnwSbwHziM    |    Maximising Sum of Moduli (1 of 3: Geometric approach)
+    -TNH6hy8KRo    |    Maximising Sum of Moduli (2 of 3: Differentiation)
+    CR1CbQ_snVM    |    Maximising Sum of Moduli (3 of 3: Interpreting stationary points)
+    J1e0LBqDeo4    |    Further Curves and Regions (2 of 5: Finding the Range of |z| )
+    Udo9Wrejeh8    |    Varying |z| & Argz on a Locus
+    UDIm71ugBoA    |    Further Curves and Regions (3 of 5: Finding the range of arg z)
+    84wvbijhj-Y    |    Further Curves and Regions (4 of 5: Geometrical expression of expressions of arg)
+    pCTopZVC3Xs    |    Graphs in the Complex Plane (3 of 3: Opposing rays)
+    3fop9tNmG8M    |    Using Inverse tan to find arguments? (1 of 2: Why it doesn't work... Sometimes)
+    TU_q8Hu2IiE    |    Graphing y = tan¯¹(tan x)
+    1ge2DPtIC4E    |    Using Inverse tan to find arguments? (2 of 2: Why it works... Sometimes)
+
+"Algebra 0.8.2 : Complex 0.4"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMywbIyJyEVtZ6KuxDMjI0Lr]
+    -sD1_ypVQpc    |    Algebraic Proof for Opposing Rays (1 of 3: Foundational knowledge)
+    E0gSsPvfbtY    |    Algebraic Proof for Opposing Rays (2 of 3: Generating the equation)
+    pICS7Oa6Uro    |    Algebraic Proof for Opposing Rays (3 of 3: Testing cases)
+    wgTi_bX0o7Y    |    Semi Circles on Argand Diagrams (1 of 3: Relating the angles)
+    dp675tTVPjo    |    Further Curves and Regions (5 of 5: Using Circle properties to graph an expression of args)
+    E9JN9nWES94    |    Semi Circles on Argand Diagrams (2 of 3: Graphing the locus)
+    w1-MS-ftGjs    |    Semi Circles on Argand Diagrams (3 of 3: Oblique example)
+    9t-EbpxTSK0    |    Arcs on the Complex Plane (1 of 4: Review questions)
+    Gy0JKzyEApk    |    A Small Error || part of "2021_Mar20_May2 ComplexNUMsEXT" ||
+    mprF4MS3u08    |    Arcs on the Complex Plane (2 of 4: Exploring circle properties)
+    Gyz0_064j6E    |    Arcs on the Complex Plane (3 of 4: Identifying length and direction)
+    sSVnoBYcHlQ    |    Arcs on the Complex Plane (4 of 4: Cartesian equation)
+    j7beNHh5ee8    |    Algebraic Approach for Major Arc (1 of 2: Foundational steps)
+    v7C9f32uPwM    |    Algebraic Approach for Major Arc (2 of 2: Identifying intercept & equation)
+    yFYW48Bkr1U    |    Sketching (z-1)÷(z-i) (1 of 2: When it's real)
+    cIM08iQzRFg    |    Sketching (z-1)÷(z-i) (2 of 2: When it's imaginary)
+    lJKl4B2t0pk    |    Eddie Woo on mathematics in schools - ABC 7:30 Report
+    m_GG4He2QCo    |    DMT & Complex Roots (1 of 4: Reviewing geometrical expression of arg equations)
+    Qha-Lsdj5xo    |    De Moivre's Theorem
+    FWj2BOO9WTg    |    DMT & Complex Roots (2 of 4: Using DMT to find roots of a complex polynomial)
+    p46flbC5kvg    |    DMT & Complex Roots (3 of 4: Using the fundamental theorem of algebra to justify number of roots)
+    I16Ckaa2gWc    |    DMT & Complex Roots (4 of 4: Solving for roots of a complex number taking advantage of DMT)
+    ihJAbf8V9Yg    |    Investigating de Moivre's Theorem (1 of 3: Why must we be cautious?)
+    p0Nfcg9BfbI    |    Investigating de Moivre's Theorem (2 of 3: Infinite values for i-th powers?!)
+    Ih9xfnkUkGA    |    Investigating de Moivre's Theorem (3 of 3: Proof by mathematical induction)
+    Rg0S-QoQlbk    |    Angles in the Same Segment
+    jX2Rx9805hw    |    Complex Roots (1 of 5: Observing Complex Conjugate Root Theorem through seventh roots of unity)
+    UfRxQPi3DQs    |    Complex Roots (2 of 5: Using Trigonometrical Identities & Conjugates to solve an equation)
+    jIgh0N6nBfs    |    Complex Roots (3 of 5: Using DMT to solve an equation of roots of unity)
+    l7Ww8OTfa5A    |    Complex Roots (4 of 5: Using Polynomial Identities to prove unity identities)
+    xJd9bP4w-Y0    |    Complex Roots (5 of 5: Using Geometric Progression to find factors of ω^n - 1)
+    KP4FI5LdxUA    |    Complex Conjugate Root Theorem (1 of 4: Using DMT and Polar Form to solve for Complex Roots)
+    brLNFlSKOSs    |    Complex Conjugate Root Theorem (2 of 4: Introduction to the Conjugate Root Theorem)
+    pg9WP6FS7pg    |    Complex Conjugate Root Theorem (3 of 4: Geometrical Shape represented by Conjugate Root Theorem)
+    EITMr4vxdI0    |    Complex Conjugate Root Theorem (1 of 2: Conjugate of a sum)
+    MNTx3BVkaDI    |    Complex Conjugate Root Theorem (2 of 2: Other conjugate properties)
+    rY7soX46gk8    |    Complex Conjugate Root Theorem (Formal Proof)
+
+"Algebra 0.8.3 : Complex 0.5 : DMT + Trig"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxiqb0Q3S78mGDNIt4nlv_O]
+    egWUEMfroZE    |    DMT and Trig Identities (1 of 4: Noticing a pattern in natural numbers)
+    owS7yBpOq_o    |    DMT and Trig Identities (2 of 4: Using Trig expansion to find the sine triple angle formula)
+    35jozf14cc0    |    DMT and Trig Identities (3 of 4: Using DMT and Polynomials to verify triple angle formula for sine)
+    KMrqXxcWHT8    |    Polynomials with Trigonometric Solutions (1 of 3: de Moivre's Theorem)
+    oierK_liaA4    |    DMT and Trig Identities (2 of 4: Using De Moivre's Theorem and Binomial Expansions)
+    WCnGoCVkkaM    |    DMT and Trig Identities (4 of 4: Using Trig Identities to solve polynomial equations)
+    EnfhYp4o20w    |    Polynomials with Trigonometric Solutions (2 of 3: Substitute & solve)
+    UGHn-z5QpUU    |    Polynomials with Trigonometric Solutions (3 of 3: Simplifying with identities)
+    o6OhGSMbGq4    |    DMT and Trig Identities (3 of 4: Deriving tan expression from cos and sin)
+    Es4qR0kGbkY    |    DMT and Trig Identities (4 of 4: Using Multi-angle formula to solve polynomials)
+    OTo6O2Qpac0    |    Solving Higher Degree Trigonometric Equations (1 of 3: Initial use of de Moivre's Theorem)
+    D0GXbio2oxc    |    Solving Higher Degree Trigonometric Equations (2 of 3: Combining results into proof)
+    PGy-Iw67XQ4    |    Solving Higher Degree Trigonometric Equations (3 of 3: Finding solutions)
+    _QqJOZV3_fA    |    Equations with Complex Solutions (1 of 2: Relation to square roots)
+    FeFNkVDfv6Q    |    Equations with Complex Solutions (2 of 2: Solving & factorising)
+    m45ypgAZ734    |    Roots of Unity (1 of 2: Evaluating the cube roots)
+    k8FQLVj7_bU    |    Linear Factorisation of Polynomials (1 of 2: Working in the Complex Field)
+    VRKII6xfZU4    |    Factorisation with Complex Numbers
+    fmSR8TOZx54    |    Linear Factorisation of Polynomials (2 of 2: Introductory example)
+    YtHMsJXz-V0    |    Complex Polynomial Identity Question (1 of 4: Quadratic factors)
+    tmasA1j67t8    |    Complex Polynomial Identity Question (2 of 4: Difference of cubes)
+    bPiFbH4lKtU    |    Complex Polynomial Identity Question (3 of 4: de Moivre's Theorem)
+    XwIb_2ju_cU    |    Complex Polynomial Identity Question (4 of 4: Roots & coefficients)
+    QKZrgQaNRTY    |    Sum & Product of Cosines (1 of 3: 9th roots of unity)
+    XFolctb7rHw    |    Sum & Product of Cosines (2 of 3: Simplifying with conjugates)
+    7S7mYbapICg    |    Sum & Product of Cosines (3 of 3: Drawing ℝ conclusions)
+    tfk34wOCiS0    |    Quotient of Complex Numbers (1 of 2: Evaluating modulus)
+    9mS-WzrHN40    |    Quotient of Complex Numbers (2 of 2: Evaluating argument)
+    iocq2kEx3bo    |    Graphs on the Complex Plane [Continued] (1 of 4: What's behind the graph?)
+    -Fp7bPa5zSQ    |    Graphs on the Complex Plane [Continued] (2 of 4: Finding Regions of Inequality by Testing Points)
+    awnY-eSUtU4    |    Graphs on the Complex Plane (3 of 4: Geometry of arg(z)-arg(z-1))
+    Kke6p0Rl-68    |    Graphs on the Complex Plane (4 of 4: Exploring how the argument traced the graph)
+
+"Algebra 0.8.4 : Complex 0.6 : ReCap"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyKAli8Jn5oV5H1ulvzZvSq]
+    3P7BahegC0M    |    cos⁴θ Identity
+    UmwfeecjNKY    |    Eddie Woo on The Morning Show: Aussie STEM Stars
+    skPcSkkZI6A    |    Complex Numbers Exam Review (1 of 4: Visualising & Manipulating Arithmetic)
+    pnDJUCOnr7E    |    Complex Numbers Exam Review (2 of 4: Proving i^i is real, identity proof)
+    -rBjAsIjsVU    |    Complex Numbers Exam Review (3 of 4: Cube roots of unity)
+    x8Pg_os1r2I    |    Complex Numbers Exam Review (4 of 4: Locus; polynomial identity)
+    5Es-wF5wCuU    |    Prove arg(z₁z₂) = arg(z₁+z₂)² (1 of 2: Preliminary thoughts)
+    DK2CoS1TJGs    |    Prove arg(z₁z₂) = arg(z₁+z₂)² (2 of 2: Geometric approach)
+    E5S6iWlDO-I    |    Introduction to the Nature of Proof (1 of 3: Prologue)
+    ogM2Zd5MHhQ    |    Introduction to the Nature of Proof (2 of 3: Building blocks)
+    Za-9g1BwJYY    |    Introduction to the Nature of Proof (3 of 3: Liars & truth-tellers)
+    ThHtS-HYFjY    |    Graphing with Complex Numbers (1 of 3: Initial algebraic expansion)
+    YqC0lQlQkAA    |    Graphing with Complex Numbers (2 of 3: Determining the region)
+    88lHolAJ340    |    Graphing with Complex Numbers (3 of 3: Is |z₁z₂| equal to |z₁| × |z₂|?)
+    f3U1J1qy8XU    |    Complex Numbers (1 of 6: Solving Harder Complex Numbers Questions) [Student requested problem]
+    aPFh4tA70R0    |    Complex Numbers (2 of 6: Solving Harder Complex Numbers Questions) [Student Requested Problem]
+    kJYpls2HD1k    |    Complex Numbers (3 of 6: Harder Complex Numbers Question) [Student Requested Problem]
+    PlPHonhJMW8    |    Complex Numbers (4 of 6: Harder Complex Numbers Questions) [Student Requested Problem]
+    fzTBIrO16VM    |    Complex Numbers (5 of 6: Complex Numbers Proofs [Using the Conjugate])
+    0KHp96ipmEc    |    Complex Numbers (6 of 6: Finishing off the Proof)
+    9JDPLc902E0    |    2016 HSC - Complex Numbers on Unit Circle (1 of 2: Considering Re & Im Parts)
+    pjY2EOgy_CA    |    2016 HSC - Complex Numbers on Unit Circle (2 of 2: Evaluating the arguments)
+    DTy7XJFB93Q    |    2016 HSC - Complex Identity Proof (1 of 3: Convert to polar form)
+    E7WrfQvnMJI    |    2016 HSC - Complex Identity Proof (2 of 3: Using binomial theorem)
+    VtH6QyP1vuY    |    2016 HSC - Complex Identity Proof (3 of 3: Combining results)
+    e3YNDyeiSiY    |    Complex Numbers Question (Finding the greatest value of |z| if |z-4/z|=2)
+    i3ZcRqEW4Aw    |    Polynomials w/ Complex Roots (interesting exam question)
+    IJRRFQ70INw    |    Interesting Complex Polynomial Question (1 of 2: Factorisation)
+    ypvJJPTxZjY    |    Interesting Complex Polynomial Question (2 of 2: Trigonometric Result)
+    -500F5Afmyk    |    Exam Problem: Cubic Polynomial w/ 1 Real Root
+    N_3upZZTIk0    |    Complex Conjugate Root Theorem (1 of 2: Using the Conjugate Root Theorem to solve Polynomials)
+    qE8Gqd62lII    |    Complex Conjugate Root Theorem (2 of 2: Alternatively solving with Long Division)
+    McDdEw_Fb5E    |    Beautiful Visual Explanation of Completing the Square
+    FSHD-npd9Bo    |    Intro to Extension 2 Polynomials (1 of 3: Topic Overview)
+    g6BzckDblH0    |    Intro to Extension 2 Polynomials (2 of 3: Example Questions)
+    PQmcaM6kZUg    |    Intro to Extension 2 Polynomials (3 of 3: More Example Questions)
+    SY5o4z0Gfco    |    Multiplicity of Roots (1 of 2: Noticing patterns with derivative of multiple root polynomials)
+    C2J7FGtegKM    |    Multiplicity of Roots (2 of 2: Solving problems by taking advantage of root multiplicity)
+    -jhljJacnhw    |    Polynomial Identities (Using Polynomial Identities to solve higher degree polynomials)
+    AJesXEL30Nc    |    Roots and Coefficients (1 of 3: Using DMT & Binomial Theorem to find identities)
+    zhMYRwbm1YQ    |    Roots and Coefficients (2 of 3: Using Trigonometry to solve polynomial problems)
+    Y8oWI84bcP4    |    Roots and Coefficients (3 of 3: Using the results to find a relation in cosine)
+    n7Cipk431A0    |    Harder Roots and Coefficients (1 of 2: Modifying roots to find patterns with Viete's Results)
+    hnEAo_Jlv4Q    |    Harder Roots and Coefficients (2 of 2: Finding the new Polynomial with different roots)
+    c_TLpgJoyVo    |    Solutions of (1+i)z² - z - i = 0
+
+"Algebra 0.8.5 : diff ReCap"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyjVx_b1N4b9YICf91K6-CZ]
+    7fJeIzy6FRU    |    Prologue to Calculus (5 of 5: Gradient of the tangent)
+    CkSUqSyOZFM    |    What are Limits? (2 of 3: A More Rigorous Definition)
+    2ECStfe0Q9A    |    What are Limits? (3 of 3: One Strategy for Evaluating Limits)
+    tt2DGYOi3hc    |    Introduction to Calculus (1 of 2: Seeing the big picture)
+    U_gpNS8bsLc    |    Introducing Calculus of Exponential Functions (3 of 6: Using the uniqueness of e)
+    8qatxhYCTew    |    Introducing Calculus of Exponential Functions (4 of 6: Simple chain rule examples)
+    QacL2jxK1as    |    Introducing Calculus of Exponential Functions (5 of 6: Common mistakes with notation)
+    gmD-jPt6zoE    |    f(x) = x²(x-1) (3 of 4: Differentiation)
+    SNg4t5a7VOc    |    Differentiating Logarithmic Functions (4 of 4: Further examples)
+    fi0A7vbfH8k    |    Summary of Exponential, Logarithmic & Trigonometric Derivatives
+    cm4_V5hopcE    |    Limits & Continuity (2 of 3: Limits that exists when functions don't)
+    JIrztCAHooM    |    Graphing with Calculus (1 of 2: Quartic function)
+    q6voSfL80j0    |    Graphing with Calculus (2 of 2: Rational function that crosses asymptote)
+    4SOGAQUdeYI    |    Differentiating a^(cos x)
+    OkkBQR9hlA8    |    Differentiating Exponential Functions (First Principles)
+    9iR3FyWywac    |    Differentiating Exponential Functions (Computer Aided)
+    qnr0YQJrzgw    |    Differentiating Exponential Functions: e
+    9YNJJy5vYGo    |    Differentiating Logarithmic Functions
+    IKIbX-3WrUk    |    Differentiating Logarithmic Functions (Examples)
+    dHkiqaX9mPA    |    Finding the equation of a normal at a given point
+
+"Proofs 0.7.1"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyn6lHBRD5LGs-zFSJNhPTz]
+    E5S6iWlDO-I    |    Introduction to the Nature of Proof (1 of 3: Prologue)
+    ogM2Zd5MHhQ    |    Introduction to the Nature of Proof (2 of 3: Building blocks)
+    Za-9g1BwJYY    |    Introduction to the Nature of Proof (3 of 3: Liars & truth-tellers)
+    hFULZsBQiqQ    |    Foundations of Proof (1 of 2: Statements, implications, negations)
+    tVF8n6cBlzo    |    Foundations of Proof (2 of 2: Equivalence & quantifiers)
+    oZlWZtJdL5A    |    Negating Compound Statements (1 of 2: Reviewing the basics)
+    qFX9iVIZOgM    |    Negating Compound Statements (2 of 2: And, Or, Quantifiers)
+    UpYVEIe1orA    |    Aussie STEM Stars (interview with author Rebecca Lim)
+    L49rrLkhvKU    |    Implications & Contrapositives (1 of 2: How do they relate?)
+    HqnEi2ybKjk    |    Implications & Contrapositives (2 of 2: Further examples)
+    U9W6xIGWdvw    |    Proof by Contraposition
+    2x97gB48uro    |    Proof by Contradiction: log₂5 is irrational
+    UMKGJZsNgMU    |    Irrational Logarithm Proof (1 of 2: By cases)
+    3BoQgq5rVXg    |    Irrational Logarithm Proof (2 of 2: By graphing)
+    zsfAj97FLDk    |    Proving a Converse Statement (1 of 3: Investigating original proposition)
+    soUhf7TfEz8    |    Proving a Converse Statement (2 of 3: Considering the contrapositive)
+    rKmsIiJJ57E    |    Proving a Converse Statement (3 of 3: Using the inverse)
+    niX0LH-dTWI    |    Proof - Odd composite numbers (1 of 3: Setup)
+    BCk_o_31dvk    |    Proof - Odd composite numbers (2 of 3: Understanding the negation)
+    FuPXTtVvZUg    |    Proof - Odd composite numbers (3 of 3: By contradiction)
+    YPC7XebmH6o    |    Proving Algebraic Inequalities (1 of 3: Introductory principles)
+    zRLxs35qpJc    |    Proving Algebraic Inequalities (2 of 3: Using the sign)
+    9cfftKHghxk    |    Proving Algebraic Inequalities (3 of 3: Further strategies)
+    c5whgIDEs-I    |    Proof: √3 + √2 is irrational
+    d_lHOiFZeWE    |    Proof: Mersenne primes
+    -KPuk4POzsI    |    Divisibility Proof (1 of 2: Sum of 7 consecutive integers)
+    uBktegyihQg    |    Divisibility Proof (2 of 2: Using algebraic expansion)
+
+"Proofs 0.7.2 : Induction"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyyAK5DIUEwLunWU6LanNqZ]
+    -KPuk4POzsI    |    Divisibility Proof (1 of 2: Sum of 7 consecutive integers)
+    uBktegyihQg    |    Divisibility Proof (2 of 2: Using algebraic expansion)
+    skDz6ichD4Y    |    Introduction to Mathematical Induction (1 of 2: Two Different kinds of Logic)
+    kQrzXi6c3k0    |    Introduction to Mathematical Induction (2 of 2: A straightforward example proof)
+    IdTaA6iz3Mo    |    Introduction to Mathematical Induction
+    x0rgqQtufOM    |    Induction: Series & Algebraic Identities (1 of 4)
+    d5KPyd5RJB8    |    Induction: Series & Algebraic Identities (2 of 4)
+    9r7rUboypnc    |    Induction: Series & Algebraic Identities (3 of 4)
+    NcyK1p4IQHk    |    Induction: Series & Algebraic Identities (4 of 4)
+    jqv_VmQqRdY    |    Mathematical Induction Divisibility Proof (1 of 3: What is inductive logic?)
+    62qg9XUgbbU    |    Mathematical Induction Divisibility Proof (2 of 3: Test and assumption)
+    LsZ5AtZzki8    |    Mathematical Induction Divisibility Proof (3 of 3: Proving the k+1 case)
+    MthNLtZdFQ0    |    Induction: Divisibility Proofs (1 of 2)
+    cHjYuV7HVo0    |    Induction: Divisibility Proofs (2 of 2)
+    G4ufVZlRpFA    |    Induction: Divisibility Proof example 1 (n³ + 3n² + 2n is divisible by 6)
+    eYy_rXKJDtk    |    Induction: Divisibility Proof example 3 (4^n - 1 is divisible by 3)
+    EfOwlOAb00U    |    Induction: Divisibility Proof example 4 (x^n - 1 is divisible by x-1)
+    hkTPddqetU8    |    Mathematical Induction - Proving Divisibility by 4 (1 of 2: Test and assumption)
+    aG9gE6pjqAI    |    Mathematical Induction - Proving Divisibility by 4 (2 of 2: How to use the assumption)
+    gb2lDrQWpBo    |    Prove that (3n+1)7^n - 1 is divisible by 9 (Mathematical Induction)
+    gCi-rXWJSlU    |    Mathematics Extension 1 Exam Review (2 of 3: Induction)
+    skPtGrJG6tU    |    Mathematical Induction: Polynomial Divisibility Proof
+    5nilsaCdTfE    |    Proof: a³ - a is always divisible by 6 (1 of 2: Two different approaches)
+    P-jn2SKD9O4    |    Proof: a³ - a is always divisible by 6 (2 of 2: Proof by exhaustion)
+    oZwQkEDv3v0    |    Mathematical Induction (HSC Study Guide 2016)
+    NiypWOh1ry0    |    Mathematical Induction - Base case above 1 (1 of 3: Introduction)
+    8diusPEKt0A    |    Mathematical Induction - Base case above 1 (2 of 3: Completing the proof)
+    y1gA0V_AJKc    |    Mathematical Induction - Base case above 1 (3 of 3: Additional method)
+    Lt5PenfXfgM    |    Mathematical Induction (increments greater than 1)
+    miXrDwrjna4    |    Mathematical Induction Proof - Odd Integers (1 of 2: How to exclude even integers)
+    GZknN3HK0Kg    |    Mathematical Induction Proof - Odd Integers (2 of 2: Proving the k+1 case)
+    AF7YcN9EJHI    |    How many subsets in a set? (1 of 2: Induction proof)
+    DOSuCY-xeHw    |    How many subsets in a set? (2 of 2: Combinatorial proof)
+    S2PHu00eoDc    |    Recursive Formulas by Induction (1 of 4: What is a recursive formula?)
+    BYpcqC54BbY    |    Recursive Formulas by Induction (2 of 4: Proving an explicit formula)
+    b0y-5z3YL-A    |    Recursive Formulas by Induction (3 of 4: Hypothesising an explicit formula)
+    SujXxObaT5g    |    Recursive Formulas by Induction (4 of 4: Example HSC question)
+    7ZSThqfVqEY    |    Evaluating a Series Formed from 2 GPs
+    eV6eHEc7vBw    |    Composite Series
+    MO8YYxP_do4    |    Induction with Sigma Notation (1 of 4: Basic example)
+    DJ1AlibmUIE    |    Why are the prime rows in Pascal's Triangle so special?
+    DXdoP0L-kbk    |    Induction with Sigma Notation (2 of 4: Binomial Theorem - setting up proof)
+    1qiGpIq_dJw    |    Induction with Sigma Notation (3 of 4: Binomial Theorem - completing proof)
+    6_5wU6OrmhA    |    Induction with Sigma Notation (4 of 4: Binomial Theorem - Pascal's Identity)
+
+"Proofs 0.7.3 : Recursion"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwgavJYAVe_SsBQGqx0-lav]
+    iqpeZXAqFrw    |    Induction - Recursive Formulas (1 of 2: Basic example)
+    MydYLcwhlrY    |    Induction - Recursive Formulas (2 of 2: Sum of an arithmetic progression)
+    dyu4Whe8n14    |    Induction Inequality Proofs (1 of 4: Unusual properties of inequalities)
+    29cvbnFF9Fc    |    Induction Inequality Proofs (2 of 4: Considering one side of the inequality)
+    rjWzffHenQs    |    Induction Inequality Proofs (3 of 4: Introducing & transforming the inequality)
+    2fELELRslxA    |    Induction Inequality Proofs (4 of 4: Beginning with the assumption)
+    YCACr0e1Rsc    |    Mathematical Induction - Inequalities (1 of 4: General pointers)
+    Z9yQUWZuMBA    |    Mathematical Induction - Inequalities (2 of 4: Rearranging the k+1 case)
+    7KK7IT32qrU    |    Mathematical Induction - Inequalities (3 of 4: Starting with the assumption)
+    RHBu3CXn95I    |    Mathematical Induction - Inequalities (4 of 4: Manipulating the inductive hypothesis)
+    Bsox3yAmuhY    |    Inequality Proof - Fraction Sum (1 of 3: Algebraic approach)
+    l-B8ropA-gY    |    Inequality Proof - Fraction Sum (2 of 3: Graphical representation)
+    7aUtcLExfw4    |    Inequality Proof - Fraction Sum (3 of 3: Applying calculus)
+    yY1ph2SLu1o    |    Second Order Recurrence Formula (1 of 3: Prologue - considering the old course)
+    TyfKW37wi9s    |    Second Order Recurrence Formula (2 of 3: An unusual test & assumption)
+    4RCIVruIxDY    |    Second Order Recurrence Formula (3 of 3: Proving k+2 case)
+    EOJPku2tQYs    |    Unusual Induction Inequality Proof (1 of 3: Base case)
+    WkjzGht5lvg    |    Unusual Induction Inequality Proof (2 of 3: Working from the assumption)
+    ad1OD4DJLYo    |    Unusual Induction Inequality Proof (3 of 3: By exhaustion)
+    DI5sSlvnNnY    |    Proof by Mathematical Induction (1 of 2: Getting a statement to prove for n=k+1)
+    xzaYjR4LRms    |    Proof by Mathematical Induction (2 of 2: Using expression that is more restrictive to prove n=k+1)
+    PVhekYrR7r8    |    Inequality proof: average of squares vs. square of average
+    MX0AmbhoVd0    |    Grid Painting Question (1 of 2: Establishing a base case)
+    cH5xgj0ryl4    |    Grid Painting Question (2 of 2: Generalising the result)
+    84n5ccjJS3c    |    Induction: Factorial Identity
+    fG-_Efm9ckM    |    Induction: Fibonacci Sequence
+    7VLSjyUa2aA    |    Induction: Inequality Proofs
+    4nQjj6QpoPQ    |    Induction: Derivative Proof
+    fmorbp05sUY    |    Induction: Geometry Proof (Angle Sum of a Polygon)
+    0fyJmOhuBq0    |    Induction: Diagonals in a Convex Polygon
+    RO5s-XfitI0    |    Geometric Progression: Glass & Light Intensity
+    6zCJNRMJe4I    |    Limiting Sum of a GP
+
+"Proofs 0.7.3 : Recursion"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwgavJYAVe_SsBQGqx0-lav]
+    iqpeZXAqFrw    |    Induction - Recursive Formulas (1 of 2: Basic example)
+    MydYLcwhlrY    |    Induction - Recursive Formulas (2 of 2: Sum of an arithmetic progression)
+    dyu4Whe8n14    |    Induction Inequality Proofs (1 of 4: Unusual properties of inequalities)
+    29cvbnFF9Fc    |    Induction Inequality Proofs (2 of 4: Considering one side of the inequality)
+    rjWzffHenQs    |    Induction Inequality Proofs (3 of 4: Introducing & transforming the inequality)
+    2fELELRslxA    |    Induction Inequality Proofs (4 of 4: Beginning with the assumption)
+    YCACr0e1Rsc    |    Mathematical Induction - Inequalities (1 of 4: General pointers)
+    Z9yQUWZuMBA    |    Mathematical Induction - Inequalities (2 of 4: Rearranging the k+1 case)
+    7KK7IT32qrU    |    Mathematical Induction - Inequalities (3 of 4: Starting with the assumption)
+    RHBu3CXn95I    |    Mathematical Induction - Inequalities (4 of 4: Manipulating the inductive hypothesis)
+    Bsox3yAmuhY    |    Inequality Proof - Fraction Sum (1 of 3: Algebraic approach)
+    l-B8ropA-gY    |    Inequality Proof - Fraction Sum (2 of 3: Graphical representation)
+    7aUtcLExfw4    |    Inequality Proof - Fraction Sum (3 of 3: Applying calculus)
+    yY1ph2SLu1o    |    Second Order Recurrence Formula (1 of 3: Prologue - considering the old course)
+    TyfKW37wi9s    |    Second Order Recurrence Formula (2 of 3: An unusual test & assumption)
+    4RCIVruIxDY    |    Second Order Recurrence Formula (3 of 3: Proving k+2 case)
+    EOJPku2tQYs    |    Unusual Induction Inequality Proof (1 of 3: Base case)
+    WkjzGht5lvg    |    Unusual Induction Inequality Proof (2 of 3: Working from the assumption)
+    ad1OD4DJLYo    |    Unusual Induction Inequality Proof (3 of 3: By exhaustion)
+    DI5sSlvnNnY    |    Proof by Mathematical Induction (1 of 2: Getting a statement to prove for n=k+1)
+    xzaYjR4LRms    |    Proof by Mathematical Induction (2 of 2: Using expression that is more restrictive to prove n=k+1)
+    PVhekYrR7r8    |    Inequality proof: average of squares vs. square of average
+    MX0AmbhoVd0    |    Grid Painting Question (1 of 2: Establishing a base case)
+    cH5xgj0ryl4    |    Grid Painting Question (2 of 2: Generalising the result)
+    84n5ccjJS3c    |    Induction: Factorial Identity
+    fG-_Efm9ckM    |    Induction: Fibonacci Sequence
+    7VLSjyUa2aA    |    Induction: Inequality Proofs
+    4nQjj6QpoPQ    |    Induction: Derivative Proof
+    fmorbp05sUY    |    Induction: Geometry Proof (Angle Sum of a Polygon)
+    0fyJmOhuBq0    |    Induction: Diagonals in a Convex Polygon
+    RO5s-XfitI0    |    Geometric Progression: Glass & Light Intensity
+    6zCJNRMJe4I    |    Limiting Sum of a GP
+
+"Proofs 0.7.5 : Vectors"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMw4JEd-5m-QQqR4-SfXeWAv]
+    6D_zkEVnFgU    |    3D Coordinate System (1 of 2: Introduction)
+    SSb7pgymRU0    |    3D Coordinate System (2 of 2: Distance formula)
+    bTLWHKkwMYM    |    Extending 2D Vectors (1 of 2: Notation & example)
+    yirWzuONPS4    |    Extending 2D Vectors (2 of 2: Between two points)
+    uQDO9UyA3Cc    |    Ratio Division with Vectors (1 of 2: Internal)
+    Pdif8N9Bk2M    |    Ratio Division with Vectors (2 of 2: External)
+    iN32mgKm0pU    |    Vector Proof: "Unspecial" Quadrilaterals & Parallelograms
+    i3NdDvtmv80    |    3D Dot Product (1 of 3: Foundational ideas)
+    PYaOSGDY1No    |    3D Dot Product (2 of 3: Deriving the formula for component form)
+    CyXSZLElPpY    |    3D Dot Product (3 of 3: Application to perpendicular vectors)
+    l1ync-7UdX0    |    Applications of Dot Products (1 of 2: Angles between vectors)
+    ETXCx-wpBXY    |    Applications of Dot Products (2 of 2: Projections)
+    5Wdf5il1yvY    |    Resolving Vectors with Projections (1 of 2: Relation to perpendicular distance)
+    6lgVaCKXXKE    |    Resolving Vectors with Projections (2 of 2: Worked example)
+    RaCLbeKUTes    |    Vector Equation of a Line (1 of 2: Lines in 3 dimensions)
+    w-rIh0pH05o    |    Vector Equation of a Line (2 of 2: Worked example)
+    l9oDh05mCgE    |    Applying Vector Equations of Lines (1 of 2: Verifying points on a line)
+    -Sr0D46CFr8    |    Applying Vector Equations of Lines (2 of 2: Intercepts & points of intersection)
+    L6v1vwbe3Hs    |    Vector Equations of Curves (1 of 3: Circle - basic & shifted)
+    yr_L4bMmVyo    |    Vector Equations of Curves (2 of 3: Midpoint of a chord)
+    4VsASNgD0QY    |    Vector Equations of Curves (3 of 3: Traversing a circle)
+    lJeueKVUlqc    |    Vector Equations of Spheres (1 of 2: Tangential spheres)
+    2F9A_qmYn6g    |    Vector Equations of Spheres (2 of 2: Circle of intersection)
+    ULZBt9dKr0M    |    3D Vectors Questions (1 of 2: Tetrahedron)
+    47ZOqNhDKI8    |    3D Vectors Questions (2 of 2: Parallelogram pyramid)
+    cKiZJ-Z9tas    |    Where do a line & sphere intersect? (Exam Question 3 of 10)
+    yszKxnwuFL0    |    Finding vector equation of a 3D line (Exam Question 6 of 10)
+    si5JBnEqXxs    |    Parallelogram in three dimensions (Exam Question 8 of 10)
+    UqpY07EiwCU    |    Dot Product (1 of 2: Geometric interpretation)
+    09iri7KgvyU    |    Dot Product (2 of 2: Extending into 3D)
+    3KbI2o7cO7o    |    Dot Product & Angles (2 of 3: Measuring between vectors)
+    VtaGhAe_25E    |    Dot Product & Angles (1 of 3: Foundational ideas)
+    rTJjngILAcs    |    Dot Product & Angles (3 of 3: Orthogonal vectors)
+    2llkh4-IPWM    |    Understanding Vector Projections (1 of 3: Deriving the simplest formula)
+    cc4zLc7nQO8    |    Understanding Vector Projections (2 of 3: Alternative formulas + worked example)
+    fvC6JSeu1QQ    |    Understanding Vector Projections (3 of 3: Exploring applications)
+    ohdhGQMioGk    |    Lines in Three Dimensions (1 of 3: How to extend from 2D)
+    Wfbftnj2-Z0    |    Lines in Three Dimensions (2 of 3: Generalising the pattern)
+    8P5RqnWR_2E    |    Lines in Three Dimensions (3 of 3: Finding an intersection point)
+    j7p-rL5M2rE    |    3D Line Problems (1 of 3: Equation between two points)
+    krZmbAspzwo    |    3D Line Problems (2 of 3: Showing orthogonality)
+    8X_gs3Bn0O4    |    3D Line Problems (3 of 3: Meeting at right angles)
+    2Vyx6PjR3u4    |    Introduction to Spheres (1 of 3: General equations)
+    ZcNPhaXXaeU    |    Introduction to Spheres (2 of 3: Creating simultaneous equations to solve)
+    bMI7yU3_vxY    |    Introduction to Spheres (3 of 3: Determining points of intersection)
+    5G4tpBh2EPI    |    Cartesian & Vector Equations (1 of 3: Circle equation)
+    tf44wnbxack    |    Cartesian & Vector Equations (2 of 3: Line equation)
+    jcRD4ZZjWc0    |    Cartesian & Vector Equations (3 of 3: Solving vector equations)
+    FDvnEVOqdAw    |    Vector Geometry Proofs (1 of 3: An unexpected quadrilateral property)
+    Kt5cycDPUoc    |    Vector Geometry Proofs (2 of 3: Angle in a semicircle)
+    BmBblzC3B-Q    |    Vector Geometry Proofs (3 of 3: Using deductive vector logic)
+    ioISr8G8-oY    |    Circumcentre of a Triangle (1 of 2: Finding the bisector vector)
+    mekgMZUBKMI    |    Circumcentre of a Triangle (2 of 2: Proving orthogonality)
+
+"2.40 Proofs 6: Geo I"     [https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwJH5FBkQ7D7wZDmrrS1u7q]
+    Ewy-qZbZ1UA    |    Concurrence of Medians (2 of 2: Proof via coordinate geometry)
+    L7mfmg0VAU0    |    Concurrence of Medians (1 of 2: Proof via similar triangles)
+

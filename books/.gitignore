@@ -1,0 +1,5 @@
+# Ignore all folders
+*/
+
+*.pdf
+# Right now, PDFs are gonna keep changing.... Every Commit, Github is gonna store an entirely different new PDF....

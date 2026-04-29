@@ -1,5 +1,9 @@
 https://misterwootube.com/2020/03/18/lesson-videos/
 
+## Prep
+- Everyday 15minutes maths at least
+- Everyday 15minutes blender at least
+
 ## Sorted by Time
 ```cpp
 2013 [1]                        https://www.youtube.com/watch?v=034s8VX1nek&list=PLyQ7uIPMuZMzae1D9Xb_y5wKXAtnmVFxf
@@ -74,39 +78,46 @@ https://misterwootube.com/2020/03/18/lesson-videos/
 
 ## Sorted by Topic [REYNEP]
 ```cpp
-Graphs 2 [Trig]                 https://www.youtube.com/watch?v=tt2DGYOi3hc&list=PLyQ7uIPMuZMwtYCVO0WIC7HqOHBhu-URO
-Trig P3                         https://www.youtube.com/watch?v=iy8ktMFF7KU&list=PLyQ7uIPMuZMwBEhUQ-JusCGM8-J36F11r
 
-diff    [p1]                    https://www.youtube.com/watch?v=NRSmIE5MMBQ&list=PLyQ7uIPMuZMwJGiVTMjDbVwJbxAqcfAii
-diff    [p2]                    https://www.youtube.com/watch?v=leigGc1-fAA&list=PLyQ7uIPMuZMwvrbH2iKyEZoXqNggRk5lD
-diff    [p3.1]                  https://www.youtube.com/watch?v=flGUyDD_NWw&list=PLyQ7uIPMuZMx5F-H7ZCxs8Be14MUrpxbJ
-diff    [p3.2]                  https://www.youtube.com/watch?v=OGpp9-kSTqk&list=PLyQ7uIPMuZMx3G6XdAJqBXh1Yc4kvLO7q
-integ   [p1.1]                  https://www.youtube.com/watch?v=boxEwXwYay8&list=PLyQ7uIPMuZMxC4PR--9p_MqIi5N9Plqnp
-integ   [p1.2]                  https://www.youtube.com/watch?v=8kooIgKESYE&list=PLyQ7uIPMuZMzKXhD1hK1SFfjKlxTyV5cz
-integ   [p2]                    https://www.youtube.com/watch?v=Ek40XtVsO7g&list=PLyQ7uIPMuZMyTDHDpzZibCmq6yHxyhAA8
-integ   [p3]                    https://www.youtube.com/watch?v=SNW6fcE_pec&list=PLyQ7uIPMuZMxU8jJmfCXr74ZboMDDXXSV
 
-diff    [p4]                    https://www.youtube.com/watch?v=1BMO80jha3U&list=PLyQ7uIPMuZMzsu83lNmVdG3CIIGC9Ckth
-calc    [p4] [InverseTrig]      https://www.youtube.com/watch?v=Rsq0pM6xYFU&list=PLyQ7uIPMuZMzhtADU9Trssh66FpuO7ApI
-integ   [p4]                    https://www.youtube.com/watch?v=Ek40XtVsO7g&list=PLyQ7uIPMuZMy2OD-lFnpLG1MwoLfWlcFq
 
-integ   [p5.1]                  https://www.youtube.com/watch?v=dBdRWG5Uau4&list=PLyQ7uIPMuZMy1bL1ifYvFnAlEZwCXyL-x
-integ   [p5.2]                  https://www.youtube.com/watch?v=KlT4Dfvdx7I&list=PLyQ7uIPMuZMww69KCGiXWlsf1g7GIfmM2s
-diff    [p5] [Applications]     https://www.youtube.com/watch?v=VvC_1alFins&list=PLyQ7uIPMuZMwgFnzpYy4qQ41hztztodXA
-diff    [p7] [Series+calcGreen] https://www.youtube.com/watch?v=mtU2tE6c5-I&list=PLyQ7uIPMuZMyaXTx7tG_fpy5x8Tlv2Jik
-diff    [p8] [ReCap+InvTrig]    https://www.youtube.com/watch?v=QzmoCkrJ2wE&list=PLyQ7uIPMuZMwpcOQ-dNxRB4iKjTQV9dx8
+diff    [p1]                    https://www.youtube.com/watch?v=NRSmIE5MMBQ&list=PLyQ7uIPMuZMwJGiVTMjDbVwJbxAqcfAii ☑️
+diff    [p2]                    https://www.youtube.com/watch?v=leigGc1-fAA&list=PLyQ7uIPMuZMwvrbH2iKyEZoXqNggRk5lD ☑️
+diff    [p3.1]                  https://www.youtube.com/watch?v=flGUyDD_NWw&list=PLyQ7uIPMuZMx5F-H7ZCxs8Be14MUrpxbJ ☑️
+integ   [p1.1]                  https://www.youtube.com/watch?v=boxEwXwYay8&list=PLyQ7uIPMuZMxC4PR--9p_MqIi5N9Plqnp ☑️
+integ   [p1.2]                  https://www.youtube.com/watch?v=8kooIgKESYE&list=PLyQ7uIPMuZMzKXhD1hK1SFfjKlxTyV5cz ☑️
 
-calc    [p10] [ComplexNums]     https://www.youtube.com/watch?v=WmItSgQDWEs&list=PLyQ7uIPMuZMxGSW3T_k119CBj-_IWFpXs
-calc    [p11] revise            https://www.youtube.com/watch?v=7fJeIzy6FRU&list=PLyQ7uIPMuZMzOLa4gMKheH2nEYE779hIu
 
-Proof 1                         https://www.youtube.com/watch?v=E5S6iWlDO-I&list=PLyQ7uIPMuZMzXU3ogbGlDAzN-ccInMbRX
-Proof 2                         https://www.youtube.com/watch?v=Pf3tRx9iT5M&list=PLyQ7uIPMuZMzbfodO9qANFMT8wOYXawHQ
+diff    [p4]                    https://www.youtube.com/watch?v=1BMO80jha3U&list=PLyQ7uIPMuZMzsu83lNmVdG3CIIGC9Ckth ☑️
+diff    [p6] [ComplexNums]      https://www.youtube.com/watch?v=jA8JnlP_O6g&list=PLyQ7uIPMuZMxwA9jb2YeLKA9fsMXa9F26 ☑️
+integ   [p2] [InverseTrig]      https://www.youtube.com/watch?v=Ek40XtVsO7g&list=PLyQ7uIPMuZMyTDHDpzZibCmq6yHxyhAA8 ☑️
+integ   [p3]                    https://www.youtube.com/watch?v=SNW6fcE_pec&list=PLyQ7uIPMuZMxU8jJmfCXr74ZboMDDXXSV ☑️
+integ   [p4]                    https://www.youtube.com/watch?v=Ek40XtVsO7g&list=PLyQ7uIPMuZMy2OD-lFnpLG1MwoLfWlcFq ☑️
+integ   [p5.1]                  https://www.youtube.com/watch?v=dBdRWG5Uau4&list=PLyQ7uIPMuZMy1bL1ifYvFnAlEZwCXyL-x ☑️
+diff    [p5] [Applications]     https://www.youtube.com/watch?v=VvC_1alFins&list=PLyQ7uIPMuZMwgFnzpYy4qQ41hztztodXA ☑️
+diff    [p8] [ReCap+InvTrig]    https://www.youtube.com/watch?v=QzmoCkrJ2wE&list=PLyQ7uIPMuZMwpcOQ-dNxRB4iKjTQV9dx8 ☑️
+
+Proof 1                         https://www.youtube.com/watch?v=E5S6iWlDO-I&list=PLyQ7uIPMuZMzXU3ogbGlDAzN-ccInMbRX ☑️
+calc    [p10] [ComplexNums]     https://www.youtube.com/watch?v=WmItSgQDWEs&list=PLyQ7uIPMuZMxGSW3T_k119CBj-_IWFpXs ☑️
+calc    [p11] revise            https://www.youtube.com/watch?v=7fJeIzy6FRU&list=PLyQ7uIPMuZMzOLa4gMKheH2nEYE779hIu ☑️
+Proof 2                         https://www.youtube.com/watch?v=Pf3tRx9iT5M&list=PLyQ7uIPMuZMzbfodO9qANFMT8wOYXawHQ 
 Pascal (Binomial Theorem)       https://www.youtube.com/watch?v=31mGhAFObzM&list=PLyQ7uIPMuZMzyDcq3UgQjEehhbJuUFFQn
 Combi + Probability 1           https://www.youtube.com/watch?v=dzHXJzI--7Q&list=PLyQ7uIPMuZMxzhGjI0K9A3NAxWXooGXGy
 Combi + Probability 2           https://www.youtube.com/watch?v=EJJ2v2255GY&list=PLyQ7uIPMuZMyx9JbxK1yBeZtwDSxpDd6B
 
-Lines & Circles                 https://www.youtube.com/watch?v=BywWffdXTsM&list=PLyQ7uIPMuZMyZtVkWJY3AoExaDt97sQAT
-TMP2                            https://www.youtube.com/watch?v=1BMO80jha3U&list=PLyQ7uIPMuZMxQF5Fxdsi5aRSN4K5xnnxD
+
+
+
+diff    [p3.2]                  https://www.youtube.com/watch?v=OGpp9-kSTqk&list=PLyQ7uIPMuZMx3G6XdAJqBXh1Yc4kvLO7q ⏳
+integ   [p5.2]                  https://www.youtube.com/watch?v=KlT4Dfvdx7I&list=PLyQ7uIPMuZMww69KCGiXWlsf1g7GIfmM2 ⏳
+calc    [p4] [InverseTrig]      https://www.youtube.com/watch?v=Rsq0pM6xYFU&list=PLyQ7uIPMuZMzhtADU9Trssh66FpuO7ApI ⏳
+diff    [p7] [Series+calcGreen] https://www.youtube.com/watch?v=mtU2tE6c5-I&list=PLyQ7uIPMuZMyaXTx7tG_fpy5x8Tlv2Jik ⏳
+3b1b Essense Of Calculus        https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+
+Graphs 2 [Trig]                 https://www.youtube.com/watch?v=tt2DGYOi3hc&list=PLyQ7uIPMuZMwtYCVO0WIC7HqOHBhu-URO ❓
+Trig P3                         https://www.youtube.com/watch?v=iy8ktMFF7KU&list=PLyQ7uIPMuZMwBEhUQ-JusCGM8-J36F11r ❓
+TMP2                            https://www.youtube.com/watch?v=1BMO80jha3U&list=PLyQ7uIPMuZMxQF5Fxdsi5aRSN4K5xnnxD ❓
+Lines & Circles [Conics]        https://www.youtube.com/watch?v=BywWffdXTsM&list=PLyQ7uIPMuZMyZtVkWJY3AoExaDt97sQAT ❓
 ```
 
 
@@ -121,130 +132,130 @@ TMP2                            https://www.youtube.com/watch?v=1BMO80jha3U&list
 
 Stage 4 Mathematics (Years 7 & 8)
     Number & Algebra
-        | Computation with Integers                          | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CyhzaViGUSFc164691gd0G |
-        | Fractions, Decimals and Percentages                | https://www.youtube.com/playlist?list=PL5KkMZvBpo5A3lQJK26JqkPC2HZPOb3-W |
-        | Basic Financial Mathematics                        | https://www.youtube.com/playlist?list=PL5KkMZvBpo5D4-Axux8PcJmZXB0Yv2gi1 |
-        | Basic Ratios & Rates                               | https://www.youtube.com/playlist?list=PL5KkMZvBpo5A3EpPzrcebR5Y8q8K25hTl |
-        | Basic Algebraic Techniques                         | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BTbgTCHTkwxUqfvg6MvNuJ |
-        | Basic Indices                                      | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CWmVgY_VVRmh_r_MJgE1uo |
-        | Basic Equations                                    | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DMdiBiiGeTIkaht6MBhhnC |
-        | Basic Linear Relationships                         | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BGNGW5eVKndzk4BCdJE6kP |
+        | Computation with Integers                          | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CyhzaViGUSFc164691gd0G | ☑️
+        | Fractions, Decimals and Percentages                | https://www.youtube.com/playlist?list=PL5KkMZvBpo5A3lQJK26JqkPC2HZPOb3-W | ☑️
+        | Basic Financial Mathematics                        | https://www.youtube.com/playlist?list=PL5KkMZvBpo5D4-Axux8PcJmZXB0Yv2gi1 | ☑️
+        | Basic Ratios & Rates                               | https://www.youtube.com/playlist?list=PL5KkMZvBpo5A3EpPzrcebR5Y8q8K25hTl | ☑️
+        | Basic Algebraic Techniques                         | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BTbgTCHTkwxUqfvg6MvNuJ | ☑️
+        | Basic Indices                                      | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CWmVgY_VVRmh_r_MJgE1uo | ☑️
+        | Basic Equations                                    | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DMdiBiiGeTIkaht6MBhhnC | ☑️
+        | Basic Linear Relationships                         | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BGNGW5eVKndzk4BCdJE6kP | ☑️
 
     Measurement & Geometry
-        | Measuring Basic Shapes                             | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DtydLCjMby6JhKZmh-cbvh |
-        | Time                                               | https://www.youtube.com/playlist?list=PL5KkMZvBpo5Ccr-Cl1tAPn6tOMAHhurwi |
-        | Pythagoras’ Theorem                                | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BnA2BgYm_AIGaYVVZsnMqT |
-        | Basic Properties of Geometrical Figures            | https://www.youtube.com/playlist?list=PL5KkMZvBpo5AtD-gkOyQMtLjR2TPMrJkQ |
-        | Angle Relationships                                | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BsHgRlFWPKoKVN-0JlVcgo |
-        |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5B_kldyScGw4aaUrO5go26V |
+        | Measuring Basic Shapes                             | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DtydLCjMby6JhKZmh-cbvh | ☑️
+        | Time                                               | https://www.youtube.com/playlist?list=PL5KkMZvBpo5Ccr-Cl1tAPn6tOMAHhurwi | ❓
+        | Pythagoras’ Theorem                                | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BnA2BgYm_AIGaYVVZsnMqT | ☑️
+        | Basic Properties of Geometrical Figures            | https://www.youtube.com/playlist?list=PL5KkMZvBpo5AtD-gkOyQMtLjR2TPMrJkQ | ☑️
+        | Angle Relationships                                | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BsHgRlFWPKoKVN-0JlVcgo | ☑️
+        |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5B_kldyScGw4aaUrO5go26V | ☑️
 
     Statistics & Probability
-        | Data Collection & Representation                   | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BNIYXZYEYT6H4Xiwkbt3hi |
-        | Basic Single Variable Analysis                     | https://www.youtube.com/playlist?list=PL5KkMZvBpo5D5BS80FWHE_mH6ZTtGU3iQ |
-        | Basic Probability                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5ANrjJ0EEMzvxVKmnPNVYvf |
+        | Data Collection & Representation                   | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BNIYXZYEYT6H4Xiwkbt3hi | ⏳ [stats]
+        | Basic Single Variable Analysis                     | https://www.youtube.com/playlist?list=PL5KkMZvBpo5D5BS80FWHE_mH6ZTtGU3iQ | ⏳ [stats]
+        | Basic Probability                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5ANrjJ0EEMzvxVKmnPNVYvf | ☑️ [combi]
 
 Stage 5 Mathematics (Years 9 & 10)
     Number & Algebra
-        | Further Financial Mathematics                      | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DO7n6yl1wcWPar5BCCnrOI |
-        | Further Ratios and Rates                           | https://www.youtube.com/playlist?list=PL5KkMZvBpo5B6qu4q2C3_YPJVs1P-dBPg |
-        | Further Algebraic Techniques                       | https://www.youtube.com/playlist?list=PL5KkMZvBpo5ATGZobbZgt78rXma1cidQB |
-        | Further Indices                                    | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BMrygdJYxqIZ0aZwihKu0e |
-        | Further Equations                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BflvNTYTtJski5eASSVFVt |
-        |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DAVGjbAnG6kytWHUkLhTfy |
-        | Further Linear Relationships                       | https://www.youtube.com/playlist?list=PL5KkMZvBpo5Dao4OjSGe8msbPBQ0y74Lr |
-        |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5AzWOflo8QwqC-6t_Kl8dWa |
-        | Non-Linear Relationships                           | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BXoGnG2t04s2GerwgCYNyY |
-        | Polynomials                                        | https://www.youtube.com/playlist?list=PL5KkMZvBpo5B0MakQQyX_k9_iFM6dYivZ |
-        | Logarithms                                         | https://www.youtube.com/playlist?list=PL5KkMZvBpo5D2djP07pTNWY3QnBqEASKf |
-        | Functions & Other Graphs                           | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CGGxg3mH3nMpPnuEzW-jXh |
+        | Further Financial Mathematics                      | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DO7n6yl1wcWPar5BCCnrOI | ⏳  [stats]
+        | Further Ratios and Rates                           | https://www.youtube.com/playlist?list=PL5KkMZvBpo5B6qu4q2C3_YPJVs1P-dBPg | ☑️
+        | Further Algebraic Techniques                       | https://www.youtube.com/playlist?list=PL5KkMZvBpo5ATGZobbZgt78rXma1cidQB | ☑️
+        | Further Indices                                    | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BMrygdJYxqIZ0aZwihKu0e | ☑️
+        | Further Equations                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BflvNTYTtJski5eASSVFVt | ☑️
+        |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DAVGjbAnG6kytWHUkLhTfy | ☑️
+        | Further Linear Relationships                       | https://www.youtube.com/playlist?list=PL5KkMZvBpo5Dao4OjSGe8msbPBQ0y74Lr | ☑️
+        |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5AzWOflo8QwqC-6t_Kl8dWa | ☑️
+        | Non-Linear Relationships                           | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BXoGnG2t04s2GerwgCYNyY | ☑️ [conics]
+        | Polynomials                                        | https://www.youtube.com/playlist?list=PL5KkMZvBpo5B0MakQQyX_k9_iFM6dYivZ | ☑️
+        | Logarithms                                         | https://www.youtube.com/playlist?list=PL5KkMZvBpo5D2djP07pTNWY3QnBqEASKf | ☑️
+        | Functions & Other Graphs                           | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CGGxg3mH3nMpPnuEzW-jXh | ☑️
 
     Measurement & Geometry
-        | Measuring Further Shapes                           | https://www.youtube.com/playlist?list=PL5KkMZvBpo5ChPLYGWyvKVv3am4rWZek4 |
-        | Numbers of Any Magnitude                           | https://www.youtube.com/playlist?list=PL5KkMZvBpo5AhF8EmkRJoef-kyVsUSCHs |
-        | Trigonometry                                       | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DdtHcMLtodrdN7nr79GJIJ |
-        | Further Properties of Geometrical Figures          | https://www.youtube.com/playlist?list=PL5KkMZvBpo5B1WTc4rBI3Jk_QM954sK8w |
-        |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CahmnWE1QfpV_OyvFZcTwG |
-        | Circle Geometry                                    | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DXqr9QWQKZbtR33tDlqn4Z |
+        | Measuring Further Shapes                           | https://www.youtube.com/playlist?list=PL5KkMZvBpo5ChPLYGWyvKVv3am4rWZek4 | ☑️
+        | Numbers of Any Magnitude                           | https://www.youtube.com/playlist?list=PL5KkMZvBpo5AhF8EmkRJoef-kyVsUSCHs | ☑️
+        | Trigonometry                                       | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DdtHcMLtodrdN7nr79GJIJ | ☑️
+        | Further Properties of Geometrical Figures          | https://www.youtube.com/playlist?list=PL5KkMZvBpo5B1WTc4rBI3Jk_QM954sK8w | ☑️ [proofs]
+        |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CahmnWE1QfpV_OyvFZcTwG | ☑️ [proofs]
+        | Circle Geometry                                    | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DXqr9QWQKZbtR33tDlqn4Z | ☑️ [proofs]
     
     Statistics & Probability
-        | Further Single Variable Analysis                   | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CSUxSvs43zRNTdCUvZrKr7 |
-        | Bivariate Analysis                                 | https://www.youtube.com/playlist?list=PL5KkMZvBpo5C3Qgid37hT1aINQU7xbJ_1 |
-        | Further Probability                                | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CpoYPRi8Z-iCzBf5Ivyy4Y |
-        |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5A7nsgXClyJTRLnqzryTL15 |
+        | Further Single Variable Analysis                   | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CSUxSvs43zRNTdCUvZrKr7 | ⏳ [stats]
+        | Bivariate Analysis                                 | https://www.youtube.com/playlist?list=PL5KkMZvBpo5C3Qgid37hT1aINQU7xbJ_1 | ⏳ [stats]
+        | Further Probability                                | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CpoYPRi8Z-iCzBf5Ivyy4Y | ⏳ [combi]
+        |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5A7nsgXClyJTRLnqzryTL15 | ⏳ [combi]
 
 Mathematics Standard 2
     Year 11
-        | MS-A1 | Formulae and Equations                                | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CY8DSdiAolbz62xmHw-crk |
-        | MS-A2 | Linear Relationships                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5ByNdXGsYTh6lKyOEgQLcWh |
-        | MS-M1 | Applications of Measurement (and related content)     | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BMXQ6etFDb9AVZ7aSvAIhw |
-        | MS-M1 |   related content                                     | https://www.youtube.com/playlist?list=PL5KkMZvBpo5D1To3HQ3pNMMb8YGrJ1KX7 |
-        | MS-M2 | Working with Time                                     | https://www.youtube.com/playlist?list=PL5KkMZvBpo5D4iI0541nAXCzUeQyP-AV7 |
-        | MS-F1 | Money Matters                                         | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DNhWt7Dmo4vEG-Z-5yCW5s |
-        | MS-S1 | Data Analysis (and related content)                   | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DMPTef2EnihsjTNiokCN2- |
-        | MS-S1 |   related content                                     | https://www.youtube.com/playlist?list=PL5KkMZvBpo5D2Ws451TVi1R3rRXGnWhgH |
-        | MS-S2 | Relative Frequency and Probability                    | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DWE0dV0104Abot_3gD2aQ5 |
+        | MS-A1 | Formulae and Equations                             | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CY8DSdiAolbz62xmHw-crk | ☑️
+        | MS-A2 | Linear Relationships                               | https://www.youtube.com/playlist?list=PL5KkMZvBpo5ByNdXGsYTh6lKyOEgQLcWh | ☑️
+        | MS-M1 | Applications of Measurement (and related content)  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BMXQ6etFDb9AVZ7aSvAIhw |
+        | MS-M1 |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5D1To3HQ3pNMMb8YGrJ1KX7 |
+        | MS-M2 | Working with Time                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5D4iI0541nAXCzUeQyP-AV7 |
+        | MS-F1 | Money Matters                                      | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DNhWt7Dmo4vEG-Z-5yCW5s |
+        | MS-S1 | Data Analysis (and related content)                | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DMPTef2EnihsjTNiokCN2- |
+        | MS-S1 |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5D2Ws451TVi1R3rRXGnWhgH |
+        | MS-S2 | Relative Frequency and Probability                 | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DWE0dV0104Abot_3gD2aQ5 |
 
     Year 12
-        | MS-A4 | Types of Relationships                                | https://www.youtube.com/playlist?list=PL5KkMZvBpo5AVuT7Z6pTAni52OM26QOyl |
-        | MS-M6 | Non-right-angled Trigonometry                         | https://www.youtube.com/playlist?list=PL5KkMZvBpo5B5FcF3HXrhcVGSdYa8E9mJ |
-        | MS-M7 | Working with Rates and Ratios                         | https://www.youtube.com/playlist?list=PL5KkMZvBpo5AfmTFYO8JBPfAQeIH3xPmo |
-        | MS-F4 | Investments and Loans                                 | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BNEsjWXQUAITzco_eYI-ht |
-        | MS-F5 | Annuities                                             | https://www.youtube.com/playlist?list=PL5KkMZvBpo5Ah57vQ197OTQawfMlkm7yY |
-        | MS-S4 | Bivariate Data Analysis (No Content, check MA-S2)     |                                                                          |
-        | MS-S5 | The Normal Distribution                               | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DXRbmHUrpERI5JzCiS-1t1 |
-        | MS-N2 | Network Concepts                                      | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DHyEf5LCbd8fs_yfIIIk_8 |
-        | MS-N3 | Critical Path Analysis                                | No Content                                                               |
+        | MS-A4 | Types of Relationships                             | https://www.youtube.com/playlist?list=PL5KkMZvBpo5AVuT7Z6pTAni52OM26QOyl | ☑️
+        | MS-M6 | Non-right-angled Trigonometry                      | https://www.youtube.com/playlist?list=PL5KkMZvBpo5B5FcF3HXrhcVGSdYa8E9mJ | ☑️
+        | MS-M7 | Working with Rates and Ratios                      | https://www.youtube.com/playlist?list=PL5KkMZvBpo5AfmTFYO8JBPfAQeIH3xPmo |
+        | MS-F4 | Investments and Loans                              | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BNEsjWXQUAITzco_eYI-ht |
+        | MS-F5 | Annuities                                          | https://www.youtube.com/playlist?list=PL5KkMZvBpo5Ah57vQ197OTQawfMlkm7yY |
+        | MS-S4 | Bivariate Data Analysis (No Content, check MA-S2)  |                                                                          |
+        | MS-S5 | The Normal Distribution                            | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DXRbmHUrpERI5JzCiS-1t1 |
+        | MS-N2 | Network Concepts                                   | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DHyEf5LCbd8fs_yfIIIk_8 |
+        | MS-N3 | Critical Path Analysis                             | No Content                                                               |
 
 Mathematics Advanced
     Year 11
-        | MA-F1 | Working with Functions                                | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CbAukmvHOU7RUoDUDQl4Iw |
-        | MA-F1 |   related content                                     | https://www.youtube.com/playlist?list=PL5KkMZvBpo5Aef-YUwah0RCKdSdDS_TRZ |
-        | MA-T1 | Trigonometry and Measure of Angles                    | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DDsJNijZJqCBALQjOc_X7F |
-        | MA-T2 | Trigonometric Functions and Identities                | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DcuZjxn8n9zkpXQmJCDDDU |
-        | MA-T2 |   related content                                     | https://www.youtube.com/playlist?list=PL5KkMZvBpo5ABToTmfGUxGZFcdrdVNoEZ |
-        | MA-C1 | Introduction to Differentiation                       | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DwIsDKWdHYmkRZmXMi1mE8 |
-        | MA-E1 | Logarithms and Exponentials                           | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DEMR0IcM_r7tT9tgUSZXUf |
-        | MA-E1 |   related content                                     | https://www.youtube.com/playlist?list=PL5KkMZvBpo5Cd-Ah4X-0RDjnOQypvAqm_ |
-        | MA-S1 | Probability and Discrete Probability Distributions    | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BFwSEeNMH5keKPZGNdP0EE |
+        | MA-F1 | Working with Functions                             | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CbAukmvHOU7RUoDUDQl4Iw |
+        | MA-F1 |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5Aef-YUwah0RCKdSdDS_TRZ |
+        | MA-T1 | Trigonometry and Measure of Angles                 | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DDsJNijZJqCBALQjOc_X7F | ☑️
+        | MA-T2 | Trigonometric Functions and Identities             | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DcuZjxn8n9zkpXQmJCDDDU | 
+        | MA-T2 |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5ABToTmfGUxGZFcdrdVNoEZ |
+        | MA-C1 | Introduction to Differentiation                    | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DwIsDKWdHYmkRZmXMi1mE8 |
+        | MA-E1 | Logarithms and Exponentials                        | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DEMR0IcM_r7tT9tgUSZXUf | 1/2
+        | MA-E1 |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5Cd-Ah4X-0RDjnOQypvAqm_ |
+        | MA-S1 | Probability and Discrete Probability Distributions | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BFwSEeNMH5keKPZGNdP0EE |
 
     Year 12
-        | MA-F2 | Graphing Techniques                                   | https://www.youtube.com/playlist?list=PL5KkMZvBpo5C8pu8FETc5eKoIvhDoQnIt |
-        | MA-F2 |   related content                                     | https://www.youtube.com/playlist?list=PL5KkMZvBpo5AZkoqWJlMHjP0wpKDEB9NA |
-        | MA-T3 | Trigonometric Functions and Graphs                    | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DVBsQQXc2vegRC8kCttz_p |
-        | MA-T3 |   related content                                     | https://www.youtube.com/playlist?list=PL5KkMZvBpo5C2Oaejfaf2DdiXyp3U1Jot |
-        | MA-C2 | Differential Calculus                                 | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BfO1Ma7-1NM-CRM9WAou8r |
-        | MA-C2 |   related content                                     | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CpYvLtlBjjWQk_tlSqIaGQ |
-        | MA-C3 | Applications of Differentiation                       | https://www.youtube.com/playlist?list=PL5KkMZvBpo5AIfGURYGmFy6r7dj3RGEu1 |
-        | MA-C3 |   related content                                     | https://www.youtube.com/playlist?list=PL5KkMZvBpo5D-z8hZIqsE3Q9pGlcUv1Xt |
-        | MA-C4 | Integral Calculus                                     | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CHD-vFdY9aLe380GrjBx81 |
-        | MA-C4 |   related content                                     | https://www.youtube.com/playlist?list=PL5KkMZvBpo5AsQgLnRE3bhzT2-E4PyK5_ |
-        | MA-M1 | Modelling Financial Situations                        | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BO0XAC7TI2EjqguA3_KdUT |
-        | MA-M1 |   related content                                     | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DDbb2p39oWTO8JH-Wt_ITm |
-        | MA-S2 | Descriptive Statistics & Bivariate Data Analysis      | https://www.youtube.com/playlist?list=PL5KkMZvBpo5Ak8nKmEetGN0uZfT2e9W4G |
-        | MA-S3 | Random Variables                                      | https://www.youtube.com/playlist?list=PL5KkMZvBpo5C9nhzyacvNtcWHLh3mvXJE |
+        | MA-F2 | Graphing Techniques                                | https://www.youtube.com/playlist?list=PL5KkMZvBpo5C8pu8FETc5eKoIvhDoQnIt |
+        | MA-F2 |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5AZkoqWJlMHjP0wpKDEB9NA |
+        | MA-T3 | Trigonometric Functions and Graphs                 | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DVBsQQXc2vegRC8kCttz_p |
+        | MA-T3 |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5C2Oaejfaf2DdiXyp3U1Jot |
+        | MA-C2 | Differential Calculus                              | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BfO1Ma7-1NM-CRM9WAou8r |
+        | MA-C2 |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CpYvLtlBjjWQk_tlSqIaGQ |
+        | MA-C3 | Applications of Differentiation                    | https://www.youtube.com/playlist?list=PL5KkMZvBpo5AIfGURYGmFy6r7dj3RGEu1 |
+        | MA-C3 |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5D-z8hZIqsE3Q9pGlcUv1Xt |
+        | MA-C4 | Integral Calculus                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CHD-vFdY9aLe380GrjBx81 |
+        | MA-C4 |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5AsQgLnRE3bhzT2-E4PyK5_ |
+        | MA-M1 | Modelling Financial Situations                     | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BO0XAC7TI2EjqguA3_KdUT |
+        | MA-M1 |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DDbb2p39oWTO8JH-Wt_ITm |
+        | MA-S2 | Descriptive Statistics & Bivariate Data Analysis   | https://www.youtube.com/playlist?list=PL5KkMZvBpo5Ak8nKmEetGN0uZfT2e9W4G |
+        | MA-S3 | Random Variables                                   | https://www.youtube.com/playlist?list=PL5KkMZvBpo5C9nhzyacvNtcWHLh3mvXJE |
 
 Mathematics Extension 1
     Year 11
-        | ME-F1 | Further Work with Functions                               | https://www.youtube.com/playlist?list=PL5KkMZvBpo5AcWuW2TeRl-t8qL_lZ2H-s |
-        | ME-F1 |   related content                                         | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BDjSXY-sXQjlFgpqzIoK86 |
-        | ME-F2 | Polynomials                                               | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BTLPdsdJzkLOXUTiJrFbpH |
-        | ME-F2 |   related content                                         | https://www.youtube.com/playlist?list=PL5KkMZvBpo5AOV15pmefpIr4e_JfjKqDx |
-        | ME-T1 | Inverse Trigonometric Functions                           | https://www.youtube.com/playlist?list=PL5KkMZvBpo5ADb33mmHXwlvRaHoGLwc7- |
-        | ME-T1 |   related content                                         | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DXmYZRtFlXHaxPx4GsKGBx |
-        | ME-T2 | Further Trigonometric Identities                          | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BJVn5T6AkBTphtEa1xWrSx |
-        | ME-T2 |   related content                                         | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CwnhJSZX4A6YJpYvHhRAT1 |
-        | ME-C1 | Rates of Change                                           | https://www.youtube.com/playlist?list=PL5KkMZvBpo5Dsi60VtJ6u2ll6I4QrGmFC |
-        | ME-A1 | Working with Combinatorics                                | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BoekiiL-6NzgRFo4JFnz7k |
+        | ME-F1 | Further Work with Functions                        | https://www.youtube.com/playlist?list=PL5KkMZvBpo5AcWuW2TeRl-t8qL_lZ2H-s |
+        | ME-F1 |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BDjSXY-sXQjlFgpqzIoK86 |
+        | ME-F2 | Polynomials                                        | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BTLPdsdJzkLOXUTiJrFbpH |
+        | ME-F2 |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5AOV15pmefpIr4e_JfjKqDx |
+        | ME-T1 | Inverse Trigonometric Functions                    | https://www.youtube.com/playlist?list=PL5KkMZvBpo5ADb33mmHXwlvRaHoGLwc7- |
+        | ME-T1 |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DXmYZRtFlXHaxPx4GsKGBx |
+        | ME-T2 | Further Trigonometric Identities                   | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BJVn5T6AkBTphtEa1xWrSx |
+        | ME-T2 |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CwnhJSZX4A6YJpYvHhRAT1 |
+        | ME-C1 | Rates of Change                                    | https://www.youtube.com/playlist?list=PL5KkMZvBpo5Dsi60VtJ6u2ll6I4QrGmFC |
+        | ME-A1 | Working with Combinatorics                         | https://www.youtube.com/playlist?list=PL5KkMZvBpo5BoekiiL-6NzgRFo4JFnz7k |
 
     Year 12
-        | ME-P1 | Introduction to Proof by Mathematical Induction           | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CnkA4bi7l6W62VPoYRbOEk |
-        | ME-V1 | Introduction to Vectors                                   | https://www.youtube.com/playlist?list=PL5KkMZvBpo5A5esZvyw2QGj0NNNnBf8TR |
-        | ME-V1 | (comprehensive lessons by Miriam Lees)                    | https://www.youtube.com/playlist?list=PLZJc0KZ84sbwuBKvolmD_zDb8t-o1mMm3 |
-        | ME-T3 | Trigonometric Equations                                   | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CZI8xy_0VCrcdma2ZPGup1 |
-        | ME-C2 | Further Calculus Skills                                   | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CXcD5HLf8qRtt8h7ggelVq |
-        | ME-C3 | Applications of Calculus                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5D6oNmraS0ZtnkLCKciBhTg |
-        | ME-C3 |   related content                                         | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DFSxBQ5sEVJqw35a8sIOLx |
-        | ME-S1 | The Binomial Distribution                                 | https://www.youtube.com/playlist?list=PL5KkMZvBpo5Bcz-V51UHtlg_eBW-PtQ7_ |
+        | ME-P1 | Introduction to Proof by Mathematical Induction    | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CnkA4bi7l6W62VPoYRbOEk |
+        | ME-V1 | Introduction to Vectors                            | https://www.youtube.com/playlist?list=PL5KkMZvBpo5A5esZvyw2QGj0NNNnBf8TR |
+        | ME-V1 | (comprehensive lessons by Miriam Lees)             | https://www.youtube.com/playlist?list=PLZJc0KZ84sbwuBKvolmD_zDb8t-o1mMm3 |
+        | ME-T3 | Trigonometric Equations                            | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CZI8xy_0VCrcdma2ZPGup1 |
+        | ME-C2 | Further Calculus Skills                            | https://www.youtube.com/playlist?list=PL5KkMZvBpo5CXcD5HLf8qRtt8h7ggelVq |
+        | ME-C3 | Applications of Calculus                           | https://www.youtube.com/playlist?list=PL5KkMZvBpo5D6oNmraS0ZtnkLCKciBhTg |
+        | ME-C3 |   related content                                  | https://www.youtube.com/playlist?list=PL5KkMZvBpo5DFSxBQ5sEVJqw35a8sIOLx |
+        | ME-S1 | The Binomial Distribution                          | https://www.youtube.com/playlist?list=PL5KkMZvBpo5Bcz-V51UHtlg_eBW-PtQ7_ |
 
 Mathematics Extension 2
     Year 12
@@ -257,4 +268,111 @@ Mathematics Extension 2
         | MEX-C1 | related content                            | https://www.youtube.com/playlist?list=PL5KkMZvBpo5A9etIG43O9SmVklFQZ-zdZ |
         | MEX-M1 | Applications of Calculus to Mechanics      | https://www.youtube.com/playlist?list=PL5KkMZvBpo5ByiBtqCQLcSZtT3_c1NQu0 |
         | MEX-M1 | related content                            | https://www.youtube.com/playlist?list=PL5KkMZvBpo5AKu_EpJYjWG00w-KXH_xSE |
+```
+
+
+
+
+
+
+
+
+## REYSort V1 (2026, March 18)
+```java
+0.0 =  [Academic] Elementry School      [<Grade 5]
+0.1 =  [Academic] Middle    School      [<Grade 8]
+0.2 =  [Academic] Middle    School      [<Grade 8] Graphs
+0.3 =  [Academic] Junior High School    [<Grade 10]
+0.4 =  [Academic] Junior High School    [<Grade 10] Finals
+```
+```cpp
+[0.00 - Kids 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMzx4FjhocMyRlBKV62U4-3k)
+[0.01 - Kids 2](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxqYsaM7FdKU55GjPh6WwF-)
+[0.11 - Algebra Intro 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMy5tIQvH2I1HmBRz_1KIiAg)
+[0.12 - Algebra Intro 2: Index Laws + Surds](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMy5tIQvH2I1HmBRz_1KIiAg)
+[0.13 - Geometry Intro 1: Area, Pi + Pythagorus](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwmI9GJjxY9bCMicbyV7clF)
+[0.14 - Geometry Intro 2: Congruency, Angles](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMy95GeHU5ypD9EWXJQOYUr1)
+
+[0.20 - Algebra is Graphs 1: The Slope](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwyrW7H54kpBbv0L-6tN-q3)
+[0.21 - Algebra is Graphs 1: Solving](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxjquBnR7MX1nRTYFIyQ2fX)
+[0.22 - Algebra is Graphs 2: Slope II](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxiNfWmisznfY2xwsJxNZY9)
+[0.23 - Algebra is Graphs 2: x², x³, 1/x, eˣ](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxiNfWmisznfY2xwsJxNZY9)
+
+[0.31 - geo.trig 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxdkNnYUSUOKfrwNO0xDxos)
+[0.32 - algebra: ax+by+c](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyCA1Ds0nJsRGMQhp4cwFh1)
+[0.33 - algebra: ax²+bx+c=0](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMx8rG0_B8edMlT3eSxm4cEd)
+[0.34 - algebra: Logs](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxQvQEd7gzt_mDScURVibdu)
+[0.35 - geo.trig 2: Radians](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxHSvk0DOWyfu91wlaFTwr8)
+[0.36 - geo.trig 3: SineRule, CoSineRule](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMz7WSZtX1QGPtoz3wmSAf7H)
+
+
+
+
+
+[1.00 - algebra.Diff 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwJGiVTMjDbVwJbxAqcfAii)
+
+[1.10 - algebra.Graphs 3.1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxYznz6VsfDRKVKA9Agzkx1)
+[1.11 - algebra.Graphs 3.2](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyNPltB3GymKySnsAfMYUS1)
+[1.12 - algebra.Diff 2](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMzgYml8JvxRDS_7z_ggybw_)
+[1.13 - algebra.Diff 3](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxjiKpG2PYsMn2ryZ-4lJ13)
+[1.14 - algebra.Graphs 4](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyhRmehfgcS35BhjE1Ppag5)
+[1.15 - algebra.Graphs 5](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxhN4AumcQoQfJWy52j8WGv)
+
+
+
+[1.16 - geo.cartesian 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMw1FqwmvpXDLLtbrDn8ZxBo)
+[1.17 - algebra.Grade 09](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMzbgLRFhXEWRq_veFIPkIaz)
+[1.18 - algebra.Grade 10](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxiOH_S_1nSXNXkP_H69flZ)
+[1.18 - geo.Grade 10](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxsa1iFQ1u65-razrc5c8oC)
+[1.19 - geo.Grade 11](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMy9yUkJ6ilQSfugEfaf9v9-)
+[1.19 - BadQuality NotReq.](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyXbghHrX2WFXaLWG1D2JBg)
+[1.19 - algebra.Grade 11]()
+[1.19 - Fun Stuffs](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxi8EjwQkXlleknnBqAu2-y)
+[1.23 - algebra: inequalities & abs()](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMz407L5onwcHxAfsykjQQUl)
+[1.24 - geo.conics 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMz407L5onwcHxAfsykjQQUl)
+[1.25 - geo.cartesian 2](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxCsbI0BoAuykQKkEeyl3Lf)
+[1.26 - probability 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxGiLuU-Djtt6CPhhFYITjI)
+[algebra 0.6](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyjT8diiMerbJfqbLDSKHjM)
+
+
+
+[1.20 - algebra.Diff 4: Apply Diff ➡️ Limits](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMznOaR-LBtsDXMwu-XdhQ9I)
+[1.21 - algebra.Integ 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwANfTsOoO4vj1F8BaDRxpp)
+[1.22 - algebra.Integ 2](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyogEn_k6BrNHUYBFmFVlFp)
+
+[1.30 - geo.trig 4: Inverse Trig](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyPkWt_JqdfLBVSozWaTeWR)
+
+[1.41 - algebra.Complex 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMz5xeiVlksVHQMjiUpqsOGm)
+[1.42 - algebra.Complex 2](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwKRvTkbhG2yQS6LCXcpIFx)
+[1.43 - algebra.Integ 3: Substitution](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMx_KSOeJvvNgvAZbw7TDMba)
+[1.44 - algebra.Integ 4: by parts](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwjwLmTnwSmUVwQqzzM39aB)
+[1.45 - geo.trig 5: General Forms](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMy5nr1A3BWm18vPF2s7k4jq)
+
+[1.50 - algebra.Diff 5: apps 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwl-hGCKBdBLpkPv5TcCFyp)
+[1.51 - algebra.Prob 1]
+[1.52 - algebra.Prob 2]
+[1.53 - algebra.Integ 5: apps 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxwm47KDw9tXEsI1c5oW1Xt)
+[1.54 - algebra.Integ 6: practice](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwmqejluDIPvc8dpj1tRNYp)
+[1.55 - algebra.Diff 6: apps 2](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwZGTPupRQTqn3gst8d7UzJ)
+
+[1.60 - algebra.Diff 7: invTrig](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwrQsreaVtNmV515-g7M78d)
+
+[1.71 - algebra.Complex 3](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxniNF-SFnah-4t53RJsGZx)
+[1.72 - algebra.Complex 4](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMywbIyJyEVtZ6KuxDMjI0Lr)
+[1.73 - algebra.Complex 5: DMT + Trig](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMxiqb0Q3S78mGDNIt4nlv_O)
+[1.74 - algebra.Complex 6: ReCap](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyKAli8Jn5oV5H1ulvzZvSq)
+
+[1.81 - algebra.Diff ReCap](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyjVx_b1N4b9YICf91K6-CZ)
+[1.82 - algebra.Integ ReCap]
+
+
+
+
+[2.00 Proofs 1: Intro](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyn6lHBRD5LGs-zFSJNhPTz)
+[2.10 Proofs 2: Induction](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyyAK5DIUEwLunWU6LanNqZ)
+[2.11 Proofs 3: Recursion](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwgavJYAVe_SsBQGqx0-lav)
+[2.20 Proofs 4: Inequality](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwgavJYAVe_SsBQGqx0-lav)
+[2.30 Proofs 5: Vectors](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMw4JEd-5m-QQqR4-SfXeWAv)
+[2.40 Proofs 6: Geo 1](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMwJH5FBkQ7D7wZDmrrS1u7q)
+[2.41 Proofs 7: Geo 2](https://www.youtube.com/playlist?list=PLyQ7uIPMuZMyGc52Av7P9EJXdeQOYS0Mi)
 ```
